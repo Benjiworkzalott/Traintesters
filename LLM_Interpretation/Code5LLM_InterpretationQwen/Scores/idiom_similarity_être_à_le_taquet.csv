@@ -1,0 +1,23 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+être à le taquet,0,mes parents sont au taquet,i've got a scholarship interview in a day carter,my parents are on the ball,Literal Translation,0.5757257,0.8338908,-0.25816512
+être à le taquet,1,mon dieu tout le monde est au taquet aujourd'hui,my goodness everyone's on their game today,god everyone is on their best behavior today,Good Translation,0.8334949,0.78067046,0.052824438
+être à le taquet,2,hier soir j'ai rencontré une artiste de selfie sexy et je suis au taquet parce que je vais peut-être la baiser,last night i met this sexy young selfie artist and i'm psyched because maybe i'm gonna fuck her brains out laughs,Last night I met a sexy selfie-taking artist and I'm on edge because I might maybe sleep with her,Partial Translation,0.84546375,0.8750189,-0.029555142
+être à le taquet,3,mes gars sont au taquet,my guys prevailed,my guys are locked in,Literal Translation,0.7676755,0.8187386,-0.05106306
+être à le taquet,4,je suis au taquet,i'm on fire,I am on budget,Mistranslation,0.69705844,0.6722821,0.02477634
+être à le taquet,5,hale est au taquet,hale's on red alert,hale is in cuffs,Mistranslation,0.76005864,0.81971306,-0.059654415
+être à le taquet,6,- je suis au taquet,i get excited,I am on budget,Mistranslation,0.71464944,0.6922963,0.022353113
+être à le taquet,7,ils sont au taquet,- they lovin' that shit,they are on tight,Unnatural,0.6514964,0.8528764,-0.20138001
+être à le taquet,8,- il est au taquet boulon,- boulon's giving it his all,-it is bolted down,Literal Translation,0.79095316,0.71523464,0.07571852
+être à le taquet,9,mec tu es au taquet pour l'équipe,bro you are ready for football,man you're on lockout for the team,Literal Translation,0.6859455,0.7802508,-0.09430528
+être à le taquet,10,d'accord je suis au taquet crois-moi dès demain matin,all righti'm all over ittrust mefirst thing tomorrow morning,okay I'm on point believe me as soon as tomorrow morning,Good Translation,0.7594068,0.7968512,-0.037444413
+être à le taquet,11,demain on va être au taquet je veux une équipe au parlement et des éditions spéciales,try to find out who's busy in the morning we must have the castle fully staffed from now on and we need an extra broadcast,Tomorrow we're going to be serious; I want a team in parliament and special editions.,Unnatural,0.5815748,0.8911214,-0.3095466
+être à le taquet,12,les autres compagnies sont au taquet,the other companies have bumped into high gear,other companies are on edge,Literal Translation,0.8495389,0.8401997,0.009339213
+être à le taquet,13,tu es au taquet templeton,way to keep your eyes on the prize templeton,you are in the doghouse Templeton,Mistranslation,0.68344086,0.71682525,-0.033384383
+être à le taquet,14,je suis au taquet mec,ah man i'm so pumped,I'm on it man,Partial Translation,0.639578,0.7085292,-0.06895119
+être à le taquet,15,- il est au taquet hein,yeah busy guy right,"- he is on point, right",Good Translation,0.71253145,0.79503524,-0.082503796
+être à le taquet,16,- en attendant les bagnoles brûlent les flics sont au taquet,yeah meanwhile cars are burning the cops are on edge my reporters are all duds,"- while waiting for the cars, the cops are on high alert",Good Translation,0.75610054,0.8030267,-0.04692614
+être à le taquet,17,on est au taquet,we're all over it,we are on time,Mistranslation,0.673375,0.7198087,-0.046433687
+être à le taquet,18,il est au taquet,he's ready to go,he is on tight leash,Literal Translation,0.77113146,0.7561418,0.014989674
+être à le taquet,19,je suis au taquet,- i'm ready,I am on budget,Mistranslation,0.68539023,0.6722821,0.013108134
+être à le taquet,20,les norvégiens sont au taquet sur le recyclage,i didn't know you norskies were so good at waste management,Norwegians are serious about recycling,Good Translation,0.6754326,0.88691914,-0.21148652
+être à le taquet,21,vous êtes au taquet,you're wound too tight,you are on it,Partial Translation,0.62999654,0.8187677,-0.18877119

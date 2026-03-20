@@ -1,0 +1,85 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+avoir le pêche,0,soudain t'as la pêche,now all of a sudden you're fired up,Sudden you're on a roll,Unnatural,0.7564404,0.76217544,-0.0057350397
+avoir le pêche,1,les rockets ont la pêche,these rockets are movin' today,The rockets have a great time,Unnatural,0.7862954,0.8466591,-0.06036371
+avoir le pêche,2,super d'entendre que t'as la pêche à nouveau,glad to hear you're in high spirits again,It's awesome to hear that you're on a roll again.,Unnatural,0.8277924,0.8452341,-0.01744169
+avoir le pêche,3,ils ont la pêche,old people still know how to boogie,They're in luck.,Mistranslation,0.58727014,0.77967656,-0.19240642
+avoir le pêche,4,on peut pas dire que j'avais la pêche,things weren't exactly happening for me,You can't say I was in good shape.,Good Translation,0.63579327,0.7295915,-0.09379822
+avoir le pêche,5,il semblait avoir la pêche,just like a shining apple,he seemed to be in his element,Good Translation,0.5908786,0.8149909,-0.22411227
+avoir le pêche,6,- j'ai la pêche,- i'm just peachy,- I'm in a good mood,Good Translation,0.6545193,0.69712657,-0.042607248
+avoir le pêche,7,- il a la pêche,it was peachy,- He's on a fishing trip,Literal Translation,0.5785225,0.8613379,-0.2828154
+avoir le pêche,8,pour un type de 50 ans il avait la pêche,for a 50-year-old he had a lot of energy,For a fifty-year-old it was quite something to catch one.,Mistranslation,0.75244844,0.78499407,-0.032545626
+avoir le pêche,9,sur la photo elle a la pêche,and she looks so alive in the photo,She's looking good on the photo.,Good Translation,0.7732744,0.80426115,-0.030986726
+avoir le pêche,10,elle est cool elle a la pêche et vous aime beaucoup,she's fun and she likes you a lot,"She's cool, she's on top and you like her a lot.",Literal Translation,0.85419995,0.8216271,0.032572865
+avoir le pêche,11,car votre copine helen a la pêche,'cause your girl helen is doin' quite well,because your girlfriend Helen is fishing,Literal Translation,0.72619766,0.8399297,-0.11373204
+avoir le pêche,12,elle a la pêche,is she a firecracker or what,She's got it going on.,Good Translation,0.6355329,0.8041575,-0.16862458
+avoir le pêche,13,eve ne serait pas bonne a la pêche,eve would not be good at fishing,Evening would not be good for fishing.,Partial Translation,0.93782663,0.7062154,0.23161125
+avoir le pêche,14,en fait j'ai la pêche,hell i'm great,I'm feeling lucky.,Mistranslation,0.57076985,0.66572326,-0.09495342
+avoir le pêche,15,- éric il a la pêche non,eric looks great these days,- Eric hasn't caught any.,Mistranslation,0.6024937,0.6801974,-0.077703714
+avoir le pêche,16,t'as la pêche on dirait,good to see you looking so happy,"You're in luck today, one might say.",Mistranslation,0.53273827,0.6247958,-0.092057526
+avoir le pêche,17,comment ils font pour avoir la pêche le matin,i don't know how those two manage to be so perky in the morning,how do they manage to have a catch in the morning,Literal Translation,0.63544095,0.8859235,-0.25048256
+avoir le pêche,18,bon avant qu'on ne te batte je sais que tu avais la pêche,all right before they beat you i know you had it in you okay,good before they knock you up I know you were on top form,Good Translation,0.7778505,0.7546273,0.023223221
+avoir le pêche,19,- j'ai la pêche aujourd'hui,- i'm kind of on fire today,- I'm in a good mood today,Good Translation,0.74930996,0.7441089,0.0052010417
+avoir le pêche,20,parfois je suis déprimée parfois j'ai la pêche,sometimes i'm down sometimes i'm up,Sometimes I'm depressed sometimes I feel lucky,Unnatural,0.7308497,0.80312586,-0.072276175
+avoir le pêche,21,- je sais mais j'ai la pêche,but my arm's not even tired yet,- I know but I'm on a roll.,Good Translation,0.5733109,0.75888354,-0.18557262
+avoir le pêche,22,il a la pêche,he's peachy,He's got game.,Mistranslation,0.7064174,0.7293614,-0.022944033
+avoir le pêche,23,on a la pêche la chasse et de superbes couchers de soleil,we have fishing hunting and a charming view of the sunsets,"we have fishing, hunting and superb sunsets",Partial Translation,0.8711629,0.8756306,-0.0044677258
+avoir le pêche,24,et j'ai la pêche,and i feel great,and I'm in a good mood,Good Translation,0.6265298,0.683476,-0.05694616
+avoir le pêche,25,ils ne sont pas beaucoup mais ils ont la pêche,hey look small crowd but they're very very lively,They're not many but they have class.,Mistranslation,0.73827505,0.8314104,-0.09313536
+avoir le pêche,26,c'est mon argent il est à vous maintenant si on les met dans le coffre-fort et que lundi quand vous aurez la pêche,yeah well so what,It's my money now it's yours if we put them in a safe deposit box and Monday when you'll be lucky,Mistranslation,0.450435,0.8014285,-0.35099348
+avoir le pêche,27,trouve un nom qui te plaît un nom qui ait la pêche,think about some name that makes you happy or something with a little pizzazz,find a name that you like a name that has charm,Good Translation,0.7531673,0.816187,-0.06301975
+avoir le pêche,28,je sais pas elle a la pêche,everything's peachy,"She's on fire / She's amazing / (idiomatic expression meaning ""she's doing extremely well"")",Good Translation,0.525828,0.51007235,0.015755653
+avoir le pêche,29,dis donc t'as la pêche,hey you look good man you look good,You're on fire today!,Good Translation,0.5871607,0.54730725,0.039853454
+avoir le pêche,30,oui nous avions la pêche la force du désir,sure we were feeling great had the strength of desire,Yes we had the fishing for the strength of desire,Literal Translation,0.77445984,0.91016597,-0.13570613
+avoir le pêche,31,- j'ai la pêche,- i feel great,I'm feeling lucky.,Mistranslation,0.64305705,0.64074934,0.002307713
+avoir le pêche,32,j'ai la pêche mec,i'm not tired at all,I'm feeling lucky dude.,Mistranslation,0.520164,0.6321957,-0.1120317
+avoir le pêche,33,j'ai la pêche aujourd'hui ma chérie,i'm feeling very frisky today my love,I'm in a great mood today my love.,Good Translation,0.70117277,0.701287,-0.0001142025
+avoir le pêche,34,il a la pêche,he has a strong punch,He's in luck,Mistranslation,0.7067516,0.7433662,-0.036614597
+avoir le pêche,35,- oui il a la pêche,he's great,- yes he's got some (peaches),Good Translation,0.69190216,0.75803244,-0.06613028
+avoir le pêche,36,ouah marcy t'as la pêche,wow marcy you seem peppy,"Wah Marcia you're on a roll (informal and somewhat profane) 
+Note: The original sentence uses ""ouah"" which is not standard French but an informal or colloquial way of expressing surprise or excitement.",Partial Translation,0.7258577,0.48564076,0.24021691
+avoir le pêche,37,il ne doit plus avoir la pêche,he probably doesn't have it anymore,he should no longer have fishing rights,Mistranslation,0.7482655,0.8975388,-0.14927328
+avoir le pêche,38,j'ai la pêche à mort,good as hell,I'm feeling fantastic.,Good Translation,0.5331694,0.5338969,-0.0007275343
+avoir le pêche,39,- j'ai la pêche - moi aussi,we should sleep in the camper every night,- I'm in a good mood - me too,Literal Translation,0.37464327,0.7548071,-0.38016385
+avoir le pêche,40,il a la pêche ce soir,thanks yeah the kid looked pretty hot tonight huh yeah,he has luck tonight,Mistranslation,0.5837632,0.7901136,-0.20635045
+avoir le pêche,41,il avait la pêche mais bof,it had some fire but not much,he was on a roll but nope,Unnatural,0.60370475,0.72183824,-0.118133485
+avoir le pêche,42,t'as pas l'air d'avoir la pêche,you're not looking too good,You don't seem to be on a roll today.,Unnatural,0.73690426,0.7517008,-0.014796555
+avoir le pêche,43,- t'as la pêche,you're looking good though,"You're on a roll (informal way of saying ""you're having fun"") or You're on fire!",Mistranslation,0.5964055,0.44918257,0.14722294
+avoir le pêche,44,tas vu comme je les ai matés j'ai la pêche si billy est là laisse-le-moi,did you see the way i handled those boys,I've seen them get beat up I'm in good spirits if Billy is around let me leave him alone,Good Translation,0.57290006,0.69760066,-0.124700606
+avoir le pêche,45,il a la pêche c'est marrant hein,he's in tiptop shape,"He's so lucky that it's funny, isn't it?",Mistranslation,0.67379344,0.7396432,-0.06584978
+avoir le pêche,46,il n'avait jamais travaillé auparavant et souriait comme quelqu'un qui a la pêche,he'd never worked before and still had a smile just like a shining apple,He had never worked before and smiled like someone who was 'on a roll'.,Good Translation,0.83379185,0.85750645,-0.023714602
+avoir le pêche,47,on a la pêche un pur style,good mood we look amazing,"we've got it just right, we're in fashion",Partial Translation,0.57752985,0.6609482,-0.08341837
+avoir le pêche,48,t'as la pêche pour aller pêcher,is russell ready for his big fishing trip,You're on a roll for going fishing.,Good Translation,0.5979206,0.828865,-0.2309444
+avoir le pêche,49,j'ai la pêche,i'm in the pink,I'm on a roll.,Unnatural,0.64088106,0.63396704,0.0069140196
+avoir le pêche,50,- y a la pêche déjà,you can go fishing,Fishing is already open.,Literal Translation,0.75084794,0.82947755,-0.07862961
+avoir le pêche,51,je vais avoir la pêche,i'll be feeling great,I'm in a good mood.,Unnatural,0.70502794,0.6629437,0.042084217
+avoir le pêche,52,et toi ça va j'ai la pêche,how are you,and you okay I'm on top of the world,Literal Translation,0.5886062,0.6572325,-0.068626344
+avoir le pêche,53,j'ai la pêche,i'll be fantastic,I'm feeling great / I'm in high spirits.,Good Translation,0.58024573,0.5616126,0.018633127
+avoir le pêche,54,- non j'ai la pêche,-no i'm in good shape,- no I'm in luck,Literal Translation,0.6862579,0.7218035,-0.035545588
+avoir le pêche,55,on a la pêche,peachy,We're fishing.,Literal Translation,0.5346183,0.8064033,-0.27178496
+avoir le pêche,56,je sais pas vous mais moi j'ai la pêche,i don't know about you guys but i feel pretty rested uh uh,"I know you're not having a good time but as for me, I'm feeling great.",Mistranslation,0.66153276,0.67548025,-0.013947487
+avoir le pêche,57,les garçons ont la pêche,i see the boys stayed in shape huh,The boys are fishing.,Literal Translation,0.7019878,0.91881156,-0.21682376
+avoir le pêche,58,il se balade en disant j'ai la pêche,he walks around going god i feel great,"He is wandering around saying ""I'm on a roll""",Good Translation,0.7175621,0.80038416,-0.082822084
+avoir le pêche,59,t'as la pêche hein,- you're in great shape,"You're on a roll, huh?",Unnatural,0.6299621,0.62834257,0.0016195178
+avoir le pêche,60,j'ai la pêche comme c'est pas possible,my spirit's high as it can be,I'm feeling great as is not possible,Unnatural,0.6050922,0.7351963,-0.13010406
+avoir le pêche,61,j'ai la pêche,really good,I'm on a roll (or in good form).,Good Translation,0.5357416,0.5925031,-0.056761444
+avoir le pêche,62,- j'ai la pêche on va s'amuser,i'm high right now we'll have a good time,"I'm on a roll, we're going to have fun",Good Translation,0.75524545,0.80651563,-0.051270187
+avoir le pêche,63,t'as l'air d'avoir la pêche,- you seem so excited,You look like you're on a roll.,Unnatural,0.7484851,0.74781656,0.0006685257
+avoir le pêche,64,bien oui moi aussi j'ai la pêche,yeah i'm terrific too,Yes indeed I'm feeling great too,Good Translation,0.6897149,0.7025825,-0.01286757
+avoir le pêche,65,t'es rentré t'as la pêche,looking good huh,You're back? You must be joking!,Mistranslation,0.47085112,0.5995041,-0.12865299
+avoir le pêche,66,tu veux avoir la pêche,you want to feel how i'm feeling,Do you want to have a good time?,Partial Translation,0.60715604,0.6462214,-0.03906536
+avoir le pêche,67,il dit que j'ai la pêche y en a qui font ça par plaisir,he says i'm in great shape i can't believe people do this for fun,He says I'm lucky there are those who do it for pleasure,Partial Translation,0.73717916,0.83092374,-0.093744576
+avoir le pêche,68,tu as la pêche,that's a good line,You're on a roll.,Unnatural,0.53518605,0.5692911,-0.034105062
+avoir le pêche,69,y a qu'à 18 ans qu'on a la pêche après avoir baisé toute la nuit,you got that yeah only an 18-year-old could drink and fuck all night and still look that good,It's only at 18 that you have fun after having made love all night long.,Unnatural,0.6231615,0.7899441,-0.16678262
+avoir le pêche,70,il a la pêche il assure quel talent ii pourrait bien devenir président,he feels good things are going his way,He has the charm he claims to have such talent that he could well become president.,Partial Translation,0.4511831,0.68715835,-0.23597524
+avoir le pêche,71,qui ont la pêche,i want something snappy,who are in a good mood,Literal Translation,0.38256285,0.4796521,-0.09708926
+avoir le pêche,72,j'ai la pêche,peachy,I'm feeling lucky.,Mistranslation,0.51362574,0.62639797,-0.11277223
+avoir le pêche,73,regarde comme on a la pêche,look how psyched we are,Look how we're fishing! or How are we fishing?,Literal Translation,0.6073054,0.76760805,-0.16030264
+avoir le pêche,74,tout le monde a la pêche,don't you feel well,Everyone's having fun.,Partial Translation,0.46361387,0.75439024,-0.29077637
+avoir le pêche,75,et regardez ici nous avons la pêche-du-jour,and look here we've got the catch du jour,and look here we have today's catch,Good Translation,0.8543869,0.81830853,0.036078393
+avoir le pêche,76,j'avais la pêche,damn i was on a roll,I was on fire.,Good Translation,0.67809725,0.6564331,0.021664143
+avoir le pêche,77,ne t'en fais pas j'ai la pêche ce soir tu me suis,don't worry about it i feel good tonight know what i'm saying,"Don't worry about it, I'm on a roll tonight, you're welcome to come along with me.",Partial Translation,0.67659986,0.69345367,-0.01685381
+avoir le pêche,78,on a la pêche,we're all happy,we're going fishing,Literal Translation,0.6094002,0.81669414,-0.20729393
+avoir le pêche,79,tu as la pêche hein,it's quite busy,You're in luck aren't you?,Mistranslation,0.54782414,0.60794616,-0.060122013
+avoir le pêche,80,j'ai la pêche je pourrais soulever le monde,i feel great i feel like i could take on the world,I'm on fire I could lift the world,Good Translation,0.69711596,0.81287396,-0.115758
+avoir le pêche,81,j'ai la pêche de ma vie,well i've never felt better in my life,I'm in a great mood.,Good Translation,0.585078,0.64607257,-0.060994565
+avoir le pêche,82,j'ai la pêche ça marche plus vite que j'imaginais,don't be paranoid i feel great didn't expect the meds to work this quickly,"I've got a good feeling about this, it's working out faster than I expected.",Good Translation,0.62371975,0.79290414,-0.16918439

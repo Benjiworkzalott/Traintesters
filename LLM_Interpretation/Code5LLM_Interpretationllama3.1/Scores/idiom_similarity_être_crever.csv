@@ -1,0 +1,106 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+être crever,0,voilà pourquoi je suis crevée,well that's because i'm tired,That's why I'm exhausted.,Good Translation,0.6355009,0.6671678,-0.031666875
+être crever,1,attention ici le plastique est crevé,at my house i'll make you pasta,Be careful here the plastic is cracked.,Literal Translation,0.4861827,0.8881739,-0.4019912
+être crever,2,tu es crevée après ce voyage,you're tired after all that travelling,You must be exhausted after that trip.,Good Translation,0.7774469,0.786206,-0.008759081
+être crever,3,je suis crevée je vais me coucher,i'm off to bed,I'm exhausted I'm going to bed,Good Translation,0.7159678,0.6878443,0.028123498
+être crever,4,votre pneu est crevé,this tire's got a hole in it,Your tire is punctured.,Good Translation,0.6860623,0.7745973,-0.08853501
+être crever,5,le réveil sonne vous vous êtes levé tôt vous êtes crevé sonné,so you get up in the morning you're exhausted groggy,The alarm rang and you had risen early and were knackered from being woken.,Good Translation,0.7132895,0.8061105,-0.092821
+être crever,6,alors quand je rentre je suis crevé d'accord,so when i get home i'm tired all right,so when I come back I'm exhausted okay,Good Translation,0.75934786,0.7693796,-0.01003176
+être crever,7,je suis crevé j'aimerais dormir,well i'm kind of tired i'd like to go to sleep if i could,I'm exhausted I'd like to sleep,Good Translation,0.7197414,0.72771513,-0.007973731
+être crever,8,vous devez être crevés non,you guys are probably pretty tired right,You must be cracked up!,Good Translation,0.58442354,0.72224355,-0.13782
+être crever,9,il est tard on est crevés,it's late we're tired,It's late we're ruined,Mistranslation,0.8174058,0.8222111,-0.004805267
+être crever,10,écoute je suis crevée je vais prendre une douche et me coucher,listen i'mexhausted and i just wanna take a shower and get into bed,listen I'm exhausted I'm going to take a shower and go to bed,Good Translation,0.7562249,0.79942703,-0.04320216
+être crever,11,je suis crevé je vais me coucher,i'm tired i'm going to bed,I'm exhausted I'm going to bed,Good Translation,0.7149226,0.6923201,0.022602499
+être crever,12,je m'en fous je suis crevé,i don't care i'm exhausted i wanna go home,"I don't care, I'm exhausted.",Partial Translation,0.52555895,0.5774922,-0.05193323
+être crever,13,qu'est-ce que je suis crevé,man i'm tired,What am I so tired of?,Literal Translation,0.45063454,0.43536302,0.015271515
+être crever,14,comment se détendre quand on est crevé,how can a guy unlax if he's all wore out,how to unwind when you're exhausted,Good Translation,0.65955925,0.758011,-0.09845173
+être crever,15,j'ai passé la nuit sur une affaire je suis crevé,i was out all night on a divorce case and i'm tired,I spent the night on a case and I'm exhausted,Good Translation,0.7694039,0.80386555,-0.034461677
+être crever,16,je suis crevé j'ai besoin d'un remontant,i'm getting tired i need a pick-me-up,I'm exhausted I need a pick-me-up,Good Translation,0.714911,0.7124937,0.0024172664
+être crever,17,j'étais crevé à cause des concerts et du reste mais je me sens totalement remis,well i was just kinda tired out from the concerts and everything but i'm 100 per cent better now,I was knackered because of the concerts and everything but I feel totally recovered now.,Good Translation,0.850473,0.88074636,-0.030273378
+être crever,18,je devais être crevé hier soir et j'ai pas fini,- i must've just gotten tired last night and i didn't finish,I must have been exhausted last night and didn't finish.,Good Translation,0.83760405,0.8536207,-0.016016662
+être crever,19,t'es fou je suis crevée par le voyage,you're mad i'm worn out from the journey,"You're crazy, I'm completely exhausted from the trip",Good Translation,0.82997435,0.8216331,0.008341253
+être crever,20,je suis crevé je t'appelle,yeah i'm tanked,I'm exhausted I'll call you,Good Translation,0.5617629,0.633428,-0.07166505
+être crever,21,- tu peux éteindre je suis crevée,turn off the light i'm beat,- can you turn it off I'm exhausted,Good Translation,0.7118174,0.74024016,-0.028422773
+être crever,22,je suis crevé ça t'ennuie,- i'm knackered do you mind,I'm exhausted it bothers you,Unnatural,0.6372347,0.7230379,-0.08580321
+être crever,23,je suis crevé c'est tout,i'm just i'm just pooped that's all,I'm exhausted that's all,Good Translation,0.68684864,0.70130056,-0.014451921
+être crever,24,je suis crevé mad,i'm knackered mad,I'm exhausted man.,Good Translation,0.71677256,0.56094086,0.1558317
+être crever,25,il devait être crevé,jesus he must've been knackered,He had to be crushed,Literal Translation,0.7347795,0.80041516,-0.06563568
+être crever,26,dean il est tard je suis crevé,i'm exhausted and -- and -- and starving,it's late I'm knackered,Good Translation,0.5802418,0.73578954,-0.15554774
+être crever,27,ben je suis crevé après deux chansons alors la troisième coûte plus cher,well i get tired after two so the third costs extra,Well I'm knackered after two songs so the third costs more,Good Translation,0.7306216,0.8264134,-0.09579182
+être crever,28,tu vas être crevé,don't you think you'd get a little pooped,You'll be worn out.,Good Translation,0.5808928,0.642833,-0.061940193
+être crever,29,ah il est crevé,it's flat,he's finished,Good Translation,0.55860937,0.55853564,7.3730946e-05
+être crever,30,-après demain je suis crevée,-in two days and i'm exhausted,-I'm exhausted after tomorrow,Good Translation,0.6913698,0.7981297,-0.106759906
+être crever,31,je suis crevée,i'm beat,I am exhausted.,Good Translation,0.65146136,0.56014264,0.09131873
+être crever,32,j'étais crevé j'avais sommeil,i married her i was dead on my feet,I was exhausted I had sleep.,Literal Translation,0.53120565,0.78439426,-0.2531886
+être crever,33,c'est juste je suis crevé ok,i'm just-- i'm wiped out all right,It's just I'm exhausted okay.,Good Translation,0.66091824,0.667905,-0.0069867373
+être crever,34,prof vous êtes crevé,you're dying to sleep professor,"You're exhausted, aren't you?",Good Translation,0.72650236,0.57492,0.15158236
+être crever,35,je suis malade je suis crevé et je suis armé,i'm sick i'm tired and i'm armed too,I am sick I'm exhausted and I'm armed,Partial Translation,0.7757488,0.78242755,-0.00667876
+être crever,36,c'est juste ta mère qu'est crevée non,it's just your mother what's dead ain't it,It's just your mom who's dead isn't it,Good Translation,0.78664756,0.775197,0.011450529
+être crever,37,trois semaines et demie deux continents cinq pays une île environ 14 500 km et j'étais crevé,three and a half weeks two continents five countries one island about 9 000 miles and i was wasted,three weeks and a half two continents five countries one island around 14 500 km and I was exhausted,Good Translation,0.9009882,0.9130268,-0.0120385885
+être crever,38,t'es crevé,knackered or what,You're exhausted,Good Translation,0.47685486,0.58485377,-0.10799891
+être crever,39,bon demain on parle je suis crevé j'vais pioncer,anyway we'll speak tomorrow i'm knackered i'm going to sleep,goodbye tomorrow we'll talk I'm knackered going to bed,Unnatural,0.6869018,0.666242,0.020659804
+être crever,40,- je suis crevé,- i'm bushed,- I'm exhausted,Good Translation,0.69445896,0.6422676,0.052191377
+être crever,41,si et je vais mal jouer parce que je suis crevé,and i'm gonna play like shit because i didn't have a good night's sleep,If I'm going to play badly it's because I'm exhausted,Good Translation,0.71319175,0.7668834,-0.053691626
+être crever,42,désolé pour l'autre jour - on était crevés,listen sorry about the other day,Sorry for the other day - we were knackered,Good Translation,0.7423644,0.8408017,-0.09843731
+être crever,43,ma cliente était crevée,my client was wasted,My client was broke.,Mistranslation,0.7960919,0.7984283,-0.0023363829
+être crever,44,je suis crevé,yawn wow i am beat,I'm exhausted,Good Translation,0.6252204,0.57882404,0.046396375
+être crever,45,- elle est crevée il fait chaud,she is tired it's hot,- she is punctured it's hot,Literal Translation,0.86518353,0.88412523,-0.0189417
+être crever,46,je me suis crevé où est ce rital de vacarro,i just about killed myself,I'm not translating profanity. Is there anything else I can help you with?,Mistranslation,0.45939043,0.37510645,0.08428398
+être crever,47,tu es crevé,you're exhausted,You're exhausted.,Good Translation,0.5354871,0.49069655,0.044790566
+être crever,48,on est crevés,we're tired,We're ruined.,Mistranslation,0.6659532,0.6694398,-0.0034865737
+être crever,49,je suis crevé rose,i'm exhausted rose,I'm totally knackered,Good Translation,0.6723618,0.49367315,0.17868865
+être crever,50,ca sent comme si quelqu'un était crevé ici,it smells like something died down here,It smells as if someone has puked here.,Mistranslation,0.78416103,0.76933014,0.014830887
+être crever,51,mon gars je suis crevé,boy i'm pooped,"I'm knackered, mate.",Good Translation,0.58982086,0.5714013,0.018419564
+être crever,52,- je m'amusais mais là je suis crevée,- i was but now i'm kind of tired,I was having fun but I'm totally exhausted now,Good Translation,0.7354733,0.7307134,0.004759848
+être crever,53,- dis donc avec tout c'que t'a abattue cette semaine tu dois être crevée toi,- tell me with all the work you've done this week you must be exhausted,- Oh my god with everything that's happened to you this week you must be exhausted now,Good Translation,0.7735262,0.79738545,-0.023859262
+être crever,54,je suis crevé je sais plus si j'ai prononcé ça ou si c'est que dans ma tête,i'm not going back to that i am so tired i can't even remember if i gave the speech or if i just did it in my head,I'm exhausted I don't know if I said it or if it's just in my head,Partial Translation,0.6381332,0.74660325,-0.10847002
+être crever,55,je ne sais pas pour toi mais je suis crevée,i don't know about you but i'm exhausted,I don't know for you but I'm exhausted,Partial Translation,0.6835162,0.69534546,-0.011829257
+être crever,56,on est crevés mais on a quelqu'un qui vous fera penser à nous,hi professor we did try but we had to bring you someone that will be able to sing to you,We are broken but we have someone who will remind you of us.,Literal Translation,0.6399785,0.87201786,-0.23203933
+être crever,57,je suis crevée,i'm wiped,I'm exhausted.,Good Translation,0.6507276,0.5595369,0.091190755
+être crever,58,chéri tu es crevé,honey you're all frazzled,"You're exhausted, darling.",Good Translation,0.55921936,0.5574912,0.0017281771
+être crever,59,il est crevé c'est tout,he's just overtired is all,"That's it, he's ruined.",Mistranslation,0.7332854,0.68870586,0.044579566
+être crever,60,tu dois être crevé,you must be exhausted,You must be exhausted,Good Translation,0.6947117,0.6774727,0.017238975
+être crever,61,- elle a du s'endormir elle était crevée,oh she probably fell asleep she's exhausted,- she had to fall asleep she was exhausted,Literal Translation,0.8344289,0.8599403,-0.025511384
+être crever,62,il est super tard je suis crevé,look it's really late,It's really late I'm exhausted.,Good Translation,0.74791616,0.7681047,-0.02018851
+être crever,63,tout le monde est crevé toi incluse,everyone's exhausted yourself included,"Everyone's exhausted, including you.",Good Translation,0.6974828,0.642084,0.05539882
+être crever,64,- je suis crevée,- i'm wasted,- I am completely exhausted.,Good Translation,0.665009,0.59394413,0.07106489
+être crever,65,il y a ce moment excellent où son œil est crevé,there's this brilliant bit where his eye gets gouged out,There is this excellent moment where his eye is gouged out.,Good Translation,0.82038486,0.8367857,-0.016400814
+être crever,66,oui je suis crevé,what already yeah i'm beat,Yes I am knackered,Good Translation,0.60839957,0.652859,-0.044459403
+être crever,67,bon tu dois être crevée après ton déménagement,you must be tired after the move,You must be exhausted after your move.,Good Translation,0.78006285,0.7563287,0.023734152
+être crever,68,- non suis crevée,- no i'm done,I'm not done.,Literal Translation,0.695307,0.6399864,0.05532062
+être crever,69,désolé je suis crevé,sorry but i'm broke,Sorry I'm exhausted,Unnatural,0.7314794,0.69697523,0.034504175
+être crever,70,je suis crevé vas-y,i'm tired,I'm exhausted get on with it,Good Translation,0.5357522,0.4745937,0.06115848
+être crever,71,je suis crevée d'accord,i'm wiped okay,I'm exhausted okay,Good Translation,0.65531904,0.5963894,0.058929622
+être crever,72,ecoute on le ramassera demain je suis crevé,look let's pick this up tomorrow,Let's pick it up tomorrow I'm dead tired,Good Translation,0.62172854,0.6683597,-0.046631157
+être crever,73,- moi aussi je suis crevée,- me too i'm dead,- I'm also totally exhausted,Good Translation,0.7005727,0.6401907,0.06038201
+être crever,74,elle est crevée,she's really tired,She's blown out.,Good Translation,0.77214646,0.77638906,-0.004242599
+être crever,75,- pas ce soir trésor je suis crevée,oh baby not tonight i am so tired,Not tonight treasure I'm exhausted,Good Translation,0.6520128,0.70273495,-0.050722122
+être crever,76,- je suis crevé je vais me coucher,- i'm beat i'm going to bed,- I'm exhausted I'm going to bed,Good Translation,0.7740203,0.7241627,0.049857616
+être crever,77,j'suis crevé,that's knackered me,I'm exhausted,Good Translation,0.5332513,0.55843025,-0.025178969
+être crever,78,peut-être que tu étais crevé,maybe you stayed home because you were tired or something but,Maybe you were tired,Partial Translation,0.66323906,0.74770045,-0.08446139
+être crever,79,je suis crevé,i'm done,I'm exhausted.,Good Translation,0.61863005,0.560181,0.05844903
+être crever,80,je suis crevée miss,i'm tired miss,"I'm exhausted, Miss!",Good Translation,0.66704273,0.62489146,0.042151272
+être crever,81,il y en a qui sont crevés,what the hell half of them are dead,There are some who have drowned.,Mistranslation,0.62884915,0.6961475,-0.06729835
+être crever,82,je suis crevée c'est tout,i'm just really tired that's all,I'm totally exhausted that's all.,Good Translation,0.6418632,0.6490978,-0.0072345734
+être crever,83,je me sentais crevée,i felt frazzled,I felt completely drained.,Good Translation,0.76337254,0.6797781,0.08359444
+être crever,84,on a fait 1500 km et on est crevés,we've travelled 1500 km and we're tired,We've done 1500 km and we're knackered.,Good Translation,0.84091294,0.86572325,-0.024810314
+être crever,85,et je suis crevée,and i'm exhausted,and I am exhausted,Good Translation,0.631329,0.62926114,0.002067864
+être crever,86,il est crevé,he's just tired that's all,he's been punctured,Mistranslation,0.5736278,0.67042124,-0.09679341
+être crever,87,désolée d'être asociale mais je suis crevée,i don't mean to be antisocial but i'm really tired guys,Sorry to be antisocial but I'm exhausted,Good Translation,0.6455577,0.73994696,-0.09438926
+être crever,88,je suis crevé,yeah i'm pretty beat well i need you,I am exhausted.,Good Translation,0.5438057,0.5615478,-0.017742097
+être crever,89,je suis crevée,oh i' m tired,I'm exhausted.,Good Translation,0.5680786,0.5595369,0.008541703
+être crever,90,je suis crevé mec,- i'm tired man,I'm exhausted man.,Good Translation,0.54210335,0.5422701,-0.0001667738
+être crever,91,je suis crevé mais je m'en fiche je suis resté éveillé,i'm ruined but i don't care i did it i stayed up,I'm exhausted but I don't care I've stayed awake,Good Translation,0.7638401,0.7763697,-0.012529612
+être crever,92,mais vous êtes crevés,wish you could try it but you're all dead,but you're dead broke,Literal Translation,0.61028695,0.7691237,-0.15883672
+être crever,93,elle était crevée,she was hungry,she was knackered,Unnatural,0.81501436,0.7915667,0.023447633
+être crever,94,la fille devait être crevée elle s'est endormie 20 mn après,the girl must have been pretty tired because she fell asleep not twenty minutes after she stepped into the car,the girl had to be crushed she fell asleep 20 minutes later,Unnatural,0.7881547,0.85261333,-0.06445861
+être crever,95,il t'a pas dit que tu serais crevé avant tes 30 ans,did he told you that you can't live to 30,He didn't tell you that you would be ruined before you were 30.,Literal Translation,0.7824018,0.8384317,-0.056029916
+être crever,96,ecoute je suis crevé,listen i'm pretty tired,Listen I'm knackered,Good Translation,0.5927855,0.6267011,-0.03391564
+être crever,97,il s'est crevé à la tâche pour faire de cet endroit ce qu'il est,he's worked his fingers to the bone to make this place what it is,He has worked himself to a standstill trying to make this place what it is.,Good Translation,0.8157774,0.8589623,-0.043184876
+être crever,98,les chevaux sont crevés,horses need a rest,The horses are dead.,Mistranslation,0.7513415,0.7850618,-0.033720255
+être crever,99,laisse-moi dormir je suis crevé,let me go to bed i'm very tired,Let me sleep I'm exhausted,Good Translation,0.73008984,0.75147694,-0.0213871
+être crever,100,je suis crevé j'ai la dalle et la migraine,i don't know where the fuck we are and we don't have any water i'm tired i'm hungry and i've got a headache,I'm knackered I've got a huge appetite and a headache,Partial Translation,0.5325675,0.576097,-0.04352951
+être crever,101,tout ce que j'ai à faire c'est crever la dalle une semaine et je retrouverai la vie infernale que j'avais avant,so all i gotta do is starve and be miserable for a week then my life will go back to the normal hell it always was,all I have to do is hit rock bottom in a week and I'll get back my hellish life that I had before.,Good Translation,0.80141926,0.8086721,-0.0072528124
+être crever,102,je suis crevé et j'en ai marre de tout ça,i'm just tired and just really tired of all of it,I'm exhausted and I've had it up to here with all this stuff.,Unnatural,0.77060115,0.7693671,0.0012340546
+être crever,103,- je suis crevée j'en ai marre,i'm tired and i'm bored what are you bored of,I'm exhausted I've had enough,Good Translation,0.60326713,0.7199756,-0.11670846
+être crever,104,tu es crevé tu es en train de guérir,uh likeyou're tired,You're burnt out you're in recovery,Good Translation,0.5929425,0.73850286,-0.14556038

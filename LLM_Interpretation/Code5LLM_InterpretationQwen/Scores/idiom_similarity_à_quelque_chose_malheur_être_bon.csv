@@ -1,0 +1,13 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+à quelque chose malheur être bon,0,souvenez-vous a quelque chose malheur est bon,remember every cloud has a silver lining,remember something misfortune is blessings,Unnatural,0.61863893,0.7991257,-0.18048674
+à quelque chose malheur être bon,1,à quelque chose malheur est bon,dark clouds do have silver linings,misfortune often brings good fortune,Good Translation,0.59881306,0.7554716,-0.15665853
+à quelque chose malheur être bon,2,eh bien à quelque chose malheur est bon,this turned out to be a blessing in disguise,well misfortune often brings something good,Good Translation,0.60910976,0.77905107,-0.1699413
+à quelque chose malheur être bon,3,enfin à quelque chose malheur est bon,every cloud has a silver lining,"finally, misfortune has its silver lining",Good Translation,0.6016472,0.8161752,-0.21452802
+à quelque chose malheur être bon,4,les circonstances sont regrettables mais à quelque chose malheur est bon,the circumstances are unfortunate but each loss brings opportunity,the circumstances are regrettable but misfortune has its silver lining,Good Translation,0.74976486,0.87942743,-0.12966257
+à quelque chose malheur être bon,5,a quelque chose malheur est bon,every cloud has a silver lining,there is a silver lining to every cloud,Good Translation,0.57143617,0.5822804,-0.010844231
+à quelque chose malheur être bon,6,à quelque chose malheur est bon,well maybe it's a blessing in disguise,misfortune often brings good fortune,Good Translation,0.6553154,0.7554716,-0.10015619
+à quelque chose malheur être bon,7,a quelque chose malheur est bon,silver lining for your black cloud,there is a curse that turns to blessing,Good Translation,0.5135795,0.64068115,-0.12710166
+à quelque chose malheur être bon,8,mais à quelque chose malheur est bon,but there is a silver lining to this gray cloud of prom disasters,but out of adversity comes prosperity,Unnatural,0.60215044,0.64469254,-0.0425421
+à quelque chose malheur être bon,9,parfois à quelque chose malheur est bon,sometimes things work out for the best,sometimes misfortune brings good fortune,Good Translation,0.78136706,0.8401239,-0.05875683
+à quelque chose malheur être bon,10,je sais mais à quelque chose malheur est bon,but every cloud has a silver lining,"I know, but out of misfortune comes good.",Good Translation,0.60884535,0.81467885,-0.2058335
+à quelque chose malheur être bon,11,a quelque chose malheur est bon comme dit le proverbe,look at it this way every cloud has a silver lining,something bad is good as the proverb says,Good Translation,0.5530315,0.87009364,-0.31706214

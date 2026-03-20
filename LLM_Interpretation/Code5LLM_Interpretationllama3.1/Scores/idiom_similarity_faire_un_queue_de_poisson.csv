@@ -1,0 +1,11 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+faire un queue de poisson,0,il m'a fait une queue de poisson,- he cut in on me,He made me a fish tail.,Literal Translation,0.70917696,0.8443239,-0.13514692
+faire un queue de poisson,1,tu m'as fait une queue de poisson,you cut me off bitch,you made me a fish tail,Literal Translation,0.67156196,0.83770394,-0.16614199
+faire un queue de poisson,2,ce type m'a fait une queue de poisson,the guy cut me off what was i supposed to do,This guy made me a fish tail.,Literal Translation,0.640866,0.8594609,-0.21859491
+faire un queue de poisson,3,tu as peut-être fait une queue de poisson,maybe you accidentally cut somebody off in traffic,You may have made a fish tail.,Literal Translation,0.64898425,0.8686694,-0.21968514
+faire un queue de poisson,4,j'étais sur ma file et tu as fait une queue de poisson,i was driving in my lane and you just cut in,I was in line and you cut to the front.,Literal Translation,0.6525751,0.7001638,-0.047588706
+faire un queue de poisson,5,oh mon dieu un mec vient de me faire une queue de poisson,oh my god some guy just cut me off,Oh my god a guy just pulled off on me,Unnatural,0.74885327,0.734827,0.014026284
+faire un queue de poisson,6,un jour un type a fait une queue de poisson à pinker,one time this guy cuts pinker off on the highway,one day this guy made a fish tail to Pinker,Literal Translation,0.69797885,0.8396611,-0.14168227
+faire un queue de poisson,7,un taxi m'a fait une queue de poisson et en plus il m'a engueulée,then i got cut off by this idiot cab driver who starts screaming at me,A taxi made a U-turn in front of me and to make matters worse he shouted at me.,Partial Translation,0.6611967,0.77639806,-0.115201354
+faire un queue de poisson,8,il t'a fait une queue de poisson sur l'autoroute,he cut you off on the freeway,He gave you a fish tail on the highway.,Literal Translation,0.7341921,0.8099893,-0.0757972
+faire un queue de poisson,9,quelqu'un m'a fait une queue de poisson et j'ai atterri dans un fossé,somebody squeezed me on the highway and i drove into a ditch,Someone played a trick on me and I ended up in a ditch,Good Translation,0.69593716,0.7669041,-0.07096696

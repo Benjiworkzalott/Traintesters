@@ -1,0 +1,103 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+poser un lapin,0,je ne t'ai pas posé un lapin et je ne t'ai absolument pas larguée,whoa whoa whoa whoa whoa i didn't stand you up and i definitely didn't break up with you,I didn't blow you off and I absolutely didn't ditch you,Good Translation,0.6443442,0.75124705,-0.10690284
+poser un lapin,1,le type de patrick m'a posé un lapin,well patrick's guy stood me up,Patrick stood me up,Literal Translation,0.7675179,0.6958488,0.0716691
+poser un lapin,2,jamais fille aussi belle ne m'avait posé un lapin,i don't recall getting stood up by a more attractive woman - mr deitrich,never had such a beautiful girl stood me up,Good Translation,0.60900956,0.8335893,-0.22457975
+poser un lapin,3,elle ne va plus jamais me reparler si je lui pose un lapin,she's never gonna talk to me again after standing her up,She will never speak to me again if I blow her off.,Good Translation,0.7692083,0.7637343,0.005474031
+poser un lapin,4,et pour la troisième fois d'affilée tu m'as posé un lapin,and that's the third time in a row you stood me up,and for the third time in a row you've stood me up,Unnatural,0.8166904,0.81840557,-0.0017151833
+poser un lapin,5,je savais que t'allais me poser un lapin,'cause i knew you'd fuck me you prick,I knew you were going to bail on me,Good Translation,0.6226332,0.7180675,-0.09543431
+poser un lapin,6,elle t'a posé un lapin non,looks like you got stood up huh,She stood you up.,Good Translation,0.57711256,0.7149084,-0.13779587
+poser un lapin,7,mon rencard m'a posé un lapin,my appointment didn't show up,my date stood me up,Good Translation,0.51558304,0.665964,-0.15038097
+poser un lapin,8,tu m'as posé un lapin à notre premier rendez-vous et tu es partie en suisse,you stood me up on our first date and you flew to switzerland,you stood me up at our first date and went to Switzerland,Good Translation,0.80140793,0.8155079,-0.014099956
+poser un lapin,9,celui qui te pose un lapin doit être fou,anyone who'd stand you up must be crazy,the one who pulls a fast one on you must be crazy,Unnatural,0.7641691,0.7183975,0.0457716
+poser un lapin,10,ok si elle veut nous poser un lapin elle devrait y mettre plus d'effort,okay if she's going to blow us off she'd better put a little more effort into it than that,"OK, if she wants to pull us a fast one, she should put more effort into it.",Good Translation,0.80571085,0.82800144,-0.022290587
+poser un lapin,11,il peut me poser un lapin à moi mais pas à toi,he can stand me up but he can't stand you up,he can pull a fast one on me but not on you,Unnatural,0.73256016,0.7392651,-0.0067049265
+poser un lapin,12,- j'aurais pu si on ne m'avait pas posé de lapin,- if someone hadn't bailed on me,- I could have if nobody had asked me to do a rabbit.,Mistranslation,0.72437,0.7481072,-0.023737192
+poser un lapin,13,tu m'as posé un lapin à notre premier rendez-vous web,i can't believe you're gonna stand me up on our first web chat date,you pulled a rabbit out of the hat at our first web date,Mistranslation,0.7308309,0.77644396,-0.04561305
+poser un lapin,14,comment as-tu pu me poser un lapin,oh woodrow how could you stand me up,how could you leave me in the lurch,Good Translation,0.62863237,0.6646849,-0.036052525
+poser un lapin,15,on vous a posé un lapin,hmm you were stood up,on has pulled a rabbit out of your hat,Mistranslation,0.70346576,0.6474407,0.056025088
+poser un lapin,16,elle t'a posé un lapin,she stood you up man,She stood you up.,Literal Translation,0.71556085,0.75105524,-0.035494387
+poser un lapin,17,- on vous a posé un lapin hier soir,- you were stood up here last night,- you were stood up yesterday evening,Unnatural,0.7708607,0.77135015,-0.00048947334
+poser un lapin,18,j'ai regardé une chaise vide pendant deux heures avant d'admettre que tu m'avais posé un lapin,i stared at an empty chair for two hours until i finally accepted that you had stood me up,I stared at an empty chair for two hours before admitting that you had stood me up.,Good Translation,0.8024193,0.82131565,-0.018896341
+poser un lapin,19,je l'ai invitée à dîner après qu'on m'a posé un lapin,i invited her to dinner after somebody stood me up,I invited her out for dinner after he stood me up.,Literal Translation,0.8072474,0.77524173,0.032005668
+poser un lapin,20,elle lui pose un lapin,she stands him up then,she blew him off,Good Translation,0.739962,0.5916852,0.1482768
+poser un lapin,21,cette fois elle m'a posé un lapin,she's always late but this time she just never showed up,this time she stood me up,Good Translation,0.53976595,0.7821886,-0.24242264
+poser un lapin,22,on t'a posé un lapin,you've been stood up,you were pulled a fast one,Mistranslation,0.7056506,0.6475643,0.058086336
+poser un lapin,23,on lui a posé un lapin devant l'autel pour son mariage devant tout le monde,she was stood up at the altar on her wedding day in front of everybody she knows,He was had a rabbit pulled out in front of the altar for his wedding in front of everyone.,Literal Translation,0.7446076,0.8086369,-0.06402928
+poser un lapin,24,- pourquoi tu me poses un lapin,well why did you stand me up,why you stood me up,Partial Translation,0.6917319,0.63794833,0.053783596
+poser un lapin,25,la petite chipie m'a posé un lapin,the little brat blew me off,the little trickster stood me up,Good Translation,0.5580524,0.63442206,-0.07636964
+poser un lapin,26,je croyais que tu m'avais posé un lapin,i was beginning to think you were gonna stand me up,I thought you had stood me up.,Good Translation,0.71592575,0.7426988,-0.026773036
+poser un lapin,27,il m'a posé un lapin,he stood me up,He blew me off,Good Translation,0.7268287,0.6236294,0.1031993
+poser un lapin,28,pourquoi est-ce que tu poses un lapin à ton petit copain pour traîner avec un autre gars,now why are you blowing off your boyfriend to hang out with some random guy,why are you blowing him off to hang out with another guy for your boyfriend,Unnatural,0.6167911,0.6258417,-0.009050548
+poser un lapin,29,il t'a posé un lapin,he stood you up,He blew you off.,Good Translation,0.7229506,0.6406045,0.08234608
+poser un lapin,30,tu vas pas coucher avec moi après m'avoir posé un lapin,we can't sleep together on the first date especially one you ditched,You're not sleeping with me after blowing me off.,Good Translation,0.6048832,0.7055113,-0.10062808
+poser un lapin,31,elle lui a posé un lapin,so she stood him up so what,she pulled a fast one on him,Unnatural,0.71672,0.6331978,0.0835222
+poser un lapin,32,salut j'ai cru que vous m'aviez posé un lapin,hi i thought you'd stood me up,hello I thought you had stood me up,Good Translation,0.752028,0.77237874,-0.020350754
+poser un lapin,33,il nous a peut-être posé un lapin,we just might have gotten blown off,He may have stood us up,Good Translation,0.64123833,0.7930455,-0.15180719
+poser un lapin,34,tu sais je juge mes rendez-vous sur le fait qu'on me pose un lapin donc tu commences très bien,you know i actually judge my dates on whether or not they stand me up so you are off to a great start,you know I judge my dates on whether they bail on me so you're off to a good start,Good Translation,0.74248934,0.7372449,0.005244434
+poser un lapin,35,bien généralement quand un gars pose un lapin à une fille il ne se présente pas chez elle une semaine plus tard,well usually when a guy stands a girl up he doesn't show up at her house a week later,"Generally speaking, when a guy blows a girl off, he doesn't show up at her place a week later.",Good Translation,0.8331057,0.73085153,0.10225415
+poser un lapin,36,c'est pourquoi j'ai posé un lapin à mon rendez-vous à l'aveugle ce soir,that's why i blew off my blind date tonight,that's why I bailed on my blind date tonight,Good Translation,0.7303106,0.7209658,0.009344816
+poser un lapin,37,- tu me poses un lapin,are you standing me up,you bailed on me,Good Translation,0.6290171,0.58776444,0.041252673
+poser un lapin,38,pourquoi tu m'as posé un lapin j'attends depuis 30 minutes,why did you blow me off,why did you stand me up I've been waiting for 30 minutes,Good Translation,0.5664216,0.81273717,-0.24631554
+poser un lapin,39,j'ai cru que vous alliez me poser un lapin,you know for a minute i thought you were going to stand me up there,I thought you were going to stand me up.,Good Translation,0.74349093,0.7395781,0.0039128065
+poser un lapin,40,on l'a eu parce que raymond t'a posé un lapin,did we only get it because raymond didn't show up,He got coldfeet because Raymond stood him up.,Unnatural,0.6159729,0.62477154,-0.008798659
+poser un lapin,41,je lui pose un lapin à chaque fois et il en redemande,i've stood this guy up so many times before and he just keeps comin' back for more,I pull his leg every time and he wants more.,Mistranslation,0.72863406,0.7419501,-0.013316035
+poser un lapin,42,- non on m'a posé un lapin,- no i've been stood up,"- no, they bailed on me",Good Translation,0.7224222,0.6946956,0.02772659
+poser un lapin,43,je me suis fait poser un lapin,i got stood up,I was stood up,Good Translation,0.6882571,0.68260694,0.0056501627
+poser un lapin,44,je veux dire le truc c'est que j'apprécie vraiment jamie et je voulais pas lui poser un lapin ce soir,i mean the thing is i really like jamie and i didn't want to blow him off tonight,"I mean, the thing is, I really appreciate Jamie and didn't want to stand her up tonight.",Unnatural,0.8302365,0.8000416,0.030194879
+poser un lapin,45,on dirait qu'on t'a posé un lapin,oh look like you got stood up brah,It looks like you blew it off at the last minute.,Literal Translation,0.6353602,0.6140429,0.021317303
+poser un lapin,46,alors j'ai pensé que tu m'avais posé un lapin,- so i thought you were blowing me off,then I thought you had stood me up,Good Translation,0.69843006,0.750752,-0.05232191
+poser un lapin,47,simple curiosité de ma part pourquoi m'as-tu posé un lapin,just out of plain simple curiosity i'd like to know why you gave me a standup,simple curiosity on my part why did you stand me up,Good Translation,0.77429146,0.7854098,-0.011118352
+poser un lapin,48,en fait j'ai été assez blessé que vous m'ayez posé un lapin normal,as a matter of fact i was rather hurt that night you stood me up,"in fact, I was quite hurt that you stood me up normally",Unnatural,0.6829667,0.77533966,-0.092372954
+poser un lapin,49,quelque chose me dit qu'on nous a posé un lapin,something tells me we've been stood up,something tells me that they pulled a fast one on us,Partial Translation,0.7834542,0.7231705,0.06028366
+poser un lapin,50,linton m'a posé un lapin,fucking linton stood me up,Linton stood me up,Unnatural,0.72845614,0.7439594,-0.015503287
+poser un lapin,51,sauf que c'est la 1ère fois qu'on leur pose un lapin,except for the fact they may have just been stood up for the first time,except that it's the first time we've pulled a fast one on them,Mistranslation,0.7570926,0.71087253,0.046220064
+poser un lapin,52,ouais tu m'as posé un lapin,yeah you stood me up,yes you blew me off,Good Translation,0.68004984,0.5948976,0.08515221
+poser un lapin,53,il m'a vraiment posé un lapin,he actually stood me up,He really stood me up,Good Translation,0.7504376,0.739942,0.010495603
+poser un lapin,54,en pensant qu'ils savaient tous tout le monde qu'on m'avait posé un lapin pour la saint-valentin,and all the while thinking that they all knew everyone in the whole place that i'd been stood up on valentine's day,thinking that they all knew everyone I had been stood up for Valentine's Day,Good Translation,0.80523825,0.7897781,0.015460134
+poser un lapin,55,parce qu'ils n'ont pas besoin de savoir qu'on vous a posé un lapin,because they don't need to know you've just been stood up,because they don't need to know that you were stood up,Unnatural,0.7660035,0.78464425,-0.018640757
+poser un lapin,56,j'ai dit elle m'a posé un lapin,and i said she stood me up,I said she stood me up,Good Translation,0.7633374,0.7648642,-0.0015268326
+poser un lapin,57,bien entendu le vendredi soir henry m'a posé un lapin,of course when friday night came around henry stood me up,"Of course, Henry stood me up on Friday night",Good Translation,0.78381205,0.7888826,-0.005070567
+poser un lapin,58,je crois qu'il nous a posé un lapin,- i think he's a no go,I think he stood us up,Good Translation,0.59008765,0.7745756,-0.18448794
+poser un lapin,59,dire qu'il m'a posé un lapin,i can't believe he stood me up,to say he stood me up,Unnatural,0.6300659,0.7066086,-0.076542675
+poser un lapin,60,et il n'est pas là non plus ce qui veut dire que soit il me pose un lapin soit,so that must mean he's either totally blowing me off or,"and he is not there either, which means that either he blew me off or",Good Translation,0.6307086,0.7278407,-0.09713215
+poser un lapin,61,on nous a posé un lapin,tonight we were stood up too,on pulled a fast one on us,Mistranslation,0.6629232,0.60842013,0.054503083
+poser un lapin,62,on m'a posé un lapin ce soir,i got stood up tonight,they pulled a fast one on me tonight,Mistranslation,0.73101515,0.69081163,0.04020351
+poser un lapin,63,allegra nous a posé un lapin c'est d'un ennui,it seems allegra's a no-show which is simply a bore,Allegra has pulled us a fast one; it's so annoying.,Mistranslation,0.64198023,0.72764254,-0.085662305
+poser un lapin,64,ce n'est pas tous les jours que lois lane tolère de se faire poser un lapin,it's not every day lois lane allows herself to be stood up,it's not every day that Lois Lane tolerates being stood up,Good Translation,0.7499109,0.75919175,-0.00928086
+poser un lapin,65,tu allais me poser un lapin,you were gonna give up on me,you were going to pull a rabbit out of your hat,Mistranslation,0.58387506,0.5749749,0.008900166
+poser un lapin,66,- ton copain t'a encore posé un lapin,let me guess your boyfriend canceled on you again,- your friend stood you up again,Good Translation,0.6319469,0.7542076,-0.12226069
+poser un lapin,67,tu m'a appelé parce qu'elle t'a posé un lapin,you called me 'cause she stood you up,you called me because she stood you up,Unnatural,0.7886591,0.80096066,-0.012301564
+poser un lapin,68,il vous a posé un lapin,sorry you got stood up,He stood you up,Good Translation,0.6007043,0.7347783,-0.13407397
+poser un lapin,69,je passe la journée à fouiller dans des ordures et maintenant mon copain me pose un lapin,i spend all day digging through garbage and then my boyfriend ditches me,I spend the day scavenging through trash and now my friend bails on me,Good Translation,0.6995262,0.7319533,-0.032427132
+poser un lapin,70,elle t'a posé un lapin,she stood you up,She stood you up,Good Translation,0.75177294,0.75223994,-0.0004670024
+poser un lapin,71,je ne voulais pas te poser un lapin mais c'est arrivé vite,i didn't mean to mess up your plans it all happened so fast,I didn't want to stand you up but it happened quickly,Good Translation,0.72343916,0.8472725,-0.12383336
+poser un lapin,72,hey ma belle tu m'as posé un lapin,oi baby you stood me up,hey ma belle you've stood me up,Good Translation,0.6868117,0.75901914,-0.07220745
+poser un lapin,73,lilly me pose un lapin,lilly stands me up,Lilly pulls a rabbit out of her hat,Mistranslation,0.750938,0.6506916,0.10024637
+poser un lapin,74,il l'a invitée à sortir une fois il lui a posé un lapin et s'en est allé,he asked her out once he stood her up and moved away,He invited her out once he had stood her up and left.,Good Translation,0.7330437,0.7700573,-0.03701365
+poser un lapin,75,celle là m'a posé un lapin,this one stood me up,That one left me in the lurch,Good Translation,0.6744067,0.65560013,0.018806577
+poser un lapin,76,- je déteste qu'on me pose un lapin,- i hate being stood up,I hate being stood up,Good Translation,0.7696977,0.73776436,0.031933367
+poser un lapin,77,on m'a posé un lapin,i got stood up,"on m'a posé un lapin translates to ""they pulled a rabbit out of the hat"" or more idiomatically, ""they pulled one over on me.""",Mistranslation,0.6883352,0.70822185,-0.019886672
+poser un lapin,78,et il m'a posé un lapin,-yeah and then he stood me up,and he pulled a rabbit out of his hat,Mistranslation,0.7112287,0.63107884,0.08014989
+poser un lapin,79,ils m'ont posé un lapin,it's a no-show,they pulled a fast one on me,Literal Translation,0.4620863,0.6466521,-0.18456581
+poser un lapin,80,mais je vais lui poser un lapin,but i'm gonna stand her up,but I'm going to pull a rabbit out of the hat,Mistranslation,0.7269442,0.6940926,0.032851636
+poser un lapin,81,c'est la troisième fois que tu me poses un lapin,this is the third time you've stood me up,it's the third time you've stood me up,Good Translation,0.77936256,0.7821044,-0.0027418137
+poser un lapin,82,pourquoi prévoir une rencontre avec ihab pour ensuite lui poser un lapin,why set a meet with ihab so you can stand him up,why plan a meeting with Ihab only to stand him up,Good Translation,0.77893597,0.7793437,-0.00040775537
+poser un lapin,83,tu me poses un lapin et tout ce que tu dis c'est désolé,you stood me up and your only explanation is sorry,you stood me up and all you have to say is sorry,Unnatural,0.75133795,0.74258065,0.008757293
+poser un lapin,84,il t'a posé un lapin,did he stand you up,He blew you off.,Good Translation,0.6774696,0.6406045,0.036865115
+poser un lapin,85,tu poses un lapin à ta sœur,are you really standing up your sister for work,you blew off your sister,Good Translation,0.63869405,0.6742314,-0.035537362
+poser un lapin,86,- elle s'est fait poser un lapin,her date bailed,She got dumped.,Mistranslation,0.54973924,0.5841415,-0.03440225
+poser un lapin,87,ils nous ont posé un lapin,damn them we've been stood up,They pulled us a fast one,Unnatural,0.67970324,0.7138307,-0.034127474
+poser un lapin,88,tu vois ce qu'il se passe quand tu me poses un lapin,see what happens when you stand me up,You see what happens when you blow me off,Good Translation,0.67026293,0.6515444,0.01871854
+poser un lapin,89,il devrait vous paraître évident jeune dame qu'on vous a posé un lapin,it should be perfectly obvious to you by now young lady that you have been stood up,it should seem obvious to young lady that you have been stood up,Unnatural,0.78907543,0.8086606,-0.019585192
+poser un lapin,90,c'est la première fois qu'on m'a posé un lapin,this is the first time i've ever been stood up,it's the first time they've pulled a fast one on me,Unnatural,0.7582593,0.6753423,0.082916975
+poser un lapin,91,il ne m'a pas posé un lapin,i did not get stood up,He didn't pull a fast one on me,Mistranslation,0.6738505,0.6920327,-0.018182218
+poser un lapin,92,d'habitude je ne m'en souviendrais pas mais ce gars s'est fait poser un lapin,ordinarily i wouldn't but this guy he stood out,Usually I wouldn't remember but that guy got stood up,Good Translation,0.6851945,0.7581612,-0.072966695
+poser un lapin,93,quoi il t'a posé un lapin,- didn't he keep his date with you,what he stood you up,Good Translation,0.5601388,0.6739315,-0.11379266
+poser un lapin,94,tu peux me poser un lapin,i don't mind you standing me up,you can bail on me,Good Translation,0.5989076,0.66084987,-0.06194228
+poser un lapin,95,tu m'as posé un lapin,- you stood me up,you pulled a rabbit out of your hat,Mistranslation,0.706532,0.60233486,0.104197145
+poser un lapin,96,c'est pas la première fois qu'on me pose un lapin,it's not the first time i've been stood up,it's not the first time they've stood me up,Good Translation,0.7744948,0.7691263,0.0053685308
+poser un lapin,97,c'est ma mère qui m'a posé un lapin,my mom she stood me up,it's my mother who stood me up,Good Translation,0.69345427,0.7120211,-0.018566847
+poser un lapin,98,vous m'avez posé un lapin je suis désolé,you asked me to meet you at this bear pit place and then you don't show up,you stood me up I'm sorry,Good Translation,0.5737641,0.752378,-0.1786139
+poser un lapin,99,je t'ai posé un lapin,i stood you up - it wasn't a date,I blew you off,Good Translation,0.57412744,0.6102792,-0.036151767
+poser un lapin,100,ce serait comme poser un lapin à quelqu'un au bal de fin d'année,it'd be like standing someone up for the prom,it would be like pulling someone's leg at the end-of-year dance,Mistranslation,0.68533945,0.7582309,-0.072891474
+poser un lapin,101,tu as posé un lapin à quelqu'un récemmment,you stand anyone up lately,You recently stood someone up.,Good Translation,0.6789116,0.7274508,-0.04853916

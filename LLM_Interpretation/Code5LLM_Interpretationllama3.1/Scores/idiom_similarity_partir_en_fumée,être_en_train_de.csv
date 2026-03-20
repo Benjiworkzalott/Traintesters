@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"partir en fumée,être en train de",0,c'était en train de partir en fumée,mcgee it was running on fumes,it was about to blow up in smoke,Literal Translation,0.7135012,0.90127385,-0.18777263

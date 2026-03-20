@@ -1,0 +1,42 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+appeler un chat un chat,0,nous appellerons un chat un chat,we're going to call a spade a dirty spade,we will call a cat a cat,Good Translation,0.6617346,0.9092706,-0.247536
+appeler un chat un chat,1,j'ai toujours appelé un chat un chat,lve always called a spade a spade,I have always called a cat a cat.,Good Translation,0.6870698,0.90399575,-0.21692598
+appeler un chat un chat,2,j'appelle un chat un chat,if it walks like a duck,I call a cat a cat,Good Translation,0.5467322,0.84319353,-0.29646134
+appeler un chat un chat,3,appelons un chat un chat,let's call a spade a spade,call a cat a cat,Good Translation,0.70507747,0.8457964,-0.14071894
+appeler un chat un chat,4,j'appelle un chat un chat,i just call it like i see it babe,I call a cat a cat,Good Translation,0.6298443,0.84319353,-0.21334922
+appeler un chat un chat,5,c'est ne pas appeler un chat un chat,pc crap nothing can be called what it is,it is not calling a cat a cat,Literal Translation,0.58105224,0.8324474,-0.25139517
+appeler un chat un chat,6,- appelons un chat un chat mon pote,- let's call a spade a shovel mate,- let's call a spade a spade my friend,Mistranslation,0.70633864,0.7393871,-0.03304845
+appeler un chat un chat,7,pourquoi ne pas appeler un chat un chat,why not call a spade a spade,why not call a cat a cat,Good Translation,0.6878065,0.91215307,-0.22434658
+appeler un chat un chat,8,appelons un chat un chat,let's call a spade a spade,call a cat a cat,Good Translation,0.70507747,0.8457964,-0.14071894
+appeler un chat un chat,9,pour voir si on peut continuer sans appeler un chat un chat,see if we can keep this thing going without calling it what it really is huh,to see if we can continue without calling a cat a cat,Good Translation,0.75136703,0.8953813,-0.14401424
+appeler un chat un chat,10,- on appelle un chat un chat un chien un chien ok,let's call a spade a spade,- they call a cat a cat a dog a dog okay,Good Translation,0.59523714,0.82967776,-0.23444062
+appeler un chat un chat,11,si vous voulez devenir une bonne infirmière vous devez appeler un chat un chat,a good nurse has to be straight to the point,if you want to become a good nurse you must call a cat a cat,Good Translation,0.5781807,0.8674705,-0.28928983
+appeler un chat un chat,12,mais je peux encore appeler un chat un chat,but i can still call a spade a spade,but I can still call a cat a cat,Good Translation,0.7450614,0.9084028,-0.1633414
+appeler un chat un chat,13,appelons un chat un chat doug est un fuyard,janet it is time to call a flake a flake and a spade a spade,let's call a cat a cat Doug is a runaway,Good Translation,0.4866411,0.7718773,-0.28523618
+appeler un chat un chat,14,j'ai simplement appelé un chat un chat,i was simply calling a spade a spade,I simply called a cat a cat,Good Translation,0.7615852,0.9146793,-0.15309411
+appeler un chat un chat,15,bien appelons un chat un chat,well let's just call it what it is,Let's call a spade a spade.,Mistranslation,0.6698898,0.65924156,0.010648251
+appeler un chat un chat,16,je suis prêt à appeler un chat un chat pour dissuader les générations d'aujourd'hui et de demain,there i am prepared to call a spade a spade as a warning to present and future generations,I am ready to call a cat a cat to dissuade today's and tomorrow's generations.,Good Translation,0.7446836,0.9125102,-0.1678266
+appeler un chat un chat,17,tu me connais j'appelle un chat un chat,you know me i call a spade a spade,you know I call a cat a cat,Good Translation,0.72772914,0.83463633,-0.10690719
+appeler un chat un chat,18,si on appelle un chat un chat on obtient des résultats,i find if you call a spade a spade you'll generally get a favorable response,"If we call a cat a cat, we get results.",Good Translation,0.6089134,0.85467446,-0.24576104
+appeler un chat un chat,19,eh bien appelons un chat un chat si possible,well let's call a spade a spade shall we,well let's call a spade a spade if possible,Literal Translation,0.7123162,0.79241,-0.0800938
+appeler un chat un chat,20,elle consiste à appeler un chat un chat,my method is based partly on calling a spade a spade,It consists of calling a cat a cat.,Good Translation,0.58461833,0.8730128,-0.28839445
+appeler un chat un chat,21,appelons un chat un chat d'accord,let's just call it what it is right,let's call a cat a cat then,Good Translation,0.62392366,0.7454308,-0.12150717
+appeler un chat un chat,22,mais appelons un chat un chat,but let's call it what it really is,but call a spade a spade,Literal Translation,0.6772103,0.7150927,-0.037882447
+appeler un chat un chat,23,appelons un chat un chat,- what now look louisa let's call a spade a spade,let's call a cat a cat,Good Translation,0.5692698,0.85836697,-0.2890972
+appeler un chat un chat,24,arrêtez les conneries et appelez un chat un chat,let's cut the bullshit and call this for what it is,stop nonsense and call a cat a cat,Good Translation,0.6649401,0.87813354,-0.21319342
+appeler un chat un chat,25,d'appeler un chat un chat,i'm just not used to this whatever it is,to call a cat a cat,Good Translation,0.4623553,0.8755965,-0.41324124
+appeler un chat un chat,26,attendez soyons appelons un chat un chat,well now let's be let's call a spade a spade,wait let's call a cat a cat,Good Translation,0.7011231,0.83013463,-0.12901151
+appeler un chat un chat,27,écoute charlie appelons un chat un chat,look charlie let's just call a spade a spade,listen charlie let's call a cat a cat,Literal Translation,0.6856962,0.9071708,-0.22147459
+appeler un chat un chat,28,mais alors appelons un chat un chat,say it like it is,but then let's call a cat a cat,Good Translation,0.57842785,0.90845966,-0.3300318
+appeler un chat un chat,29,je veux dire appelons un chat un chat,i mean let's call it what it was,I mean let's call a spade a spade,Literal Translation,0.68120813,0.72079825,-0.03959012
+appeler un chat un chat,30,oh voyons parce que j'appelle un chat un chat,oh let's see because i call a cat a cat,oh come on because i call a cat a cat,Unnatural,0.9026711,0.8794188,0.023252308
+appeler un chat un chat,31,appelez un chat un chat pour une fois,why don't you try calling things by their name for once,call a cat a cat for once,Good Translation,0.65804905,0.9143592,-0.25631016
+appeler un chat un chat,32,appelez un chat un chat,why don't you just call it what it is okay,call a cat a cat,Good Translation,0.547812,0.8519515,-0.3041395
+appeler un chat un chat,33,c'est un pamphlet direct qui appelle un chat un chat,it's what a pamphlet is supposed to be straightforward no beating about the bush,it's a straightforward diatribe that calls a cat a cat,Good Translation,0.6438017,0.64570206,-0.0019003749
+appeler un chat un chat,34,appeler un chat un chat,-a fact is a fact,to call a cat a cat,Good Translation,0.50409913,0.8095226,-0.3054235
+appeler un chat un chat,35,appelons un chat un chat et tout ce qui suit,call a spade a spade and all that ordeal,let's call a cat a cat and let everything that follows be as it is,Unnatural,0.58096564,0.802242,-0.22127634
+appeler un chat un chat,36,- il faut appeler un chat un chat,- if the shoe fits,- you must call a cat a cat,Good Translation,0.5595758,0.88302326,-0.32344747
+appeler un chat un chat,37,derrière moi une maison vient de s'embraser et pour appeler un chat un chat c'est l'enfer,the house behindmejust explodedinto flames and to put it bluntly all hell is breaking loose,behind me a house has just caught fire and to call a spade a spade is hell,Literal Translation,0.7026421,0.7553116,-0.052669525
+appeler un chat un chat,38,moi j'appelle un chat un chat,i just used a crude word a spade's a spade,I call a cat a cat,Good Translation,0.55016327,0.80771255,-0.2575493
+appeler un chat un chat,39,faut appeler un chat un chat,let me just put the shit on out there ok,fosters a cat a cat,Literal Translation,0.5401943,0.62966394,-0.08946967
+appeler un chat un chat,40,ii faut appeler un chat un chat,it's like calling a spade a spade,it must be called a cat,Literal Translation,0.63040245,0.8211283,-0.19072586

@@ -1,0 +1,13 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+avoir le banane,0,bon avant de commencer est-ce que vous avez la banane,before we start are you all ready to jam,good before starting do you have a banana,Literal Translation,0.6647824,0.895443,-0.23066062
+avoir le banane,1,j'aurai la banane,i'll go bananas,I will have a banana.,Literal Translation,0.77456915,0.800511,-0.025941849
+avoir le banane,2,la centrifugeuse d'isotopes a la banane,the isotope centrifuge went bananas,"Banana separator or banana split, an early term for a device that separated isotopes of uranium",Mistranslation,0.7696655,0.6030935,0.16657197
+avoir le banane,3,il va avoir la banane,jakey'll go bananas,He is going to be the banana.,Literal Translation,0.7190695,0.8851437,-0.16607422
+avoir le banane,4,j'ai la banane,i've still got it pal,I have a banana,Literal Translation,0.554347,0.79574984,-0.24140286
+avoir le banane,5,je veux que tu aies la banane,if you want ice cream go nuts,I want you to have the banana.,Literal Translation,0.5822968,0.90512824,-0.32283145
+avoir le banane,6,j'ai la banane quand je suis avec elle,i can't help but smile when i'm around her,I have a banana when I'm with her,Literal Translation,0.69954854,0.9363934,-0.23684484
+avoir le banane,7,j'ai eu la banane,i got the banana,I had a banana.,Literal Translation,0.79505783,0.73751426,0.057543576
+avoir le banane,8,la creme a la banane est la première a partir,banana cream's the first to go,Banana cream is first out of them all.,Good Translation,0.8404653,0.8230471,0.017418206
+avoir le banane,9,d'ici un an tu auras adopté un bébé et tu auras la banane,a year from now you're going to adopt a kid and you're going to have a big fat smile on your face,In a year from now you will have adopted a baby and you'll be bananas,Unnatural,0.7807523,0.9141021,-0.13334978
+avoir le banane,10,ils vont avoir la banane,yeah they'll go bananas for that one,They are going to have a banana.,Literal Translation,0.79408073,0.89711666,-0.10303593
+avoir le banane,11,les gens doivent avoir la banane en te voyant,people have to be happy that you've arrived,people must have a banana when seeing you,Literal Translation,0.6963843,0.9191567,-0.22277236

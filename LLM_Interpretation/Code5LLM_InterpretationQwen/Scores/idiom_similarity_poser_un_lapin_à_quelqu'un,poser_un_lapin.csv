@@ -1,0 +1,3 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"poser un lapin à quelqu'un,poser un lapin",0,ce serait comme poser un lapin à quelqu'un au bal de fin d'année,it'd be like standing someone up for the prom,it would be like pulling someone's leg at the end-of-year dance,Mistranslation,0.68533945,0.75823116,-0.07289171
+"poser un lapin à quelqu'un,poser un lapin",1,tu as posé un lapin à quelqu'un récemmment,you stand anyone up lately,You recently pulled a fast one on someone,Mistranslation,0.6789116,0.68066424,-0.001752615

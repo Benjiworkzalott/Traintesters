@@ -1,0 +1,102 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+avoir le chair de poule,0,chaque fois que je pense au jour où on s'est rencontré j'ai la chair de poule,every time i think about the day we met i just get goosebumps all over again,"Every time I think about the day we met, I get goosebumps.",Good Translation,0.7767199,0.786363,-0.009643078
+avoir le chair de poule,1,j'ai la chair de poule andie,- this is really creepy andie,I get goosebumps andie,Good Translation,0.6094047,0.6488281,-0.039423406
+avoir le chair de poule,2,regardez comme j'en ai la chair de poule,i have goosepimples,look how goosebumps rise on my skin,Good Translation,0.5606045,0.5831335,-0.022529006
+avoir le chair de poule,3,depuis que je t'ai vue j'ai la chair de poule je dois te peindre,ever since i met you i've had a chill running up my spine,"since I saw you, I get goosebumps, I must paint you",Good Translation,0.6276318,0.7306808,-0.10304904
+avoir le chair de poule,4,chaque fois que je viens ici j'ai la chair de poule,every time i walk by here i get the creeps,"Every time I come here, I get goosebumps.",Good Translation,0.7846382,0.79584336,-0.011205137
+avoir le chair de poule,5,j'ai la chair de poule quand je vois le drapeau,i used to get goose bumps every time i looked at that flag,I get goosebumps when I see the flag,Good Translation,0.75793505,0.7940897,-0.036154628
+avoir le chair de poule,6,j'ai la chair de poule touche,i have goose bumps,I get goosebumps touched,Literal Translation,0.64607465,0.67420423,-0.028129578
+avoir le chair de poule,7,j'ai encore eu la chair de poule,i just got the chills again,I got goosebumps again,Good Translation,0.6925193,0.6933051,-0.00078576803
+avoir le chair de poule,8,pos192040j'ai la chair de poule rien que d'y penser,you make my skin crawl,I get goosebumps just thinking about it,Good Translation,0.5612544,0.6977937,-0.13653934
+avoir le chair de poule,9,j'ai vu des choses si effrayantes quej'en avais la chair de poule,some sights i saw were so spooky they gave me goose-pimples,I have seen such frightening things that I got goosebumps.,Good Translation,0.7628379,0.802946,-0.040108085
+avoir le chair de poule,10,j'ai la chair de poule rien qu'à t'en entendre parler,deano i'm getting the chills just hearing you talk about it,I get goosebumps just hearing you talk about it,Good Translation,0.77484596,0.7666641,0.00818187
+avoir le chair de poule,11,j'ai la chair de poule quand on est ensemble,my skin crawls being in the same room with him,I get goosebumps when we're together,Good Translation,0.69013417,0.77034736,-0.08021319
+avoir le chair de poule,12,j'ai la chair de poule sans être fan de hockey,i've got goosebumps i'm not even a hockey fan,I get goosebumps without being a hockey fan,Good Translation,0.75651234,0.763461,-0.00694865
+avoir le chair de poule,13,tu trembles t'as la chair de poule,you're shaking,you are shaking you have goosebumps,Good Translation,0.6466062,0.6404519,0.006154299
+avoir le chair de poule,14,j'ai la chair de poule dans le cou,the hair on the back of my neck's standing up,I get goosebumps on my neck,Good Translation,0.6096858,0.67050433,-0.060818553
+avoir le chair de poule,15,dis plutôt que j'en avais la chair de poule,if by uncomfortable you mean it made my skin crawl then yes,say rather that I had goosebumps,Good Translation,0.5420805,0.7518075,-0.20972699
+avoir le chair de poule,16,regarde comme j'ai la chair de poule,he's giving me the creeps,look how I get goosebumps,Good Translation,0.5649555,0.67190784,-0.10695237
+avoir le chair de poule,17,regarde j'en ai la chair de poule,look i've got goose bumps,"look, I get goosebumps",Good Translation,0.6397325,0.5885837,0.051148772
+avoir le chair de poule,18,- t'as la chair de poule,- you've got goosebumps,- you get goosebumps,Good Translation,0.61910546,0.5918684,0.027237058
+avoir le chair de poule,19,j'ai la chair de poule quand j'y pense,oh paul i get goose bumps every time i think about it,I get goosebumps when I think about it,Good Translation,0.77755797,0.76132023,0.016237736
+avoir le chair de poule,20,faites ce que vous aimez pour vous assurer ils ont la chair de poule quand ils le voient,do whatever you like to make sure they'll have goose bumps when they see it,do what you love to ensure they get goosebumps when they see it,Good Translation,0.81851834,0.79393995,0.024578393
+avoir le chair de poule,21,ça ne trompe pas j'ai la chair de poule,it's not my imagination i've got goose bumps,it doesn't deceive me; I get goosebumps,Good Translation,0.6321387,0.6554303,-0.023291588
+avoir le chair de poule,22,j'en ai la chair de poule où je me fais ces bleus,why do i keep getting these bruises,I get goosebumps where I get these bruises,Good Translation,0.55070496,0.5943931,-0.04368812
+avoir le chair de poule,23,elle a la chair de poule,she had goose pimples because she was cold,she gets the goosebumps,Good Translation,0.5792979,0.7194066,-0.1401087
+avoir le chair de poule,24,j'ai la chair de poule quand je te vois,every time i see you i get goose pimples,I get goosebumps when I see you,Good Translation,0.6578449,0.71484864,-0.057003736
+avoir le chair de poule,25,tout à coup j'ai eu si froid que j'en avais la chair de poule,i suddenly felt all chilled and goosebumpy too,all of a sudden I was so cold that I got goosebumps,Good Translation,0.7192389,0.795839,-0.076600134
+avoir le chair de poule,26,oh j'ai la chair de poule,oh i have goose bumps,oh I get the goosebumps,Unnatural,0.64590013,0.6418308,0.0040693283
+avoir le chair de poule,27,je peux avoir la chair de poule quand je veux vous voyez,i can make the hair on my arms stand up any time i want,I can get goosebumps whenever I want you to see.,Partial Translation,0.65212065,0.7174122,-0.065291524
+avoir le chair de poule,28,ahjussi j'ai la chair de poule,ahjussi i got goosebumps,ahjussi I get goosebumps,Good Translation,0.67353284,0.6748673,-0.0013344288
+avoir le chair de poule,29,je ne peux toujours pas écouter les eagles sans avoir la chair de poule,still can't listen to the eagles without getting the chills,I still get goosebumps every time I listen to The Eagles.,Good Translation,0.85778344,0.76098394,0.09679949
+avoir le chair de poule,30,laissez-lui le temps d'avoir la chair de poule,give him a little time let him enjoy his goose pimples,let him have the chicken skin,Good Translation,0.75056285,0.7313571,0.019205749
+avoir le chair de poule,31,oh bébé j'ai la chair de poule,nitro - oh baby i got the chills,oh baby I get goosebumps,Good Translation,0.6078502,0.65406525,-0.046215057
+avoir le chair de poule,32,j'ai la chair de poule - je sais,i just got chills,I get goosebumps - I know,Good Translation,0.5563828,0.7027496,-0.14636683
+avoir le chair de poule,33,regardez j'en ai la chair de poule,look at me look at me i've got goose bumps,"look, I get goosebumps",Good Translation,0.6621479,0.5933982,0.068749666
+avoir le chair de poule,34,j'en ai eu la chair de poule,boy that just gave me goosebumps,I got goosebumps,Good Translation,0.46066913,0.5487201,-0.08805099
+avoir le chair de poule,35,t'as la chair de poule t'es malade,you got the chills are you sick,you get goosebumps you're sick,Good Translation,0.6685575,0.6353013,0.033256233
+avoir le chair de poule,36,- j'ai eu la chair de poule,- i have chills - i hear the networks calling you,- I got goosebumps,Good Translation,0.5444403,0.6265929,-0.082152545
+avoir le chair de poule,37,alors elle me repousse mais je sais qu'elle a la chair de poule,she pushes me away then but i know she's getting goose pimples,then she pushes me away but I know she gets goosebumps,Good Translation,0.78898156,0.7749948,0.013986766
+avoir le chair de poule,38,j'avais la chair de poule,my skin was crawling,I got goosebumps,Good Translation,0.68175316,0.6583877,0.023365438
+avoir le chair de poule,39,je crois que j'ai la chair de poule,i think i'm getting hives,I think I'm getting goosebumps,Good Translation,0.69255656,0.6897109,0.002845645
+avoir le chair de poule,40,notre chantier passe en premier j'en ai la chair de poule,our own shipyard comes first it gave me goose pimples,our work takes precedence and it gives me goosebumps,Good Translation,0.69469965,0.71520007,-0.020500422
+avoir le chair de poule,41,regarde j'ai la chair de poule,look i've got goosebumps,"look, I'm getting goosebumps",Good Translation,0.63640136,0.605216,0.031185329
+avoir le chair de poule,42,ils étaient absolument incroyables j'ai la chair de poule à leur souvenir,i've gotten real goose bumps now because i can remember it,They were absolutely incredible; I get goosebumps at the memory of them,Good Translation,0.66049445,0.82140064,-0.1609062
+avoir le chair de poule,43,j'ai la chair de poule rien qu'en le sachant quelque part dans le coin,i get creeped out just knowing he's out there somewhere,I get goosebumps just thinking about it somewhere around there,Good Translation,0.7730706,0.74042773,0.03264284
+avoir le chair de poule,44,c'est trop j'ai la chair de poule,you're making all the hairs on my neck stand up,it's too scary I get goosebumps,Good Translation,0.52200234,0.641284,-0.11928165
+avoir le chair de poule,45,j'ai la chair de poule,i got goose bumps,I get goosebumps,Good Translation,0.6160995,0.5870537,0.02904576
+avoir le chair de poule,46,- vous avez la chair de poule,or do you have pimples,- you get goosebumps,Good Translation,0.63292694,0.6894029,-0.056475937
+avoir le chair de poule,47,- j'ai la chair de poule,- i'm getting the creeps,- I get goosebumps,Good Translation,0.6994746,0.6560703,0.04340428
+avoir le chair de poule,48,si j'avais des sentiments j'aurais la chair de poule,if i had any feelings - i'd have the chills right about now,"if I had feelings, I would get goosebumps",Good Translation,0.7364586,0.7521029,-0.015644312
+avoir le chair de poule,49,je suis le seul à avoir la chair de poule,is anyone else getting the creeps here,I am the only one to get goosebumps,Good Translation,0.5449893,0.7627505,-0.21776122
+avoir le chair de poule,50,non j'ai la chair de poule à cause de ta performance magnifique,no i got the chills from your magnificent performance,I get goosebumps because of your amazing performance,Good Translation,0.80463827,0.76121294,0.04342532
+avoir le chair de poule,51,c'est frannie qui a dit ça car j'ai eu la chair de poule,frannie said that 'cause i just got goosebumps,It was Frannie who said that because I got goosebumps,Good Translation,0.72562814,0.7680329,-0.04240477
+avoir le chair de poule,52,j'ai eu la chair de poule,i got goosebumps,I got goosebumps,Good Translation,0.57895374,0.5626713,0.01628244
+avoir le chair de poule,53,pendant une seconde j'ai eu la chair de poule,just for a second i was feeling all the hairs on the back of my neck,for a second I got goosebumps,Good Translation,0.71813947,0.7919408,-0.07380134
+avoir le chair de poule,54,- arrêtez j'en ai la chair de poule,you're making my flesh creep,- stop I get goosebumps,Good Translation,0.64107037,0.7120416,-0.07097125
+avoir le chair de poule,55,j'ai la chair de poule rien que d'y penser,look i'm getting goose bumps just thinking about it,I get goosebumps just thinking about it,Good Translation,0.79603064,0.78728867,0.008741975
+avoir le chair de poule,56,je crois que vous appelez ça avoir la chair de poule,i think the way you describe it is as if someone had just walked over my grave,I think you call that getting goosebumps,Good Translation,0.57775855,0.717711,-0.13995242
+avoir le chair de poule,57,si j'étais une fille j'aurais la chair de poule,now if i was a girl i'd get goose bumps with what you just brought,"if I were a girl, I would get goosebumps",Good Translation,0.70258915,0.71463764,-0.012048483
+avoir le chair de poule,58,j'ai la chair de poule quand je vous écoute,i get goose bumps when listening to you,I get goosebumps when I listen to you,Good Translation,0.77361286,0.7722107,0.0014021397
+avoir le chair de poule,59,bon j'ai la chair de poule,ok i just got goose bumps,I have goosebumps,Good Translation,0.6006992,0.5650971,0.035602093
+avoir le chair de poule,60,j'ai eu la chair de poule et ma bouche est devenue sèche de dégoût,the hair stood up on my arms and my mouth grew dry with disgust,I got goosebumps and my mouth became dry from disgust,Good Translation,0.7439368,0.7813649,-0.03742814
+avoir le chair de poule,61,j'en avais la chair de poule,he gave me goosebumps,I got goosebumps,Good Translation,0.6171246,0.65153337,-0.03440875
+avoir le chair de poule,62,tu as la chair de poule,you've got goosebumps,you get goosebumps,Unnatural,0.51146173,0.4981351,0.013326645
+avoir le chair de poule,63,il m'a hypnotisée j'avais la chair de poule,he hypnotised me and made me cluck like a chicken,He hypnosiszed me; I got goosebumps.,Good Translation,0.80214345,0.7902757,0.011867762
+avoir le chair de poule,64,j'ai la chair de poule chaque fois,i feel like dying each time you say it,I get goosebumps every time,Good Translation,0.7422004,0.779505,-0.03730464
+avoir le chair de poule,65,j'ai la chair de poule les amis,i have goose bumps people,I get goosebumps with my friends,Literal Translation,0.6689303,0.62353426,0.04539603
+avoir le chair de poule,66,j'ai la chair de poule tout d'un coup,oh someone just walked over my grave please,I got goosebumps all of a sudden,Good Translation,0.54201823,0.7498906,-0.20787239
+avoir le chair de poule,67,quelqu'un d'autre a la chair de poule,yeah anybody else getting the creeps,someone else gets the goosebumps,Good Translation,0.67839265,0.7503793,-0.071986675
+avoir le chair de poule,68,- c'est terrible j'en ai la chair de poule,i got goose bumps from it,- it's terrible I get goosebumps,Good Translation,0.64000434,0.73105514,-0.0910508
+avoir le chair de poule,69,ils avaient la chair de poule,it gave them goose bumps,they got goosebumps,Good Translation,0.6737143,0.7078346,-0.03412032
+avoir le chair de poule,70,- j'en ai la chair de poule,- i have goose bumps,- I get goosebumps,Good Translation,0.67504644,0.6267384,0.048308015
+avoir le chair de poule,71,j'en ai la chair de poule sur tout le corps,i got goose bumps and it continues down my spine,I get goosebumps all over my body,Good Translation,0.6225461,0.72306323,-0.100517154
+avoir le chair de poule,72,mais j'en ai la chair de poule,but it's so creepy,but I get goosebumps,Good Translation,0.6184505,0.65267015,-0.034219623
+avoir le chair de poule,73,j'en ai la chair de poule j'espère que cela ne créera pas d'ennui,i hope that will not create any trouble,I get goosebumps and I hope it doesn't create any hassle.,Good Translation,0.76154804,0.69870394,0.0628441
+avoir le chair de poule,74,mais crois-moi j'ai eu la chair de poule quand je t'ai vue,but please believe this one thing that thrill i felt when i saw you that was the honest truth,but believe me I got goosebumps when I saw you,Good Translation,0.651132,0.78052557,-0.12939358
+avoir le chair de poule,75,quand le navigator disparaîtra au loin j'aurai la chair de poule,when the navigator leaves it will send shivers down my spine,"when the navigator disappears in the distance, I'll get goosebumps",Good Translation,0.6913233,0.7529243,-0.061601043
+avoir le chair de poule,76,ce sont les heures de pratiquejane je commence à avoir la chair de poule à les regarder pete,boy i can't wait to go on vacation and have tons of sex,"These are the practice hours Jane, I start getting goosebumps just watching Pete",Partial Translation,0.4129473,0.80919087,-0.39624357
+avoir le chair de poule,77,génial j'en ai la chair de poule,this is cool i have goose bumps,awesome I get goosebumps,Good Translation,0.6275846,0.6475574,-0.019972801
+avoir le chair de poule,78,j'en avais la chair de poule,i had goose bumps,I got goosebumps,Good Translation,0.68459105,0.65153337,0.03305769
+avoir le chair de poule,79,regarde les mannequins ont la chair de poule,look the models have goose bumps,look at the models getting the goosebumps,Good Translation,0.75774276,0.73939896,0.018343806
+avoir le chair de poule,80,j'en ai la chair de poule pour être franc,i've got goose bumps frankly,I get goosebumps to be frank,Good Translation,0.6723885,0.6785525,-0.0061640143
+avoir le chair de poule,81,j'en ai la chair de poule,creepy,I get goosebumps,Good Translation,0.49564645,0.563028,-0.06738153
+avoir le chair de poule,82,addie a la chair de poule brrr,addie has goose bumps,Addie got goosebumps brrr,Good Translation,0.6244948,0.6497847,-0.025289893
+avoir le chair de poule,83,ca vous arrive d'avoir la chair de poule,you ever feel the prickly things on the back of your neck,Do you get goosebumps?,Good Translation,0.57818145,0.51395667,0.06422478
+avoir le chair de poule,84,j'ai la chair de poule,goose bumps,I get goosebumps,Good Translation,0.44472176,0.5870537,-0.14233196
+avoir le chair de poule,85,j'avais la chair de poule mais sous la peau,like ripples under my skin,I had goosebumps but underneath,Unnatural,0.7288286,0.77195776,-0.043129146
+avoir le chair de poule,86,t'as la chair de poule,-you've got goose bumps,you get goosebumps,Good Translation,0.5941229,0.53945935,0.05466354
+avoir le chair de poule,87,j'angoisse d'avoir la chair de poule,i' m concerned about goose bumps,I get goosebumps and feel anxious,Good Translation,0.7094008,0.68443745,0.02496332
+avoir le chair de poule,88,elle lui ressemble tellement que j'en ai eu la chair de poule,she looks so much like her that it gives me goosebumps,She resembles her so much that I got goosebumps.,Good Translation,0.86004615,0.87431616,-0.014270008
+avoir le chair de poule,89,vous avez la chair de poule,got creepy,you get goosebumps,Good Translation,0.6095381,0.6653236,-0.055785537
+avoir le chair de poule,90,- moi j'en ai la chair de poule,and i've got goose bumps,- I get goosebumps,Good Translation,0.6275966,0.6196426,0.007954001
+avoir le chair de poule,91,j'avais la chair de poule quand je la voyais,i just saw it and got goose bumps,I got goosebumps when I saw her.,Good Translation,0.7259515,0.772164,-0.046212494
+avoir le chair de poule,92,j'ai même eu la chair de poule,i actually got goose bumps that time,I even got goosebumps,Good Translation,0.6925614,0.73038596,-0.03782457
+avoir le chair de poule,93,j'ai la chair de poule sur les bras,goosies on my arms look at my arm hair,I get goosebumps on my arms,Good Translation,0.65741396,0.6984643,-0.041050315
+avoir le chair de poule,94,elle a la chair de poule,she gets goose bumps,she gets the goosebumps,Unnatural,0.70782024,0.7194066,-0.011586368
+avoir le chair de poule,95,j'ai eu la chair de poule toute la nuit,so sick,I got goosebumps all night,Good Translation,0.5955143,0.7883244,-0.19281012
+avoir le chair de poule,96,j'en ai la chair de poule,- gives me the creeps to be honest - yeah,I get goosebumps,Good Translation,0.5105661,0.563028,-0.052461863
+avoir le chair de poule,97,regarde j'en ai la chair de poule,look i got freakin' goose bumps,"look, I get goosebumps",Good Translation,0.5961933,0.5885837,0.007609606
+avoir le chair de poule,98,j'ai la chair de poule mais je ne sais pas pourquoi,something gives me goose pimples but i don't know what it is,I get goosebumps but I don't know why,Good Translation,0.69768006,0.7248137,-0.027133644
+avoir le chair de poule,99,regardez j'en ai la chair de poule,look look goosebumps,"look, I get goosebumps",Good Translation,0.57336396,0.5933982,-0.020034254
+avoir le chair de poule,100,ah la vache j'en ai la chair de poule,oh my god i got goose bumps,ah wow I get goosebumps,Good Translation,0.5768583,0.5617137,0.015144587

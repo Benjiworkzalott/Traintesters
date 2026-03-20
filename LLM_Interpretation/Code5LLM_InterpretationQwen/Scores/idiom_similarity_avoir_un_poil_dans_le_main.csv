@@ -1,0 +1,4 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+avoir un poil dans le main,0,il a un poil dans la main,that boy is scared of working he ain't done a lick of work in his life,he has a bone in his hand,Literal Translation,0.54429084,0.82280284,-0.278512
+avoir un poil dans le main,1,surtout ceux qui ont un poil dans la main ils préfèrent rester assis et manger des fruits,they're just too idle to work,especially those who have a hair in their hand they prefer to sit and eat fruits,Literal Translation,0.55158204,0.9056927,-0.35411066
+avoir un poil dans le main,2,et toi aussi mon petit mattis tu pourrais aider mais tu as un poil dans la main,what about you little mattis you could lend a hand too,"and you too my little mattis, you could help but you have a hair in your hand",Unnatural,0.8574035,0.92636204,-0.06895852

@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"être canon,être en train de",0,tu es en train de dire que ta sœur est canon,what a freak you're going to hell man,You're saying your sister is hot.,Literal Translation,0.47688606,0.77110505,-0.294219

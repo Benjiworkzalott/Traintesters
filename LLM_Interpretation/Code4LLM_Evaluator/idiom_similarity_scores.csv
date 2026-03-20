@@ -1,0 +1,11 @@
+idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+0,ils avaient des brosses impeccables - ah la vache,- and your grandfathers,they had impeccable brushes - oh my goodness,Literal Translation,0.46272504,0.8718528,-0.40912777
+1,ah la vache il l'a pas volé,he sure had it coming,ah the cow he didn't steal it,Literal Translation,0.5388988,0.83131194,-0.29241312
+2,ah la vache,bloody hell,ah man,Unnatural,0.4752481,0.64371043,-0.16846234
+3,salut ah la vache ils sont costauds ceux-là,oh my god who's winning so far,hello oh my god they are tough those ones,Partial Translation,0.5194142,0.667058,-0.1476438
+4,ah la vache,- holy moly,oh my goodness,Good Translation,0.49057603,0.5549557,-0.06437969
+5,ah la vache,holy cow,oh my goodness,Unnatural,0.49402595,0.5549557,-0.060929775
+6,ah la vache c'est le saumon,it's the salmon guy,ah the heck that's salmon,Literal Translation,0.66538036,0.7456407,-0.08026034
+7,ah la vache on a un fax de l'ij,it's a fax from forensics,ah la vache we have anfax from ij,Partial Translation,0.75026435,0.80778205,-0.057517707
+8,ah la vache,- attention - oh boy,oh my goodness,Unnatural,0.4668907,0.5549557,-0.08806503
+9,- d'accord d'accord ah la vache,all right all right all right,- okay okay oh my goodness,Good Translation,0.58100814,0.56462765,0.016380489

@@ -1,0 +1,51 @@
+idiom_id,text,type,variation,cosine_distance_to_eng,x,y,idiom_id_label
+0,ils avaient des brosses impeccables - la vache,french_variation,deleted_ah,0.8145813345909119,4.932942,31.343193,ID_000
+0,ils avaient des brosses impeccables - ah vache,french_variation,deleted_la,0.8041625916957855,4.553609,31.26245,ID_000
+0,ils avaient des brosses impeccables - ah la,french_variation,deleted_vache,0.6953611373901367,4.349593,31.071926,ID_000
+0,- and your grandfathers,english_ref,english,,5.519927,27.308819,ID_000
+0,ils avaient des brosses impeccables - ah la vache,french_variation,original,0.7972242832183838,4.747426,31.151052,ID_000
+1,la vache il l'a pas volé,french_variation,deleted_ah,0.7279695272445679,7.115489,27.998276,ID_001
+1,ah vache il l'a pas volé,french_variation,deleted_la,0.6911534667015076,7.049155,28.0882,ID_001
+1,ah la il l'a pas volé,french_variation,deleted_vache,0.6371118128299713,7.1477795,27.656366,ID_001
+1,he sure had it coming,english_ref,english,,6.568604,26.791462,ID_001
+1,ah la vache il l'a pas volé,french_variation,original,0.6974716484546661,6.8288875,28.264938,ID_001
+2,la vache,french_variation,deleted_ah,0.7458026111125946,5.741192,30.749178,ID_002
+2,ah vache,french_variation,deleted_la,0.4989457130432129,6.6095443,29.994343,ID_002
+2,ah la,french_variation,deleted_vache,0.5543009638786316,6.256316,25.593964,ID_002
+2,bloody hell,english_ref,english,,7.0481143,30.26444,ID_002
+2,ah la vache,french_variation,original,0.6797817349433899,6.306089,30.916986,ID_002
+3,salut la vache ils sont costauds ceux-là,french_variation,deleted_ah,0.7071384489536285,5.4013367,28.47701,ID_003
+3,salut ah vache ils sont costauds ceux-là,french_variation,deleted_la,0.6857761740684509,5.6726885,28.128395,ID_003
+3,salut ah la ils sont costauds ceux-là,french_variation,deleted_vache,0.6163192689418793,5.4230266,26.920258,ID_003
+3,oh my god who's winning so far,english_ref,english,,5.52258,26.389826,ID_003
+3,salut ah la vache ils sont costauds ceux-là,french_variation,original,0.7096369862556458,5.566487,28.708393,ID_003
+4,la vache,french_variation,deleted_ah,0.6646436154842377,5.656329,30.566874,ID_004
+4,ah vache,french_variation,deleted_la,0.5075645446777344,6.8977466,30.622948,ID_004
+4,ah la,french_variation,deleted_vache,0.5689619481563568,5.8399367,25.68877,ID_004
+4,- holy moly,english_ref,english,,6.5730276,29.336124,ID_004
+4,ah la vache,french_variation,original,0.5934821665287018,5.874798,30.020134,ID_004
+5,la vache,french_variation,deleted_ah,0.20549190044403076,5.566401,30.94716,ID_005
+5,ah vache,french_variation,deleted_la,0.2654828429222107,6.581623,30.792389,ID_005
+5,ah la,french_variation,deleted_vache,0.5642713606357574,6.068836,25.43259,ID_005
+5,holy cow,english_ref,english,,6.122019,30.171648,ID_005
+5,ah la vache,french_variation,original,0.18902617692947388,6.1809874,30.4583,ID_005
+6,la vache c'est le saumon,french_variation,deleted_ah,0.31259655952453613,3.8670814,29.761272,ID_006
+6,ah vache c'est le saumon,french_variation,deleted_la,0.2553286552429199,3.6906826,30.163334,ID_006
+6,ah la c'est le saumon,french_variation,deleted_vache,0.20188158750534058,3.29354,29.65047,ID_006
+6,it's the salmon guy,english_ref,english,,3.4767723,29.800205,ID_006
+6,ah la vache c'est le saumon,french_variation,original,0.2762247920036316,3.7616284,29.835678,ID_006
+7,la vache on a un fax de l'ij,french_variation,deleted_ah,0.5883745551109314,4.8834496,29.11234,ID_007
+7,ah vache on a un fax de l'ij,french_variation,deleted_la,0.44019532203674316,4.563901,28.28621,ID_007
+7,ah la on a un fax de l'ij,french_variation,deleted_vache,0.3935350179672241,4.4563274,27.627092,ID_007
+7,it's a fax from forensics,english_ref,english,,4.63965,27.934576,ID_007
+7,ah la vache on a un fax de l'ij,french_variation,original,0.5834343433380127,4.8999176,28.675488,ID_007
+8,la vache,french_variation,deleted_ah,0.6613777577877045,5.30443,30.421858,ID_008
+8,ah vache,french_variation,deleted_la,0.4703837037086487,6.814475,30.305462,ID_008
+8,ah la,french_variation,deleted_vache,0.4685697555541992,6.0520067,25.751764,ID_008
+8,- attention - oh boy,english_ref,english,,6.1004586,26.099216,ID_008
+8,ah la vache,french_variation,original,0.5855222940444946,5.9644914,30.88116,ID_008
+9,- d'accord d'accord la vache,french_variation,deleted_ah,0.518539696931839,5.927712,29.045393,ID_009
+9,- d'accord d'accord ah vache,french_variation,deleted_la,0.43342697620391846,6.0613937,28.71001,ID_009
+9,- d'accord d'accord ah la,french_variation,deleted_vache,0.28138023614883423,6.4688067,25.909666,ID_009
+9,all right all right all right,english_ref,english,,6.63776,26.331581,ID_009
+9,- d'accord d'accord ah la vache,french_variation,original,0.49101048707962036,5.6247315,29.140453,ID_009

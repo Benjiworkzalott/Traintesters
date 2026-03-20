@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"tenir à le courant,jeter un coup de oeil",0,on jette un coup d'oeil et on te tient au courant,we'll take a look and get back to you,we take a look and keep you informed,Good Translation,0.74451,0.8857515,-0.14124149

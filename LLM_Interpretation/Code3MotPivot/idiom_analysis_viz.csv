@@ -1,0 +1,708 @@
+idiom_id,text,type,variation,cosine_distance_to_eng,x,y
+0,and now a young lady who goes to third base faster than rickey henderson my sister roberta tubbs,english_ref,english,,19.883251,4.6256614
+1,becca there is no easy way to say this,english_ref,english,,9.762066,5.835169
+2,let's cut to the chase shall we,english_ref,english,,6.869834,7.6456757
+3,all right so let's cut to the chase,english_ref,english,,6.8997254,7.6243677
+4,you don't mind if we uh jump right in,english_ref,english,,0.26695922,16.234749
+5,indeedgentlemenlet me c to the chase,english_ref,english,,7.1113167,7.0486
+6,well i i'll get right on that,english_ref,english,,8.55009,4.1546254
+7,straightforward question,english_ref,english,,6.4873443,9.826114
+8,therefore i shall get straight to the point,english_ref,english,,7.6876016,6.713724
+9,focus keep it simple,english_ref,english,,8.621135,9.149937
+10,now you all know me so i'll just say this as simple as i can,english_ref,english,,10.37959,2.5988798
+11,should we get right to it captain,english_ref,english,,6.7192936,10.322669
+12,we're gonna keep this simple,english_ref,english,,6.797687,9.850807
+13,look can we just cut to the chase here,english_ref,english,,6.871314,7.742816
+14,let me cut to the chase i hear you can't get a date for the winter formal,english_ref,english,,16.914845,11.369588
+15,ok let's get something straight,english_ref,english,,6.0939155,9.93796
+16,this way they can advance all the way home on just one move,english_ref,english,,4.3471584,18.669415
+17,well might be a little harsh but i think it makes a point,english_ref,english,,-5.2270713,-7.832599
+18,well let's get right to it then cyrus meet sanders black,english_ref,english,,12.838107,-14.245653
+19,don't make any long explanations and just get to the point,english_ref,english,,-6.4738197,5.8503604
+20,wellif you drill it downit means the company knew asbestos was causing cancer,english_ref,english,,-8.196419,-10.24488
+21,get to the point mr morelli,english_ref,english,,7.3763337,9.876237
+22,then i'm gonna have to sort of condense this maybe make it more of a bullet-point thing,english_ref,english,,6.9894285,-2.2523596
+23,why don 't we cut the crap and talk straight,english_ref,english,,5.4072266,8.121279
+24,let's cut through the facade agent burke,english_ref,english,,14.273799,5.689429
+25,way to get right to the point dad quinn laughing,english_ref,english,,-6.5604224,-6.0514507
+26,i just thought we might expedite,english_ref,english,,2.6545115,0.46468702
+27,since you're busy i will just get to the point,english_ref,english,,-3.074627,0.097289525
+28,pleasantries out of the way let's get down to the heart of the matter,english_ref,english,,-0.5488599,5.0878696
+29,that's my girl straight and to the point,english_ref,english,,2.2500849,14.247645
+30,so if you went straight to the point,english_ref,english,,1.7780828,10.445317
+31,there's no plot in these things any more just straight in there,english_ref,english,,13.8203745,-7.8543
+32,louise is holding dinner for me so let's have it,english_ref,english,,17.154678,17.938745
+33,while i'd love to go on trading jabs with you spike perhaps i'll come to the point,english_ref,english,,1.5391794,-7.9104795
+34,you look like a man who likes to get right to the point,english_ref,english,,0.25861818,11.303222
+35,the plant is wonderful but can we get straight to business,english_ref,english,,17.030544,18.619822
+36,well lets get to it,english_ref,english,,6.640391,10.645629
+37,we can just get right to the point milo,english_ref,english,,6.93638,11.947403
+38,so anyway let's get to the point of it and that right,english_ref,english,,7.0568914,11.271556
+39,so anyways let's get down to the nitty-gritty,english_ref,english,,6.2727847,10.314578
+40,- he gets right to the point - hi honey,english_ref,english,,0.42325157,-2.4143057
+41,-can we get to the point here,english_ref,english,,7.1592393,9.180563
+42,let's cut to the chase where's the dope,english_ref,english,,6.824184,7.740139
+43,people are starting to look so let's just move it along okay,english_ref,english,,6.0992393,10.5844345
+44,just cut to the chase,english_ref,english,,6.9350867,7.52921
+45,let's get on to the important stuff - the raffle,english_ref,english,,9.426916,15.394842
+46,miss walker i know you're busy so let's-- let's get uh right to the nitty-gritty,english_ref,english,,-2.776391,0.3721148
+47,may i as you say in america cut right to the chase professor,english_ref,english,,6.9285893,7.538132
+48,okay you already know me and i already know you so why don't we not play any games and you can start by telling me why you're here,english_ref,english,,-13.480602,11.571197
+49,i'll be at your side despite your insults a revolutionary aims straight to the goal at all costs,english_ref,english,,24.929386,2.0227838
+50,- straight to the point,english_ref,english,,6.2398767,9.746494
+51,honey sometimes it's not the most perfect timing to get straight to the point,english_ref,english,,-0.7604869,4.8778048
+52,but why don't we just cut to the chase then and see if this doesn't have connie's dna on it,english_ref,english,,-2.6846006,-4.190359
+53,i'm gonna get right to the point jack,english_ref,english,,-1.2259128,14.441699
+54,- hey let me cut to the chase,english_ref,english,,7.0386763,7.279933
+55,makes it easy to get to the point,english_ref,english,,5.6100593,10.640455
+56,skip the small talk ask the questions that really matter to you and your match may be here,english_ref,english,,1.5037813,-7.873434
+57,all right let's get to it when and where,english_ref,english,,6.5563326,10.646734
+58,all bullshit aside sister i want god to pick me,english_ref,english,,3.6144347,4.370536
+59,toby if you have something to say please say it,english_ref,english,,-3.719561,-12.629997
+60,well i'll get right to it,english_ref,english,,8.412892,4.223304
+61,e let's just cut to the chase,english_ref,english,,6.899604,7.615543
+62,let's cut to the chase so we can all get out of here and go home okay,english_ref,english,,4.5642276,17.807463
+63,but if you need something you should let me know,english_ref,english,,11.469411,2.4396243
+64,um i guess i should just uh jump right into this,english_ref,english,,8.466224,4.8665395
+65,let me get this straight,english_ref,english,,6.1052985,9.87955
+66,let's cut the bullshit then is this because she's black,english_ref,english,,21.351294,10.602859
+67,she knows what she wants and she asks for it,english_ref,english,,-6.4677515,23.480316
+68,- tessa let me just cut to the chase,english_ref,english,,6.9787197,7.378127
+69,well you walked right into that one,english_ref,english,,-0.5906917,11.270429
+70,well let's hash it out,english_ref,english,,6.2524395,10.236885
+71,how about we get to the point of this exercise,english_ref,english,,8.635346,9.113812
+72,larry i want to get right to the point,english_ref,english,,7.8570204,6.629176
+73,let me cut to the chase,english_ref,english,,7.018711,7.2757626
+74,since you know everything let's get to the bottom line,english_ref,english,,0.30559584,9.257465
+75,you're a very busy man clearly so we'll get right to the point,english_ref,english,,0.9985263,-2.8989828
+76,you go right at a thing,english_ref,english,,0.6232746,10.889491
+77,uh getting right to the point we have an eye on one of your students,english_ref,english,,20.54832,15.439013
+78,just call someone a hippie and get to the point,english_ref,english,,12.831331,-0.9067475
+79,and judging by your looks i'm just gonna get right to it,english_ref,english,,8.444131,1.3534636
+80,i thought you brought me here because we were gonna cut through the bullshit,english_ref,english,,2.970979,0.7503155
+81,i know your time's precious so i'll get to the point,english_ref,english,,6.537014,-10.064149
+82,i can't believe this you go right for the jugular don't you,english_ref,english,,-10.720714,-6.681868
+83,you get right to it don't you,english_ref,english,,0.6423884,10.853564
+84,- you read a lot of his stuff,english_ref,english,,0.7024651,-2.6496716
+85,all right mom let's just cut to the chase and then maybe we can salvage rebecca's birthday party please,english_ref,english,,-0.38803512,25.450888
+86,amber i'm just going to go ahead and cut to chase here,english_ref,english,,0.64424086,-6.3560276
+87,may i suggest that we dispense with the amenities and go directly to your patio,english_ref,english,,17.10932,18.03952
+88,obviously we have a lot to discuss so i think we should just jump in,english_ref,english,,4.454926,7.9449234
+89,get to the point spock if there is one,english_ref,english,,18.045477,7.602936
+90,-yeah -let's broach the elephant in the room -right,english_ref,english,,6.141517,9.921655
+91,i thought you were getting to the point,english_ref,english,,0.19327155,11.293735
+92,norma maybe just cut to the point,english_ref,english,,9.981765,21.742542
+93,i didn't wanna bullshit him,english_ref,english,,0.26562312,16.23742
+94,so what say we get to it,english_ref,english,,6.7329373,10.683541
+95,just get them together and give it to them straight,english_ref,english,,4.1407957,12.5796175
+96,let that be talk about cash money,english_ref,english,,0.24740948,1.7884339
+97,you jump right in don't you,english_ref,english,,0.69540066,10.998725
+98,- all of our music is really so symbolic rather than direct to the point you know,english_ref,english,,4.2320185,8.160685
+99,no i want to get right to the point and get the hell out of here,english_ref,english,,17.06797,-3.7105978
+100,'cause you know i'm here to take that call,english_ref,english,,10.370289,2.6086102
+0,et maintenant une jeune femme qui va droit au but ma sœur roberta tubbs,french_variation,original,0.3504519462585449,19.9271,4.668718
+1,rebecca je je vais aller droit au but,french_variation,original,0.4902125597000122,9.769086,5.822496
+2,allons droit au but veux-tu,french_variation,original,0.3257099390029907,1.6760519,10.198144
+3,allons droit au but,french_variation,original,0.3321727514266968,6.705019,17.536892
+4,ça ne vous dérange pas si on va droit au but,french_variation,original,0.21320569515228271,0.27346042,16.24614
+5,de fait messieurs je vais aller droit au but,french_variation,original,0.37490642070770264,6.5477943,2.6847498
+6,je vais aller droit au but,french_variation,original,0.2956881523132324,8.787405,4.244398
+7,c'est une question qui va droit au but,french_variation,original,0.5763267278671265,15.496268,9.56408
+8,c'est pourquoi messieurs je vais aller droit au but,french_variation,original,0.3387739062309265,6.3677287,2.4935882
+9,concentre-toi et va droit au but,french_variation,original,0.3093414902687073,8.727243,9.15472
+10,vous me connaissez alors je vais aller droit au but,french_variation,original,0.3994588851928711,10.351972,2.6322787
+11,vouiez-vous aller droit au but,french_variation,original,0.583433985710144,1.7159567,10.363192
+12,nous allons aller droit au but,french_variation,original,0.5286340415477753,6.8375473,11.96827
+13,est-ce qu'on peut aller droit au but,french_variation,original,0.2634613513946533,7.1134987,9.143121
+14,je vais aller droit au but tu es seul pour la soirée de noël non,french_variation,original,0.38846880197525024,16.9083,11.363196
+15,très bien allons droit au but,french_variation,original,0.5406605005264282,16.140532,1.2959477
+16,de cette manière ils iront droit au but en un seul coup,french_variation,original,0.36985719203948975,4.372775,18.728216
+17,eh bien c'est brutal mais ça va droit au but,french_variation,original,0.3382629156112671,-5.2551184,-7.803034
+18,bon allons droit au but alorscyrus je te présente sanders black,french_variation,original,0.24121415615081787,12.845466,-14.253054
+19,ne me sors pas une longue explication et va droit au but,french_variation,original,0.1946946382522583,-6.4898944,5.866329
+20,eh bien allons droit au but ça signifie que l'entreprise savait que l'amiante provoquait le cancer,french_variation,original,0.23785245418548584,-8.2118845,-10.229655
+21,allez droit au but,french_variation,original,0.5605459213256836,6.6092134,17.48402
+22,alors je vais résumer ça et aller droit au but,french_variation,original,0.4005547761917114,6.9895406,-2.2560623
+23,si on allait droit au but,french_variation,original,0.615562379360199,3.8099744,8.77552
+24,allons droit au but agent burke,french_variation,original,0.22658896446228027,14.287914,5.675449
+25,tu vas droit au but papa,french_variation,original,0.4604930877685547,-6.5307565,-6.020579
+26,je pensais juste qu'on pourrait aller droit au but,french_variation,original,0.2321186065673828,2.7144449,0.51763034
+27,je sais que vous êtes occupée aussi je vais aller droit au but,french_variation,original,0.16205132007598877,-3.0663137,0.10629405
+28,trêve de plaisanteries allons droit au but,french_variation,original,0.5520230531692505,9.578927,15.468264
+29,tu es bien ma fille tu vas droit au but,french_variation,original,0.38436686992645264,2.2569282,14.246079
+30,alors si t'allais droit au but,french_variation,original,0.2740079164505005,12.910493,6.603047
+31,il y a aucune intrigue de nos jours ça va droit au but,french_variation,original,0.4058988094329834,13.817559,-7.8573637
+32,louise m'attend pour dîner allons droit au but,french_variation,original,0.18939971923828125,17.136705,17.987053
+33,j'adorerais me battre avec toi mais je préfère aller droit au but,french_variation,original,0.3424680233001709,1.5415845,-7.9130917
+34,vous semblez aller droit au but,french_variation,original,0.3229144215583801,0.25820506,11.268264
+35,votre usine est remarquable mais puis-je aller droit au but,french_variation,original,0.528533399105072,-7.4358354,0.6559388
+36,bon allons droit au but,french_variation,original,0.3811781406402588,6.6166954,16.779175
+37,je vais aller droit au but milo,french_variation,original,0.47324180603027344,7.768754,4.95617
+38,bon allons droit au but d'accord,french_variation,original,0.33137625455856323,-0.20329198,5.443137
+39,enfin bref allons droit au but,french_variation,original,0.4151703715324402,5.2779746,10.795764
+40,il va droit au but,french_variation,original,0.38330531120300293,9.220087,11.018238
+41,- on peut aller droit au but,french_variation,original,0.23777103424072266,6.9135966,9.483327
+42,allons droit au but où est la drogue,french_variation,original,0.4800071716308594,4.429095,-12.86585
+43,les gens commencent à s'interroger alors va droit au but d'accord,french_variation,original,0.42479944229125977,5.270084,7.7851415
+44,- allons droit au but,french_variation,original,0.39873790740966797,6.0977645,9.423094
+45,maintenant allons droit au but - le tirage au sort,french_variation,original,0.4783613681793213,9.022744,15.268813
+46,vous êtes très occupée alors allons droit au but,french_variation,original,0.30427074432373047,-2.5544727,0.5678829
+47,puis-je comme on dit chez vous aller droit au but professeur,french_variation,original,0.4550856351852417,-6.702218,9.216495
+48,nous nous connaissons alors allons droit au but et dites pourquoi vous êtes ici,french_variation,original,0.45871371030807495,-13.451007,11.541598
+49,je serai à vos côtés malgré vos insultes parce qu'un révolutionnaire va droit au but coûte que coûte,french_variation,original,0.12289607524871826,24.918993,2.0341308
+50,- tu vas droit au but,french_variation,original,0.3147357702255249,0.40722725,10.479997
+51,chéri il vaut parfois mieux éviter d'aller droit au but,french_variation,original,0.32065635919570923,-0.7581948,4.8798842
+52,mais allons droit au but et voyons s'il n'y a pas de l'adn de connie dessus,french_variation,original,0.31751930713653564,-2.6522431,-4.158
+53,je vais aller droit au but jack,french_variation,original,0.11114203929901123,-1.2087729,14.462839
+54,- je vais aller droit au but,french_variation,original,0.2983328104019165,8.662315,4.129361
+55,j'irais droit au but,french_variation,original,0.6012787222862244,-12.407647,7.1219983
+56,laissez tomber les formalités allez droit au but votre idéal est peut-être ici,french_variation,original,0.5795389413833618,8.353196,21.333096
+57,d'accord allons droit au but,french_variation,original,0.32881635427474976,7.041555,11.450047
+58,pour aller droit au but ma soeur je veux que dieu me choisisse,french_variation,original,0.3583037853240967,3.5801625,4.3369613
+59,toby allez droit au but je vous en prie,french_variation,original,0.3240138292312622,-3.7236001,-12.613223
+60,bien j'irais droit au but,french_variation,original,0.3434377908706665,-12.37954,7.094878
+61,e allons droit au but,french_variation,original,0.36028730869293213,6.9780874,12.258037
+62,allons droit au but qu'on puisse vite rentrer chez nous,french_variation,original,0.19060832262039185,4.5272136,17.864065
+63,si tu veux quelque chose va droit au but,french_variation,original,0.43023598194122314,11.508238,2.4194694
+64,je devrais aller droit au but,french_variation,original,0.2798677682876587,8.548218,4.946453
+65,laisse-moi aller droit au but,french_variation,original,0.40910547971725464,7.2504964,6.6863484
+66,allons droit au but est-ce parce qu'elle est noire,french_variation,original,0.30101752281188965,21.369669,10.62086
+67,elle sait ce qu'elle veut et va droit au but,french_variation,original,0.1471012830734253,-6.44055,23.452967
+68,tessa je vais aller droit au but,french_variation,original,0.37518465518951416,8.745671,4.253257
+69,eh bien tu es allé droit au but avec celle-la,french_variation,original,0.23203957080841064,-0.6178008,11.313092
+70,bien allons droit au but,french_variation,original,0.4277592897415161,6.670764,17.483633
+71,si vous alliez droit au but entendu,french_variation,original,0.5839376151561737,11.25371,-2.1838927
+72,larry je vais aller droit au but,french_variation,original,0.3715860843658447,9.392818,4.815324
+73,permettez-moi d'aller droit au but,french_variation,original,0.24402838945388794,7.2560973,6.704773
+74,si vous êtes au courant de tout allons droit au but,french_variation,original,0.37065351009368896,0.18011802,9.07639
+75,vous êtes un homme très occupé clairement alors nous allons droit au but,french_variation,original,0.10657608509063721,0.97512656,-2.8772047
+76,tu vas droit au but,french_variation,original,0.25777649879455566,0.8028781,11.194828
+77,pour aller droit au but on s'intéresse à un de vos élèves,french_variation,original,0.19276994466781616,20.592176,15.39554
+78,insulte-les de hippies et va droit au but,french_variation,original,0.19475781917572021,12.857121,-0.88162893
+79,et à en juger par vos regards je vais aller droit au but,french_variation,original,0.31652700901031494,8.4286,1.3573362
+80,je croyais qu'on irait droit au but,french_variation,original,0.3384867310523987,2.8935559,0.6823761
+81,je sais que votre temps est précieux donc je vais aller droit au but,french_variation,original,0.13355553150177002,6.536862,-10.063964
+82,je ne peux y croire vous allez droit au but n'est-ce pas,french_variation,original,0.38546574115753174,-10.7121725,-6.6733665
+83,vous allez droit au but,french_variation,original,0.33486151695251465,0.747271,11.234761
+84,- j'aime qu'il aille droit au but,french_variation,original,0.5636803507804871,0.40911573,-2.4037304
+85,bon maman allons droit au but et essayons de sauver l'anniversaire de rebecca,french_variation,original,0.1077541708946228,-0.4035022,25.466362
+86,amber je vais aller droit au but,french_variation,original,0.22260749340057373,0.6418188,-6.35506
+87,allons droit au but et passons au jardin,french_variation,original,0.4703516960144043,16.994429,18.599178
+88,nous avons beaucoup à nous dire allons droit au but,french_variation,original,0.38281750679016113,4.320356,8.030372
+89,allez droit au but s'il y en a un,french_variation,original,0.24388325214385986,18.083004,7.578549
+90,allons droit au but,french_variation,original,0.6023884415626526,6.6859026,17.545532
+91,c'est aller droit au but ça,french_variation,original,0.42497730255126953,7.447056,10.919258
+92,normal allez droit au but,french_variation,original,0.41513365507125854,9.971484,21.731638
+93,j'allai droit au but,french_variation,original,0.6668063998222351,7.3780875,3.972869
+94,donc si on allait droit au but,french_variation,original,0.3400508165359497,3.808652,8.7794
+95,réunissez-les et allez droit au but,french_variation,original,0.4439812898635864,4.100347,12.619368
+96,allons droit au but parlons argent,french_variation,original,0.2084171175956726,0.22487642,1.8122916
+97,vous allez droit au but moi aussi,french_variation,original,0.4290119409561157,8.6507635,-3.401293
+98,elle va droit au but,french_variation,original,0.6996437311172485,9.196796,10.996532
+99,non je veux aller droit au but et me tailler d'ici au plus vite,french_variation,original,0.27018165588378906,17.086596,-3.728005
+100,j'en ai marre de jouer au chat et à la souris j'ai faith pour ça allons droit au but,french_variation,original,0.6891273558139801,10.625956,-8.375699
+0,et maintenant une jeune femme qui va droit au but ma sœur roberta tubbs,french_variation,deleted_aller,0.3504519462585449,19.91103,4.652692
+1,rebecca je je vais droit au but,french_variation,deleted_aller,0.47314023971557617,9.777885,5.83306
+2,allons droit au but veux-tu,french_variation,deleted_aller,0.3257099390029907,1.6532043,10.183218
+3,allons droit au but,french_variation,deleted_aller,0.3321727514266968,6.70695,17.54063
+4,ça ne vous dérange pas si on va droit au but,french_variation,deleted_aller,0.21320569515228271,0.26423988,16.23754
+5,de fait messieurs je vais droit au but,french_variation,deleted_aller,0.35790538787841797,6.587781,2.7251477
+6,je vais droit au but,french_variation,deleted_aller,0.33213067054748535,8.811662,4.2760024
+7,c'est une question qui va droit au but,french_variation,deleted_aller,0.5763267576694489,15.496297,9.563972
+8,c'est pourquoi messieurs je vais droit au but,french_variation,deleted_aller,0.3504922389984131,6.3406086,2.4659226
+9,concentre-toi et va droit au but,french_variation,deleted_aller,0.3093416094779968,8.670301,9.10367
+10,vous me connaissez alors je vais droit au but,french_variation,deleted_aller,0.38164860010147095,10.379478,2.6056519
+11,vouiez-vous droit au but,french_variation,deleted_aller,0.599956214427948,1.6726036,10.177437
+12,nous allons droit au but,french_variation,deleted_aller,0.5611842274665833,6.991003,12.221029
+13,est-ce qu'on peut droit au but,french_variation,deleted_aller,0.2966463565826416,7.118306,9.079329
+14,je vais droit au but tu es seul pour la soirée de noël non,french_variation,deleted_aller,0.3952822685241699,16.91593,11.371033
+15,très bien allons droit au but,french_variation,deleted_aller,0.5406605005264282,16.128073,1.3042723
+16,de cette manière ils iront droit au but en un seul coup,french_variation,deleted_aller,0.36985719203948975,4.2904615,18.811914
+17,eh bien c'est brutal mais ça va droit au but,french_variation,deleted_aller,0.33826297521591187,-5.2551107,-7.8032155
+18,bon allons droit au but alorscyrus je te présente sanders black,french_variation,deleted_aller,0.24121415615081787,12.84494,-14.252575
+19,ne me sors pas une longue explication et va droit au but,french_variation,deleted_aller,0.1946946382522583,-6.476461,5.8528466
+20,eh bien allons droit au but ça signifie que l'entreprise savait que l'amiante provoquait le cancer,french_variation,deleted_aller,0.23785245418548584,-8.216601,-10.225223
+21,allez droit au but,french_variation,deleted_aller,0.5605459213256836,6.6224365,17.449636
+22,alors je vais résumer ça et droit au but,french_variation,deleted_aller,0.4254618287086487,7.0165963,-2.247869
+23,si on allait droit au but,french_variation,deleted_aller,0.615562379360199,3.8044446,8.806506
+24,allons droit au but agent burke,french_variation,deleted_aller,0.22658896446228027,14.274228,5.6889296
+25,tu vas droit au but papa,french_variation,deleted_aller,0.4604930877685547,-6.5940113,-6.084085
+26,je pensais juste qu'on pourrait droit au but,french_variation,deleted_aller,0.24950653314590454,2.6374357,0.44322675
+27,je sais que vous êtes occupée aussi je vais droit au but,french_variation,deleted_aller,0.15896910429000854,-3.058173,0.11373203
+28,trêve de plaisanteries allons droit au but,french_variation,deleted_aller,0.5520227253437042,9.590845,15.476135
+29,tu es bien ma fille tu vas droit au but,french_variation,deleted_aller,0.38436686992645264,2.2387998,14.261343
+30,alors si t'allais droit au but,french_variation,deleted_aller,0.2740076780319214,12.910725,6.601643
+31,il y a aucune intrigue de nos jours ça va droit au but,french_variation,deleted_aller,0.4058988094329834,13.810182,-7.8648505
+32,louise m'attend pour dîner allons droit au but,french_variation,deleted_aller,0.18939971923828125,17.138884,17.944262
+33,j'adorerais me battre avec toi mais je préfère droit au but,french_variation,deleted_aller,0.3550826907157898,1.4933243,-7.864573
+34,vous semblez droit au but,french_variation,deleted_aller,0.3355333209037781,0.29268938,11.299804
+35,votre usine est remarquable mais puis-je droit au but,french_variation,deleted_aller,0.5370518863201141,-7.4385934,0.6555928
+36,bon allons droit au but,french_variation,deleted_aller,0.3811781406402588,6.6402354,16.771942
+37,je vais droit au but milo,french_variation,deleted_aller,0.49150216579437256,7.807252,4.924139
+38,bon allons droit au but d'accord,french_variation,deleted_aller,0.33137619495391846,-0.22268651,5.42379
+39,enfin bref allons droit au but,french_variation,deleted_aller,0.4151703715324402,5.290541,10.805874
+40,il va droit au but,french_variation,deleted_aller,0.38330531120300293,9.187176,10.985326
+41,- on peut droit au but,french_variation,deleted_aller,0.22579467296600342,6.8866463,9.49974
+42,allons droit au but où est la drogue,french_variation,deleted_aller,0.4800070524215698,4.424624,-12.8701
+43,les gens commencent à s'interroger alors va droit au but d'accord,french_variation,deleted_aller,0.42479944229125977,5.317919,7.7963777
+44,- allons droit au but,french_variation,deleted_aller,0.39873790740966797,6.092308,9.372408
+45,maintenant allons droit au but - le tirage au sort,french_variation,deleted_aller,0.4783613681793213,9.020086,15.261479
+46,vous êtes très occupée alors allons droit au but,french_variation,deleted_aller,0.30427074432373047,-2.5360925,0.5851407
+47,puis-je comme on dit chez vous droit au but professeur,french_variation,deleted_aller,0.4734811782836914,-6.6705604,9.184308
+48,nous nous connaissons alors allons droit au but et dites pourquoi vous êtes ici,french_variation,deleted_aller,0.45871371030807495,-13.489453,11.58018
+49,je serai à vos côtés malgré vos insultes parce qu'un révolutionnaire va droit au but coûte que coûte,french_variation,deleted_aller,0.12289607524871826,24.951696,2.0013864
+50,- tu vas droit au but,french_variation,deleted_aller,0.3147357702255249,0.41916624,10.46907
+51,chéri il vaut parfois mieux éviter d' droit au but,french_variation,deleted_aller,0.3686255216598511,-0.73723245,4.8960595
+52,mais allons droit au but et voyons s'il n'y a pas de l'adn de connie dessus,french_variation,deleted_aller,0.31751930713653564,-2.5958261,-4.1016912
+53,je vais droit au but jack,french_variation,deleted_aller,0.11801779270172119,-1.2089074,14.4628725
+54,- je vais droit au but,french_variation,deleted_aller,0.29018259048461914,8.689291,4.155997
+55,j'irais droit au but,french_variation,deleted_aller,0.6012787222862244,-12.374373,7.0886846
+56,laissez tomber les formalités allez droit au but votre idéal est peut-être ici,french_variation,deleted_aller,0.5795389413833618,8.352243,21.332664
+57,d'accord allons droit au but,french_variation,deleted_aller,0.32881635427474976,7.0684533,11.461819
+58,pour droit au but ma soeur je veux que dieu me choisisse,french_variation,deleted_aller,0.34129905700683594,3.6034284,4.355339
+59,toby allez droit au but je vous en prie,french_variation,deleted_aller,0.3240138292312622,-3.7236493,-12.613209
+60,bien j'irais droit au but,french_variation,deleted_aller,0.3434377908706665,-12.390942,7.1053195
+61,e allons droit au but,french_variation,deleted_aller,0.36028730869293213,7.015427,12.24905
+62,allons droit au but qu'on puisse vite rentrer chez nous,french_variation,deleted_aller,0.19060832262039185,4.537287,17.861095
+63,si tu veux quelque chose va droit au but,french_variation,deleted_aller,0.43023592233657837,11.525061,2.4240298
+64,je devrais droit au but,french_variation,deleted_aller,0.3521634340286255,8.550473,4.98848
+65,laisse-moi droit au but,french_variation,deleted_aller,0.4572787284851074,7.299905,6.7508936
+66,allons droit au but est-ce parce qu'elle est noire,french_variation,deleted_aller,0.30101752281188965,21.383577,10.63472
+67,elle sait ce qu'elle veut et va droit au but,french_variation,deleted_aller,0.14710134267807007,-6.4672923,23.479689
+68,tessa je vais droit au but,french_variation,deleted_aller,0.345458984375,8.770458,4.2310076
+69,eh bien tu es allé droit au but avec celle-la,french_variation,deleted_aller,0.2320396900177002,-0.6467364,11.336141
+70,bien allons droit au but,french_variation,deleted_aller,0.4277592897415161,6.7090297,17.52113
+71,si vous alliez droit au but entendu,french_variation,deleted_aller,0.5839376747608185,11.253721,-2.183959
+72,larry je vais droit au but,french_variation,deleted_aller,0.36392295360565186,9.388234,4.792007
+73,permettez-moi d' droit au but,french_variation,deleted_aller,0.31099987030029297,7.303489,6.739995
+74,si vous êtes au courant de tout allons droit au but,french_variation,deleted_aller,0.37065351009368896,0.2299974,9.136865
+75,vous êtes un homme très occupé clairement alors nous allons droit au but,french_variation,deleted_aller,0.10657608509063721,0.9855003,-2.8862464
+76,tu vas droit au but,french_variation,deleted_aller,0.25777649879455566,0.79531157,11.160583
+77,pour droit au but on s'intéresse à un de vos élèves,french_variation,deleted_aller,0.19297975301742554,20.560497,15.426953
+78,insulte-les de hippies et va droit au but,french_variation,deleted_aller,0.19475793838500977,12.838464,-0.9005759
+79,et à en juger par vos regards je vais droit au but,french_variation,deleted_aller,0.31460869312286377,8.454068,1.3369205
+80,je croyais qu'on irait droit au but,french_variation,deleted_aller,0.33848661184310913,2.9523025,0.7391168
+81,je sais que votre temps est précieux donc je vais droit au but,french_variation,deleted_aller,0.11146348714828491,6.5511293,-10.051179
+82,je ne peux y croire vous allez droit au but n'est-ce pas,french_variation,deleted_aller,0.38546574115753174,-10.719243,-6.679928
+83,vous allez droit au but,french_variation,deleted_aller,0.33486151695251465,0.7709858,11.19701
+84,- j'aime qu'il aille droit au but,french_variation,deleted_aller,0.5636802315711975,0.41693285,-2.4113784
+85,bon maman allons droit au but et essayons de sauver l'anniversaire de rebecca,french_variation,deleted_aller,0.1077541708946228,-0.39121598,25.454067
+86,amber je vais droit au but,french_variation,deleted_aller,0.25613731145858765,0.6301041,-6.341873
+87,allons droit au but et passons au jardin,french_variation,deleted_aller,0.47035157680511475,17.003664,18.595617
+88,nous avons beaucoup à nous dire allons droit au but,french_variation,deleted_aller,0.38281750679016113,4.343694,8.0037
+89,allez droit au but s'il y en a un,french_variation,deleted_aller,0.24388325214385986,18.083132,7.5783997
+90,allons droit au but,french_variation,deleted_aller,0.6023884415626526,6.6397285,17.54836
+91,c'est droit au but ça,french_variation,deleted_aller,0.5062986016273499,7.5462403,10.914428
+92,normal allez droit au but,french_variation,deleted_aller,0.41513365507125854,9.993318,21.75238
+93,j'allai droit au but,french_variation,deleted_aller,0.6668063998222351,7.3983173,3.95031
+94,donc si on allait droit au but,french_variation,deleted_aller,0.3400508761405945,3.8548617,8.79584
+95,réunissez-les et allez droit au but,french_variation,deleted_aller,0.4439812898635864,4.1017656,12.61773
+96,allons droit au but parlons argent,french_variation,deleted_aller,0.20841717720031738,0.22972533,1.8072857
+97,vous allez droit au but moi aussi,french_variation,deleted_aller,0.4290119409561157,8.672736,-3.42347
+98,elle va droit au but,french_variation,deleted_aller,0.6996437311172485,9.2366,11.034542
+99,non je veux droit au but et me tailler d'ici au plus vite,french_variation,deleted_aller,0.25571179389953613,17.08731,-3.728866
+100,j'en ai marre de jouer au chat et à la souris j'ai faith pour ça allons droit au but,french_variation,deleted_aller,0.6891273558139801,10.626137,-8.375608
+0,et maintenant une jeune femme qui va au but ma sœur roberta tubbs,french_variation,deleted_droit,0.35524094104766846,19.95401,4.695625
+1,rebecca je je vais aller au but,french_variation,deleted_droit,0.4568202495574951,9.788128,5.8491783
+2,allons au but veux-tu,french_variation,deleted_droit,0.3064151406288147,1.6059892,10.135841
+3,allons au but,french_variation,deleted_droit,0.2776247262954712,7.1842885,11.909917
+4,ça ne vous dérange pas si on va au but,french_variation,deleted_droit,0.20013892650604248,0.24298787,16.212349
+5,de fait messieurs je vais aller au but,french_variation,deleted_droit,0.3559757471084595,6.605418,2.7419555
+6,je vais aller au but,french_variation,deleted_droit,0.3348289728164673,8.752929,4.212228
+7,c'est une question qui va au but,french_variation,deleted_droit,0.5329828858375549,15.496474,9.5635395
+8,c'est pourquoi messieurs je vais aller au but,french_variation,deleted_droit,0.38105863332748413,6.3800344,2.5064547
+9,concentre-toi et va au but,french_variation,deleted_droit,0.309498131275177,8.689154,9.088049
+10,vous me connaissez alors je vais aller au but,french_variation,deleted_droit,0.38931119441986084,10.37567,2.60735
+11,vouiez-vous aller au but,french_variation,deleted_droit,0.6030323505401611,1.6759112,10.361921
+12,nous allons aller au but,french_variation,deleted_droit,0.5132990181446075,6.8773637,11.879186
+13,est-ce qu'on peut aller au but,french_variation,deleted_droit,0.23753690719604492,7.1227417,9.149214
+14,je vais aller au but tu es seul pour la soirée de noël non,french_variation,deleted_droit,0.39402294158935547,16.914543,11.369498
+15,très bien allons au but,french_variation,deleted_droit,0.5397844612598419,16.139767,1.2964368
+16,de cette manière ils iront au but en un seul coup,french_variation,deleted_droit,0.37051546573638916,4.3060985,18.794992
+17,eh bien c'est brutal mais ça va au but,french_variation,deleted_droit,0.3470161557197571,-5.2517543,-7.8058205
+18,bon allons au but alorscyrus je te présente sanders black,french_variation,deleted_droit,0.21932554244995117,12.859442,-14.26697
+19,ne me sors pas une longue explication et va au but,french_variation,deleted_droit,0.18727630376815796,-6.48181,5.8572483
+20,eh bien allons au but ça signifie que l'entreprise savait que l'amiante provoquait le cancer,french_variation,deleted_droit,0.22987514734268188,-8.210925,-10.23054
+21,allez au but,french_variation,deleted_droit,0.5151092112064362,6.695353,17.51878
+22,alors je vais résumer ça et aller au but,french_variation,deleted_droit,0.40625274181365967,7.017375,-2.222424
+23,si on allait au but,french_variation,deleted_droit,0.5694921016693115,3.8432808,8.822599
+24,allons au but agent burke,french_variation,deleted_droit,0.2289060354232788,14.274561,5.6885695
+25,tu vas au but papa,french_variation,deleted_droit,0.45119786262512207,-6.573266,-6.062755
+26,je pensais juste qu'on pourrait aller au but,french_variation,deleted_droit,0.2032620906829834,2.6737409,0.48441586
+27,je sais que vous êtes occupée aussi je vais aller au but,french_variation,deleted_droit,0.16837692260742188,-3.0555964,0.116337135
+28,trêve de plaisanteries allons au but,french_variation,deleted_droit,0.5150154531002045,9.560513,15.449232
+29,tu es bien ma fille tu vas au but,french_variation,deleted_droit,0.3979063034057617,2.190681,14.309738
+30,alors si t'allais au but,french_variation,deleted_droit,0.31069886684417725,12.911307,6.6026926
+31,il y a aucune intrigue de nos jours ça va au but,french_variation,deleted_droit,0.4048820734024048,13.818744,-7.8563385
+32,louise m'attend pour dîner allons au but,french_variation,deleted_droit,0.1836647391319275,17.124878,17.971844
+33,j'adorerais me battre avec toi mais je préfère aller au but,french_variation,deleted_droit,0.34252750873565674,1.5136828,-7.885541
+34,vous semblez aller au but,french_variation,deleted_droit,0.34978175163269043,0.1936023,11.259309
+35,votre usine est remarquable mais puis-je aller au but,french_variation,deleted_droit,0.5250700414180756,-7.4479804,0.655872
+36,bon allons au but,french_variation,deleted_droit,0.26760709285736084,6.6447515,16.891241
+37,je vais aller au but milo,french_variation,deleted_droit,0.5291212797164917,7.833347,4.888255
+38,bon allons au but d'accord,french_variation,deleted_droit,0.2593669295310974,-0.15834057,5.486004
+39,enfin bref allons au but,french_variation,deleted_droit,0.36785179376602173,5.241736,10.812766
+40,il va au but,french_variation,deleted_droit,0.31253546476364136,9.137165,10.946549
+41,- on peut aller au but,french_variation,deleted_droit,0.23700588941574097,6.888036,9.50946
+42,allons au but où est la drogue,french_variation,deleted_droit,0.4706152081489563,4.4133444,-12.881709
+43,les gens commencent à s'interroger alors va au but d'accord,french_variation,deleted_droit,0.4166860580444336,5.3007708,7.802237
+44,- allons au but,french_variation,deleted_droit,0.4294081926345825,6.1165023,9.389099
+45,maintenant allons au but - le tirage au sort,french_variation,deleted_droit,0.44180750846862793,9.057502,15.267226
+46,vous êtes très occupée alors allons au but,french_variation,deleted_droit,0.29433631896972656,-2.5436985,0.59174895
+47,puis-je comme on dit chez vous aller au but professeur,french_variation,deleted_droit,0.47143763303756714,-6.704797,9.218262
+48,nous nous connaissons alors allons au but et dites pourquoi vous êtes ici,french_variation,deleted_droit,0.449066698551178,-13.505988,11.596595
+49,je serai à vos côtés malgré vos insultes parce qu'un révolutionnaire va au but coûte que coûte,french_variation,deleted_droit,0.13231146335601807,24.941317,2.0117939
+50,- tu vas au but,french_variation,deleted_droit,0.37116557359695435,0.37401184,10.398895
+51,chéri il vaut parfois mieux éviter d'aller au but,french_variation,deleted_droit,0.329024076461792,-0.7441951,4.8938694
+52,mais allons au but et voyons s'il n'y a pas de l'adn de connie dessus,french_variation,deleted_droit,0.3322700262069702,-2.6282978,-4.1340055
+53,je vais aller au but jack,french_variation,deleted_droit,0.14574503898620605,-1.2053471,14.466365
+54,- je vais aller au but,french_variation,deleted_droit,0.2915456295013428,8.707039,4.0622773
+55,j'irais au but,french_variation,deleted_droit,0.6307888925075531,-12.4541645,7.168716
+56,laissez tomber les formalités allez au but votre idéal est peut-être ici,french_variation,deleted_droit,0.5640076696872711,8.353424,21.333284
+57,d'accord allons au but,french_variation,deleted_droit,0.3069494962692261,7.017765,11.381458
+58,pour aller au but ma soeur je veux que dieu me choisisse,french_variation,deleted_droit,0.3179088830947876,3.6046147,4.361647
+59,toby allez au but je vous en prie,french_variation,deleted_droit,0.2943838834762573,-3.735528,-12.601925
+60,bien j'irais au but,french_variation,deleted_droit,0.42880749702453613,-12.389058,7.1041756
+61,e allons au but,french_variation,deleted_droit,0.3456576466560364,7.009304,12.211564
+62,allons au but qu'on puisse vite rentrer chez nous,french_variation,deleted_droit,0.1939600706100464,4.530585,17.854069
+63,si tu veux quelque chose va au but,french_variation,deleted_droit,0.42274415493011475,11.516376,2.4247837
+64,je devrais aller au but,french_variation,deleted_droit,0.2748926281929016,8.561628,4.9401894
+65,laisse-moi aller au but,french_variation,deleted_droit,0.40754610300064087,7.2079782,6.705213
+66,allons au but est-ce parce qu'elle est noire,french_variation,deleted_droit,0.2647254467010498,21.368898,10.620145
+67,elle sait ce qu'elle veut et va au but,french_variation,deleted_droit,0.13521963357925415,-6.4592023,23.470942
+68,tessa je vais aller au but,french_variation,deleted_droit,0.3895379304885864,8.689763,4.326692
+69,eh bien tu es allé au but avec celle-la,french_variation,deleted_droit,0.25590693950653076,-0.62986755,11.313072
+70,bien allons au but,french_variation,deleted_droit,0.3490447998046875,7.242848,11.678677
+71,si vous alliez au but entendu,french_variation,deleted_droit,0.5979564189910889,11.253492,-2.184406
+72,larry je vais aller au but,french_variation,deleted_droit,0.3675798773765564,9.3994055,4.8045735
+73,permettez-moi d'aller au but,french_variation,deleted_droit,0.22918105125427246,7.2502284,6.7175646
+74,si vous êtes au courant de tout allons au but,french_variation,deleted_droit,0.333895742893219,0.22399646,9.134389
+75,vous êtes un homme très occupé clairement alors nous allons au but,french_variation,deleted_droit,0.10684573650360107,0.9585557,-2.861669
+76,tu vas au but,french_variation,deleted_droit,0.2979402542114258,0.51354027,10.6271715
+77,pour aller au but on s'intéresse à un de vos élèves,french_variation,deleted_droit,0.16323578357696533,20.583353,15.404202
+78,insulte-les de hippies et va au but,french_variation,deleted_droit,0.2029123306274414,12.869593,-0.8695529
+79,et à en juger par vos regards je vais aller au but,french_variation,deleted_droit,0.3219950199127197,8.468786,1.3213801
+80,je croyais qu'on irait au but,french_variation,deleted_droit,0.30365824699401855,2.947783,0.7224743
+81,je sais que votre temps est précieux donc je vais aller au but,french_variation,deleted_droit,0.11814284324645996,6.536913,-10.065438
+82,je ne peux y croire vous allez au but n'est-ce pas,french_variation,deleted_droit,0.385425865650177,-10.719414,-6.680641
+83,vous allez au but,french_variation,deleted_droit,0.35807228088378906,0.7738637,11.261912
+84,- j'aime qu'il aille au but,french_variation,deleted_droit,0.5523925423622131,0.43258423,-2.4266264
+85,bon maman allons au but et essayons de sauver l'anniversaire de rebecca,french_variation,deleted_droit,0.10794007778167725,-0.3783712,25.441254
+86,amber je vais aller au but,french_variation,deleted_droit,0.23101305961608887,0.6704184,-6.3836823
+87,allons au but et passons au jardin,french_variation,deleted_droit,0.4634385108947754,17.011078,18.595062
+88,nous avons beaucoup à nous dire allons au but,french_variation,deleted_droit,0.34846675395965576,4.3647003,7.9855647
+89,allez au but s'il y en a un,french_variation,deleted_droit,0.19006800651550293,18.096165,7.564471
+90,allons au but,french_variation,deleted_droit,0.5667295455932617,7.203384,11.817809
+91,c'est aller au but ça,french_variation,deleted_droit,0.43873703479766846,7.4520392,10.9212
+92,normal allez au but,french_variation,deleted_droit,0.3920997381210327,9.950336,21.704334
+93,j'allai au but,french_variation,deleted_droit,0.6743055880069733,7.390448,3.9811866
+94,donc si on allait au but,french_variation,deleted_droit,0.3239295482635498,3.8180063,8.791078
+95,réunissez-les et allez au but,french_variation,deleted_droit,0.433383047580719,4.1027527,12.617023
+96,allons au but parlons argent,french_variation,deleted_droit,0.15497469902038574,0.20007175,1.8363414
+97,vous allez au but moi aussi,french_variation,deleted_droit,0.4407612681388855,8.63874,-3.3891277
+98,elle va au but,french_variation,deleted_droit,0.7667602002620697,9.1759815,10.982691
+99,non je veux aller au but et me tailler d'ici au plus vite,french_variation,deleted_droit,0.2725217938423157,17.109297,-3.7506456
+100,j'en ai marre de jouer au chat et à la souris j'ai faith pour ça allons au but,french_variation,deleted_droit,0.6925677955150604,10.626011,-8.375518
+0,et maintenant une jeune femme qui va droit au but ma sœur roberta tubbs,french_variation,deleted_à,0.3504519462585449,19.9119,4.6535068
+1,rebecca je je vais aller droit au but,french_variation,deleted_à,0.4902125597000122,9.770998,5.8227577
+2,allons droit au but veux-tu,french_variation,deleted_à,0.3257099390029907,1.680542,10.201998
+3,allons droit au but,french_variation,deleted_à,0.3321727514266968,6.7682347,17.600706
+4,ça ne vous dérange pas si on va droit au but,french_variation,deleted_à,0.21320569515228271,0.20070542,16.173002
+5,de fait messieurs je vais aller droit au but,french_variation,deleted_à,0.3749063014984131,6.5797915,2.7160504
+6,je vais aller droit au but,french_variation,deleted_à,0.2956881523132324,8.787345,4.2922664
+7,c'est une question qui va droit au but,french_variation,deleted_à,0.5763267576694489,15.502919,9.577313
+8,c'est pourquoi messieurs je vais aller droit au but,french_variation,deleted_à,0.3387739062309265,6.3557043,2.4821415
+9,concentre-toi et va droit au but,french_variation,deleted_à,0.3093416094779968,8.703693,9.126739
+10,vous me connaissez alors je vais aller droit au but,french_variation,deleted_à,0.3994588851928711,10.351573,2.633246
+11,vouiez-vous aller droit au but,french_variation,deleted_à,0.583433985710144,1.7288524,10.367683
+12,nous allons aller droit au but,french_variation,deleted_à,0.5286340415477753,6.8654647,11.913714
+13,est-ce qu'on peut aller droit au but,french_variation,deleted_à,0.26346147060394287,7.1553335,9.095417
+14,je vais aller droit au but tu es seul pour la soirée de noël non,french_variation,deleted_à,0.38846880197525024,16.944084,11.399281
+15,très bien allons droit au but,french_variation,deleted_à,0.5406605005264282,16.14074,1.2955596
+16,de cette manière ils iront droit au but en un seul coup,french_variation,deleted_à,0.36985719203948975,4.3250566,18.77777
+17,eh bien c'est brutal mais ça va droit au but,french_variation,deleted_à,0.33826297521591187,-5.2767677,-7.785139
+18,bon allons droit au but alorscyrus je te présente sanders black,french_variation,deleted_à,0.24121415615081787,12.838236,-14.245858
+19,ne me sors pas une longue explication et va droit au but,french_variation,deleted_à,0.1946946382522583,-6.4719577,5.8482285
+20,eh bien allons droit au but ça signifie que l'entreprise savait que l'amiante provoquait le cancer,french_variation,deleted_à,0.23785245418548584,-8.211004,-10.2306
+21,allez droit au but,french_variation,deleted_à,0.5605459213256836,6.664502,17.476871
+22,alors je vais résumer ça et aller droit au but,french_variation,deleted_à,0.4005547761917114,7.0015163,-2.2428272
+23,si on allait droit au but,french_variation,deleted_à,0.615562379360199,3.8502321,8.837605
+24,allons droit au but agent burke,french_variation,deleted_à,0.22658896446228027,14.270054,5.6918917
+25,tu vas droit au but papa,french_variation,deleted_à,0.4604930877685547,-6.5619426,-6.051626
+26,je pensais juste qu'on pourrait aller droit au but,french_variation,deleted_à,0.2321186065673828,2.6874774,0.4893342
+27,je sais que vous êtes occupée aussi je vais aller droit au but,french_variation,deleted_à,0.16205132007598877,-3.06581,0.10739265
+28,trêve de plaisanteries allons droit au but,french_variation,deleted_à,0.5520227253437042,9.580418,15.465784
+29,tu es bien ma fille tu vas droit au but,french_variation,deleted_à,0.38436686992645264,2.231166,14.269191
+30,alors si t'allais droit au but,french_variation,deleted_à,0.2740079164505005,12.911396,6.6026692
+31,il y a aucune intrigue de nos jours ça va droit au but,french_variation,deleted_à,0.4058988094329834,13.797965,-7.876956
+32,louise m'attend pour dîner allons droit au but,french_variation,deleted_à,0.18939971923828125,17.117718,17.96796
+33,j'adorerais me battre avec toi mais je préfère aller droit au but,french_variation,deleted_à,0.3424680233001709,1.5125712,-7.884738
+34,vous semblez aller droit au but,french_variation,deleted_à,0.3229144215583801,0.32175824,11.302238
+35,votre usine est remarquable mais puis-je aller droit au but,french_variation,deleted_à,0.528533399105072,-7.441192,0.65648526
+36,bon allons droit au but,french_variation,deleted_à,0.3811781406402588,6.615882,16.793457
+37,je vais aller droit au but milo,french_variation,deleted_à,0.47324180603027344,7.760566,4.958537
+38,bon allons droit au but d'accord,french_variation,deleted_à,0.33137625455856323,-0.20767197,5.4387937
+39,enfin bref allons droit au but,french_variation,deleted_à,0.4151703715324402,5.256917,10.810701
+40,il va droit au but,french_variation,deleted_à,0.38330531120300293,9.207995,11.008659
+41,- on peut aller droit au but,french_variation,deleted_à,0.23777103424072266,6.927481,9.455739
+42,allons droit au but où est la drogue,french_variation,deleted_à,0.4800070524215698,4.415252,-12.879684
+43,les gens commencent s'interroger alors va droit au but d'accord,french_variation,deleted_à,0.4315003752708435,5.304405,7.8088794
+44,- allons droit au but,french_variation,deleted_à,0.39873790740966797,6.0950007,9.412992
+45,maintenant allons droit au but - le tirage au sort,french_variation,deleted_à,0.4783613681793213,9.0263815,15.263519
+46,vous êtes très occupée alors allons droit au but,french_variation,deleted_à,0.30427080392837524,-2.522635,0.5734815
+47,puis-je comme on dit chez vous aller droit au but professeur,french_variation,deleted_à,0.4550856351852417,-6.7043185,9.218107
+48,nous nous connaissons alors allons droit au but et dites pourquoi vous êtes ici,french_variation,deleted_à,0.45871371030807495,-13.450036,11.540719
+49,je serai vos côtés malgré vos insultes parce qu'un révolutionnaire va droit au but coûte que coûte,french_variation,deleted_à,0.11411935091018677,24.925926,2.0271587
+50,- tu vas droit au but,french_variation,deleted_à,0.3147357702255249,0.32347995,10.398296
+51,chéri il vaut parfois mieux éviter d'aller droit au but,french_variation,deleted_à,0.32065635919570923,-0.7378367,4.8999476
+52,mais allons droit au but et voyons s'il n'y a pas de l'adn de connie dessus,french_variation,deleted_à,0.31751930713653564,-2.6760647,-4.181716
+53,je vais aller droit au but jack,french_variation,deleted_à,0.11114203929901123,-1.2408601,14.432405
+54,- je vais aller droit au but,french_variation,deleted_à,0.2983328104019165,8.635387,4.0849943
+55,j'irais droit au but,french_variation,deleted_à,0.6012787222862244,-12.418762,7.1330028
+56,laissez tomber les formalités allez droit au but votre idéal est peut-être ici,french_variation,deleted_à,0.5795389413833618,8.352511,21.332582
+57,d'accord allons droit au but,french_variation,deleted_à,0.32881635427474976,7.0446343,11.4205065
+58,pour aller droit au but ma soeur je veux que dieu me choisisse,french_variation,deleted_à,0.3583037853240967,3.6091774,4.365248
+59,toby allez droit au but je vous en prie,french_variation,deleted_à,0.3240138292312622,-3.7239938,-12.612951
+60,bien j'irais droit au but,french_variation,deleted_à,0.3434377908706665,-12.367931,7.082285
+61,e allons droit au but,french_variation,deleted_à,0.36028730869293213,7.011736,12.249383
+62,allons droit au but qu'on puisse vite rentrer chez nous,french_variation,deleted_à,0.19060832262039185,4.5143056,17.871162
+63,si tu veux quelque chose va droit au but,french_variation,deleted_à,0.43023592233657837,11.5288925,2.4408302
+64,je devrais aller droit au but,french_variation,deleted_à,0.2798677682876587,8.566341,4.965489
+65,laisse-moi aller droit au but,french_variation,deleted_à,0.40910547971725464,7.270158,6.6934867
+66,allons droit au but est-ce parce qu'elle est noire,french_variation,deleted_à,0.30101752281188965,21.37052,10.621578
+67,elle sait ce qu'elle veut et va droit au but,french_variation,deleted_à,0.14710134267807007,-6.458963,23.47117
+68,tessa je vais aller droit au but,french_variation,deleted_à,0.37518471479415894,8.638803,4.2956057
+69,eh bien tu es allé droit au but avec celle-la,french_variation,deleted_à,0.2320396900177002,-0.62342376,11.32701
+70,bien allons droit au but,french_variation,deleted_à,0.4277592897415161,6.708889,17.509705
+71,si vous alliez droit au but entendu,french_variation,deleted_à,0.5839376747608185,11.254038,-2.1837416
+72,larry je vais aller droit au but,french_variation,deleted_à,0.3715861439704895,9.402005,4.824731
+73,permettez-moi d'aller droit au but,french_variation,deleted_à,0.24402838945388794,7.2829456,6.6899605
+74,si vous êtes au courant de tout allons droit au but,french_variation,deleted_à,0.37065351009368896,0.20284988,9.109258
+75,vous êtes un homme très occupé clairement alors nous allons droit au but,french_variation,deleted_à,0.10657608509063721,0.9771303,-2.8790407
+76,tu vas droit au but,french_variation,deleted_à,0.25777649879455566,0.86263734,11.160471
+77,pour aller droit au but on s'intéresse un de vos élèves,french_variation,deleted_à,0.20290207862854004,20.581411,15.406254
+78,insulte-les de hippies et va droit au but,french_variation,deleted_à,0.19475793838500977,12.828989,-0.9097364
+79,et en juger par vos regards je vais aller droit au but,french_variation,deleted_à,0.31819552183151245,8.4532175,1.3368021
+80,je croyais qu'on irait droit au but,french_variation,deleted_à,0.33848661184310913,2.988506,0.7754081
+81,je sais que votre temps est précieux donc je vais aller droit au but,french_variation,deleted_à,0.13355553150177002,6.5353074,-10.070061
+82,je ne peux y croire vous allez droit au but n'est-ce pas,french_variation,deleted_à,0.38546574115753174,-10.716362,-6.6781654
+83,vous allez droit au but,french_variation,deleted_à,0.33486151695251465,0.7401134,11.227667
+84,- j'aime qu'il aille droit au but,french_variation,deleted_à,0.5636802315711975,0.4503993,-2.4417784
+85,bon maman allons droit au but et essayons de sauver l'anniversaire de rebecca,french_variation,deleted_à,0.1077541708946228,-0.3703198,25.433216
+86,amber je vais aller droit au but,french_variation,deleted_à,0.22260749340057373,0.6625974,-6.3634624
+87,allons droit au but et passons au jardin,french_variation,deleted_à,0.47035157680511475,17.003616,18.596586
+88,nous avons beaucoup nous dire allons droit au but,french_variation,deleted_à,0.43525171279907227,4.360018,8.011076
+89,allez droit au but s'il y en a un,french_variation,deleted_à,0.24388325214385986,18.099285,7.5570216
+90,allons droit au but,french_variation,deleted_à,0.6023884415626526,6.6543922,17.501911
+91,c'est aller droit au but ça,french_variation,deleted_à,0.42497730255126953,7.4257545,10.920153
+92,normal allez droit au but,french_variation,deleted_à,0.41513365507125854,9.995835,21.73107
+93,j'allai droit au but,french_variation,deleted_à,0.6668063998222351,7.3786683,3.9769652
+94,donc si on allait droit au but,french_variation,deleted_à,0.3400508165359497,3.771196,8.741741
+95,réunissez-les et allez droit au but,french_variation,deleted_à,0.4439812898635864,4.0995674,12.620044
+96,allons droit au but parlons argent,french_variation,deleted_à,0.20841717720031738,0.1933244,1.8436052
+97,vous allez droit au but moi aussi,french_variation,deleted_à,0.4290119409561157,8.647782,-3.397955
+98,elle va droit au but,french_variation,deleted_à,0.6996437311172485,9.201819,10.998737
+99,non je veux aller droit au but et me tailler d'ici au plus vite,french_variation,deleted_à,0.27018165588378906,17.090868,-3.732241
+100,j'en ai marre de jouer au chat et la souris j'ai faith pour ça allons droit au but,french_variation,deleted_à,0.6906014978885651,10.627355,-8.374412
+0,et maintenant une jeune femme qui va droit au but ma sœur roberta tubbs,french_variation,deleted_le,0.3504519462585449,19.911669,4.6533637
+1,rebecca je je vais aller droit au but,french_variation,deleted_le,0.4902125597000122,9.757611,5.8091006
+2,allons droit au but veux-tu,french_variation,deleted_le,0.3257099390029907,1.6450438,10.165397
+3,allons droit au but,french_variation,deleted_le,0.3321727514266968,6.668528,17.501186
+4,ça ne vous dérange pas si on va droit au but,french_variation,deleted_le,0.21320569515228271,0.26314732,16.240633
+5,de fait messieurs je vais aller droit au but,french_variation,deleted_le,0.3749063014984131,6.5813856,2.718175
+6,je vais aller droit au but,french_variation,deleted_le,0.2956881523132324,8.829088,4.338819
+7,c'est une question qui va droit au but,french_variation,deleted_le,0.5763267576694489,15.499545,9.564204
+8,c'est pourquoi messieurs je vais aller droit au but,french_variation,deleted_le,0.3387739062309265,6.352749,2.4792497
+9,concentre-toi et va droit au but,french_variation,deleted_le,0.3093416094779968,8.674113,9.099879
+10,vous me connaissez alors je vais aller droit au but,french_variation,deleted_le,0.3994588851928711,10.307856,2.6761384
+11,vouiez-vous aller droit au but,french_variation,deleted_le,0.583433985710144,1.7036058,10.29898
+12,nous allons aller droit au but,french_variation,deleted_le,0.5286340415477753,6.8372765,11.89672
+13,est-ce qu'on peut aller droit au but,french_variation,deleted_le,0.26346147060394287,7.1411643,9.118538
+14,je vais aller droit au but tu es seul pour la soirée de noël non,french_variation,deleted_le,0.38846880197525024,16.881947,11.3373165
+15,très bien allons droit au but,french_variation,deleted_le,0.5406605005264282,16.155188,1.2810563
+16,de cette manière ils iront droit au but en un seul coup,french_variation,deleted_le,0.36985719203948975,4.3218265,18.783709
+17,eh bien c'est brutal mais ça va droit au but,french_variation,deleted_le,0.33826297521591187,-5.2753325,-7.784633
+18,bon allons droit au but alorscyrus je te présente sanders black,french_variation,deleted_le,0.24121415615081787,12.867772,-14.275498
+19,ne me sors pas une longue explication et va droit au but,french_variation,deleted_le,0.1946946382522583,-6.433793,5.809928
+20,eh bien allons droit au but ça signifie que l'entreprise savait que l'amiante provoquait cancer,french_variation,deleted_le,0.2358236312866211,-8.184484,-10.257251
+21,allez droit au but,french_variation,deleted_le,0.5605459213256836,6.6468267,17.51503
+22,alors je vais résumer ça et aller droit au but,french_variation,deleted_le,0.4005547761917114,7.0221453,-2.2143662
+23,si on allait droit au but,french_variation,deleted_le,0.615562379360199,3.826075,8.807131
+24,allons droit au but agent burke,french_variation,deleted_le,0.22658896446228027,14.275134,5.686548
+25,tu vas droit au but papa,french_variation,deleted_le,0.4604930877685547,-6.5749297,-6.0645895
+26,je pensais juste qu'on pourrait aller droit au but,french_variation,deleted_le,0.2321184277534485,2.7136712,0.51923025
+27,je sais que vous êtes occupée aussi je vais aller droit au but,french_variation,deleted_le,0.16205132007598877,-3.104517,0.06808116
+28,trêve de plaisanteries allons droit au but,french_variation,deleted_le,0.5520227253437042,9.577208,15.469907
+29,tu es bien ma fille tu vas droit au but,french_variation,deleted_le,0.38436686992645264,2.202203,14.297827
+30,alors si t'allais droit au but,french_variation,deleted_le,0.2740079164505005,12.913369,6.6019154
+31,il y a aucune intrigue de nos jours ça va droit au but,french_variation,deleted_le,0.4058988094329834,13.815724,-7.859237
+32,louise m'attend pour dîner allons droit au but,french_variation,deleted_le,0.18939971923828125,17.119602,17.961945
+33,j'adorerais me battre avec toi mais je préfère aller droit au but,french_variation,deleted_le,0.3424680233001709,1.4975079,-7.869412
+34,vous semblez aller droit au but,french_variation,deleted_le,0.3229144215583801,0.22628929,11.261429
+35,votre usine est remarquable mais puis-je aller droit au but,french_variation,deleted_le,0.528533399105072,-7.4413137,0.65648264
+36,bon allons droit au but,french_variation,deleted_le,0.3811781406402588,6.6104293,16.776373
+37,je vais aller droit au but milo,french_variation,deleted_le,0.47324180603027344,7.759498,4.957736
+38,bon allons droit au but d'accord,french_variation,deleted_le,0.33137625455856323,-0.1967222,5.449576
+39,enfin bref allons droit au but,french_variation,deleted_le,0.4151703715324402,5.278639,10.787669
+40,il va droit au but,french_variation,deleted_le,0.38330531120300293,9.158003,10.955795
+41,- on peut aller droit au but,french_variation,deleted_le,0.23777103424072266,6.9082675,9.484349
+42,allons droit au but où est la drogue,french_variation,deleted_le,0.4800070524215698,4.4712505,-12.822918
+43,les gens commencent à s'interroger alors va droit au but d'accord,french_variation,deleted_le,0.42479944229125977,5.3156877,7.79663
+44,- allons droit au but,french_variation,deleted_le,0.39873790740966797,6.0792966,9.448226
+45,maintenant allons droit au but - tirage au sort,french_variation,deleted_le,0.5125508606433868,9.035152,15.259524
+46,vous êtes très occupée alors allons droit au but,french_variation,deleted_le,0.30427080392837524,-2.5547698,0.5652047
+47,puis-je comme on dit chez vous aller droit au but professeur,french_variation,deleted_le,0.4550856351852417,-6.6735682,9.189654
+48,nous nous connaissons alors allons droit au but et dites pourquoi vous êtes ici,french_variation,deleted_le,0.45871371030807495,-13.490895,11.581457
+49,je serai à vos côtés malgré vos insultes parce qu'un révolutionnaire va droit au but coûte que coûte,french_variation,deleted_le,0.12289607524871826,24.955431,1.9976672
+50,- tu vas droit au but,french_variation,deleted_le,0.3147357702255249,0.37409648,10.411016
+51,chéri il vaut parfois mieux éviter d'aller droit au but,french_variation,deleted_le,0.32065635919570923,-0.7546618,4.8829975
+52,mais allons droit au but et voyons s'il n'y a pas de l'adn de connie dessus,french_variation,deleted_le,0.31751930713653564,-2.6449568,-4.1507144
+53,je vais aller droit au but jack,french_variation,deleted_le,0.11114203929901123,-1.2104679,14.461917
+54,- je vais aller droit au but,french_variation,deleted_le,0.2983328104019165,8.694812,4.0642133
+55,j'irais droit au but,french_variation,deleted_le,0.6012787222862244,-12.373958,7.088204
+56,laissez tomber les formalités allez droit au but votre idéal est peut-être ici,french_variation,deleted_le,0.5795389413833618,8.3232155,21.302784
+57,d'accord allons droit au but,french_variation,deleted_le,0.32881635427474976,7.0949087,11.497061
+58,pour aller droit au but ma soeur je veux que dieu me choisisse,french_variation,deleted_le,0.3583037853240967,3.6049232,4.3616505
+59,toby allez droit au but je vous en prie,french_variation,deleted_le,0.3240138292312622,-3.7240405,-12.612938
+60,bien j'irais droit au but,french_variation,deleted_le,0.3434377908706665,-12.355183,7.0690475
+61,e allons droit au but,french_variation,deleted_le,0.36028730869293213,6.9847026,12.260989
+62,allons droit au but qu'on puisse vite rentrer chez nous,french_variation,deleted_le,0.19060832262039185,4.5133934,17.876257
+63,si tu veux quelque chose va droit au but,french_variation,deleted_le,0.43023592233657837,11.504186,2.41423
+64,je devrais aller droit au but,french_variation,deleted_le,0.2798677682876587,8.582809,4.9683747
+65,laisse-moi aller droit au but,french_variation,deleted_le,0.40910547971725464,7.2521777,6.68699
+66,allons droit au but est-ce parce qu'elle est noire,french_variation,deleted_le,0.30101752281188965,21.370785,10.621742
+67,elle sait ce qu'elle veut et va droit au but,french_variation,deleted_le,0.14710134267807007,-6.4762454,23.488
+68,tessa je vais aller droit au but,french_variation,deleted_le,0.37518471479415894,8.78415,4.318697
+69,eh bien tu es allé droit au but avec celle-la,french_variation,deleted_le,0.2320396900177002,-0.6135232,11.311589
+70,bien allons droit au but,french_variation,deleted_le,0.4277592897415161,6.7489843,17.46822
+71,si vous alliez droit au but entendu,french_variation,deleted_le,0.5839376747608185,11.254182,-2.1835725
+72,larry je vais aller droit au but,french_variation,deleted_le,0.3715861439704895,9.437747,4.8624687
+73,permettez-moi d'aller droit au but,french_variation,deleted_le,0.24402838945388794,7.3063564,6.75864
+74,si vous êtes au courant de tout allons droit au but,french_variation,deleted_le,0.37065351009368896,0.2033223,9.133415
+75,vous êtes un homme très occupé clairement alors nous allons droit au but,french_variation,deleted_le,0.10657608509063721,0.97784406,-2.8787794
+76,tu vas droit au but,french_variation,deleted_le,0.25777649879455566,0.8737997,11.13836
+77,pour aller droit au but on s'intéresse à un de vos élèves,french_variation,deleted_le,0.19276994466781616,20.645742,15.341961
+78,insulte-les de hippies et va droit au but,french_variation,deleted_le,0.19475793838500977,12.840179,-0.8991562
+79,et à en juger par vos regards je vais aller droit au but,french_variation,deleted_le,0.31652700901031494,8.452404,1.3290164
+80,je croyais qu'on irait droit au but,french_variation,deleted_le,0.33848661184310913,2.9220514,0.73605675
+81,je sais que votre temps est précieux donc je vais aller droit au but,french_variation,deleted_le,0.13355553150177002,6.530882,-10.079788
+82,je ne peux y croire vous allez droit au but n'est-ce pas,french_variation,deleted_le,0.38546574115753174,-10.71915,-6.680336
+83,vous allez droit au but,french_variation,deleted_le,0.33486151695251465,0.7135894,11.2576685
+84,- j'aime qu'il aille droit au but,french_variation,deleted_le,0.5636802315711975,0.45673987,-2.4502628
+85,bon maman allons droit au but et essayons de sauver l'anniversaire de rebecca,french_variation,deleted_le,0.1077541708946228,-0.40446636,25.46738
+86,amber je vais aller droit au but,french_variation,deleted_le,0.22260749340057373,0.7258466,-6.435788
+87,allons droit au but et passons au jardin,french_variation,deleted_le,0.47035157680511475,17.015722,18.65103
+88,nous avons beaucoup à nous dire allons droit au but,french_variation,deleted_le,0.38281750679016113,4.280182,8.065436
+89,allez droit au but s'il y en a un,french_variation,deleted_le,0.24388325214385986,18.084955,7.5737753
+90,allons droit au but,french_variation,deleted_le,0.6023884415626526,6.5482063,17.522234
+91,c'est aller droit au but ça,french_variation,deleted_le,0.42497730255126953,7.433361,10.929615
+92,normal allez droit au but,french_variation,deleted_le,0.41513365507125854,9.989376,21.74831
+93,j'allai droit au but,french_variation,deleted_le,0.6668063998222351,7.38378,3.9753063
+94,donc si on allait droit au but,french_variation,deleted_le,0.3400508165359497,3.791017,8.759366
+95,réunissez-les et allez droit au but,french_variation,deleted_le,0.4439812898635864,4.100783,12.6188965
+96,allons droit au but parlons argent,french_variation,deleted_le,0.20841717720031738,0.18846267,1.8483521
+97,vous allez droit au but moi aussi,french_variation,deleted_le,0.4290119409561157,8.651696,-3.4022777
+98,elle va droit au but,french_variation,deleted_le,0.6996437311172485,9.200562,10.97399
+99,non je veux aller droit au but et me tailler d'ici au plus vite,french_variation,deleted_le,0.27018165588378906,17.04324,-3.6845624
+100,j'en ai marre de jouer au chat et à la souris j'ai faith pour ça allons droit au but,french_variation,deleted_le,0.6891273558139801,10.626096,-8.375532
+0,et maintenant une jeune femme qui va droit au ma sœur roberta tubbs,french_variation,deleted_but,0.37683480978012085,19.862776,4.604285
+1,rebecca je je vais aller droit au,french_variation,deleted_but,0.4927677512168884,9.781849,5.839234
+2,allons droit au veux-tu,french_variation,deleted_but,0.32155489921569824,0.5630312,10.495486
+3,allons droit au,french_variation,deleted_but,0.30641984939575195,6.288673,10.301695
+4,ça ne vous dérange pas si on va droit au,french_variation,deleted_but,0.21703016757965088,0.2495408,16.222364
+5,de fait messieurs je vais aller droit au,french_variation,deleted_but,0.4009517431259155,6.6662207,2.8020647
+6,je vais aller droit au,french_variation,deleted_but,0.27476727962493896,8.103885,4.620278
+7,c'est une question qui va droit au,french_variation,deleted_but,0.567671537399292,15.51251,9.551431
+8,c'est pourquoi messieurs je vais aller droit au,french_variation,deleted_but,0.3838541507720947,6.508412,2.6395555
+9,concentre-toi et va droit au,french_variation,deleted_but,0.27891790866851807,8.718363,9.137795
+10,vous me connaissez alors je vais aller droit au,french_variation,deleted_but,0.3897515535354614,10.356179,2.6194177
+11,vouiez-vous aller droit au,french_variation,deleted_but,0.5699459612369537,0.51468235,10.542253
+12,nous allons aller droit au,french_variation,deleted_but,0.49784642457962036,6.4592466,10.572427
+13,est-ce qu'on peut aller droit au,french_variation,deleted_but,0.25485825538635254,6.669374,10.175976
+14,je vais aller droit au tu es seul pour la soirée de noël non,french_variation,deleted_but,0.38325291872024536,16.906895,11.361518
+15,très bien allons droit au,french_variation,deleted_but,0.42067068815231323,6.372022,10.508446
+16,de cette manière ils iront droit au en un seul coup,french_variation,deleted_but,0.3120417594909668,4.3386526,18.750725
+17,eh bien c'est brutal mais ça va droit au,french_variation,deleted_but,0.3849605321884155,-5.2625427,-7.7853656
+18,bon allons droit au alorscyrus je te présente sanders black,french_variation,deleted_but,0.25682032108306885,12.829848,-14.237478
+19,ne me sors pas une longue explication et va droit au,french_variation,deleted_but,0.21142351627349854,-6.477525,5.8537607
+20,eh bien allons droit au ça signifie que l'entreprise savait que l'amiante provoquait le cancer,french_variation,deleted_but,0.22328972816467285,-8.196461,-10.245111
+21,allez droit au,french_variation,deleted_but,0.5286977887153625,6.156438,10.214286
+22,alors je vais résumer ça et aller droit au,french_variation,deleted_but,0.4002619981765747,6.9888854,-2.2133317
+23,si on allait droit au,french_variation,deleted_but,0.5887455642223358,3.9439924,8.90257
+24,allons droit au agent burke,french_variation,deleted_but,0.24919629096984863,14.274622,5.6888185
+25,tu vas droit au papa,french_variation,deleted_but,0.4608802795410156,-6.56121,-6.0510783
+26,je pensais juste qu'on pourrait aller droit au,french_variation,deleted_but,0.20667988061904907,2.778877,0.57690334
+27,je sais que vous êtes occupée aussi je vais aller droit au,french_variation,deleted_but,0.19012802839279175,-3.0370793,0.1354535
+28,trêve de plaisanteries allons droit au,french_variation,deleted_but,0.5179427564144135,9.563195,15.453909
+29,tu es bien ma fille tu vas droit au,french_variation,deleted_but,0.36753571033477783,2.2449558,14.255158
+30,alors si t'allais droit au,french_variation,deleted_but,0.3189159035682678,12.910439,6.6028004
+31,il y a aucune intrigue de nos jours ça va droit au,french_variation,deleted_but,0.3972017765045166,13.818824,-7.8562775
+32,louise m'attend pour dîner allons droit au,french_variation,deleted_but,0.23302608728408813,17.122576,17.974173
+33,j'adorerais me battre avec toi mais je préfère aller droit au,french_variation,deleted_but,0.36097443103790283,1.5112929,-7.8831353
+34,vous semblez aller droit au,french_variation,deleted_but,0.35941213369369507,0.42771685,10.619318
+35,votre usine est remarquable mais puis-je aller droit au,french_variation,deleted_but,0.514138400554657,-7.4617553,0.66577625
+36,bon allons droit au,french_variation,deleted_but,0.2820703983306885,6.2243943,10.316812
+37,je vais aller droit au milo,french_variation,deleted_but,0.5155546069145203,7.9971094,4.7308135
+38,bon allons droit au d'accord,french_variation,deleted_but,0.3341064453125,-0.21347499,5.431796
+39,enfin bref allons droit au,french_variation,deleted_but,0.30090540647506714,5.3251977,10.763631
+40,il va droit au,french_variation,deleted_but,0.33292698860168457,6.2266526,10.200052
+41,- on peut aller droit au,french_variation,deleted_but,0.3101009130477905,6.52232,10.119876
+42,allons droit au où est la drogue,french_variation,deleted_but,0.4672788381576538,4.4303846,-12.864494
+43,les gens commencent à s'interroger alors va droit au d'accord,french_variation,deleted_but,0.4052765965461731,5.3163424,7.8456016
+44,- allons droit au,french_variation,deleted_but,0.4247778058052063,6.2482305,10.090898
+45,maintenant allons droit au - le tirage au sort,french_variation,deleted_but,0.4730348587036133,9.049496,15.262282
+46,vous êtes très occupée alors allons droit au,french_variation,deleted_but,0.27816927433013916,-2.5438135,0.5933868
+47,puis-je comme on dit chez vous aller droit au professeur,french_variation,deleted_but,0.4690057039260864,-6.716758,9.229264
+48,nous nous connaissons alors allons droit au et dites pourquoi vous êtes ici,french_variation,deleted_but,0.4436066150665283,-13.492453,11.583008
+49,je serai à vos côtés malgré vos insultes parce qu'un révolutionnaire va droit au coûte que coûte,french_variation,deleted_but,0.15089643001556396,24.927774,2.0254648
+50,- tu vas droit au,french_variation,deleted_but,0.31996262073516846,0.41628277,10.496226
+51,chéri il vaut parfois mieux éviter d'aller droit au,french_variation,deleted_but,0.3850497007369995,-0.68787694,4.9501505
+52,mais allons droit au et voyons s'il n'y a pas de l'adn de connie dessus,french_variation,deleted_but,0.36302101612091064,-2.5997825,-4.1055565
+53,je vais aller droit au jack,french_variation,deleted_but,0.1453632116317749,-1.1763067,14.494976
+54,- je vais aller droit au,french_variation,deleted_but,0.34689199924468994,8.202668,4.4641786
+55,j'irais droit au,french_variation,deleted_but,0.6699521541595459,-12.315526,7.031263
+56,laissez tomber les formalités allez droit au votre idéal est peut-être ici,french_variation,deleted_but,0.5858418345451355,8.35918,21.338394
+57,d'accord allons droit au,french_variation,deleted_but,0.2605060338973999,6.2956605,10.4097805
+58,pour aller droit au ma soeur je veux que dieu me choisisse,french_variation,deleted_but,0.35149049758911133,3.6313915,4.3893805
+59,toby allez droit au je vous en prie,french_variation,deleted_but,0.2842977046966553,-3.7239313,-12.613304
+60,bien j'irais droit au,french_variation,deleted_but,0.29934847354888916,-12.401298,7.128229
+61,e allons droit au,french_variation,deleted_but,0.34820103645324707,6.4089613,10.505637
+62,allons droit au qu'on puisse vite rentrer chez nous,french_variation,deleted_but,0.19397330284118652,4.5236855,17.867624
+63,si tu veux quelque chose va droit au,french_variation,deleted_but,0.3409908413887024,11.49919,2.4066136
+64,je devrais aller droit au,french_variation,deleted_but,0.27302801609039307,8.1758375,4.667965
+65,laisse-moi aller droit au,french_variation,deleted_but,0.3433305025100708,7.799764,4.9481707
+66,allons droit au est-ce parce qu'elle est noire,french_variation,deleted_but,0.3533443212509155,21.3722,10.623
+67,elle sait ce qu'elle veut et va droit au,french_variation,deleted_but,0.13423031568527222,-6.4558034,23.468166
+68,tessa je vais aller droit au,french_variation,deleted_but,0.40479981899261475,8.084631,4.667512
+69,eh bien tu es allé droit au avec celle-la,french_variation,deleted_but,0.1791243553161621,-0.63364464,11.307908
+70,bien allons droit au,french_variation,deleted_but,0.32889872789382935,6.2284284,10.330751
+71,si vous alliez droit au entendu,french_variation,deleted_but,0.6651475131511688,11.271573,-2.165391
+72,larry je vais aller droit au,french_variation,deleted_but,0.4314425587654114,9.369482,4.8350124
+73,permettez-moi d'aller droit au,french_variation,deleted_but,0.282352089881897,7.895707,4.84424
+74,si vous êtes au courant de tout allons droit au,french_variation,deleted_but,0.3220894932746887,0.23092493,9.150368
+75,vous êtes un homme très occupé clairement alors nous allons droit au,french_variation,deleted_but,0.11402106285095215,0.9187774,-2.826891
+76,tu vas droit au,french_variation,deleted_but,0.25323057174682617,0.4807139,10.539436
+77,pour aller droit au on s'intéresse à un de vos élèves,french_variation,deleted_but,0.18477672338485718,20.581429,15.406283
+78,insulte-les de hippies et va droit au,french_variation,deleted_but,0.19166827201843262,12.897491,-0.84395695
+79,et à en juger par vos regards je vais aller droit au,french_variation,deleted_but,0.29260575771331787,8.454631,1.3408195
+80,je croyais qu'on irait droit au,french_variation,deleted_but,0.26190078258514404,2.9579566,0.70739317
+81,je sais que votre temps est précieux donc je vais aller droit au,french_variation,deleted_but,0.14690881967544556,6.5368166,-10.06585
+82,je ne peux y croire vous allez droit au n'est-ce pas,french_variation,deleted_but,0.3633384108543396,-10.735549,-6.6968822
+83,vous allez droit au,french_variation,deleted_but,0.3131510019302368,0.53181857,10.647087
+84,- j'aime qu'il aille droit au,french_variation,deleted_but,0.5299129784107208,0.46978676,-2.4597614
+85,bon maman allons droit au et essayons de sauver l'anniversaire de rebecca,french_variation,deleted_but,0.10920202732086182,-0.4017537,25.464636
+86,amber je vais aller droit au,french_variation,deleted_but,0.2336551547050476,0.63107896,-6.3410826
+87,allons droit au et passons au jardin,french_variation,deleted_but,0.44148898124694824,16.99815,18.59437
+88,nous avons beaucoup à nous dire allons droit au,french_variation,deleted_but,0.30995362997055054,4.3806453,7.9835343
+89,allez droit au s'il y en a un,french_variation,deleted_but,0.23292064666748047,18.084524,7.5766234
+90,allons droit au,french_variation,deleted_but,0.4810492992401123,6.1903257,10.278902
+91,c'est aller droit au ça,french_variation,deleted_but,0.4649391770362854,7.3049326,10.795327
+92,normal allez droit au,french_variation,deleted_but,0.454262912273407,9.9716015,21.726524
+93,j'allai droit au,french_variation,deleted_but,0.6815754771232605,7.4855514,4.0712404
+94,donc si on allait droit au,french_variation,deleted_but,0.3408764600753784,3.9445212,8.910676
+95,réunissez-les et allez droit au,french_variation,deleted_but,0.3671858310699463,4.168743,12.551787
+96,allons droit au parlons argent,french_variation,deleted_but,0.2446897029876709,0.22313978,1.8139303
+97,vous allez droit au moi aussi,french_variation,deleted_but,0.45356428623199463,8.653897,-3.4039826
+98,elle va droit au,french_variation,deleted_but,0.8148805648088455,6.2085013,10.274148
+99,non je veux aller droit au et me tailler d'ici au plus vite,french_variation,deleted_but,0.2893884778022766,17.09053,-3.7317917
+100,j'en ai marre de jouer au chat et à la souris j'ai faith pour ça allons droit au,french_variation,deleted_but,0.6813581883907318,10.632049,-8.367194

@@ -1,0 +1,10 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+ramener son fraise,0,bon s'il ramène sa fraise ou s'il appelle,so if he fuckin' shows up or anything or if he fuckin' calls,good if he brings back his strawberry or if he calls,Literal Translation,0.68051994,0.8059589,-0.12543899
+ramener son fraise,1,et va savoir qui va ramener sa fraise,who knows who's gonna be coming along in that time,and then you'll know who will bring back his strawberry,Literal Translation,0.69669574,0.7839043,-0.08720857
+ramener son fraise,2,qu'elle ramène sa fraise ici,have her get her ass over here,that she brings her raspberry back here,Literal Translation,0.76088077,0.78241616,-0.021535397
+ramener son fraise,3,c'est un peu tard pour que ton vagin ramène sa fraise,bit late in the day for your vagina to chime in,That's a bit late for your vagina to bring back its strawberry.,Unnatural,0.76732874,0.8158448,-0.048516035
+ramener son fraise,4,pas de panique je ramène ma fraise,don't be alarmed it's only a drill,Don't panic I'll bring my strawberries.,Literal Translation,0.62986,0.81012005,-0.18026006
+ramener son fraise,5,je peux ramener ma fraise,you don't mind me butting in,I can bring back my strawberry,Literal Translation,0.5215781,0.7705642,-0.24898612
+ramener son fraise,6,warwick a ramené sa fraise,warwick came sniffing around,Warwick has brought back his raspberry.,Unnatural,0.70644015,0.7966569,-0.090216756
+ramener son fraise,7,il a juste dit que mme hale ramène sa fraise,just said i better tell mrs hale to get her ass over here his words,He just said Mrs. Hale brings back her strawberry,Mistranslation,0.7720852,0.7991595,-0.027074337
+ramener son fraise,8,la dernière chose dont il ait envie est que je ramène ma fraise d'accord,the last thing he wants is me rattling his cage right,the last thing he'd like is for me to come back with a strawberry okay,Literal Translation,0.68875587,0.78876364,-0.10000777

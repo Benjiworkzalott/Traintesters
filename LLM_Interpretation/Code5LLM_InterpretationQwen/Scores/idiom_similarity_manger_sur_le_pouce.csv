@@ -1,0 +1,6 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+manger sur le pouce,0,je n'aime pas te voir manger sur le pouce,when i see you eat like that i,I don't like seeing you eat on the go.,Good Translation,0.63929933,0.8520523,-0.21275294
+manger sur le pouce,1,j'ai mangé sur le pouce,i kinda ate on the run,I ate something quickly,Good Translation,0.8020475,0.79558086,0.006466627
+manger sur le pouce,2,au lieu de ça je mangeais sur le pouce et je me rendais à un spectacle amateur de kabuki,instead i stopped at my favorite sidewalk cafe for a quick bite and was on my way to some kind of amateur kabuki performance,"instead of doing that, I ate on the go and attended an amateur kabuki performance",Good Translation,0.8694774,0.93475467,-0.06527728
+manger sur le pouce,3,je mange sur le pouce avec 12 chiens,usually just a fry-up for me what with 12 dogs,I eat on the go with 12 dogs,Good Translation,0.75824964,0.9092196,-0.15096998
+manger sur le pouce,4,y a t-il des en-cas à manger sur le pouce,is there any finger food,are there snacks to eat on the go,Good Translation,0.68213224,0.7122463,-0.030114055

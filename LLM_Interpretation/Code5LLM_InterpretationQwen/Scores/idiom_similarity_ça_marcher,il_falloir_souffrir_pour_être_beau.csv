@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"ça marcher,il falloir souffrir pour être beau",0,il faut souffrir pour être beau essayez ça marche,beauty knows no pain just try it it's gotten more ladies through my class,you have to suffer to be beautiful try that works,Unnatural,0.61965525,0.90107685,-0.2814216

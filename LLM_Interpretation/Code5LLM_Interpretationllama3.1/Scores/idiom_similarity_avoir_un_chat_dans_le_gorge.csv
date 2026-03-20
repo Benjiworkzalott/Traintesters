@@ -1,0 +1,19 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+avoir un chat dans le gorge,0,j'ai dû avoir un chat dans la gorge,must've been a frog in my throat,I had to have a cat in my throat,Literal Translation,0.7698425,0.87785697,-0.108014464
+avoir un chat dans le gorge,1,- vous avez un chat dans la gorge - oui,- you've got a frog in your throat,- you have a cat in your throat - yes,Unnatural,0.72174245,0.87526286,-0.1535204
+avoir un chat dans le gorge,2,quand je dis son prénom c'est comme si j'avais un chat dans la gorge,it's easy to pronounce every time i try to say her name i get a hairball,When I say her first name it's like having a cat stuck in my throat.,Good Translation,0.66603494,0.84468466,-0.17864972
+avoir un chat dans le gorge,3,ce matin j'avais un chat dans la gorge,this morning i had a frog in my throat,this morning I had a tick in my throat,Literal Translation,0.80833495,0.77331656,0.035018384
+avoir un chat dans le gorge,4,- tu as un chat dans la gorge mon beau,- something stuck in your throat boy,- you've got a cat in your throat my handsome one,Good Translation,0.72880286,0.8469614,-0.11815852
+avoir un chat dans le gorge,5,j'avais un chat dans la gorge,just got a frog in my throat,I had a cat in my throat.,Literal Translation,0.7604288,0.8658289,-0.105400085
+avoir un chat dans le gorge,6,désolé j'ai un chat dans la gorge,i'm sorry something is in my throat,Sorry I have a cat in my throat,Literal Translation,0.78512454,0.8781278,-0.09300327
+avoir un chat dans le gorge,7,- tu as un chat dans la gorge,have you got a frog in your throat,- you have a cat in your throat,Good Translation,0.72788817,0.8628459,-0.13495773
+avoir un chat dans le gorge,8,elle a un chat dans la gorge,she's a throat-clearer,she has a cat in her throat,Good Translation,0.72859216,0.88145703,-0.15286487
+avoir un chat dans le gorge,9,tu as un chat dans la gorge,you have a tickle in your throat,you have a cat in your throat,Unnatural,0.6964876,0.82565236,-0.12916476
+avoir un chat dans le gorge,10,- j'ai un chat dans la gorge,- i've got a frog in my throat,- I have a cat in my throat,Good Translation,0.8193759,0.8746566,-0.055280745
+avoir un chat dans le gorge,11,il a un chat dans la gorge,he's just a little hoarse,He has a cat in his throat.,Good Translation,0.66639745,0.86415505,-0.1977576
+avoir un chat dans le gorge,12,j'ai un chat dans la gorge,yeah,I have a cat in my throat.,Literal Translation,0.46019334,0.84101856,-0.38082522
+avoir un chat dans le gorge,13,je crois que j'ai un chat dans la gorge,i think i have a frog in my throat,I think I have a cat in my throat.,Good Translation,0.80947274,0.8781863,-0.068713546
+avoir un chat dans le gorge,14,qu'y a-t-il tu as un chat dans la gorge,what's the matter cat got your tongue,What's this? You've got a cat stuck in your throat.,Unnatural,0.65119207,0.7056943,-0.05450225
+avoir un chat dans le gorge,15,vous avez un chat dans la gorge,you've gone all croaky,You have a cat in your throat.,Good Translation,0.5534727,0.8268657,-0.27339298
+avoir un chat dans le gorge,16,qu'y a-t-il tu as un chat dans la gorge,what's the matter with you,What's going on do you have a cat in your throat?,Good Translation,0.5640551,0.73514986,-0.17109478
+avoir un chat dans le gorge,17,non j'ai un chat dans la gorge,no i just had something stuck in my throat,no I have a cat in my throat,Literal Translation,0.68625736,0.8489778,-0.16272044

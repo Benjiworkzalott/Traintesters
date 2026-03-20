@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"ça marcher,en avoir marre",0,j'en ai marre qu'ils me mentent et je sais que ça marchera jamais,i'm sick of them lying to me and i know that it's never going to work,I'm fed up with them lying to me and I know that it will never work,Unnatural,0.873086,0.8609941,0.012091875

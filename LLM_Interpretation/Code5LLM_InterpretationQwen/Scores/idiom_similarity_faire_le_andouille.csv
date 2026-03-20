@@ -1,0 +1,17 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+faire le andouille,0,j'aimerais qu'ils arrêtent de faire les andouilles,groans i wish these kids would stop acting up,I would like them to stop being idiots,Good Translation,0.68062323,0.7443451,-0.063721895
+faire le andouille,1,si les enfants font les andouilles on peut leur mettre une gifle,if the kid's misbehaving behind you you can reach and whack him,"If the children make fools of themselves, we can give them a slap.",Good Translation,0.65352106,0.7037723,-0.050251245
+faire le andouille,2,tu veux que je fasse l'andouille je la fais,you want me to play dumb i'll play dumb,you want me to make the sausage I'll do it,Literal Translation,0.638311,0.7373044,-0.09899336
+faire le andouille,3,jeff fait l'andouille,jeff's just being silly,Jeff makes the sausage,Literal Translation,0.75018704,0.702683,0.047504067
+faire le andouille,4,pourquoi tu te crois toujours obligé de faire l'andouille,why do you have to act like an idiot,why do you always feel obliged to be a fool,Good Translation,0.6015016,0.71641654,-0.11491495
+faire le andouille,5,quand on était petits on croyait que maman faisait l'andouille,remember when we were kids and we thought mom was just being silly,"when we were young, we believed that mom made the saucisse",Partial Translation,0.7380285,0.73311174,0.004916787
+faire le andouille,6,pac-man faisait l'andouille,pac-man caused a ruckus,pac-man was pulling a dumbface,Literal Translation,0.7569168,0.75666034,0.0002564788
+faire le andouille,7,quoi qu'il fait l'andouille,although he's playing dumb,no matter what he does the fool,Good Translation,0.52215374,0.6116487,-0.08949494
+faire le andouille,8,- avant que jesse fasse l'andouille,- before jesse does something stupid,before Jesse makes the andouille,Literal Translation,0.78196913,0.83150685,-0.04953772
+faire le andouille,9,il a fait l'andouille et maintenant il en récolte les fruits,he acted like a jerk and now he caught it in the butt,He made the sausages and now he is reaping the consequences.,Partial Translation,0.5559063,0.6969334,-0.1410271
+faire le andouille,10,ne commence pas à faire l'andouille,and don't you be a jerk,don't start pulling the wool over my eyes,Mistranslation,0.576448,0.6169654,-0.04051739
+faire le andouille,11,- quand on fait l'andouille on finit par être mangé,when one makes the fool one always ends up being fooled,- when we make sausages we end up being eaten,Literal Translation,0.57976615,0.7199676,-0.14020145
+faire le andouille,12,c'était juste mickey qui faisait l'andouille,that was just mickey fooling around,it was just Mickey doing the dumb stuff,Good Translation,0.80355775,0.7252058,0.078351974
+faire le andouille,13,c'est moi qui devrais faire l'andouille pas toi,i should be the one goofing off not you sighing,"it's me who should do the bologna, not you",Literal Translation,0.71100974,0.7367775,-0.025767744
+faire le andouille,14,j'aimerais avoir une queue j'ai toujours fait l'andouille,i've always been a goofball,I would like to have a tail; I've always been a fool.,Good Translation,0.66304016,0.70819986,-0.045159698
+faire le andouille,15,je fais l'andouille,i'm just goofing,I make the sausages,Literal Translation,0.6090281,0.6422539,-0.033225775

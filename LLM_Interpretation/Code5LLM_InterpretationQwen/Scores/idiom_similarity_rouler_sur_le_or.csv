@@ -1,0 +1,53 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+rouler sur le or,0,ils ont l'air de rouler sur l'or,they must be doing very well,They look like they are rolling in money.,Good Translation,0.71507615,0.8241446,-0.10906845
+rouler sur le or,1,le public voit en moi une femme ambitieuse résolue prédestinée à rouler sur l'or,when the public look at me they see an ambitious confident woman destined to rule over millions,the public sees in me a ambitious and determined woman destined to roll in wealth,Good Translation,0.8146975,0.89519894,-0.08050144
+rouler sur le or,2,il roule sur l'or,very rich,he rolls in wealth,Good Translation,0.5220237,0.75484866,-0.23282498
+rouler sur le or,3,je devrais rouler sur l'or,i should've been in the money years ago,I should be rolling in gold,Good Translation,0.6112758,0.78956795,-0.17829216
+rouler sur le or,4,mais si tu montre ceci aux mec italien nous roulerons sur l'or mon ami,but if you show this to the italian tabloids we will be rolling in cash my friend,but if you show this to that Italian guy we'll roll in gold my friend,Unnatural,0.8462047,0.9122784,-0.066073716
+rouler sur le or,5,alors colonel il paraît que vous roulez sur l'or,colonel you look fine i hear you're rolling in wealth,then Colonel it seems you're rolling in money,Good Translation,0.7858257,0.8626958,-0.076870084
+rouler sur le or,6,charlie je n'ai pas besoin de rouler sur l'or,charlie i don't need to be rolling in dough,"Charlie, I don't need to roll in gold.",Good Translation,0.81197435,0.83874685,-0.0267725
+rouler sur le or,7,tu roules sur l'or mais tu ne partages pas avec ceux qui font le sale boulot,you're making tons of money but you're incapable of sharing it with people you can rely on,you roll in gold but you don't share with those who do the dirty work,Good Translation,0.66936785,0.9025073,-0.23313946
+rouler sur le or,8,ils roulent sur l'or,they're so rich,They roll on gold,Good Translation,0.67703843,0.86258316,-0.18554473
+rouler sur le or,9,vous roulerez sur l'or,you'll be rolling in dough to tell it like it is,you will roll in wealth,Good Translation,0.5983344,0.75085783,-0.15252346
+rouler sur le or,10,- je croyais qu'il roulait sur l'or - absolument,i was under the impression he was thriving,-I thought he was rolling in money - absolutely,Good Translation,0.7108195,0.85153204,-0.14071256
+rouler sur le or,11,c'est comme si on roulait sur l'or,it's like we're practically roling it,it's like rolling on gold,Good Translation,0.7438724,0.87574327,-0.13187087
+rouler sur le or,12,les avocats roulent sur l'or,- barristers make money,lawyers roll in gold,Good Translation,0.6679859,0.86791795,-0.19993204
+rouler sur le or,13,restez avec moi et vous roulerez sur l'or,you stick with me and i'll put diamonds in your teeth,stay with me and you will roll in wealth,Good Translation,0.732885,0.8410304,-0.108145416
+rouler sur le or,14,- los angeles californie il avait l'air de rouler sur l'or,everything glittered and was golden,"-Los Angeles, California, it looked like they were rolling on gold.",Good Translation,0.63084817,0.8439084,-0.21306026
+rouler sur le or,15,avec la mère de dave et andy on roulait sur l'or,with dave and andy's mother we always had money,"with Dave and Andy's mother, we were rolling in money",Good Translation,0.74172163,0.77610517,-0.034383535
+rouler sur le or,16,- tu roules sur l'or,- you're flush,you're rolling in money,Good Translation,0.6381221,0.7521212,-0.11399913
+rouler sur le or,17,nous sommes extrêmement embarrassés par la présence d'un homme qui roule sur l'or sans ressources financières apparentes,we are greatly mystified by the presence of a gentleman down here rolling in wealth without any viable means of support,We are extremely embarrassed by the presence of a man rolling in gold with no apparent financial resources.,Good Translation,0.84238124,0.9184195,-0.07603824
+rouler sur le or,18,t'as pas l'air de rouler sur l'or,you seem to be in bad shape,you don't seem to be rolling in money,Unnatural,0.6783092,0.768486,-0.09017682
+rouler sur le or,19,khaled roule sur l'or,khaled is minting money,Khaled rolls in wealth,Good Translation,0.7326907,0.68785,0.044840693
+rouler sur le or,20,je roule sur l'or ils rament,that's why we drive benz they take bus,I'm rolling in money they're rowing hard,Good Translation,0.54311585,0.73750174,-0.19438589
+rouler sur le or,21,non vous roulez sur l'or,wait a sec you spend that in toilet paper at your mansions,you're rolling in money,Good Translation,0.45881817,0.63773286,-0.1789147
+rouler sur le or,22,quand je pense que je devrais rouler sur l'or,i ought to be picking gold from the street,when I think I should be rolling in gold,Good Translation,0.6919688,0.82105684,-0.12908804
+rouler sur le or,23,comme si on roulait sur l'or,haven't we had enough of two-bit prizes,as if we were rolling on gold,Good Translation,0.45490852,0.8588288,-0.40392026
+rouler sur le or,24,elle doit rouler sur l'or,you have no right to do that to me oh never never,She must roll on gold,Literal Translation,0.40872407,0.8722508,-0.46352673
+rouler sur le or,25,il est joli comme un cœur et il roule sur l'or,pretty as a picture and rolling in money,He is as handsome as a heart and rolls on gold,Good Translation,0.69793916,0.875013,-0.17707384
+rouler sur le or,26,seigneur nous roulons sur l'or,oh lord how the money rolls in,lord we roll on gold,Good Translation,0.6727935,0.86509115,-0.19229764
+rouler sur le or,27,c'est un vieux torpilleur qui roule sur l'or ils sont 6,an old torpedo boat with a nice wingspan,it's an old destroyer rolling on gold they are 6,Literal Translation,0.65898305,0.80384386,-0.1448608
+rouler sur le or,28,ça fait 20 ans que tu rêves de lui tu crois que je roule sur l'or,it's been 20 years you rely on what he says to you in sleep and you've never won,"It's been 20 years you've dreamed of him, do you think I'm rolling in money?",Good Translation,0.6894592,0.83535385,-0.14589465
+rouler sur le or,29,on roulera sur l'or,we'll be rollin' in dough,we will roll on gold,Good Translation,0.6535013,0.7851362,-0.13163495
+rouler sur le or,30,votre ami reese roule sur l'or à présent,your friend reese he's in the big time now,your friend Reese is rolling in money now,Good Translation,0.77409184,0.82543206,-0.051340222
+rouler sur le or,31,ce n'est pas difficile il roule sur l'or,he must have tons of money,it's not difficult he rolls in money,Good Translation,0.62092924,0.84817624,-0.227247
+rouler sur le or,32,tu roules sur l'or je suis super gêné super gêné,i'm fucking embarrassed,you're rolling in money I'm really embarrassed really embarrassed,Good Translation,0.5535748,0.69617754,-0.14260274
+rouler sur le or,33,vous savez chez moi dans mon pays quand on parle de l'amérique tout le monde dit qu'on roulera sur l'or qu'on aura tous une grosse voiture une maison avec piscine,you know in my country in my place when you heard about america everybody say there's so much money there and you're gonna have a big car big house and a swimming pool,"You know in my country when they talk about America, everyone says we'll be rolling in gold, we'll all have a big car, a house with a pool.",Good Translation,0.85965854,0.9046603,-0.045001745
+rouler sur le or,34,tu roules sur l'or,you're rolling in money,you're rolling in money,Good Translation,0.7434016,0.74340165,-5.9604645e-08
+rouler sur le or,35,il a pas l'air de rouler sur l'or,doesn't sound much like a money man,He doesn't seem to be rolling in money,Good Translation,0.7084651,0.7960235,-0.08755839
+rouler sur le or,36,elle roulerait sur l'or non,- why she'd just rake in the money wouldn't she,she would roll in gold,Good Translation,0.65535665,0.7638005,-0.108443856
+rouler sur le or,37,les banquiers roulent sur l'or,once a man gets his name on a banking house he rolls in money,the bankers roll on gold,Unnatural,0.6209357,0.889859,-0.26892334
+rouler sur le or,38,ils doivent rouler sur l'or au couvent hein,man they must got it going on down at the convent huh,"they have to roll in gold at the convent, huh?",Good Translation,0.68464386,0.79024017,-0.105596304
+rouler sur le or,39,- on roule sur l'or ici,- is there a little box,- we're rolling in money here,Good Translation,0.5847851,0.768971,-0.18418592
+rouler sur le or,40,tu crois que je roule sur l'or,do you think i'm made of brass,you think I'm rolling in money,Good Translation,0.6593601,0.81118375,-0.15182364
+rouler sur le or,41,tu l'as dit à bree grâce au travail de papa on roule sur l'or,- i heard you telling aunt bree since daddy got his new job we're rolling in money,you said it to Bree thanks to dad's work we're rolling in money,Good Translation,0.74175256,0.8684354,-0.12668282
+rouler sur le or,42,t'as pas l'air de rouler sur l'or,you look terrible being a punk,you don't seem to be rolling in money,Literal Translation,0.55689865,0.768486,-0.21158737
+rouler sur le or,43,- swan on roule sur l'or,- swan you found a gold mine,- the swan is rolling on gold,Good Translation,0.7345629,0.8948833,-0.1603204
+rouler sur le or,44,mais cette maison roule sur l'or,but this house is rolling in gold,but this house runs on gold,Literal Translation,0.9057529,0.9327105,-0.026957631
+rouler sur le or,45,il se rémunère en vendant parallèlement des services informatiques il est loin de rouler sur l'or,he makes money by selling it services alongside he is far from being super rich,He earns by simultaneously selling IT services and is far from being rich,Good Translation,0.85052156,0.9071958,-0.056674242
+rouler sur le or,46,ils roulaient sur l'or,pretty well is putting it mildly they were rolling in wealth sir,they were rolling in wealth,Good Translation,0.6517249,0.80026966,-0.14854479
+rouler sur le or,47,bientôt nous posséderons le magasin et roulerons sur l'or,peggy six months from now we'll own this store together and be rolling in money,soon we will own the store and roll in gold,Unnatural,0.74830407,0.9188415,-0.17053741
+rouler sur le or,48,sans pour autant rouler sur l'or,we weren't very rich either,without rolling in gold,Literal Translation,0.55504143,0.8455478,-0.29050636
+rouler sur le or,49,grâce à cet ingénieux système on va bientôt rouler sur l'or,with a simple little system we'll be close by fortune's door,thanks to this ingenious system we are soon going to roll on gold,Good Translation,0.6310636,0.87803483,-0.24697125
+rouler sur le or,50,et il roule sur l'or,- and he's rich,and he rolls on gold,Unnatural,0.696996,0.85213816,-0.15514219
+rouler sur le or,51,l'homme qui roule sur l'or,the gentleman rolling in wealth,the man who rolls on gold,Good Translation,0.7803315,0.86173,-0.08139849

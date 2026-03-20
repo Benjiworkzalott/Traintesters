@@ -1,0 +1,87 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+avoir le cafard,0,j'ai le cafard à cause de toi,i've got the blues for you,I have cockroaches because of you,Literal Translation,0.63496137,0.72197115,-0.08700979
+avoir le cafard,1,j'avais le cafard et j'ai dit quelque chose dans ma langue,i was lonely i wanted to say something in my own language,I had the blues and said something in my language,Good Translation,0.77474356,0.8478961,-0.07315254
+avoir le cafard,2,après mon divorce j'avais le cafard,after finney and i split up i was pretty blue,"after my divorce, I was feeling blue",Good Translation,0.59668994,0.73800373,-0.14131379
+avoir le cafard,3,le temps est abominable les gens ont le cafard et sont de plus en plus nombreux à quitter risa,the weather's terrible the guests are miserable and more and more people are leaving risa every day,"The weather is awful, people are in a bad mood and more and more of them are leaving Risa.",Good Translation,0.82874644,0.8368002,-0.00805378
+avoir le cafard,4,on a le cafard,- we miss you,we have the blues,Good Translation,0.48333132,0.548503,-0.06517166
+avoir le cafard,5,qu'y a-t-il tu as le cafard,are you unhappy,what's wrong you have the blues,Good Translation,0.41746008,0.4363833,-0.018923223
+avoir le cafard,6,j'ai le cafard maintenant,i'm depressed,I have the blues now,Good Translation,0.6407166,0.72426057,-0.08354396
+avoir le cafard,7,tu as le cafard je déteste les dimanches ici,this place gives me the creeps on sunday,you have the blues I hate Sundays here,Good Translation,0.7045156,0.8417369,-0.13722134
+avoir le cafard,8,j'étais seul j'avais le cafard,i was alone i felt down,I was alone and I had the blues.,Good Translation,0.76653826,0.7627231,0.003815174
+avoir le cafard,9,j'ai le cafard en ce moment,i've been feeling kind of blue lately,I have the blues right now,Good Translation,0.64636993,0.7198608,-0.07349086
+avoir le cafard,10,et si j'ai le cafard je n'aurai qu'à regarder cette cicatrice pour penser à toi,if i ever feel lonely i'll look at this disfiguring scar and think of you,"and if I'm feeling down, I'll just have to look at this scar and think of you",Good Translation,0.73570925,0.7969682,-0.06125897
+avoir le cafard,11,ecoute j'ai le cafard,come on hol i'm broken up,"listen, I have the blues",Good Translation,0.5050415,0.5971304,-0.09208894
+avoir le cafard,12,vous avez le cafard,i got somethin' that'll cheer you up,you have the blues,Good Translation,0.6004237,0.66767365,-0.067249954
+avoir le cafard,13,tu as le cafard,well you may feel low and you might not be able to create a play right now,you have the blues,Good Translation,0.3672181,0.51547486,-0.14825675
+avoir le cafard,14,je me sentais bien et c'est arrivé comme ça j'ai eu le cafard,i was doing great then out of the blue it snuck up on me,I was feeling good and then I just got the blues.,Good Translation,0.7282193,0.7174873,0.010731995
+avoir le cafard,15,- vous semblez avoir le cafard,- you look glum,- it seems you're feeling down,Good Translation,0.7711991,0.73078614,0.040412962
+avoir le cafard,16,les rues ne sont pas sûres quand on a le cafard,streets are uneven,the streets are not safe when you have the blues,Unnatural,0.6463954,0.7227001,-0.076304734
+avoir le cafard,17,en arriver là parce qu'on a le cafard,i got to this point because i had the blues,to end up like this because we're feeling down,Good Translation,0.66263705,0.63354325,0.029093802
+avoir le cafard,18,- toi aussi tu as le cafard,- we call it the blues,- you have the blues too,Good Translation,0.46825263,0.740179,-0.27192637
+avoir le cafard,19,quand j'ai le cafard j'enlève ma chemise parce que les mauvaises pensées me font suer,when i get bummed out i take my shirt off because the bad feelings make me feel sweaty,"When I'm feeling down, I take off my shirt because negative thoughts make me sweat.",Good Translation,0.7535185,0.7579838,-0.004465282
+avoir le cafard,20,c'est drôle j'avais le cafard puis vous êtes arrivée et,funny here i was down in the dumps disgusted with everything - and then you came along and,it's funny I had the blues then you arrived and,Good Translation,0.6988871,0.81195164,-0.11306453
+avoir le cafard,21,- j'ai le cafard jen,- i've got the blues jen,I have the blues Jean,Good Translation,0.7139196,0.63782585,0.07609373
+avoir le cafard,22,tu auras le cafard,you'll feel blue,you will have the blues,Good Translation,0.5438201,0.62731147,-0.083491385
+avoir le cafard,23,il y a des jours où les gars ont le cafard alors ils parlent,there are days when guys have the blues then they talk,there are days when guys feel down so they talk,Good Translation,0.8361603,0.8224143,0.013746023
+avoir le cafard,24,après mon mariage j'ai eu le cafard,after i married i felt a little unhappy,"after my marriage, I had the blues",Good Translation,0.7446814,0.77447045,-0.02978903
+avoir le cafard,25,tout le monde ici a le cafard,we all got the miseries in here all of us,Everyone here is in a bad mood.,Good Translation,0.65260816,0.6668139,-0.014205754
+avoir le cafard,26,j'ai le cafard ici,i'm here feeling blue,I have the blues here,Good Translation,0.6267632,0.68733823,-0.06057501
+avoir le cafard,27,tu n'as pas l'air d'avoir le cafard,really,you don't seem to be feeling blue,Good Translation,0.45937592,0.72629976,-0.26692384
+avoir le cafard,28,quand j'ai le cafard je le mets et je danse comme une ballerine,i play this piece when i'm sad i pretend i'm a ballerina,"when I'm feeling down, I put on some music and dance like a ballerina",Good Translation,0.68959975,0.72631097,-0.036711216
+avoir le cafard,29,j'ai aussi mis des peintures de nous deux au cas ou tu aurais le cafard,i also packed your paintings of our best time together just in case you get lonely,I also put some paintings of ours just in case you feel blue.,Good Translation,0.74841,0.8006226,-0.052212596
+avoir le cafard,30,- aujourd'hui tout le monde a le cafard,today everybody has the blues,Today everyone has the blues,Good Translation,0.74687016,0.7450266,0.0018435717
+avoir le cafard,31,tu auras le cafard,you'll feel blue,you will have the blues,Good Translation,0.5438201,0.62731147,-0.083491385
+avoir le cafard,32,pourquoi vous sentez-vous bien ici quand vous avez le cafard,so what makes this place a good place to go when you're feeling down,Why do you feel good here when you have the blues?,Good Translation,0.6538732,0.72876,-0.0748868
+avoir le cafard,33,j'ai le cafard,i feel so bad,I have cockroaches,Literal Translation,0.5096498,0.5189291,-0.009279311
+avoir le cafard,34,quand tu as le cafard,when you're feeling in the dumps,when you have the blues,Good Translation,0.5607115,0.61196375,-0.051252246
+avoir le cafard,35,les anglais racontent cette histoire quand ils ont le cafard,englishmen tell it when they're feeling down in the mouth,the english people tell this story when they are feeling down,Good Translation,0.71415603,0.8179846,-0.10382855
+avoir le cafard,36,t'as le cafard,are you homesick,you have the blues,Good Translation,0.43278167,0.5153403,-0.08255866
+avoir le cafard,37,j'ai le cafard,i'm so bored,I have the blues,Good Translation,0.52394223,0.559654,-0.035711765
+avoir le cafard,38,c'est nous les italiens qui devrions avoir le cafard,you know who has the right to be melancholy we italians,it is we the Italians who should be feeling down,Good Translation,0.6908809,0.7477175,-0.056836605
+avoir le cafard,39,j'ai le cafard,i'm homesick,I have cockroaches,Literal Translation,0.5040523,0.5189291,-0.0148768425
+avoir le cafard,40,tu veux pas jouer avec moi j'ai le cafard,i've got the you-don't-want-to-stay-with-me blues,you don't want to play with me I'm feeling blue,Partial Translation,0.63444614,0.7005853,-0.06613916
+avoir le cafard,41,j'y vais parce que j'ai le cafard d'accord,i came because i was in a bad mood get it,"I'm going because I'm feeling blue, okay?",Good Translation,0.72657514,0.6791802,0.04739493
+avoir le cafard,42,j'ai le cafard j'ai le cafard,am i blue am i blue,I have the blues I have the blues,Good Translation,0.55686283,0.56539565,-0.008532822
+avoir le cafard,43,sois sage même si t'as le cafard,be a good girl ann no matter how lonesome,be sensible even if you're feeling down,Good Translation,0.5012536,0.72009844,-0.21884483
+avoir le cafard,44,j'ai le cafard,i've had the blues,I have cockroaches,Literal Translation,0.5708637,0.5189291,0.0519346
+avoir le cafard,45,tu crois que je devrais sourire et ne plus avoir le cafard,think i should pull off a fine smile and forget my pain,you think I should smile and no longer be blue,Good Translation,0.7163791,0.800783,-0.08440387
+avoir le cafard,46,il a le cafard il parle comme avant moi,his language has changed,he has the blues he talks like me before,Partial Translation,0.69356465,0.8251389,-0.13157427
+avoir le cafard,47,- même le perroquet a le cafard,- even the parrot's got the blues,- even the parrot has the blues,Good Translation,0.74296427,0.7286837,0.014280558
+avoir le cafard,48,ta mère m'a dit que t'avais le cafard,- your mom told me you were upset,Your mother told me you're feeling blue.,Good Translation,0.7241912,0.6976224,0.02656877
+avoir le cafard,49,c'est impossible d'avoir le cafard quand il est là,i swear it is impossible to feel bad about anything when i'm around him,it's impossible to have the cockroach when it is there,Literal Translation,0.5546891,0.76169467,-0.20700556
+avoir le cafard,50,greg est venu me harceler et j'ai le cafard toute seule,greg has been coming by my place and i just i've been feeling so miserable at home,greg came to bother me and I'm in a bad mood alone,Good Translation,0.77096653,0.8723599,-0.10139334
+avoir le cafard,51,vous devez savoir qu'en cas de besoin si vous avez le cafard ou envie de parler je suis là,and i want you to know that ifyou ever need anything you're feeling bad in any way or you just need to talk then i'm there for you,"You should know that in case you need me or feel like talking, I am here.",Partial Translation,0.8142398,0.8837864,-0.06954658
+avoir le cafard,52,- je comprends que t'aies le cafard il est 3 heures du matin,i understand you're feeling a little homesick but it's 300 in the morning,I understand that you're feeling blue as it's 3 o'clock in the morning.,Good Translation,0.6822388,0.78487164,-0.10263282
+avoir le cafard,53,j'avais le cafard et puis oncle charlie est arrivé et tout a changé,i was in the dumps and then uncle charlie came and everything changed,I had the blues and then Uncle Charlie arrived and everything changed,Good Translation,0.8085825,0.815366,-0.006783545
+avoir le cafard,54,on commence à prendre des comprimés parce qu'on a le cafard,you start taking pills because you're unhappy,We start taking pills because we have the blues,Good Translation,0.66033536,0.6662036,-0.005868256
+avoir le cafard,55,oui c'est juste que j'ai le cafard le vendredi,-yeah yeah,yes it's just that I'm feeling blue on Friday,Good Translation,0.51136684,0.7782068,-0.26683998
+avoir le cafard,56,- ià j'avais le cafard,that day i had the blues,- I was feeling blue,Good Translation,0.589988,0.63029206,-0.040304065
+avoir le cafard,57,tu sais mitch tout à coup j'ai le cafard,you know mitch all of a sudden i'm very depressed,you know Mitch all of a sudden I'm feeling blue,Good Translation,0.7483388,0.759331,-0.010992169
+avoir le cafard,58,parfois j'ai le cafard,sometimes i get these itches,sometimes I feel blue,Good Translation,0.7022708,0.69416016,0.008110642
+avoir le cafard,59,je n'ai pas eu le cafard,i haven't been lonely,I haven't had the blues,Good Translation,0.5493455,0.58761424,-0.038268745
+avoir le cafard,60,j'avais le cafard,down in the dumps,I had the blues,Good Translation,0.5341174,0.7163347,-0.1822173
+avoir le cafard,61,- j'ai le cafard,bésame,- I have cockroaches,Literal Translation,0.462754,0.64788365,-0.18512964
+avoir le cafard,62,tu auras le cafard,lt'll make you feel badly,you will have the blues,Good Translation,0.52778494,0.6273115,-0.099526584
+avoir le cafard,63,j'ai le cafard ce matin,i've been in kind of a funk,I have the blues this morning,Good Translation,0.6333636,0.71814454,-0.08478093
+avoir le cafard,64,et depuis sa mort j'ai le cafard,and since he died i've been feeling down,"and since his death, I've been feeling down",Good Translation,0.73487693,0.7362952,-0.0014182925
+avoir le cafard,65,tu veux pas jouer avec moi j'ai le cafard,i've got the you-don't-want-to-play-with-me blues,you don't want to play with me; I'm feeling blue,Good Translation,0.71727693,0.69373775,0.023539186
+avoir le cafard,66,-quand mon oncle part en mer c'est qu'il a le cafard,when my uncle goes to sea it's because he has the blues,"-when my uncle goes out to sea, it means he's feeling down.",Good Translation,0.76235986,0.7612741,0.0010857582
+avoir le cafard,67,et quand je n'ai pas d'argent je ne mange pas et j'ai le cafard,when i'm broke i don't eat then i get tired and depressed,"and when I don't have money, I don't eat and I feel down.",Good Translation,0.71516657,0.7899481,-0.07478154
+avoir le cafard,68,vous avez le cafard des divorcées,you're just suffering from a case of the divorcée blues,you have the blues of divorced women,Good Translation,0.74264944,0.7355729,0.0070765615
+avoir le cafard,69,il ne faut pas avoir le cafard,you know you shouldn't feel so bad no matter what happened,you should not be downcast,Good Translation,0.5500397,0.6465119,-0.096472204
+avoir le cafard,70,- j'avais le cafard je sais pas pourquoi,-yes i was feeling blue,-I had the blues I don't know why,Good Translation,0.59541297,0.78809536,-0.19268239
+avoir le cafard,71,il doit avoir le cafard,guess it doesn't know the words,he must be feeling down,Good Translation,0.50209236,0.7321624,-0.23007005
+avoir le cafard,72,quand on a le cafard on peut aller chez pablo,if it gets too lonely there's a cantina down the street called pablo's,when one has the blues one can go to Pablo,Good Translation,0.6403668,0.7409965,-0.10062969
+avoir le cafard,73,j'ai le cafard aujourd'hui,i feel so sad today,I have the blues today,Good Translation,0.68591183,0.73825383,-0.052341998
+avoir le cafard,74,je m'empiffre quand j'ai le cafard,i kind of pig out when i get depressed,I indulge when I'm feeling down.,Good Translation,0.6524602,0.643226,0.00923419
+avoir le cafard,75,puis j'ai eu le cafard et je suis partie,i dunno i got sad so i left,then I had the blues and I left,Good Translation,0.6727073,0.7836469,-0.11093956
+avoir le cafard,76,j'ai du mal à me lever j'ai le cafard,i can hardly get out of bed,I'm struggling to get up I have the blues,Good Translation,0.7231958,0.7683586,-0.045162797
+avoir le cafard,77,comment peux-tu avoir le cafard,my god how could you be homesick,how can you be downcasts,Unnatural,0.4622232,0.56682134,-0.104598135
+avoir le cafard,78,non tu as le cafard,i just saw that you were brooding,you have the blues,Good Translation,0.485038,0.47990483,0.005133182
+avoir le cafard,79,vous avez le cafard,why getting in the dumps,you have the blues,Good Translation,0.44853234,0.66767365,-0.2191413
+avoir le cafard,80,quand j'ai le cafard,when i've got the money,when I'm feeling down,Unnatural,0.62412107,0.5869645,0.037156582
+avoir le cafard,81,- anita a le cafard - pas de problème,anita doesn't want to,Anita is feeling blue - no problem,Unnatural,0.6239848,0.7302779,-0.10629308
+avoir le cafard,82,mais je me démerde pour m'occuper quand j'ai le cafard,but i make it a point to get busy as soon as i feel the blues comin' on,but I cope by keeping myself occupied when I'm feeling down,Good Translation,0.6895124,0.6933125,-0.0038001537
+avoir le cafard,83,vous savez pourquoi on a le cafard le lundi,you know why we have monday blues,you know why we feel down on Monday,Good Translation,0.73172057,0.7385337,-0.006813109
+avoir le cafard,84,quand j'avais le cafard à cause de mes parents il me soutenait,i'd get upset sometimes over my mum and dad and he'd do his best to cheer me up,when I was down because of my parents he supported me,Good Translation,0.77239984,0.8725915,-0.10019165
+avoir le cafard,85,c'est une fille qui a le cafard elle en a marre de la guerre marre d'être seule à attendre que son homme revienne,it's about a very lonely girl who's sick and tired of war and being left alone,it's a girl who has the blues she is fed up with the war tired of being alone waiting for her man to come back,Good Translation,0.7309231,0.81554604,-0.08462292

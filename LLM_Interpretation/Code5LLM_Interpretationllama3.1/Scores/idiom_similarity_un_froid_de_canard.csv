@@ -1,0 +1,37 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+un froid de canard,0,il fait un froid de canard ici,it's freezing here,It's freezing here.,Good Translation,0.8535204,0.8354202,0.018100202
+un froid de canard,1,sapristi il fait un froid de canard,oh jiminy it sure turned cold,Good grief it's freezing cold!,Good Translation,0.65902406,0.6926543,-0.033630252
+un froid de canard,2,j'avais déjà gaspillé l'argent que j'avais reçu à ma sortie et avec ce vent il faisait un froid de canard,i'd already blown the money they gave me and the north wind was colder than hell,I had already wasted the money I had received at my exit and with this wind it was a duck cold.,Good Translation,0.847968,0.8959,-0.04793203
+un froid de canard,3,il fait un froid de canard,it's cold enough to freeze the ears off a monkey,It's freezing cold.,Good Translation,0.70458996,0.7959562,-0.09136623
+un froid de canard,4,il fait un froid de canard dans cette cabine,this phone booth is freezing,It's freezing in this cabin.,Unnatural,0.66733444,0.8672042,-0.19986975
+un froid de canard,5,il fait un froid de canard dehors,it's cold as hell outside,It's a cold duck outside.,Literal Translation,0.81401145,0.7703801,0.043631375
+un froid de canard,6,il fait un froid de canard et,it's freezing and,It's as cold as a duck's backside and,Good Translation,0.8201121,0.72347116,0.096640944
+un froid de canard,7,on était en chemise et en pantalon léger mais il faisait un froid de canard,we had to run round in shirts and thin trousers but it was actually bloody cold,We were in a light shirt and trousers but it was as cold as duck's guts.,Unnatural,0.7882153,0.797554,-0.0093387365
+un froid de canard,8,il fait un froid de canard ici,it's colder than a goblin's ass out here huh ha ha,It's freezing here.,Literal Translation,0.7710842,0.8354202,-0.064336
+un froid de canard,9,putain il fait un froid de canard,fucking cold as hell,It's bloody freezing out there.,Good Translation,0.74391884,0.749997,-0.0060781837
+un froid de canard,10,il fait un froid de canard dans cette maison,it's really cold in here,It's as cold as a duck in this house.,Good Translation,0.8347602,0.8506829,-0.015922725
+un froid de canard,11,- en plus il fait un froid de canardbr,- and it's freezing cold,- and it's even very cold outside,Partial Translation,0.7787875,0.7893189,-0.0105314255
+un froid de canard,12,il faisait un froid de canard à 11h le matin de noël,it was below freezing 1100 am on christmas morning,It was so cold at 11 am on Christmas morning that it felt like a duck's breath.,Good Translation,0.8388386,0.8083879,0.030450702
+un froid de canard,13,il fait un froid de canard dehors,it' cold outside like winter,It's freezing outside.,Good Translation,0.8271867,0.81698483,0.010201871
+un froid de canard,14,et il fait un froid de canard et il n'y a que du poisson,it's so crikey cold and dark up there and there's only fish to eat,and it is freezing cold and there's only fish,Unnatural,0.7727013,0.8697094,-0.09700805
+un froid de canard,15,où il fait un froid de canard,where it's freezing cold,where it is as cold as a duck's backside,Good Translation,0.7642338,0.67666507,0.08756876
+un froid de canard,16,pilar il fait un froid de canard,hey pilar it's awfully cold here,It's freezing!,Good Translation,0.85325307,0.6884912,0.16476184
+un froid de canard,17,il faisait un froid de canard,it was usually bitterly cold,It was freezing.,Good Translation,0.749584,0.8122535,-0.062669456
+un froid de canard,18,il fait un froid de canard ici,it's getting cold in here,It's freezing cold here.,Good Translation,0.87159586,0.8433789,0.028216958
+un froid de canard,19,il fait un froid de canard pas vrai,pretty chilly out here,"It's freezing outside, isn't it?",Good Translation,0.7176658,0.7074602,0.010205567
+un froid de canard,20,il fait un froid de canard et les bottes de mon oncle me tuent,do you know it's freezing outside and i'm wearing my uncle's boots so now i've a blister,it's as cold as a duck and my uncle's boots are killing me,Good Translation,0.7041399,0.838475,-0.1343351
+un froid de canard,21,il fait un froid de canard,it's colder than a well digger's ass man,It's freezing outside.,Literal Translation,0.7168704,0.7967639,-0.07989347
+un froid de canard,22,il fait un froid de canard dehors,there's a chill out there,It's as cold as a duck's backside outside.,Good Translation,0.7540705,0.77154136,-0.017470837
+un froid de canard,23,il fait un froid de canard mais elle pourrait y survivre,cold as hell down there but she'd survive on the surface,It's a cold duck but she could survive it,Literal Translation,0.811298,0.8303539,-0.019055903
+un froid de canard,24,il fait un froid de canard là-bas,it's freezing up there,It's a cold duck there.,Literal Translation,0.83736336,0.7710085,0.06635487
+un froid de canard,25,- il fait un froid de canard,- it's freezing cold,- it's a cold duck,Literal Translation,0.831433,0.76748466,0.06394833
+un froid de canard,26,il fait un froid de canard aujourd'hui,it's so cold today,It's freezing today.,Good Translation,0.84265137,0.81588537,0.026766002
+un froid de canard,27,il fait un froid de canard chérie,it's freezing out there babe,It's freezing like a duck's behind.,Good Translation,0.79795635,0.6981411,0.09981525
+un froid de canard,28,il fait un froid de canard dehors,it's freezing outside,it's freezing outside,Good Translation,0.8292028,0.8292028,0.0
+un froid de canard,29,il y faisait un froid de canard,freezing in there,it was as cold as a duck's backside,Good Translation,0.7448344,0.73972577,0.0051086545
+un froid de canard,30,- il y fait un froid de canard,- yeah but it's freezing in there dad,It's freezing there.,Good Translation,0.72412103,0.76298404,-0.038863003
+un froid de canard,31,il doit faire un froid de canard à joliet,i wonder how cold it is in joliet,it's going to be as cold as a duck's behind in Joliet,Good Translation,0.80975777,0.7706512,0.039106548
+un froid de canard,32,un froid de canard,freezing cold,A cold duck.,Literal Translation,0.7343252,0.7062619,0.028063297
+un froid de canard,33,il a fait un froid de canard,you wouldn't believe how we froze,It was a chilly morning.,Partial Translation,0.6075114,0.75941694,-0.15190554
+un froid de canard,34,si tu veux aller au cinéma tu dois faire la queue dans un froid de canard,if you wanna see a movie you have to stand in line,"If you want to go to the cinema, you have to wait in line in a cold duck's chill.",Unnatural,0.71279496,0.8126743,-0.099879324
+un froid de canard,35,il doit faire un froid de canard en ce moment,must be cold as hell this time of year,It must be freezing right now.,Good Translation,0.8231358,0.8263866,-0.0032507777

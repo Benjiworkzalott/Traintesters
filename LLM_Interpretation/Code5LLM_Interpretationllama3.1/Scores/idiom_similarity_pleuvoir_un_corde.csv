@@ -1,0 +1,73 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+pleuvoir un corde,0,j'en suis sûre il commence à pleuvoir des cordes jack,it's starting to rain pretty hard jack,I'm sure it's starting to rain strings of Jacks,Literal Translation,0.85934126,0.89352775,-0.034186482
+pleuvoir un corde,1,cours il pleut des cordes,run it's pouring rain,It's raining cables right now.,Good Translation,0.71558213,0.7314577,-0.015875578
+pleuvoir un corde,2,il pleut des cordes et toi tu veux tirer un coup,it's raining like this and you want to fuck,"It's raining cats and dogs, and you want to take a swing?",Literal Translation,0.739267,0.6838929,0.055374086
+pleuvoir un corde,3,ce jour-là il pleuvait des cordes,- you ok norman - it was coming down in buckets,That day it was raining strings.,Literal Translation,0.61339134,0.872018,-0.25862664
+pleuvoir un corde,4,il pleuvra des cordes,raining cats and dogs,It will rain guitar strings.,Literal Translation,0.53213346,0.639887,-0.107753515
+pleuvoir un corde,5,elle a fait une tentative à buckingham palace mais bien sûr il pleuvait des cordes,she tried it at buckingham palace once luckily it rained that day,She attempted to jump from Buckingham Palace but of course it was raining strings,Literal Translation,0.83868885,0.8929098,-0.054220974
+pleuvoir un corde,6,mais papa il pleut des cordes dehors,but daddyit's raining cats and dogs out there,but dad it's raining outside,Literal Translation,0.77583134,0.8553121,-0.07948077
+pleuvoir un corde,7,c'était à brighton il pleuvait des cordes,rained like a right bastard,It was in Brighton it was raining strings.,Literal Translation,0.6828522,0.8658447,-0.18299252
+pleuvoir un corde,8,- oui il pleuvait des cordes,-yeah a lot of rain that night,- yes it was raining strings,Literal Translation,0.75299305,0.87177676,-0.11878371
+pleuvoir un corde,9,- il pleut des cordes - je sais merci,- raining like hell out there,- it's raining ropes - I know thanks,Good Translation,0.70646954,0.8499539,-0.14348435
+pleuvoir un corde,10,même s'il pleut des cordes les gosses sortent pendant la récré,i wanna get those kids outside during recess,even if it's raining cats and dogs kids go out during recess,Good Translation,0.71418905,0.7685343,-0.05434525
+pleuvoir un corde,11,ce jour il pleuvait des cordes,it rained hard that day,It was raining strings that day.,Good Translation,0.8172493,0.8658843,-0.048635006
+pleuvoir un corde,12,oui il pleuvait des cordes,yes it rained cats and dogs as you say,Yes it was raining strings.,Good Translation,0.7163718,0.87249386,-0.15612209
+pleuvoir un corde,13,- il pleut des cordes dehors,it's really coming down out there,It's raining ropes outside.,Good Translation,0.68391514,0.8414571,-0.15754199
+pleuvoir un corde,14,il pleut des cordes c'est pourquoi je le suggère,it's raining cats and dogs that is why i suggested it,It's raining cats and dogs that's why I suggest it.,Good Translation,0.7969241,0.79343545,0.0034886599
+pleuvoir un corde,15,j'ai décidé d'aller courir et j'ai atterri ici bon sang il pleut des cordes,and the roar you hear is for nathan scott stepping back on the court,I've decided to go for a run and good grief it's raining ropes.,Mistranslation,0.48254701,0.7936886,-0.31114158
+pleuvoir un corde,16,sacré bon dieu il pleut des cordes,boy it sure is rainin' cats and dogs,Good God it's raining strings.,Good Translation,0.66377276,0.8151773,-0.15140456
+pleuvoir un corde,17,- il pleut des cordes,- cats and dogs out there,- it's raining cats and dogs,Good Translation,0.618458,0.7458858,-0.12742782
+pleuvoir un corde,18,- il pleut des cordes c'est ça,really raining huh,"- It's raining ropes, that's what it is.",Literal Translation,0.74929774,0.8430959,-0.09379816
+pleuvoir un corde,19,je voulais voir ce qui se passait il pleuvait des cordes,i wanted to see what was happening,I wanted to see what was going on it was raining ropes.,Literal Translation,0.82849795,0.8804029,-0.051904976
+pleuvoir un corde,20,la dernière fois que j'ai regardé il pleuvait des cordes,oh last time i looked it was pouring rain,the last time I looked it was raining strings,Good Translation,0.8249811,0.87454987,-0.049568772
+pleuvoir un corde,21,il pleut des cordes ici pas la plomberie,well it's flooding here and not the plumbing,"It's raining cats and dogs here, not plumbing.",Good Translation,0.7751287,0.72414273,0.050985992
+pleuvoir un corde,22,il va pleuvoir des cordes,it will rain cats and dogs,It's going to rain cats and dogs.,Literal Translation,0.72386324,0.72325844,0.00060480833
+pleuvoir un corde,23,putain il pleut des cordes,god it's pouring,It's pissing down ropes.,Good Translation,0.70742035,0.72673744,-0.01931709
+pleuvoir un corde,24,il s'est mis à pleuvoir des cordes et judith jones a annulé,it began pouring down rain and judith jones canceled,It started to rain strings and Judith Jones cancelled.,Good Translation,0.88929594,0.8672829,0.022013009
+pleuvoir un corde,25,en effet ce n'en est pas un il pleut des cordes,no as a matter of fact it's not cats and dogs,In fact it's not raining strings.,Literal Translation,0.57461035,0.7682577,-0.19364733
+pleuvoir un corde,26,- venez il pleut des cordes,come in it's raining hard,It's raining cats and dogs.,Good Translation,0.7429701,0.6399627,0.103007436
+pleuvoir un corde,27,- il pleut des cordes,- strange weather,- it's raining ropes,Literal Translation,0.7463596,0.8565992,-0.110239625
+pleuvoir un corde,28,j'ai dit ll pleut des cordes,i said it's raining cats and dogs,It's raining cats and dogs.,Literal Translation,0.7090411,0.5694642,0.13957691
+pleuvoir un corde,29,il pleut des cordes là-haut et on ne peut plus les arrêter,it's raining cats and dogs and we can't shut it off,It's raining cats and dogs up there and you can't stop it.,Good Translation,0.72000337,0.7844341,-0.06443071
+pleuvoir un corde,30,elle a mis quatre heures à sortir et il pleuvait des cordes dehors,so i'd been in labor for four hours and it's pouring rain outside,She took four hours to get out and it was raining ropes outside.,Good Translation,0.7361192,0.8972746,-0.1611554
+pleuvoir un corde,31,il pleut des cordes,but it's pouring,It's raining cats and dogs,Literal Translation,0.776106,0.6953831,0.08072293
+pleuvoir un corde,32,tu veux dire il pleut des cordes,don't you mean cats and dogs,you want to say it's raining cat and mouse,Mistranslation,0.53600186,0.7233756,-0.18737376
+pleuvoir un corde,33,il pleuvait des cordes j'esquivait la foudre,it was pouring down i had to dodge lightning bolts,it was raining cables I dodged lightning,Good Translation,0.77858794,0.8052618,-0.026673853
+pleuvoir un corde,34,il pleuvait des cordes cette nuit-là la chaussée était glissante,it was raining really hard that night and the roads were slippery,It was raining ropes that night the road was slippery,Literal Translation,0.84105814,0.8292117,0.011846423
+pleuvoir un corde,35,il pleuvait des cordes,and it was raining sheets and buckets,It was raining ropes.,Literal Translation,0.7514186,0.8300009,-0.07858229
+pleuvoir un corde,36,il pleut des cordes et impossible d'avoir un taxi,what's with the rain all of a sudden it's impossible to catch a cab,It's raining ropes and impossible to get a taxi.,Good Translation,0.79487145,0.9021255,-0.10725403
+pleuvoir un corde,37,il pleut des cordes bon sang,it's raining like hell outside,It's raining cats and dogs,Good Translation,0.7673975,0.67132115,0.09607637
+pleuvoir un corde,38,il pleut des cordes pas de parapluie,it's raining cats and dogs we've no umbrella,"It's raining cats and dogs, no umbrella.",Unnatural,0.706025,0.7128706,-0.0068455935
+pleuvoir un corde,39,il pleuvait des cordes alors je l'ai modifiée pour qu'ils restent dans la maison au lieu d'aller dehors,it was pouring with rain so i redesigned it this way so that she would stay in the house instead of them going outside,it was raining strings then I modified it so that they stay in the house instead of going outside,Good Translation,0.84974015,0.91297245,-0.0632323
+pleuvoir un corde,40,mais je n'étais pas avec eux cet après-midi-là il pleuvait des cordes,it was raining cats and dogs,but I wasn't with them that afternoon it was raining ropes,Good Translation,0.6204325,0.8801005,-0.259668
+pleuvoir un corde,41,il pleut des cordes comme on dit,it's pouring down in the proverbial buckets,It's raining cats and dogs (like they say),Literal Translation,0.750636,0.7443142,0.006321788
+pleuvoir un corde,42,allons il pleut des cordes,come on mason it's pouring out there,It's raining cat and mouse.,Mistranslation,0.71078813,0.6318707,0.078917444
+pleuvoir un corde,43,il pleut des cordes,it's pouring,It's raining cats and dogs.,Literal Translation,0.7927805,0.689623,0.10315752
+pleuvoir un corde,44,il peut pleuvoir des cordes,it can rain all it wants to now,It can rain strings.,Literal Translation,0.67847866,0.8647022,-0.18622357
+pleuvoir un corde,45,mon dieu il pleut des cordes,my lord it's kitties and poodles out there,Good God it's raining strings,Literal Translation,0.6198269,0.7963785,-0.17655158
+pleuvoir un corde,46,- vite il pleut des cordes,- it's pissin' down,-it's raining cats and dogs,Good Translation,0.7245329,0.71629184,0.008241057
+pleuvoir un corde,47,quand mon père que faites-vous ii pleut des cordes,i remember when i was a boy my mother used to do the shopping at the market early,When my father does what you do when it rains strings,Mistranslation,0.430786,0.7804413,-0.34965527
+pleuvoir un corde,48,- il pleut des cordes dehors,- it's pouring outside,It's raining cats and dogs outside.,Good Translation,0.85388994,0.7191014,0.13478851
+pleuvoir un corde,49,tu sais ce qu'on dit quand il pleut il pleut des cordes,well you know what they say -- when it rains it pours,"You know what they say when it rains, it pours.",Good Translation,0.79483706,0.81355214,-0.018715084
+pleuvoir un corde,50,il pleuvait des cordes,it was raining so hard,It was raining piano strings.,Literal Translation,0.78295684,0.78301245,-5.5611134e-05
+pleuvoir un corde,51,il pleut des cordes asseyez-vous un moment,it's raining hard let's sit down,It's raining cats and dogs sit down for a bit,Good Translation,0.7971248,0.7149796,0.082145214
+pleuvoir un corde,52,j'ai appris que quand il pleut il pleut des cordes,three dollars i soon learned that when it rains it pours,"I learned that when it rains, it pours.",Good Translation,0.7774586,0.8638801,-0.08642149
+pleuvoir un corde,53,il pleut des cordes de ce côté-ci de l'île,you know thomas it sure is pouring down rain on this side of the island,It's raining ropes from this side of the island.,Good Translation,0.8105659,0.86758995,-0.05702406
+pleuvoir un corde,54,ii pleuvait des cordes,it was pouring,It was raining guitar strings.,Literal Translation,0.7408469,0.73872185,0.0021250248
+pleuvoir un corde,55,il pleut des cordes là dehors,it's raining cats and dogs out there,It's raining cats and dogs out there.,Literal Translation,0.7369101,0.7285456,0.008364499
+pleuvoir un corde,56,ça ira allez il pleut des cordes,come on man it's raining buckets,"It'll be alright, it's raining strings (Note: ""il pleut des cordes"" is a common idiomatic expression in French that translates to ""it's raining cats and dogs"" in English. However, the speaker is using ""cordes"" instead of ""chats et chiens"" for comedic or humorous effect.)",Good Translation,0.7506256,0.7374411,0.013184488
+pleuvoir un corde,57,il pleuvait des cordes quand eva a quitté le studio mais elle est restée dehors devant cette statue un bon moment,it was pouring when eva left the studio and yet she stood outside in front of this statue for some time,It was raining cables when Eva left the studio but she stayed outside in front of this statue for a good while.,Good Translation,0.91859835,0.9293351,-0.0107367635
+pleuvoir un corde,58,lci aussi il pleut des cordes,it is here too cats and dogs,it even rains strings here too,Good Translation,0.5955144,0.81830955,-0.22279513
+pleuvoir un corde,59,j'étais revenu à milford j'attendais un de mes amis et d'un coup il pleut des cordes,came down to milford and i'm waiting for a buddy of mine and all of a sudden it just starts pouring rain,"I was back at Milford, waiting for one of my friends and suddenly it starts raining ropes.",Good Translation,0.85966647,0.8759253,-0.016258836
+pleuvoir un corde,60,il pleut des cordes papa,dad it's raining,"It's raining ropes, dad.",Good Translation,0.75785625,0.7685271,-0.010670841
+pleuvoir un corde,61,rentre il pleut des cordes,go back inside it's pouring,It's raining cats and dogs.,Good Translation,0.751346,0.6024309,0.14891511
+pleuvoir un corde,62,il est con il pleut des cordes et il veut baiser,he's nuts lt's raining like hell and he wants a fuck,"He's crazy, it's raining strings and he wants to kiss",Partial Translation,0.71053123,0.85077864,-0.1402474
+pleuvoir un corde,63,- il pleut des cordes,- damn it's pouring,It's raining cats and dogs.,Good Translation,0.793158,0.69040984,0.102748156
+pleuvoir un corde,64,- il pleut des cordes hein,- it's coming down huh,- it's raining cats and dogs isn't it,Good Translation,0.74998784,0.7189528,0.031035066
+pleuvoir un corde,65,et il pleut des cordes,and it's raining pretty hard,and it's raining ropes,Literal Translation,0.7762374,0.8209697,-0.044732273
+pleuvoir un corde,66,bon sang il pleut des cordes,man it is coming down hard out there,Good heavens it's raining ropes,Good Translation,0.7171668,0.79551166,-0.07834488
+pleuvoir un corde,67,il pleut des cordes dehors,it's raining cats and dogs out there,It's raining cat and dog outside.,Literal Translation,0.7324965,0.69293904,0.039557457
+pleuvoir un corde,68,il pleuvait des cordes j'étais dans ma voiture,it was raining hard and i was in my car,It was raining ropes I was in my car.,Literal Translation,0.8708718,0.8730738,-0.002202034
+pleuvoir un corde,69,il pleut des cordes ici,- it's been pouring here,It's raining cats and dogs here.,Good Translation,0.8309947,0.73070776,0.10028696
+pleuvoir un corde,70,il pleut des cordes,it's raining cats and dogs,It's raining cats and dogs.,Literal Translation,0.69924736,0.689623,0.009624362
+pleuvoir un corde,71,oh mon dieu il pleut des cordes,oh my god it's coming down so hard,Oh my god it's raining strings.,Good Translation,0.70091474,0.84873503,-0.1478203

@@ -1,0 +1,6 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+aller se faire cuire un œuf,0,on va se faire cuire un œuf,let's go make some omelets,we're going to fry an egg,Literal Translation,0.67416626,0.83911276,-0.1649465
+aller se faire cuire un œuf,1,mais je suis d'accord avec l'idée de gina d'aller se faire cuire un œuf,but i'm going with gina's suck an egg idea,but I agree with Gina's idea of going to fry an egg,Literal Translation,0.84261537,0.90808487,-0.0654695
+aller se faire cuire un œuf,2,cette année elle peut aller se faire cuire un œuf,this year she can go blow a balloon,this year she can go fry an egg,Literal Translation,0.80110574,0.9236987,-0.122592986
+aller se faire cuire un œuf,3,je lui ai dit d'aller se faire cuire un oeuf,i told him to go fly a kite,I told him to go fry an egg.,Unnatural,0.7266508,0.8634878,-0.136837
+aller se faire cuire un œuf,4,pour ce qui est de mme marko dites-lui d'aller se faire cuire un oeuf,and as for mrs marko i should tell her to go fry an egg,"as for mme marko, tell her to go fry an egg",Good Translation,0.8623325,0.8808283,-0.018495798

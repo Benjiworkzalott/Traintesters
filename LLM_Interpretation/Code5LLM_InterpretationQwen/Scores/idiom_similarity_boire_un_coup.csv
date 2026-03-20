@@ -1,0 +1,103 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+boire un coup,0,tu as une mine terrible je vais boire un coup,well did you get to meet him before he died,"you look terrible, I'm going to have a drink",Literal Translation,0.4547212,0.8197436,-0.36502236
+boire un coup,1,la fille menace de réduire notre cité en cendre et vous voulez l'inviter à boire une coupe de vin,the girl threatens to burn our city to the ground and you would invite her in for a cup of wine,The girl threatens to reduce our city to ashes and you want to invite her for a drink?,Good Translation,0.9119712,0.89690214,0.0150690675
+boire un coup,2,chez nous - boire un coup - je viens,back to our place for a drink,at our place - having a drink - I'm coming,Good Translation,0.76914585,0.87327635,-0.10413051
+boire un coup,3,vous voulez boire un coup,do you guys wanna take care of your drinks,you want to have a drink,Literal Translation,0.766684,0.910681,-0.14399701
+boire un coup,4,faut que je boive un coup,i need a drink,I need to have a drink,Good Translation,0.86658144,0.8811789,-0.0145974755
+boire un coup,5,millie ne sera pas choquée de voir quelqu'un boire un coup,millie won't be shocked to see somebody take a drink,Millie will not be shocked to see someone have a drink,Good Translation,0.95482445,0.9183044,0.036520064
+boire un coup,6,tu devrais boire un coup,you'd better have a little drink,you should have a drink,Good Translation,0.85638785,0.88394845,-0.027560592
+boire un coup,7,allons viens boire un coup,let's have a drink and talk it over,"come on, let's have a drink",Good Translation,0.82028854,0.90225786,-0.08196932
+boire un coup,8,il y a trop de monde à la plage pour boire un coup à l'aise,it's too crowded down on the beach to drink in comfort,There are too many people at the beach to drink one's peace.,Unnatural,0.91808033,0.90443647,0.013643861
+boire un coup,9,- 2 heures de marche pour descendre voir une fille ou boire un coup,it's 2 hours walking if you want to see a girl or drink something,- 2 hours of walking to go down and see a girl or have a drink,Good Translation,0.89829797,0.95042026,-0.052122295
+boire un coup,10,on a rendez-vous pour boire un coup,we're having a drink later,we have a drink date,Good Translation,0.81068164,0.83428097,-0.023599327
+boire un coup,11,je--j'ai besoin de boire un coup,i--i need a beverage,I need to have a drink.,Good Translation,0.9000677,0.871422,0.028645694
+boire un coup,12,alors que ma subordonnée rapportait les preuves au commissariat elle s'arrêta en chemin à un hôtel pour boire un coup,my detective was taking the bag of evidence back to the station and she stopped at a hotel on the way for a drink,"While my subordinate was taking the evidence to the police station, she stopped on the way at a hotel to have a drink.",Good Translation,0.815427,0.9037004,-0.088273406
+boire un coup,13,- hé tu veux aller boire un coup passer le temps,hey do you want to go grab a drink catch up,- hey you want to go have a drink and pass the time,Good Translation,0.8143641,0.9343213,-0.11995721
+boire un coup,14,c'est atroce on va boire un coup,the horror you know what,it's awful we'll have a drink,Good Translation,0.54563797,0.84625715,-0.30061918
+boire un coup,15,on ira boire un coup ok,have a few beers yeah,we'll go have a drink okay,Good Translation,0.6687678,0.6733595,-0.0045917034
+boire un coup,16,j'allais boire un coup,you know i was about to go get a drink,I was going to have a drink,Good Translation,0.7903361,0.8198697,-0.029533625
+boire un coup,17,on va boire un coup alors,yes sir,We're going to have a drink then.,Literal Translation,0.5103595,0.8868941,-0.37653458
+boire un coup,18,il veut peut-être boire un coup,maybe he wants a drink,He might want to have a drink.,Good Translation,0.9514386,0.93924975,0.012188852
+boire un coup,19,qui veut boire un coup,who wants to grab a drink,who wants to have a drink,Good Translation,0.91214323,0.9276742,-0.015530944
+boire un coup,20,je suis allé boire un coup,then we went someplace,I went for a drink.,Good Translation,0.65305823,0.84867966,-0.19562143
+boire un coup,21,- hé tu veux boire un coup,- hey you want to drink some,- hey you want to have a drink,Good Translation,0.91424847,0.91005534,0.004193127
+boire un coup,22,on peut donc arrêter l'exercice et boire un coup,good then we can break training and drink these,we can therefore stop the exercise and have a drink,Good Translation,0.82638496,0.91976106,-0.0933761
+boire un coup,23,si on sortait boire un coup,how about going out for drinks,if we went out for a drink,Good Translation,0.82069474,0.85099447,-0.030299723
+boire un coup,24,viens allons boire un coup chez moi parrain,come and have a drink at my home godfather,"come on, let's go have a drink at my place, godfather",Good Translation,0.76846,0.7908461,-0.022386134
+boire un coup,25,je vais rentrer dans mon petit pool house et boire une coupe de champagne à ma santé,i think i'm gonna go back to my little pool house and toast myself with a glass of champagne,I am going to enter my small pool house and have a glass of champagne to toast my health.,Good Translation,0.9055938,0.91968024,-0.014086425
+boire un coup,26,oh on dirait que tu as besoin de boire un coup,oh looks like you could use a new drink,oh it looks like you could use a drink,Good Translation,0.8412704,0.8674853,-0.026214898
+boire un coup,27,j'ai besoin de boire un coup,i need a drink,I need to have a drink.,Unnatural,0.9136665,0.91276705,0.0008994341
+boire un coup,28,viens on va boire un coup,let's go get a drink,"Let's go, we're going to have a drink.",Good Translation,0.9040113,0.8679794,0.0360319
+boire un coup,29,qui veut boire un coup,who wants a drink,who wants to have a drink,Good Translation,0.90964794,0.9276742,-0.018026233
+boire un coup,30,- père jack veut boire un coup,- father jack wants a drink,Father Jack wants to have a drink,Unnatural,0.9496541,0.9031426,0.04651153
+boire un coup,31,viens boire un coup ce soir,aren't you coming with us,come have a drink tonight,Good Translation,0.5845652,0.9158919,-0.33132666
+boire un coup,32,on va boire un coup,come on time to sink some piss eh,we'll have a drink,Unnatural,0.62674695,0.8432731,-0.21652615
+boire un coup,33,votre dame amènera son ouvrage et on causera et nous on boira un coup en regardant la télé,the women can talk and we can have a drink,your lady will bring her sewing and we will chat while we have a drink watching TV,Good Translation,0.7074519,0.85267466,-0.14522278
+boire un coup,34,- on va boire un coup,we're going to have a drink,- let's have a drink,Good Translation,0.85527134,0.875483,-0.020211637
+boire un coup,35,sylvie et shylah m'emmènent boire un coup pour me changer les idées,sylvie and shylah are taking me out to happy hour just to get my mind off of it,Sylvie and Shylah take me out for a drink to change my mood.,Good Translation,0.8063555,0.8903133,-0.08395785
+boire un coup,36,de l'argent pour vous soigner ou aller boire un coup,use the rest to get a drink or two,money to treat you or go have a drink,Good Translation,0.7040247,0.907948,-0.20392334
+boire un coup,37,un professeur insistait pour m'inviter à boire un coup,this professor kept inviting me for a drink,a professor insisted on inviting me for a drink,Good Translation,0.90489876,0.9373777,-0.03247893
+boire un coup,38,on va aller boire un coup ou voir un film,we're gonna have a drink or see a movie or something,We're going to have a drink or see a movie.,Unnatural,0.92260516,0.92248434,0.000120818615
+boire un coup,39,- faut qu'on boive un coup,- we need to have a drink,- we need to have a drink,Good Translation,0.8982607,0.8982607,0.0
+boire un coup,40,on va boire un coup ce soir,let's have a drink tonight it's been a while,We're going to have a drink tonight,Good Translation,0.83221745,0.90455925,-0.0723418
+boire un coup,41,je vais boire un coup,i'm gonna have a drink,I'll have a drink,Unnatural,0.86561906,0.85232425,0.013294816
+boire un coup,42,je suis venu te demander si tu voulais aller boire un coup,i just came to see if you want to go for a drink,I came to ask if you wanted to go get a drink.,Good Translation,0.88065904,0.92621315,-0.0455541
+boire un coup,43,kim m'a dit de venir boire un coup,kim told me to come for a drink,Kim told me to come have a drink,Good Translation,0.9526911,0.9443099,0.008381188
+boire un coup,44,tu voudrais je sais pas aller boire un coup,you wanna i don't know get a beer sometime,you would want to go have a drink I guess,Good Translation,0.7788434,0.77169144,0.0071519613
+boire un coup,45,on pourra y boire un coup,we can have a drink there,we can have a drink there,Good Translation,0.8914436,0.89144385,-2.3841858e-07
+boire un coup,46,écoute on se retrouve au square pour boire un coup avant,let's meet up for a drink in front of the square,listen we'll meet at the square to have a drink before,Good Translation,0.8921713,0.9342406,-0.042069256
+boire un coup,47,vous croyez qu'il va s'asseoir et boire un coup,you really think he's going to sit up and take a drink,you think he is going to sit down and have a drink,Good Translation,0.9026076,0.92058796,-0.017980337
+boire un coup,48,ah oui je vais boire un coup,- i'm going to get something to drink,ah yes I'll have a drink,Good Translation,0.8093413,0.87195456,-0.06261325
+boire un coup,49,j'ai envoyé une bouteille de champagne de l'autre côté du rideau et paul est venu boire une coupe avec nous,what i had done was send a bottle of champagne back through the curtain and paul came out and shared a glass of champagne with us,I sent a bottle of champagne over the curtain and Paul came to have a glass with us.,Good Translation,0.8959165,0.896739,-0.0008224845
+boire un coup,50,on va boire un coup,want to get a drink,we'll have a drink,Good Translation,0.8434794,0.8432731,0.00020629168
+boire un coup,51,- tu veux boire un coup,- want a drink,- you want to have a drink,Good Translation,0.88749313,0.92160606,-0.03411293
+boire un coup,52,on est sorti boire un coup,we went out drinking,we went out for a drink,Good Translation,0.926157,0.9320756,-0.005918622
+boire un coup,53,j'aime boire un coup,i like a drink,I like to have a drink,Good Translation,0.8768505,0.8795126,-0.0026621222
+boire un coup,54,allez entre boire un coup,come on let's have a drink,go in and have a drink,Partial Translation,0.85641587,0.8464135,0.010002375
+boire un coup,55,mon frère allons boire un coup,brother let's go out for a drink,my brother let's have a drink,Unnatural,0.9098576,0.9336806,-0.023823023
+boire un coup,56,on ressort boire un coup,why don't we go outside again and get a drink,we go out for a drink,Good Translation,0.679947,0.81034756,-0.13040054
+boire un coup,57,on a le temps de boire un coup,we have time for a drink,we have time to have a drink,Good Translation,0.90464437,0.9079761,-0.0033317208
+boire un coup,58,on va boire un coup,let's have a drink,we will have a drink,Literal Translation,0.851738,0.85077477,0.00096321106
+boire un coup,59,j'adorerais boire un coup mais faut que j'y aille,i'd love to hang out but i gotta do this,I would love to have a drink but I have to go.,Good Translation,0.83179235,0.9204882,-0.088695824
+boire un coup,60,si ça vous dit on pourrait boire un coup,if you feel like it we could have a drink,"if it sounds good to you, we could have a drink",Good Translation,0.8968241,0.86761594,0.029208183
+boire un coup,61,allons boire un coup,let's go in and have a drink,let's have a drink,Partial Translation,0.86175853,0.9101291,-0.04837054
+boire un coup,62,on devrait aller boire un coup un de ces quatre,maybe we should have another drink sometime,we should go have a drink sometime,Good Translation,0.8367982,0.87035435,-0.033556163
+boire un coup,63,tu sais j'ai l'impression que ton père veut boire un coup,you know it looks like your dad wants a drink,you know I have the impression that your father wants to have a drink,Good Translation,0.9065143,0.95329916,-0.046784878
+boire un coup,64,non ce qui est bizarre c'est qu'après toutes ces années le mieux qu'on puisse faire pour dev c'est d'aller boire un coup,what's weird is we haven't been in the same room together for years and the best we can do for dev,"What's odd is that after all these years, the best we can do for Dev is go have a drink.",Good Translation,0.72127694,0.88908994,-0.167813
+boire un coup,65,et si on allait boire un coup pour célébrer ça,do you want to get a drink to celebrate,and let's go get a drink to celebrate this,Good Translation,0.8305814,0.8909165,-0.0603351
+boire un coup,66,je veux boire un coup,i want a drink,I want to have a drink,Good Translation,0.8986285,0.8940425,0.0045859814
+boire un coup,67,je viens dans mon endroit préféré boire un coup et rigoler,a man is not allowed to come to his favorite place and just drink and share a laugh,I come to my favorite place to have a drink and laugh,Good Translation,0.6309167,0.9268742,-0.2959575
+boire un coup,68,- j'aimerais boire un coup,- yeah how about a drink,I would like to have a drink.,Good Translation,0.8094398,0.85812545,-0.04868567
+boire un coup,69,comment faire pour boire un coup tranquille ici,what does a man have to do to get a quiet drink in these parts,how to have a drink in peace here,Good Translation,0.810314,0.89500594,-0.08469194
+boire un coup,70,le chemin m'a donné soif je vais boire un coup,the road made me thirsty i'll get something to drink,the path gave me thirst I'll have a drink,Good Translation,0.9080248,0.88886756,0.01915723
+boire un coup,71,on retrouve peter pour boire un coup plus tard tu veux venir,- hey uh we're gonna meet peter for drinks a little bit later,"We find Peter to have a drink later, do you want to come?",Unnatural,0.8611516,0.8919867,-0.030835152
+boire un coup,72,vous voudrez boire un coup après,hey you want to go get a pop later,you will want to have a drink after,Literal Translation,0.77279437,0.9415686,-0.16877425
+boire un coup,73,va plutôt boire un coup dans ton bistrot,why don't you go to your beloved bar and have a drink,go instead have a drink in your bar,Partial Translation,0.6641629,0.85412335,-0.18996048
+boire un coup,74,allez venez donc boire un coup,now come and drink,"go on, come in and have a drink",Good Translation,0.84610033,0.83268756,0.013412774
+boire un coup,75,tu veux boire un coup,want a drink kilvinski,you want to have a drink,Good Translation,0.7051343,0.907949,-0.2028147
+boire un coup,76,sinon tu peux rester et boire un coup,if you don't maybe you should just stay and have a drink,otherwise you can stay and have a drink,Unnatural,0.86223066,0.93374693,-0.071516275
+boire un coup,77,on va boire un coup on va parler à la table aller voir un spectacle,let's go celebrate we'll have uh some drinks we'll meet some ladies oh no i love this place,"We're going to have a drink, we're going to talk at the table, let's go see a show",Good Translation,0.7195947,0.9269039,-0.20730919
+boire un coup,78,reste qu'on boive un coup ensemble,stay let's have a drink,it's just that we should have a drink together,Good Translation,0.83198184,0.88622695,-0.054245114
+boire un coup,79,il faut que je boive un coup,i need a drink,I need to have a drink.,Unnatural,0.87469685,0.88751614,-0.01281929
+boire un coup,80,allez on va boire un coup,let's have a drink,"let's go, let's have a drink",Unnatural,0.8989647,0.8998693,-0.0009046197
+boire un coup,81,viens boire un coup,let's have a drink,come have a drink,Good Translation,0.88061833,0.8931119,-0.012493551
+boire un coup,82,allons boire un coup,let's have a drink,let's go have a drink,Good Translation,0.9101291,0.9140903,-0.0039612055
+boire un coup,83,chaque fois que je lui demande de sortir boire un coup,wow every time i ask aly to hang out,every time I ask him to go out for a drink,Good Translation,0.7858168,0.9355702,-0.14975339
+boire un coup,84,deux courtiers sont venus boire un coup,a couple of brokers stopped in for spritzers one night,Two brokers came for a drink.,Good Translation,0.7309263,0.83425766,-0.10333139
+boire un coup,85,boire un coup hein,out for a beer,"to have a drink, you know",Good Translation,0.71365356,0.7290728,-0.015419245
+boire un coup,86,tu ne veux pas venir boire un coup avec nous,won't you come and have a drink with us,you don't want to come have a drink with us,Unnatural,0.907237,0.8969734,0.010263622
+boire un coup,87,- toi et moi on va boire un coup,- let's you and me have a drink,"- you and me, we're going to have a drink",Good Translation,0.90431595,0.91809976,-0.0137838125
+boire un coup,88,- faut qu'on boive un coup - oui,god we need some drinks guys,-we need to have a drink - yes,Literal Translation,0.73995996,0.9074395,-0.16747952
+boire un coup,89,chaque foi qu'un retraité du film plonge dans la piscine ils boivent un coup,every time one of the retirees in the movie takes a dive in the pool they take a shot,"Each time an ex-film star dives into the pool, they have a drink.",Literal Translation,0.8403312,0.82899314,0.011338055
+boire un coup,90,docteur venez boire un coup,hi doc come on in have a drink,doctor come have a drink,Partial Translation,0.72713625,0.77231157,-0.045175314
+boire un coup,91,ouais je vais boire un coup,yeah i'm gonna get some water,"Yeah, I'm going to have a drink.",Literal Translation,0.79643786,0.8261106,-0.029672742
+boire un coup,92,le gamin a besoin de boire un coup,i think the boy could use a drink,the kid needs to have a drink,Good Translation,0.8828386,0.92289245,-0.040053844
+boire un coup,93,au lieu de ça je suis sorti boire des coups avec des amis,instead i hung out with some friends and had a couple of beers,"Instead, I went out to have drinks with friends",Good Translation,0.87622464,0.91849756,-0.042272925
+boire un coup,94,allez reprends-toi on va boire un coup,all right calm down let's get a drink come on man,go come together we're going to have a drink,Partial Translation,0.8220942,0.8662476,-0.044153392
+boire un coup,95,toi et ton pote allant boire un coup,you and your buddy you go out drinking,you and your buddy going for a drink,Good Translation,0.8721317,0.87170935,0.0004223585
+boire un coup,96,tu connais un endroit où on peut boire un coup,do you know a place where we can go get some drinks,you know a place where we can have a drink,Unnatural,0.86937726,0.9025966,-0.033219337
+boire un coup,97,- je vais boire un coup,- i'm going for a drink,I'll have a drink.,Good Translation,0.8783498,0.8463299,0.032019854
+boire un coup,98,je suis sorti boire un coup,i was out drinking,I went out for a drink.,Good Translation,0.8747911,0.8844974,-0.009706318
+boire un coup,99,je t'appelle on ira boire un coup,i'll give you a call we'll get together,"I call you, let's go have a drink",Good Translation,0.7247315,0.8245684,-0.099836886
+boire un coup,100,même si ça me coûte les yeux de la tête pour payer ses études je remercie dieu de pouvoir encore boire un coup,considering it costs me an arm and a leg to pay for his education i'm thankful i can afford to drink,"Even if it costs me an arm and a leg to pay for his studies, I thank God I can still have a drink.",Good Translation,0.8437999,0.90036225,-0.056562364
+boire un coup,101,- on devrait être en train de boire un coup,- yeah we should be at the bar by now,- we should be having a drink,Good Translation,0.7759265,0.9255303,-0.14960384

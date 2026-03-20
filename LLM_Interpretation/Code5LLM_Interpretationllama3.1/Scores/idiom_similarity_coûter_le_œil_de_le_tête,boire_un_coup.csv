@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"coûter le œil de le tête,boire un coup",0,même si ça me coûte les yeux de la tête pour payer ses études je remercie dieu de pouvoir encore boire un coup,considering it costs me an arm and a leg to pay for his education i'm thankful i can afford to drink,even if it costs an arm and a leg to pay for her studies I thank God that I can still have another drink.,Good Translation,0.8437997,0.8934343,-0.049634576

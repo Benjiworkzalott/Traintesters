@@ -1,0 +1,27 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+pipi de chat,0,a des implications bien au-delà de la sécurité nationale a côté la guerre froide c'est du pipi de chat,has implications that go so far beyond national security the cold war seems like a case of the sniffles,It has far-reaching implications beyond national security alongside the Cold War; that's child's play.,Good Translation,0.7456556,0.7324332,0.013222396
+pipi de chat,1,là c'est tu pipi de chat,this is fuckin' nothin',There's where a cat pees.,Literal Translation,0.5054894,0.6715935,-0.16610408
+pipi de chat,2,on dirait du pipi de chat,it tastes like cat pee,You would think it's cat pee.,Unnatural,0.6373625,0.66008824,-0.022725761
+pipi de chat,3,vous sentez le pipi de chat,you smell like cat piss,You can smell the cat's pee.,Good Translation,0.807147,0.7800241,0.027122915
+pipi de chat,4,mais c'est du pipi de chat,no big deal,but it's cat pee,Good Translation,0.47568807,0.85244286,-0.3767548
+pipi de chat,5,et ça c'est du pipi de chat,this of course is chopped liver huh,And that's cat pee.,Literal Translation,0.5705242,0.8096547,-0.2391305
+pipi de chat,6,je me plains pas mais t'es plus celle qui a parfumé mes habits au pipi de chat,- i'm not complaining i think it's wonderful i really do but you are not the same girl who made all my clothes smell like cat pee,"I'm not complaining, but you're no longer the one who used to perfume my clothes with cat pee",Good Translation,0.7328925,0.79717433,-0.06428182
+pipi de chat,7,25 c'est pas du pipi de chat,25 percent it is not a small amount,25 is not cat pee,Literal Translation,0.6794281,0.9017747,-0.2223466
+pipi de chat,8,du pipi de chat,ah cookies and milk,Cat's peeve,Mistranslation,0.5129708,0.6418393,-0.12886852
+pipi de chat,9,c'était du pipi de chat,they were all a load of bullshit,It was cat's pee.,Good Translation,0.5726142,0.83798856,-0.26537436
+pipi de chat,10,ça sent le pipi de chat ici,look how it stinks in here,It smells like cat pee in here.,Good Translation,0.74756026,0.86553264,-0.117972374
+pipi de chat,11,tu as entendu beaucoup de voix mais comparé à moi c'est du pipi de chat,you may have heard a lot of singers but you ain't heard nothing sung till you heard me sung it,You've heard a lot of voices but compared to me that's kitten pee.,Good Translation,0.62617594,0.87106013,-0.2448842
+pipi de chat,12,vos têtes sont remplies pipi de chat,your heads are filled with cat urine,Your heads are filled with cat pee.,Good Translation,0.85127103,0.8737043,-0.022433281
+pipi de chat,13,elle a 5 chats sa maison doit sentir le pipi de chat au lieu de la bière et de la fumée,she has five cats so her place probably smells like cat pee instead of beer and smoke,she has five cats her house must smell of cat pee instead of beer and smoke,Good Translation,0.8364637,0.8627007,-0.026237011
+pipi de chat,14,dégueu du pipi de chat,it tastes like cat litter,Cat's pee vomit,Literal Translation,0.5645617,0.653064,-0.08850229
+pipi de chat,15,une affaire parce qu'il sent le pipi de chat,a bargain 'cause it smells like cat pee,a case because it smells of cat pee,Unnatural,0.72324324,0.81981087,-0.09656763
+pipi de chat,16,maintenant tous les vins que vous boirez auront le goût de pipi de chat,and now any other wine you ever drink will taste like cat piss,from now on all wines you drink will taste like cat pee,Good Translation,0.8897939,0.8991663,-0.009372413
+pipi de chat,17,tous ces dons sentent le pipi de chat et la bière,all the hand-me-downs smell like cat pee and beer,All these gifts smell of cat pee and beer.,Good Translation,0.76344675,0.7881166,-0.024669826
+pipi de chat,18,ça veut dire pipi de chat,it means cat piss,It means cat's pee.,Good Translation,0.7603513,0.71910703,0.04124427
+pipi de chat,19,ils n'ont pas senti qu'ils buvaient du pipi de chat,they didn't realize they were drinking cat pee,They did not feel that they were drinking cat's pee.,Unnatural,0.8279027,0.8796722,-0.051769555
+pipi de chat,20,a notre retour un autre scandale aura fait passer ça pour du pipi de chat,by the time we get back something else will have exploded to make this whole thing look silly,on our return another scandal will have made that seem like cat's pee.,Good Translation,0.705687,0.86283636,-0.15714937
+pipi de chat,21,si on en met trop ça sent le pipi de chat,too much of this smells like cat piss,"If you put too much in it, it smells like cat pee.",Good Translation,0.80620635,0.8530202,-0.046813846
+pipi de chat,22,- ça sent le pipi de chat,smells like cat pee,- it smells like cat pee,Good Translation,0.82630277,0.8735676,-0.047264814
+pipi de chat,23,c'est quand même cher pour ce pipi de chat,it's still too high for that cheap liquor,It's still quite expensive for that little bit of cat pee.,Good Translation,0.6169975,0.8179344,-0.20093691
+pipi de chat,24,l'électricité à côté c'est du pipi de chat,makes electricity look like a pile of crap,Electricity next to it is cat's pee,Good Translation,0.67617285,0.8576022,-0.18142933
+pipi de chat,25,sa chambre sentait les fleurs mortes et le pipi de chat,her room smelled of dead flowers and cat piss,Her room smelled of dead flowers and cat pee.,Good Translation,0.8886998,0.86448115,0.024218678

@@ -1,0 +1,103 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+tout cracher,0,tout craché oui,basically,dead on yes,Good Translation,0.47886425,0.5720481,-0.093183875
+tout cracher,1,c'est elle tout craché,right there,she is a perfect match,Partial Translation,0.483051,0.63301575,-0.14996475
+tout cracher,2,soyez diplomate du janeway tout craché,diplomacy janeway's answer to everything,be totally Janeway in terms of diplomacy,Good Translation,0.7611623,0.8092085,-0.04804623
+tout cracher,3,c'est du oliver queen tout craché,hmm sounds like typical oliver queen thinking,it's a dead ringer for Oliver Queen,Good Translation,0.61938155,0.5739041,0.04547745
+tout cracher,4,c'est toi tout craché tess,this is so typical tess,"it's just like you, Tess",Good Translation,0.65606487,0.65903074,-0.0029658675
+tout cracher,5,- je te tue son père tout craché,that's my boy,"- you're just like his father, dead on the mark",Good Translation,0.46281236,0.652694,-0.18988162
+tout cracher,6,c'est elle tout craché,oh it's just like her,she is a perfect match,Mistranslation,0.5902817,0.63301575,-0.042734027
+tout cracher,7,- c'est moi tout craché,that's me all right,- that's me to a T,Good Translation,0.6268877,0.5517885,0.07509917
+tout cracher,8,j'ai lu une étude sur les diplômés en droit et c'était mon profil tout craché,well i saw this graph of recent graduates from my law school and statistically i was right where it said i should be,I read a study about law graduates and it was my profile straight out of the book.,Good Translation,0.68379474,0.8296851,-0.14589036
+tout cracher,9,ça c'est toi tout craché,this is typical of you,"that's just yousist output the translation, nothing else.
+
+That's just like you.",Good Translation,0.5844728,0.4727519,0.11172089
+tout cracher,10,ça c'est roy tout craché,that definitely sounds more up roy's alley,that's totally right,Literal Translation,0.54304993,0.52428496,0.018764973
+tout cracher,11,- ça c'est du axler tout craché,this is who he is,- that's a perfect axler,Literal Translation,0.4608992,0.78293645,-0.32203725
+tout cracher,12,cri perçant c'est june tout craché,squeals that's the perfect june,piercing cry is June straight up,Unnatural,0.68363583,0.6905079,-0.006872058
+tout cracher,13,c'est victor tout craché,he looks just like victor,it's a spitting image of Victor,Good Translation,0.6521181,0.63131905,0.02079904
+tout cracher,14,c'est son père tout craché,just like his father,it's a spitting image of his father,Good Translation,0.6725362,0.710812,-0.03827578
+tout cracher,15,-c'est katrin tout craché,-that's katrin,-it's a spitting image of Katrin,Good Translation,0.7422701,0.6628833,0.07938683
+tout cracher,16,la sainte vierge tout craché,she looks just like the virgin mary,the exact spitting image of the virgin mary,Good Translation,0.51988894,0.49888107,0.021007866
+tout cracher,17,c'est ton portrait tout craché,he's just like you,it's your exact likeness,Good Translation,0.49216595,0.60502636,-0.11286041
+tout cracher,18,c'est lui tout craché s'accusant d'avoir tué ton père au tournoi de la police il se morfond dans la solitude,a man like sanshiro must feel somehow responsible for his death,it's him down to the last detail accusing himself of killing your father at the police tournament he wallows in solitude,Good Translation,0.56476396,0.8412757,-0.27651173
+tout cracher,19,laura tout craché,sounds like laura,laura everything,Literal Translation,0.59530294,0.80012405,-0.20482111
+tout cracher,20,son grand-père tout craché,just like his grandpa,"his grandfather, no doubt about it",Good Translation,0.71038187,0.68123186,0.02915001
+tout cracher,21,c'est cece tout craché,that is so cece,it's a perfect match,Unnatural,0.6001799,0.48860872,0.11157119
+tout cracher,22,c'est toi tout craché,this is so fucking typical of you,it's you to a T,Good Translation,0.5907267,0.5522711,0.038455546
+tout cracher,23,- du hogan tout craché,- anyway out of nowhere nowhere came this brilliant idea,-a Hogan verbatim,Literal Translation,0.48806536,0.5589099,-0.07084453
+tout cracher,24,- c'est vous tout craché,- it is really you,- you're just like that,Good Translation,0.5835318,0.56468457,0.018847227
+tout cracher,25,c'est du emily kmetko tout craché,it's emily kmetko all over again,it's a dead ringer for Emily Kmetko,Good Translation,0.75900793,0.6481729,0.110835016
+tout cracher,26,c'est jonathan tout craché,jonathan would do that,it's a dead ringer for Jonathan,Good Translation,0.56257355,0.48820138,0.07437217
+tout cracher,27,vous allez rire ce type james sidas c'est vous tout craché,you're gonna laugh but i swear this guy james sidas looks exactly like you,you're going to laugh this guy James Sidas is you verbatim,Literal Translation,0.7631234,0.79046077,-0.027337372
+tout cracher,28,mon fils tout craché,sounds like my son,my son down to the last drop,Literal Translation,0.6429297,0.7344488,-0.09151912
+tout cracher,29,toi t'es mon père tout craché,you- - you look just like my father,you're just like my father,Good Translation,0.63583076,0.6851609,-0.049330115
+tout cracher,30,- c'est son style tout craché,- goddamn right it's just her style,- that's his style verbatim,Literal Translation,0.6828617,0.6834887,-0.00062704086
+tout cracher,31,c'est lui tout craché,that's how he likes to do it,it's him to a tee,Good Translation,0.5663404,0.56601363,0.00032675266
+tout cracher,32,- croyez-moi il a tout craché,believe me he gave up all he's got,- believe me he spilled it all,Good Translation,0.8048019,0.8880409,-0.08323902
+tout cracher,33,oui c'était jack tout craché,yep that was you jack,"yes, that was Jack all over",Good Translation,0.66579294,0.8021257,-0.13633275
+tout cracher,34,oui c'est du justin tout craché,yeah that sounds like justin,"yes, that's Justin outright",Good Translation,0.70060307,0.6860876,0.01451546
+tout cracher,35,c'est bien ma fille sa mère tout craché,that's my daughter just like her mother,"it's her mother, she looks just like hermother",Partial Translation,0.7607529,0.67200273,0.08875018
+tout cracher,36,elle a presque déjà tout craché aux infos sur l'invasion extra-terrestre,she almost went on the news and blew the whistle on the entire alien invasion,She has almost spilled everything to the news about the alien invasion,Good Translation,0.79855263,0.9000999,-0.10154724
+tout cracher,37,c'est sid tout craché non,she looks just like sid doesn't she,"it's bang on, isn't it",Good Translation,0.59096265,0.5185007,0.07246196
+tout cracher,38,son père tout craché,just like his dad,his exact father,Unnatural,0.6858406,0.6913515,-0.0055108666
+tout cracher,39,au club il y a un gars qui est mon portrait tout craché,there's an old fellow at the club looks as much like me as i do,at the club there's a guy who is a dead ringer for me,Good Translation,0.7026677,0.7047142,-0.0020464659
+tout cracher,40,- non c'est elle tout craché,- no she's just being mother,"- no, that's her down to the last detail",Partial Translation,0.63177437,0.6828466,-0.05107224
+tout cracher,41,lui tout craché,to wit barney,exactly like him/her,Unnatural,0.458203,0.5672314,-0.10902843
+tout cracher,42,je lui ferai tout cracher,i beat it out of him,I'll make him spill everything.,Good Translation,0.59784126,0.7285163,-0.13067502
+tout cracher,43,j'ai pensé qu'il me donnerait peut-être la réponse john tout craché,to tell you the truth i thought he might slip me the answer very john,"I thought he might give me the answer, John spelled out.",Good Translation,0.7779683,0.7866638,-0.008695483
+tout cracher,44,c'est keith tout craché,yeah that's keith,it's just like Keith,Good Translation,0.68058586,0.58741504,0.09317082
+tout cracher,45,ils m'ont tous craché au visage,they all spat in my face,They spat in my face.,Unnatural,0.86995703,0.7626927,0.10726434
+tout cracher,46,on aurait dit steve jobs tout craché c'était parfait,you spoke extremely well,"It looked like Steve Jobs himself, it was perfect.",Literal Translation,0.5053524,0.76140857,-0.2560562
+tout cracher,47,lauren a tout craché,lauren spilled everything,Lauren spilled the beans,Good Translation,0.8286817,0.6397535,0.18892819
+tout cracher,48,c'est toi tout craché mon minet,yeah ain't that just like you baby,it's just like you my kitten,Good Translation,0.495459,0.5666444,-0.07118538
+tout cracher,49,tu es ton père tout craché,you are just a copy of your father,you are your father's exact likeness,Good Translation,0.6512348,0.71425736,-0.063022554
+tout cracher,50,c'est vous tout craché,wow that's an amazing likeness,it's a perfect match for you,Good Translation,0.4446696,0.5505931,-0.105923474
+tout cracher,51,baal ne vous l'a pas dit c'est lui tout craché,didn't baal mention that to you,"Baal didn't tell you, he's just like him/her.",Mistranslation,0.70346034,0.7134035,-0.009943187
+tout cracher,52,c'est du bulstrode tout craché,this is bulstrode's handiwork,it's a straight-up bulstrode,Good Translation,0.7168579,0.76030827,-0.043450356
+tout cracher,53,tu vois elle est semblable à son père toute crachée,she's just like her father,you see she is just like her father,Unnatural,0.80879045,0.85259414,-0.043803692
+tout cracher,54,enfin bref c'est pas lui tout craché,anyway doesn't he look just like him,"finally, in short, he's not exactly like that",Good Translation,0.6951513,0.77282023,-0.077668905
+tout cracher,55,tu es la fille de ton père tout craché,you're your daddy's daughter all right,you are your father's daughter down to the last detail,Good Translation,0.77000785,0.77226365,-0.0022557974
+tout cracher,56,mais c'est le clébard tout craché,but it looks exactly like the mutt,but it's the real deal,Good Translation,0.557236,0.53869784,0.018538177
+tout cracher,57,c'est lui tout craché,that's just like him,it's him to a tee,Good Translation,0.6117089,0.56601363,0.045695245
+tout cracher,58,c'est addison tout craché,it's addison from start to finish,it's Addison to a T,Good Translation,0.70915383,0.5917317,0.117422104
+tout cracher,59,c'est mon portrait tout craché,- he's a dead ringer for me,it's a dead ringer for me,Partial Translation,0.47053617,0.48528278,-0.014746606
+tout cracher,60,c'est ridicule de ne pas savoir contre quoi on le protège c'est artie tout craché,it's ridiculous that we don't know what we're protecting him from but typical artie,it's ridiculous not to know what we're protecting it from and that's totally clear,Unnatural,0.7977177,0.74540234,0.052315354
+tout cracher,61,c'est moi tout craché,- ah well that's me,it's me to a tee,Good Translation,0.4724004,0.535528,-0.06312761
+tout cracher,62,c'est du hilly blue tout craché,we both know hilly blue's signature,it's straight out of the blue hill brochure,Unnatural,0.6331495,0.6020484,0.031101108
+tout cracher,63,c'est du nola tout craché,that sounds a lot more like nola's idea,it's a dead ringer for NOLA,Good Translation,0.62037355,0.5724465,0.047927022
+tout cracher,64,et c'est moi tout craché,and he looks just like me,and that's me to a T,Good Translation,0.50990504,0.5378052,-0.02790016
+tout cracher,65,ils ont tous craché,they all spit,they have all spit,Unnatural,0.7907437,0.7794502,0.01129353
+tout cracher,66,c'est singapour tout craché,typical singapore,it's a mirror image of Singapore,Good Translation,0.5423528,0.5561372,-0.013784409
+tout cracher,67,c'était stallone tout craché,uh that was an incredible stallone,it was Stallone all over again,Good Translation,0.71236515,0.73025763,-0.01789248
+tout cracher,68,- ça c'est toi tout craché - notre cd est épuisé,our cd is sold out,- that's just like you - our CD is sold out,Unnatural,0.75989926,0.7947446,-0.034845352
+tout cracher,69,c'est scott tout craché,this is scott,it's a spitting image of Scott,Literal Translation,0.72085154,0.6042076,0.116643965
+tout cracher,70,c'est leur père tout craché,so much like their father in funny ways,it's a dead ringer for their father,Good Translation,0.664407,0.6633953,0.0010117292
+tout cracher,71,c'est lui tout craché,- that sounds so,it's him to a tee,Good Translation,0.4454,0.56601363,-0.120613635
+tout cracher,72,- ah c'est du henry tout craché,- oh yeah that sounds like henry,- ah that's straight out of Henry,Good Translation,0.6346781,0.6546058,-0.01992768
+tout cracher,73,c'est dizzy gillespie tout craché,you look just like dizzy gillespie,it's straight out of Dizzy Gillespie,Good Translation,0.70048046,0.64746475,0.05301571
+tout cracher,74,l'évidence même notre portrait tout craché,that's us seaplane pilots,the evidence itself our exact portrait,Partial Translation,0.46157646,0.8122406,-0.35066414
+tout cracher,75,mizushima tout craché,- he looks exactly like mizushima,mizuho exactly,Mistranslation,0.5855608,0.5662924,0.019268394
+tout cracher,76,- oui c'est randy tout craché ce cynisme,- sounds like randy cynical bastard,"- yes, that's Randy's straight-up cynicism",Good Translation,0.7410501,0.83007944,-0.08902931
+tout cracher,77,c'est walter tout craché,that sounds like walter,it's Walter in person,Unnatural,0.6294695,0.57782865,0.05164087
+tout cracher,78,tous crachent sur toi mais tu n'es pas prête,everyone's spitting at you but you're not ready,Everyone is throwing dirt at you but you are not ready.,Good Translation,0.88418365,0.807313,0.07687062
+tout cracher,79,c'est du mud tout craché,this is mud this is exactly what he does,it's straight out of the mud,Good Translation,0.6721199,0.67818177,-0.006061852
+tout cracher,80,il ne rendait pas bien en photo mais c'est lui tout craché,photographs never did him justice but he looked exactly like this,He didn't photograph well but that's him exactly,Good Translation,0.74280256,0.81983376,-0.077031195
+tout cracher,81,elle a tout craché à la police,you want to know where she is she's helping the police,She spilled her guts to the police,Good Translation,0.6695105,0.8027047,-0.13319421
+tout cracher,82,je les ai bien regardés c'était moi tout craché,they looked exactly like me,I looked at them closely and it was me exactly.,Good Translation,0.6471982,0.66291404,-0.015715837
+tout cracher,83,- papa tout craché - appelez-lui une ambulance,- somebody get this guy an ambulance,-papa tout craché - call him an ambulance,Good Translation,0.76525545,0.9772615,-0.21200603
+tout cracher,84,votre portrait tout craché,just like you,your exact likeness,Good Translation,0.47009125,0.5730245,-0.10293326
+tout cracher,85,c'est cassie tout craché,oh that's just cassie,it's Cassie straight up,Good Translation,0.7252357,0.63565594,0.08957976
+tout cracher,86,c'était moi tout craché,that was pure me,it was me to a tee,Good Translation,0.58950144,0.5586184,0.030883014
+tout cracher,87,c'est lui tout craché,yeah isn't that just like him,it's him to a tee,Good Translation,0.5358336,0.56601363,-0.030180037
+tout cracher,88,c'est du sibel tout craché,that's just typical,it's a dead ringer for Sibelius,Literal Translation,0.47093016,0.5263343,-0.055404127
+tout cracher,89,c'est toi tout craché,you were willing to risk that oh that is classic you,it's you to a tee,Good Translation,0.5076215,0.5678725,-0.060250998
+tout cracher,90,ta mère tout craché c'est pas ma mère,she's not my mom,you're just like your mother that's not my mother,Partial Translation,0.70823693,0.7260139,-0.017776966
+tout cracher,91,ça sera notre parole contre celle du mouchard mack est à côté en train de tout cracher,mack's in the other room right now spilling his guts out,"it will be our word against Mack's informant's word, with Mack right there spilling everything",Good Translation,0.6562915,0.77707076,-0.120779276
+tout cracher,92,c'est du nathan miller tout craché encore une fois,this is nathan miller all over again,it's straight out of Nathan Miller again,Good Translation,0.89353526,0.7790147,0.11452055
+tout cracher,93,c'est wil tout craché,jessenla oh he looks just like wil,it's a perfect match,Good Translation,0.5073935,0.4987173,0.008676171
+tout cracher,94,c'est lui tout craché non,don't you think,that's him right down to the last detail,Good Translation,0.45359245,0.65227664,-0.19868419
+tout cracher,95,- c'est toi tout craché,-that's my boy,- you're just like him/her,Partial Translation,0.4925336,0.56219697,-0.069663376
+tout cracher,96,c'est toi tout craché toujours en dehors,that's typical of you always on the outside looking in,it's you to a tee always outside,Good Translation,0.72600186,0.77139807,-0.04539621
+tout cracher,97,c'est irving tout craché,jesse he looks exactly like irving,it's Irving all the way,Unnatural,0.6077753,0.77323866,-0.16546339
+tout cracher,98,tout craché,two drops of water,dead on,Good Translation,0.45735008,0.51013625,-0.05278617
+tout cracher,99,c'est toi tout craché jerry,jerry if anybody should be doing this it's you,"it's just like you, Jerry",Good Translation,0.6770458,0.6482583,0.028787494

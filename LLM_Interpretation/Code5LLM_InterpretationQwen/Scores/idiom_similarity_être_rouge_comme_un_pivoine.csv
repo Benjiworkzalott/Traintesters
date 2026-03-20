@@ -1,0 +1,4 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+être rouge comme un pivoine,0,il est rouge comme une pivoine,look at him he's red,it is red as a rose,Literal Translation,0.73422706,0.7714954,-0.03726834
+être rouge comme un pivoine,1,tu es rouge comme une pivoine,your face is beet red,you are as red as a rose,Literal Translation,0.6608882,0.8093809,-0.1484927
+être rouge comme un pivoine,2,- t'es rouge comme une pivoine,- totally blushing,- you're as red as a rose,Unnatural,0.5264381,0.8083056,-0.2818675

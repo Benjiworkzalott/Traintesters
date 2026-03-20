@@ -1,0 +1,19 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+avoir deux main gauche,0,le confort - tu as deux mains gauches,some comfort this is,comfort - you have two left hands,Good Translation,0.6236892,0.9304173,-0.30672812
+avoir deux main gauche,1,tu as deux mains gauches,you got hands like bricks,You have two left hands.,Good Translation,0.7181618,0.85784304,-0.13968122
+avoir deux main gauche,2,je le ferais bien moi-même mais j'ai deux mains gauches,i would do it myself but i am all thumbs yeah i'm sorry about that,I would do it well myself but I have two left hands.,Good Translation,0.7428775,0.94146407,-0.19858658
+avoir deux main gauche,3,oui et j'ai deux mains gauche,yes and i i have 2 left hands,Yes and I have two left hands,Good Translation,0.9235177,0.9328499,-0.00933218
+avoir deux main gauche,4,je dois avoir deux mains gauches,i think i have two left hands,I have to be two left-handed people.,Literal Translation,0.8601365,0.84396464,0.016171873
+avoir deux main gauche,5,sally tu as deux mains gauches ce soir,oh sally you are fingers and thumbs tonight,Sally you have two left hands tonight,Good Translation,0.7947022,0.90208864,-0.10738647
+avoir deux main gauche,6,j'ai deux mains gauches,mechanically retarded would be closer to the truth,I have two left hands.,Good Translation,0.49859393,0.911241,-0.41264707
+avoir deux main gauche,7,sanil a deux mains gauches,sanil couldn't close a door with two hands and an arm,he washes with his left hands,Mistranslation,0.74161863,0.6442579,0.09736073
+avoir deux main gauche,8,tu as deux mains gauches,you can barely hold one thing in each hand,You have two left hands.,Good Translation,0.6368683,0.85784304,-0.22097474
+avoir deux main gauche,9,tu as deux mains gauches,you're a spiller,you have two left hands,Good Translation,0.6505884,0.8848296,-0.23424119
+avoir deux main gauche,10,j'ai deux mains gauche aujourd'hui,i seem to be all butterfingers today,I have two left hands today.,Good Translation,0.6938511,0.9228884,-0.22903728
+avoir deux main gauche,11,a croire qu'elle a deux mains gauches,- how about tonight i can't i'm busy,to think she has two left hands,Good Translation,0.47104767,0.95562184,-0.48457417
+avoir deux main gauche,12,il a deux mains gauches et il n'est même pas foutu de s'occuper de moi,poor excuse for a man even a waiter as far as i'm concerned,he has two left hands and he's not even capable of taking care of me,Good Translation,0.6192659,0.90591604,-0.28665012
+avoir deux main gauche,13,parfois j'ai deux mains gauches,sometimes i'm just all thumbs,Sometimes I have two left hands.,Good Translation,0.7370074,0.94364935,-0.20664197
+avoir deux main gauche,14,tu as deux mains gauches,have you got two left hands,you have two left hands,Good Translation,0.86815023,0.8848296,-0.016679347
+avoir deux main gauche,15,ce cher garçon est comme son père il a deux mains gauches,the dear boy is all thumbs just like his poor father,this dear boy is like his father he has two left hands,Good Translation,0.7638271,0.94184864,-0.17802155
+avoir deux main gauche,16,il a deux mains gauches,he's got no hands,He has two left hands.,Good Translation,0.7647922,0.9442576,-0.17946541
+avoir deux main gauche,17,- j'ai deux mains gauches,i kind of have two left hands,- I have two left-handed hands.,Literal Translation,0.8985603,0.92773324,-0.029172957

@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"avoir le chair de poule,ah le vache",0,ah la vache j'en ai la chair de poule,oh my god i got goose bumps,ah man I get goosebumps,Good Translation,0.5768583,0.56661904,0.0102392435

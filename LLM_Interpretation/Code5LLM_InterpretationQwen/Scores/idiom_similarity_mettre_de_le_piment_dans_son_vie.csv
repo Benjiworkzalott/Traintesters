@@ -1,0 +1,4 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+mettre de le piment dans son vie,0,ça met du piment dans notre vie amoureuse,it adds mystery and excitement to our love life,it adds spice to our love life,Good Translation,0.782255,0.8855965,-0.10334152
+mettre de le piment dans son vie,1,je mets du piment dans vos vies et vous vous plaignez sans cesse,i add a little excitement a little spice to your lives and all you do is complain,I sprinkle pepper on your lives and you complain nonstop.,Good Translation,0.75444436,0.8700496,-0.115605235
+mettre de le piment dans son vie,2,ça met du piment dans ma vie,adds a little excitement to my life,that adds spice to my life,Good Translation,0.8059075,0.87437403,-0.068466544

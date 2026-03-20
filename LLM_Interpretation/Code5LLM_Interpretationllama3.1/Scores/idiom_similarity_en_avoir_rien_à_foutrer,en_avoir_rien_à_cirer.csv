@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"en avoir rien à foutrer,en avoir rien à cirer",0,si tu te sens seul comme si on en a rien à foutre de toi et que le monde entier en a rien à cirer moi je suis là,if you're feeling alone like nobody in the world cares and nobody in the fucking world gives a shit then i'm here,if you feel alone like no one cares about you and the whole world doesn't give a damn I'm here,Good Translation,0.8655581,0.86849815,-0.0029400587

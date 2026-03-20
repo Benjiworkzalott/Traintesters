@@ -1,0 +1,101 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+être mal en point,0,- vous êtes mal en point,-you're hurt pretty bad,you are in bad shape,Good Translation,0.79155976,0.8303375,-0.03877777
+être mal en point,1,corey nous sommes mal en point,colonel corey we're in bad shape,"Corey, we are in bad shape.",Good Translation,0.8491992,0.8631185,-0.0139193535
+être mal en point,2,- faut que je te dise - t'es mal en point,there's something i have to tell you,-you've got to hear this - you're in bad shape,Good Translation,0.7137643,0.7822818,-0.068517506
+être mal en point,3,votre patient est mal en point,you have a patient in distress,your patient is in serious condition,Good Translation,0.86292994,0.8342664,0.028663516
+être mal en point,4,elle est mal en point,she's so sick,she is in poor condition,Good Translation,0.817046,0.9050099,-0.08796394
+être mal en point,5,je dirais que vous êtes mal en point,well i'd say not too good if i'm any judge,I would say you are in bad shape.,Good Translation,0.66678727,0.83140606,-0.16461879
+être mal en point,6,s'ii est mal en point emmène-ie à i'hôpital,if he's fucked up why don't you take him to the hospital,"If he is badly hurt, take him to the hospital.",Good Translation,0.6845626,0.75431377,-0.06975114
+être mal en point,7,l'économie est mal en point,the economy sucks,the economy is in poor condition,Good Translation,0.9049922,0.94980454,-0.04481232
+être mal en point,8,il était mal en point avant qu'on se batte,he was on his way out before we even started fighting,he was in bad shape before we fought,Good Translation,0.781953,0.89602333,-0.114070356
+être mal en point,9,le type était mal en point,guy was a real mess,the guy was in bad shape,Good Translation,0.8308059,0.87354434,-0.042738438
+être mal en point,10,vous êtes mal en point,captain it looks bad for you,you are in bad condition,Good Translation,0.696854,0.8622128,-0.16535878
+être mal en point,11,c'est difficile dans ces cas-là j'étais mal en point,it's hard in these situations,it's difficult in those cases I was really struggling,Good Translation,0.80253434,0.84843147,-0.045897126
+être mal en point,12,elle est mal en point,how bad is she,she is in poor condition,Good Translation,0.7810847,0.9050099,-0.12392521
+être mal en point,13,- dennis est mal en point papa,- dennis is in bad shape dad,"Dennis is in bad condition, Dad.",Good Translation,0.9166254,0.7986655,0.11795986
+être mal en point,14,tu es mal en point,you're in pretty bad shape,you are in bad condition,Good Translation,0.7167149,0.7299597,-0.013244808
+être mal en point,15,ou bien il pourrait être mal en point à cause des mollusques qatar,or he could be incapacitated by the qatar mollusks,or it could be severely affected by the qatar snails,Partial Translation,0.8868261,0.8093146,0.07751149
+être mal en point,16,apparemment la transmission aussi est mal en point et deux ou trois autres choses,he also felt that the transmission was compromised too and a few other things he's concerned about,apparently the transmission is also in poor condition and two or three other things are problematic,Good Translation,0.8072429,0.939531,-0.13228816
+être mal en point,17,il parait évident que votre ami soit mal en point mais je ne suis pas votre gars,it's obvious that your friend needs help but i am not your guy,It seems obvious that your friend is in bad shape but I am not your guy,Good Translation,0.8781429,0.92317045,-0.045027554
+être mal en point,18,- elle est mal en point,poor thing she's in bad shape,She is in bad condition.,Good Translation,0.87367547,0.86465037,0.009025097
+être mal en point,19,je suis venue voir nick parce que sa mère est mal en point et il avait besoin de moi,i came to see nick because his mom is in bad shape and he needed me,I came to see Nick because his mother is very sick and he needed me.,Good Translation,0.964234,0.91695774,0.04727626
+être mal en point,20,- je suis mal en point,- i feel very ill,I am in poor condition.,Good Translation,0.7544278,0.7782384,-0.023810625
+être mal en point,21,ii est mal en point,he could be fucking worse off than you,it is in poor condition,Partial Translation,0.56821376,0.7317877,-0.16357392
+être mal en point,22,crate est mal en point,crate's in bad shape,The crate is in poor condition.,Good Translation,0.9011781,0.83854485,0.062633276
+être mal en point,23,elle est mal en point,someone shot nicole and she looks bad,she is in poor condition,Good Translation,0.653151,0.9050099,-0.25185895
+être mal en point,24,ils sont mal en point tu rigoles,what are you talking about,They are in bad shape you're joking,Partial Translation,0.6063383,0.85879683,-0.2524585
+être mal en point,25,il est mal en point,eh he's been snoozing since we gave blood,he is in poor condition,Good Translation,0.5867646,0.865024,-0.2782594
+être mal en point,26,vous vous êtes pas aperçus que j'étais mal en point,hasn't anybody noticed i'm sick and miserable here,you didn't notice that I was in bad shape,Good Translation,0.6488866,0.8818301,-0.23294348
+être mal en point,27,il était mal en point,he was really messed up,he was in poor condition,Good Translation,0.86363643,0.8836952,-0.020058751
+être mal en point,28,le mari est mal en point,the husband's dying,the husband is in poor condition,Good Translation,0.74840057,0.8989397,-0.15053916
+être mal en point,29,le médecin dit que mes reins sont mal en point et que j'exige trop de moi-même,the doctor says my kidneys are acting up that i was pushing myself too hard,the doctor says that my kidneys are in poor condition and that I am putting too much pressure on myself,Good Translation,0.7676265,0.81920755,-0.051581025
+être mal en point,30,lincoln est mal en point,lincoln don't look so good,Lincoln is in bad condition,Good Translation,0.83693314,0.83673996,0.00019317865
+être mal en point,31,mon père dit que l'économie mondiale est mal en point car les états-unis deviennent trop gros et trop paresseux,- my dad says that international economic competition is heating up because the united states is getting too fat and too lazy,My father says that the global economy is in bad shape because the United States has become too big and too lazy.,Good Translation,0.81026137,0.91932595,-0.10906458
+être mal en point,32,je suis mal en point,am i hurt bad,I am in bad condition,Good Translation,0.7190124,0.79321903,-0.07420665
+être mal en point,33,vous revenez ici parce que votre restaurant est mal en point,you're back here because your restaurant is suffering,You come back here because your restaurant is in poor condition.,Good Translation,0.9006729,0.9340534,-0.03338051
+être mal en point,34,ward était attirant parce qu'il était mal en point,ward appealed because he was damaged,ward was attractive because he was in poor condition,Good Translation,0.680503,0.91077375,-0.23027074
+être mal en point,35,ma maserati est mal en point,hear my maserati broke down,my maserati is in bad shape,Good Translation,0.76574755,0.8775816,-0.11183405
+être mal en point,36,mais votre frère est mal en point,your brother's in more serious condition,but your brother is seriously ill,Good Translation,0.84196126,0.8597764,-0.017815113
+être mal en point,37,elle était mal en point quand ils l'ont ramenée au pays de galles,and she was in quite a bad way when they took her home to wales,She was in poor condition when they brought her back to Wales.,Good Translation,0.85562456,0.8682318,-0.012607217
+être mal en point,38,- je suis mal en point,- awful nuisance,I am in poor condition.,Unnatural,0.6505104,0.7782384,-0.12772804
+être mal en point,39,l'équipage est mal en point et nous avons déjà perdu 2 officiers,our men are in a bad way and now we've lost two of our senior officers,the crew is in poor condition and we have already lost 2 officers,Good Translation,0.87246233,0.9407627,-0.06830037
+être mal en point,40,marie on est mal en point,marie we are not doing well,We are in bad shape.,Good Translation,0.8409989,0.70108813,0.13991076
+être mal en point,41,af-1 est mal en point,sirs air force one is badly hit,af-1 is in poor condition,Good Translation,0.5997267,0.9273979,-0.32767123
+être mal en point,42,putain il est mal en point,oh god he looks like shit,hell he is in bad shape,Good Translation,0.72051203,0.8395574,-0.11904538
+être mal en point,43,- je ne sais rien pour la conductrice mais la femme enceinte est mal en point,don't know about the driver the pregnant woman is in bad shape,-I know nothing about the driver but the pregnant woman is in serious condition,Good Translation,0.92350996,0.88163364,0.041876316
+être mal en point,44,ouah tu es mal en point,wow you're in bad shape,"oh man, you're in bad shape",Good Translation,0.73318994,0.7659663,-0.032776356
+être mal en point,45,tu es mal en point mais ça ne changera rien pour toi,you're in pieces now but it won't change anything for you,you are in bad shape but it will make no difference to you,Good Translation,0.8367654,0.8423393,-0.0055738688
+être mal en point,46,ça me fait plaisir d'entendre du basque surtout quand je suis mal en point,hearing the basque language makes me feel better especially when i'm in pain,"It pleases me to hear Basque, especially when I am not feeling well.",Good Translation,0.87930715,0.9387625,-0.059455335
+être mal en point,47,- il est mal en point,he don't look well,He is in poor condition.,Good Translation,0.8380909,0.81902957,0.019061327
+être mal en point,48,mon collègue m'a montré votre votre radio vous êtes mal en point,my colleague here just showed me your your scans and uh you're in bad shape,my colleague showed me your radio you are in bad condition,Partial Translation,0.8063014,0.9148047,-0.10850328
+être mal en point,49,abandonner le président alors qu'il est mal en point,you can't skip out with the president lying flat on his back,to abandon the president when he is badly injured,Good Translation,0.7086521,0.8878064,-0.17915434
+être mal en point,50,il disait que tu étais mal en point,said you were in bad shape,He said you were in poor condition.,Good Translation,0.88849664,0.8879478,0.00054883957
+être mal en point,51,ils sont mal en point,they're tinderboxes,they are in poor condition,Unnatural,0.6523042,0.8446364,-0.19233221
+être mal en point,52,220elle est mal en point,she's bad enough here,She is in poor condition,Good Translation,0.7239313,0.72583973,-0.0019084215
+être mal en point,53,ce vaisseau de guerre est mal en point,captain that warship's in pretty bad shape,this warship is in poor condition,Good Translation,0.8590284,0.9131775,-0.05414909
+être mal en point,54,tes poumons sont mal en point,your lungs are packin' it in,your lungs are in poor condition,Good Translation,0.7759997,0.89730895,-0.12130922
+être mal en point,55,- le président est mal en point,the president's in very bad shape,- the president is seriously ill,Good Translation,0.89992,0.8372101,0.06270987
+être mal en point,56,l'europe était mal en point,europe bit the big one,Europe was in poor condition,Good Translation,0.66923934,0.9176249,-0.24838555
+être mal en point,57,j'ai bien vu qu'il était mal en point,i could see he was hurt,I saw well that he was in bad condition,Good Translation,0.7910895,0.9027431,-0.111653626
+être mal en point,58,enfin le dossier est bien rempli mais vos comptes sont mal en point,well i mean now it's filled out properly but your account balance is precipitously low,finally the file is well filled but your accounts are in poor condition,Good Translation,0.80442166,0.89386994,-0.08944827
+être mal en point,59,c'est bien à part votre plante qui est mal en point,looks pretty good except your sweet potato's got the blight,it's well apart from your plant which is in poor condition,Unnatural,0.6952306,0.90551805,-0.21028745
+être mal en point,60,ses poumons sont mal en point,his lungs are bad,his lungs are in poor condition,Good Translation,0.9060565,0.9157405,-0.009683967
+être mal en point,61,apparemment elle est mal en point,apparently she's in bad shape,apparently she is in bad condition,Good Translation,0.94094926,0.93392026,0.007028997
+être mal en point,62,et l'autre est mal en point,the other is not looking good,and the other is badly off,Good Translation,0.8781261,0.93214464,-0.054018557
+être mal en point,63,il était mal en point quand il est revenu alors on l'a emmené à l'hôpital,he was in bad shape when he got back so we took him to the hospital,"He was in poor condition when he returned, so he was taken to the hospital.",Good Translation,0.9131511,0.92069316,-0.0075420737
+être mal en point,64,elle est mal en point vous allez l'aider,she's in bad shape doc can't you do something,She is in bad shape you are going to help her,Good Translation,0.7817097,0.94154906,-0.15983939
+être mal en point,65,et puis il est mal en point,- he's bleeding badly,and then he is in bad condition,Good Translation,0.72340775,0.88304985,-0.1596421
+être mal en point,66,il était là i'article auquel je m'étais donnée corps et âme et il était mal en point,there it was the article i'd put my heart and soul into and it was bleeding,"He was there, the article to which I had devoted myself body and soul, and he was in poor condition.",Good Translation,0.7962499,0.82367456,-0.027424634
+être mal en point,67,ils ont dit qu'il était mal en point,said he was in bad shape,They said he was in critical condition.,Good Translation,0.8542863,0.71722066,0.13706565
+être mal en point,68,je suis mal en point comme vous le voyez,i'm coming apart as you can see,I am in bad shape as you can see,Good Translation,0.76658773,0.84949976,-0.08291203
+être mal en point,69,elle était mal en point mais n'avait rien dit à sa mère,she was really really sick but she hadn't told her mother,She was in bad condition but had said nothing to her mother,Good Translation,0.86026335,0.9486285,-0.08836514
+être mal en point,70,alors mon vieil ami tu l'amènes quand nous sommes mal en point,well then old friend you have brought him to us when we're not at our best,"then my old friend, you bring us when we are at our worst",Good Translation,0.8629654,0.8810205,-0.018055081
+être mal en point,71,- il est mal en point monsieur,- he's pretty far gone sir,"He is in poor condition, sir.",Good Translation,0.8001604,0.8721911,-0.07203066
+être mal en point,72,il est défiguré et ses mains sont mal en point,he's pretty badly disfigured on his face and hands,He is disfigured and his hands are in poor condition.,Good Translation,0.91920096,0.9449966,-0.025795639
+être mal en point,73,je suis mal en point et j'ai les mains pleines,- i'm banged up and my hands are full as it is,I am in bad shape and my hands are full,Good Translation,0.8617136,0.90384537,-0.04213178
+être mal en point,74,elle était mal en point,such a guy,she was in poor condition,Good Translation,0.52538574,0.9111138,-0.38572806
+être mal en point,75,- zoé est mal en point,- zoe's been badly hurt,Zoe is in poor condition.,Good Translation,0.849287,0.8501224,-0.0008354187
+être mal en point,76,le cabinet est mal en point et il faut prendre toutes les affaires,- mrs florrick this firm is in dire straits and we need all the business we can get so tell him you made a mistake,the firm is in poor condition and all matters need to be addressed,Good Translation,0.7037107,0.83210623,-0.12839556
+être mal en point,77,le monstre est mal en point,mrs goforth is a dieing monster,the monster is in poor condition,Good Translation,0.65508807,0.9024093,-0.24732125
+être mal en point,78,il savait qu'il était mal en point et a décidé de traverser ça tout seul,i mean he knew his situation was dire and he decided to tough it out on his own,He knew he was in bad shape and decided to get through it alone.,Good Translation,0.82703674,0.91108966,-0.08405292
+être mal en point,79,ce fémur est mal en point,this femur is like a wet bag of gravel,this femur is in poor condition,Good Translation,0.69913495,0.8578881,-0.15875316
+être mal en point,80,après mon divorce j'étais mal en point,look after my divorce i was not at my best,"After my divorce, I was in bad shape.",Good Translation,0.8288783,0.9219131,-0.093034804
+être mal en point,81,j'étais mal en point pendant un an,carmen i was in bad shape for about a year,I was in poor condition for a year,Good Translation,0.8260704,0.9074391,-0.081368685
+être mal en point,82,il est très gourmand mais il est mal en point,he's got a sweet tooth but lately he hasn't been very lively,he is very greedy but he is in poor condition,Good Translation,0.74426615,0.8147378,-0.070471644
+être mal en point,83,arrête avec ça tu étais mal en point,you are not well at this time,Stop with that you were in bad shape,Good Translation,0.72067463,0.8599056,-0.13923097
+être mal en point,84,t'étais mal en point quand t'es entré mais tu te retapes vite je plaisante,you were mighty bad when you came in but you are improving by the minute,you were in bad shape when you entered but you're recovering quickly I'm joking,Good Translation,0.7772769,0.88229847,-0.105021596
+être mal en point,85,elle est mal en point grant,she's in bad shape grant,She is in grave condition.,Good Translation,0.90578866,0.66049457,0.2452941
+être mal en point,86,on ne pourrait pas le couvrir parce qu'on est mal en point,we have no way to cover it up because we're crippled,We couldn't cover it because we're in bad shape.,Good Translation,0.7168361,0.87143856,-0.15460247
+être mal en point,87,j'étais mal en point,you found me in a sorry state,I was in bad condition,Good Translation,0.7252202,0.878547,-0.15332681
+être mal en point,88,zorthy est mal en point,zorthy's gotten himself into trouble,Zorthy is in poor condition,Good Translation,0.8813678,0.88871616,-0.0073483586
+être mal en point,89,tu es mal en point - quand as-tu mangé la dernière fois,you look terrible,you are in bad shape - when did you last eat,Partial Translation,0.5578476,0.9039515,-0.3461039
+être mal en point,90,au début son épaule était mal en point on a réalisé que la moto était aussi en mauvais état,at first he was in bad shape with his shoulder but then we realized the bike was in bad shape as well,"At first, his shoulder was badly injured, and we realized that the motorcycle was also in poor condition.",Good Translation,0.87132454,0.8613214,0.0100031495
+être mal en point,91,tu es mal en point dick,you're in bad shape dick,you are in bad shape dick,Good Translation,0.80993843,0.81201506,-0.0020766258
+être mal en point,92,- le crime doit être mal en point,well crime must be in a bad way,- the crime must be in bad shape,Good Translation,0.8727745,0.8949351,-0.02216059
+être mal en point,93,chuck est mal en point marty,chuck's in pretty bad shape marty,Chuck is in bad shape Marty,Unnatural,0.9069672,0.83737075,0.06959647
+être mal en point,94,elle était mal en point mais elle était en vie,it was bad but she was still alive,she was in poor condition but she was still alive,Good Translation,0.9239986,0.94602907,-0.022030473
+être mal en point,95,je crois que le vieux est mal en point,i think the old man got hurt pretty badly,I think the old man is in bad condition.,Good Translation,0.8333907,0.9115225,-0.078131795
+être mal en point,96,ils ne tarderont donc pas à avoir faim et à être mal en point,so it's just a matter of time before they become hungry and cranky,They will thus not take long to become hungry and poorly off.,Partial Translation,0.7755258,0.8746354,-0.09910959
+être mal en point,97,l'entreprise était mal en point je voulais une augmentation ils m'ont laissé partir,wellthe company was cutting back i asked for a raiseso they let me go,the company was in poor condition I wanted a raise they let me go,Good Translation,0.8487693,0.90374815,-0.054978848
+être mal en point,98,la première fois qu'on a vu le groupe on a su tout de suite qu'ils étaient mal en point,when we first saw the group we could tell instantly that they were in a really serious condition,"the first time we saw the group, we knew right away that they were in bad shape",Good Translation,0.83457905,0.9345094,-0.099930346
+être mal en point,99,elle est mal en point sa tension était montée à 22,tell them we'll contact them if we need them,She is in bad condition her blood pressure had risen to 22,Literal Translation,0.43741447,0.9042431,-0.46682864

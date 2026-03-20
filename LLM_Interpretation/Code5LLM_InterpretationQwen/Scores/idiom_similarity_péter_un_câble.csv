@@ -1,0 +1,105 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+péter un câble,0,elle a pété un câble,she's kinda freakin' out,she lost her cool,Good Translation,0.6953421,0.7131239,-0.017781794
+péter un câble,1,il peut péter un câble,what about tony wham bam,he can blow a fuse,Good Translation,0.40776914,0.5839701,-0.17620099
+péter un câble,2,j'ai toujours peur que tu pètes un câble et que tu le tues,i'm just scared of you going nuts and hurting uncle dee,I always fear that you'll snap and kill him.,Partial Translation,0.66037726,0.8063878,-0.14601052
+péter un câble,3,si j'arrive à te gérer quand tu pètes un câble je devrais arriver à la gérer,if i can handle you when you flip your switch i can handle her,"if I can handle you when you lose it, I should be able to handle her",Good Translation,0.7672926,0.7706208,-0.0033282042
+péter un câble,4,oui il a pété un câble,it is not right it's like he just snaps,"Yes, he lost his cool.",Good Translation,0.6276678,0.69270873,-0.065040946
+péter un câble,5,je peux pas venir ma femme pète un câble,guys i can't go to vegas because my wife's freaking out,I can't come my wife is losing it,Good Translation,0.64837444,0.75611746,-0.107743025
+péter un câble,6,une fois quand andy pète un câble et fait un trou dans le mur,i'm just worried about my friend oh god of course you are,once Andy blows a fuse and makes a hole in the wall,Literal Translation,0.39436543,0.81120133,-0.4168359
+péter un câble,7,m malone pète un câble s'il arrive avant vous,mr malone blows a gasket if the girls aren't in their seats by the time he gets in,m malone loses it if he arrives before you,Good Translation,0.6027211,0.83629966,-0.23357856
+péter un câble,8,t'avais pété un câble,you were completely out of control,you'd lost your mind,Good Translation,0.65083,0.69818276,-0.04735279
+péter un câble,9,des fois je pète un câble,sometimes i fly off the handle,sometimes I blow a fuse,Good Translation,0.72872764,0.721838,0.0068896413
+péter un câble,10,- elle a clairement pété un câble,she's obviously got a wire loose,She clearly lost her damn mind,Good Translation,0.8533634,0.77247,0.0808934
+péter un câble,11,tu as pété un câble détenue,- are you out of your mind inmate - hey,You've lost it.,Good Translation,0.6327358,0.6597311,-0.026995301
+péter un câble,12,- ce gars pète un câble,- this guy is gonna bolt,- that guy is losing it,Good Translation,0.75621796,0.7626178,-0.00639987
+péter un câble,13,tous les clients m'en offrent un le soir je pète un câble,wherever i deliver mail they offer me some by evening i'm a wreck,all of my clients make me snap at night,Literal Translation,0.7323576,0.77064914,-0.038291514
+péter un câble,14,tu dois péter un câble de temps en temps ou tu deviens instantanément un amer vieux alcoolique anglais,you've got to go crazy once in a while or you'll just instantly become a bitter old british alcoholic man,You have to snap occasionally or you instantly become an instantaneous bitter old English alcoholic,Unnatural,0.81948036,0.80792844,0.011551917
+péter un câble,15,il y avait des femmes des hommes des enfants et j'ai pété un câble,they were all women men kids and i lost it,there were women men and children and I lost it,Partial Translation,0.76757324,0.79711497,-0.02954173
+péter un câble,16,spider a pété un câble et lui a tiré dans les couilles,spider broke a cap off nailed him right in the nuts,Spider flipped his lid and gave him a ballsucking.,Mistranslation,0.7461853,0.6130105,0.13317478
+péter un câble,17,j'ai pété un câble,i'm sorry i was tripping,I lost my cool,Good Translation,0.6726668,0.6564461,0.016220689
+péter un câble,18,mon père a pété un câble cet aprèm,- my dad went nuts today - yeah,my father lost it this afternoon,Good Translation,0.701561,0.7978591,-0.0962981
+péter un câble,19,-elle a pété un câble,-she farted a cable,-she lost her cool,Good Translation,0.89720905,0.72913086,0.16807818
+péter un câble,20,t'as pété un câble vieux,dude that is messed up man,you've lost your mind old timer,Partial Translation,0.6228825,0.6863513,-0.063468814
+péter un câble,21,un peu plus il citait mon nom je pète un câble là,he stopped just short of calling me by name i'm losing it,"a bit more and he kept citing my name, that's when I lost it",Good Translation,0.654289,0.7496226,-0.095333576
+péter un câble,22,et le type pète un câble,now the guy flips out,and the guy loses it,Good Translation,0.72690487,0.7469525,-0.020047605
+péter un câble,23,vous avez pété un câble vulcain,are you out of your vulcan mind,you've snapped like a Vulcan cable,Literal Translation,0.685202,0.7792538,-0.09405178
+péter un câble,24,merde tu risques de péter un câble,shit you're stretched beyond the limit,you're fucking going to blow a fuse,Good Translation,0.6396338,0.68670094,-0.047067165
+péter un câble,25,alors ouais j'ai pété un câble,so yeah i snapped,then yeah I lost it,Good Translation,0.64960384,0.69843924,-0.048835397
+péter un câble,26,les gens vont péter un câble,that's when people lose their shit ok,people are going to snap,Good Translation,0.63563156,0.7077885,-0.072156966
+péter un câble,27,mais t'as pété un câble,are you out of your fucking mind,but you've lost your marbles,Good Translation,0.5883664,0.6663812,-0.07801479
+péter un câble,28,ce type a vraiment pété un câble,this guy has really flipped,That guy really lost his mind.,Good Translation,0.7923325,0.7679211,0.02441138
+péter un câble,29,- il a pété un câble,- he's going nuts,He flipped out,Good Translation,0.7435761,0.7084793,0.035096824
+péter un câble,30,anton a pété un câble hier soir il m'a attaqué,anton completely flipped out on me last night and attacked me,Anton flipped his lid yesterday evening and attacked me.,Good Translation,0.8212179,0.7966249,0.024592996
+péter un câble,31,si tu me parles encore de cet argent beth je jure devant dieu que je vais péter un câble,look if you ask me about that money one more time beth i swear to god it's going in the shredder,"if you talk to me about that money again, I swear to God that I'm going to lose it",Good Translation,0.785565,0.80047,-0.014904976
+péter un câble,32,désolé j'ai pété un câble,i'm sorry,I'm sorry I lost it,Partial Translation,0.7300679,0.70929825,0.020769656
+péter un câble,33,on dit quoi aux 50 millions de personnes qui péterons un câble dès que ça sera diffusé,what do you want me to say to the 50 million people who are gonna go out of their minds as soon as it airs,What do we say to the 50 million people who will lose it as soon as it's broadcast?,Good Translation,0.83603275,0.8288832,0.007149577
+péter un câble,34,il a pété un câble pour mark,he's got this bug up his ass about mark,he snapped at Mark,Literal Translation,0.71694636,0.73490256,-0.017956197
+péter un câble,35,pourquoi tu pètes un câble comme ça c'est le cerf-volant,all right what's got your panties in a twist,Why are you losing it like this; it's just a kite.,Partial Translation,0.46763396,0.5787332,-0.11109924
+péter un câble,36,sa mère aurait pété un câble si elle avait su qu'on était en contact,i knew the boy's mom would flip out she knew i contacted him,His mother would have lost it if she had known we were in contact.,Good Translation,0.67793643,0.8148434,-0.13690698
+péter un câble,37,je pète un câble à chaque fois que je charge mon téléphone,i blow a fuse every time i charge my phone,I snap every time I charge my phone,Good Translation,0.8015261,0.7742778,0.027248323
+péter un câble,38,puis j'ai pété un câble,and then i just spazzed out,then I lost it,Good Translation,0.7038739,0.73350954,-0.029635668
+péter un câble,39,et s'il pète un câble quand je lui jette la bouteille,what if he flips out when i throw the bottle,and blows a fuse when I throw the bottle at him/her,Good Translation,0.7744504,0.76374626,0.01070416
+péter un câble,40,- il pète un câble ce gosse,- this kid's gone nuts,- that kid blows a fuse,Good Translation,0.76723397,0.72553533,0.041698635
+péter un câble,41,j'aurais dû péter un câble mais on n'était pas ensemble,i probably should've been mad but we weren't back together you know,"I should have snapped, but we weren't together.",Good Translation,0.7719312,0.7948972,-0.022966027
+péter un câble,42,oui avant que je pète un câble,yes before i lose my mind,yes before I snap,Good Translation,0.7664045,0.7875998,-0.021195292
+péter un câble,43,marcia va péter un câble,marcia's gonna blow a gasket,Marcia is going to lose it,Good Translation,0.6983807,0.6550406,0.043340087
+péter un câble,44,elle va péter un câble,she's gonna be so fucking mad,she is going to snap,Good Translation,0.71368283,0.7351761,-0.021493256
+péter un câble,45,soupire tu sais ce qui me fait péter un câble,sighs you know what really makes my head explode,do you know what sets me off?,Good Translation,0.7044287,0.6453112,0.059117496
+péter un câble,46,- je vais péter un câble,-i'm about to lose it,I'm going to lose it,Good Translation,0.7175991,0.67740333,0.040195763
+péter un câble,47,tu vas pas péter un câble ici,you ain't gonna go and get all crazy in here,you're not going to lose it here,Good Translation,0.70604306,0.7076378,-0.0015947223
+péter un câble,48,il pète un câble,he's going crazy,he loses it,Good Translation,0.70618284,0.6927378,0.01344502
+péter un câble,49,elle m'a fait péter un câble,she just got under my skin,She blew my stack.,Good Translation,0.67073035,0.74292314,-0.07219279
+péter un câble,50,j'ai pété un câble parce qu'il a couché avec des enfants,i lost my temper cos he did something so wrong,I lost my temper because he slept with children,Good Translation,0.6410305,0.8038473,-0.16281682
+péter un câble,51,tu veux savoir si j'ai pété un câble,- oh jesus are you asking me if i've lost my mind,you want to know if I've lost my mind,Good Translation,0.6762018,0.76047707,-0.084275246
+péter un câble,52,j'ai entendu la raison pour laquelle il a pété un câble et je le comprends tout à fait,i've heard the reason why he uses it and i can sympathize,I heard the reason why he lost his temper and I completely understand it.,Good Translation,0.8115126,0.80991817,0.0015944242
+péter un câble,53,pourquoi il péterait un câble,whispering why is he blowing a gasket,why he would blow a fuse,Partial Translation,0.5791609,0.6004022,-0.021241248
+péter un câble,54,je te dis je pète un câble,i'm telling you i'm losing it,I'm telling you I've lost it,Good Translation,0.6448146,0.6321598,0.012654781
+péter un câble,55,inutile de péter un câble,i mean i can't get mad about it now,no need to lose your temper,Good Translation,0.52713776,0.53692627,-0.009788513
+péter un câble,56,il a pété un câble regardez-le,he must have lost his damn mind,He snapped and look at him/her,Good Translation,0.6824451,0.6549064,0.027538717
+péter un câble,57,elliot est la seule raison qui m'empêche de péter un câble,elliot is the only thing keeping me from losing my mind,Elliot is the only reason that prevents me from losing it,Good Translation,0.8452997,0.8059026,0.03939712
+péter un câble,58,et j'ai attendu qu'il pète un câble,then i waited for the crazy to come out,and I waited for him to snap,Good Translation,0.67392874,0.80432236,-0.13039362
+péter un câble,59,t'as pété un câble,what the hell,you've lost your marbles,Good Translation,0.54883516,0.63594186,-0.087106705
+péter un câble,60,je vous jure que si je ne sais pas qui a assassiné le day je vais péter un câble,i swear if i don't find out who murdered the da i will freak out,"I swear that if I don't know who killed Day, I'm going to snap.",Good Translation,0.77820456,0.83796585,-0.059761286
+péter un câble,61,- j'ai pété un câble,well i blew up,- I lost it,Good Translation,0.69223225,0.7535423,-0.061310053
+péter un câble,62,j'ai pété un câble car elle m'avait vexée,i got really mad and she hurt my she hurt my feelings,I snapped because she had upset me,Good Translation,0.75451005,0.7449448,0.009565234
+péter un câble,63,parfois elle pète un câble,sometimes she gets so out of control,sometimes she blows a fuse,Good Translation,0.7900353,0.7899098,0.00012552738
+péter un câble,64,tu as pété un câble dans la piscine,you had a full-on meltdown in the pool,you lost it in the pool,Unnatural,0.72459114,0.78082055,-0.056229413
+péter un câble,65,je te jure je vais péter un câble,i swear i'm gonna blow a fuse soon,I swear I'm going to snap,Good Translation,0.726079,0.7280004,-0.0019214153
+péter un câble,66,quand vicky le découvrira elle va péter un câble,if you wanted to be a full-time mommy you should have just told me,"When Vicky discovers it, she is going to lose it.",Mistranslation,0.39297068,0.7568336,-0.36386293
+péter un câble,67,je sais pas ce que j'ai fait mais elle a pété un câble,listen i don't even know what i did she totally snapped,I don't know what I did but she lost it,Good Translation,0.69603306,0.7972016,-0.10116851
+péter un câble,68,ils ont vraiment pété un câble,they aren't backing down,They really lost their minds.,Good Translation,0.5792852,0.7273603,-0.1480751
+péter un câble,69,j'ai pété un câble à cause d'une fille,i lost it over this girl,I lost my temper because of a girl,Good Translation,0.71216893,0.7484977,-0.036328793
+péter un câble,70,et toi tu as pété un câble,you blew a fuse,and you have lost your cool,Good Translation,0.72817504,0.6665376,0.06163746
+péter un câble,71,et elle pète un câble,and she flips out,and she snaps,Good Translation,0.7446745,0.7502737,-0.0055992007
+péter un câble,72,avant que tu pètes un câble laisse-moi te faire visiter,before you get hysterical let me show you what i've done with the place,"before you snap, let me show you around",Good Translation,0.70528257,0.78650445,-0.08122188
+péter un câble,73,je lui ai dit qu'il fallait plus de temps il a pété un câble,i told andre i needed another week and he just about blew a gasket,"I told him it needed more time, he lost his temper",Good Translation,0.67650294,0.7763072,-0.09980428
+péter un câble,74,ta mère va péter un câble quand elle va s'en rendre compte,your mom's gonna lose it when she finds out,Your mother is going to lose it when she finds out.,Unnatural,0.7947125,0.79320014,0.0015123487
+péter un câble,75,il avait des responsabilités il a aussi pété un câble,and i guess now he needs to lose his shit too,he had responsibilities he also snapped,Good Translation,0.6339773,0.7823835,-0.14840621
+péter un câble,76,écoute il va en psychothérapie il pète un câble il part monte dans un taxi,look he goes to counseling he freaks out he leaves gets in a cab,listen he's going to therapy he snaps he gets in a taxi,Good Translation,0.7646601,0.8406327,-0.07597256
+péter un câble,77,tu pètes un câble,don't blow a gasket,you've lost it,Good Translation,0.50646037,0.6447901,-0.13832974
+péter un câble,78,katie va péter un câble en voyant comment tu as saccagé son appartement,katie's gonna flip out when she sees how you trashed her whole place,Katie is going to lose it seeing how you've trashed her apartment,Good Translation,0.75508535,0.7958943,-0.040808976
+péter un câble,79,elle a pété un câble et je n'ai pas pu arriver au mot brookes,i just never quite got round to saying the word brookes,She snapped and I couldn't get to the word brookes,Good Translation,0.7675717,0.8464891,-0.078917384
+péter un câble,80,-je m'en vais avant de péter un câble,mr burns got five minutes for a chat,-I'm going before I lose it,Good Translation,0.49180448,0.82007045,-0.32826596
+péter un câble,81,tu as pété un câble,you went nuclear,you've lost your cool,Good Translation,0.6288543,0.6622877,-0.033433437
+péter un câble,82,il a pété un câble,he went totally ballistic,he flipped out,Good Translation,0.60038054,0.7061917,-0.10581118
+péter un câble,83,ce monde a été façonné par des ermites qui ont pété un câble dans le désert,look at where the world is because of solitary dudes going mental in the desert,this world has been shaped by hermits who lost their minds in the desert,Good Translation,0.57001257,0.76814127,-0.1981287
+péter un câble,84,je suis presque sûre que c'est kanye parce qu'il est celui qui pète un câble une fois par mois,i'm pretty sure it's kanye because he's the one that goes crazy once a month,I am almost sure it's Kanye because he loses his temper once a month,Good Translation,0.8461708,0.7120579,0.1341129
+péter un câble,85,je pète un câble,stand it i'm going insane,I snap,Good Translation,0.5466072,0.63909715,-0.09248996
+péter un câble,86,il me voit tout le temps à poil alors il pète un câble,seeing me half naked drives him crazy,He sees me naked all the time and loses his temper,Good Translation,0.6638638,0.7143066,-0.050442815
+péter un câble,87,schtroumpf va péter un câble,come on man smurf's gonna lose her shit,Schtroumpf is going to blow a fuse,Good Translation,0.56691223,0.75671244,-0.1898002
+péter un câble,88,il était à la réception mais deedee a pété un câble et elle l'a mis là,he was in reception but deedee got wigged out so she put him in here,He was at reception but DeeDee had a breakdown and put him there,Good Translation,0.80257744,0.8047197,-0.0021422505
+péter un câble,89,a la fermeture une nana a pété un câble et a jeté son fils dans la fosse,it happened right at closing some woman flipped out threw her own kid in the moat,at closing time a woman lost it and threw her son into the pit,Good Translation,0.6733462,0.740531,-0.067184806
+péter un câble,90,- putain quelqu'un a du péter un câble,- damn somebody's got a temper,- damn someone has flipped a switch,Unnatural,0.7392732,0.7765173,-0.03724408
+péter un câble,91,la maison de disques va péter un câble,the record company are gonna go ape shit,the record label is going to blow a fuse,Good Translation,0.6695322,0.68090576,-0.0113735795
+péter un câble,92,la blonde est arrivée a payé et puis a pété un câble,the blonde came in paid her money and then went apeshit,"The blonde arrived, paid, and then flipped out.",Good Translation,0.823552,0.82819915,-0.0046471357
+péter un câble,93,- elle pète un câble,she's lost it,- she blows a fuse,Good Translation,0.69897735,0.7440469,-0.045069575
+péter un câble,94,si mes parents te voient ici ils vont péter un câble,if my parents see you they're gonna freak out,"If my parents see you here, they're going to lose their minds.",Good Translation,0.8260753,0.83423513,-0.008159816
+péter un câble,95,c'est un gars de chez nous qui pète un câble,a hostile mirage one of our guys blew a fuse,it's one of our guys who has blown a fuse,Good Translation,0.5580177,0.6909574,-0.13293976
+péter un câble,96,mon père a pété un câble ensuite il a battu ma mère,my dad blew a gasket when i told him and then he beat my mom,my father lost his temper and then he beat my mother,Good Translation,0.7753305,0.8308039,-0.055473387
+péter un câble,97,je vais péter un câble,i'm going to go out of my mind,I'm going to lose it,Good Translation,0.6350144,0.6817201,-0.046705663
+péter un câble,98,je vais péter un câble,i'm still talking to my new friends king harold of norway and his wife queen sonja,I'm going to lose it,Good Translation,0.4492592,0.6817201,-0.23246089
+péter un câble,99,je suis désolé d'avoir pété un câble d'accord,i'm sorry i blew my stack okay,I am sorry to have lost my temper agreeably,Unnatural,0.71387255,0.7371265,-0.023253977
+péter un câble,100,le polonais est en train de péter un câble,the pole's going crazy,the Polish person is losing it,Good Translation,0.6246208,0.7469183,-0.122297525
+péter un câble,101,randy est en train de péter un câble là-bas dedans,randy's losing his brain in there,Randy is losing it over there,Good Translation,0.7412679,0.7654985,-0.0242306
+péter un câble,102,c'est pas sa mère qui est en train de péter un câble,it's not his mother who's gone around the bend,it's not his mother who is losing it,Good Translation,0.7640643,0.7494519,0.014612436
+péter un câble,103,- ethan je suis en train de péter un câble à cause,ethan i'm freaking out,"Ethan, I am losing it because",Good Translation,0.7053815,0.73877174,-0.033390224

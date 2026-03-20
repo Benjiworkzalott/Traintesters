@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"en avoir marre,être en train de",0,nous sommes en train d'en avoir marre l'un de l'autre,we're slowly getting sick of each other,We're sick of each other.,Unnatural,0.85451347,0.87998366,-0.025470197

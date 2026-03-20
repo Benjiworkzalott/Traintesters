@@ -1,0 +1,5 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"péter un câble,être en train de",0,le polonais est en train de péter un câble,the pole's going crazy,The Pole is in the process of tearing a cable.,Literal Translation,0.6246209,0.7917384,-0.16711748
+"péter un câble,être en train de",1,randy est en train de péter un câble là-bas dedans,randy's losing his brain in there,Randy is going to blow a fuse in there somewhere,Good Translation,0.7412679,0.78960574,-0.048337817
+"péter un câble,être en train de",2,c'est pas sa mère qui est en train de péter un câble,it's not his mother who's gone around the bend,That's not his mother who is ripping a cable right now,Literal Translation,0.7640643,0.90904593,-0.14498162
+"péter un câble,être en train de",3,- ethan je suis en train de péter un câble à cause,ethan i'm freaking out,- Ethan I'm in the process of breaking a cable for some reason,Literal Translation,0.70538163,0.906556,-0.20117438

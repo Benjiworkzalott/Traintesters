@@ -1,0 +1,3 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"pleurer comme un madeleine,être en train de",0,tu crois qu'elliot est en train de pleurer comme une madeleine,do you think elliot's somewhere right now crying her eyes out,do you think Elliot is crying like a Magdalene?,Unnatural,0.80431396,0.8118989,-0.0075849295
+"pleurer comme un madeleine,être en train de",1,la dernière fois que je vous ai vu vous étiez en train de pleurer comme une madeleine,have you come to talk about marriage,"the last time I saw you, you were crying like a Magdalene",Literal Translation,0.49942982,0.8991571,-0.39972728

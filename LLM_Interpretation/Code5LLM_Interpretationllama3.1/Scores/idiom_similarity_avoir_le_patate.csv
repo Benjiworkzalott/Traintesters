@@ -1,0 +1,13 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+avoir le patate,0,ok vous avez la patate,fine you guys rock,So you have the potato then.,Literal Translation,0.6112189,0.7184206,-0.107201695
+avoir le patate,1,- ouais j'avais la patate,you should've seen me,- yeah I had the potato,Literal Translation,0.5748359,0.8610957,-0.28625983
+avoir le patate,2,j'ai la patate ce matin,i'm on top form today,I have a potato this morning.,Literal Translation,0.6475282,0.8276827,-0.1801545
+avoir le patate,3,nous on a la patate,we all feel great,We have potatoes.,Literal Translation,0.5337308,0.67383695,-0.14010614
+avoir le patate,4,- papa puis-je avoir les patates,- dad may i please have the potatoes,Dad can I have chips?,Mistranslation,0.88401395,0.7514052,0.13260877
+avoir le patate,5,il y a les patates des guignard et il y a les miennes,my potatoes are different,There are Guignet's potatoes and there are mine,Literal Translation,0.6226651,0.80242527,-0.17976016
+avoir le patate,6,j'ai la patate,i feel great,I have a potato.,Literal Translation,0.5749507,0.72366214,-0.14871144
+avoir le patate,7,je suis certain que c'est la meilleure de leurs 57 enseignes qui ont la patate,yes i'm sure this is the best of their 57 spudtacular east coast locations,I am sure that this is one of their 57 outlets that serves chips.,Mistranslation,0.7404505,0.7736827,-0.033232212
+avoir le patate,8,j'ai gardé le reçu pour prouver que j'ai les patates laratte,i brought the receipt to prove i got laratte potatoes,I kept the receipt to prove that I have the larder potatoes.,Partial Translation,0.89141434,0.8655808,0.025833547
+avoir le patate,9,je peux avoir les patates,may i have the potatoes please,I can have potatoes.,Literal Translation,0.83795,0.8339696,0.003980398
+avoir le patate,10,j'ai la patate moi,i'm starting to see why,I've got the potato myself,Literal Translation,0.5747211,0.7319213,-0.15720022
+avoir le patate,11,j'ai les patates au fond du sac,there's soup in the mushroom,I have potatoes at the bottom of my bag.,Literal Translation,0.571654,0.85853136,-0.28687733

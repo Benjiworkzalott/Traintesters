@@ -1,0 +1,103 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+faire gaffe,0,fais gaffe lindsey surveille-les bien,watch them lindsey keep an eye on 'em,Watch out Lindsey is keeping an eye on them.,Good Translation,0.84167206,0.8323685,0.00930357
+faire gaffe,1,fais gaffe oû tu mets les pieds j'ai tout astiqué,watch where you're walking i just mopped here,Watch out where you put your feet I've cleaned it all up.,Good Translation,0.6187937,0.70581055,-0.08701682
+faire gaffe,2,fais gaffe l'oiseau,whoa bird watch out for the,Watch out for the bird.,Good Translation,0.56251323,0.69093543,-0.1284222
+faire gaffe,3,va faire ton boulot mec fais gaffe,go to work man,Go do your job mate be careful,Good Translation,0.7585727,0.75239503,0.006177664
+faire gaffe,4,hey fais gaffe,hello just watch it,"Hey, be careful! or Hey, watch out!",Good Translation,0.6263318,0.61198163,0.014350176
+faire gaffe,5,mais fais gaffe la madrague c'est chaud,but mind yourself it's tough at the madrague,but watch out for the quayside it's hot,Partial Translation,0.7408879,0.67844284,0.062445045
+faire gaffe,6,- fais gaffe à ses combines,beware of his tricks,- Watch out for her tricks,Unnatural,0.6432737,0.6258438,0.017429888
+faire gaffe,7,fais gaffe petit,watch it kid,be careful,Good Translation,0.62074316,0.6657232,-0.04498005
+faire gaffe,8,- mais fais gaffe,but watch your step,- but be careful,Good Translation,0.6331412,0.716012,-0.08287078
+faire gaffe,9,faites gaffe merde,fucking watch it,"Watch out, crap / Look out, don't mess around",Good Translation,0.62811303,0.54940045,0.07871258
+faire gaffe,10,fais gaffe au bunker,- watch out for the bunker,watch out for the bunker,Good Translation,0.71342456,0.73746324,-0.024038672
+faire gaffe,11,fais gaffe snake,snake this ain't gonna work man,"Be careful, snake.",Literal Translation,0.6685524,0.6938466,-0.025294185
+faire gaffe,12,fais gaffe on a besoin de toi en très bonne forme demain tu te rappelles,you be careful we need you on top form tomorrow,be careful we really need you in top form tomorrow do you remember,Good Translation,0.82735497,0.84152466,-0.014169693
+faire gaffe,13,fais gaffe à ce que tu dis,hold it man watch your mouth,be careful of what you say,Good Translation,0.63261986,0.7205411,-0.08792126
+faire gaffe,14,fais gaffe tu peux tout perdre en une nuit,if you're not careful you could lose it all in one night- in one bad night,"Be careful, you can lose everything in one night.",Good Translation,0.8518957,0.8741004,-0.022204697
+faire gaffe,15,faites gaffe capitaine,you better watch it captain,"Watch out, Captain.",Good Translation,0.71722853,0.732179,-0.014950454
+faire gaffe,16,fais gaffe à tes fesses frank,watch your ass frank,watch your back,Unnatural,0.7846814,0.53452045,0.25016093
+faire gaffe,17,fais gaffe quelqu'un pourrait te voir idiot,watch out someone will see you idiot,"Be careful, someone might think you're stupid.",Good Translation,0.82544875,0.84301853,-0.01756978
+faire gaffe,18,et fais gaffe à pas recevoir une médaille rouge,don't go getting one of them little red badges pinned on you,and watch out not to receive a red medal,Good Translation,0.7388658,0.8743313,-0.1354655
+faire gaffe,19,fais gaffe avec ça,be careful with that thing,Watch out with that.,Good Translation,0.73878086,0.71535444,0.023426414
+faire gaffe,20,jrai pas fait gaffe mais il a une queue superbe,oh i didn't notice but his cock was beautiful,I wouldn't have noticed but he has a magnificent tail.,Mistranslation,0.630389,0.6766252,-0.046236217
+faire gaffe,21,fais gaffe où je m'arrangerai pour que tu te noies,watch out i'll make sure you drown out there,Watch out I'll make sure you drown,Partial Translation,0.7121356,0.7018652,0.010270417
+faire gaffe,22,faut faire gaffe avec envoyer à tous,you gotta be careful with that,we must be careful about sending to all,Partial Translation,0.5454354,0.7850882,-0.23965275
+faire gaffe,23,je devrais t'être reconnaissante d'avoir baisé sans faire gaffe,i should be grateful to you because you had careless sex,I should be grateful to you for not thinking about it.,Literal Translation,0.7777453,0.755139,0.022606313
+faire gaffe,24,pas vrai fais gaffe,hey,Not true watch out,Partial Translation,0.516813,0.71967983,-0.20286685
+faire gaffe,25,alors il a dit que je devais faire gaffe à ce que je disais contre ses parents,and he told me to watch what i said about his parents,so he said I should be careful about what I was saying against his parents,Good Translation,0.7969154,0.8421457,-0.04523027
+faire gaffe,26,fais gaffe avec elle,you just watch her,Be careful with her.,Good Translation,0.6826874,0.7253225,-0.042635083
+faire gaffe,27,- faites gaffe,- watch your mouth,"watch out, be careful, beware",Good Translation,0.68176067,0.6023232,0.079437494
+faire gaffe,28,à toi enfoiré fais gaffe,- i'm talking to you motherfucker just watch where the fuck you're walking,Get out of my way you idiot.,Mistranslation,0.5480533,0.57107407,-0.023020744
+faire gaffe,29,faites gaffe les gars,watch it boys,Watch out guys,Good Translation,0.69167167,0.75430214,-0.062630475
+faire gaffe,30,- faites gaffe cali,- careful cali,- be careful California,Good Translation,0.75493455,0.7026402,0.052294374
+faire gaffe,31,tu ferais mieux de faire gaffe pigé,you better watch out got it,"You'd better be careful, understood?",Good Translation,0.644294,0.6029746,0.04131943
+faire gaffe,32,faites gaffe à ce que vous dites il rigole pas,be careful what you say to him tough very tough,Watch what you say he doesn't take it lightly,Good Translation,0.6431185,0.7281393,-0.08502078
+faire gaffe,33,fais gaffe darla ne va faire de toi qu'une bouchée,careful darla would snap you in half,"Be careful Darla, she'll just make a meal out of you.",Good Translation,0.69708973,0.7782627,-0.08117294
+faire gaffe,34,aussi longtemps que tu seras là tu ferais mieux de faire gaffe à moi mec,as long as you here you best watch out for me man,"As long as you're there, you'd better watch out for me, mate.",Good Translation,0.71648496,0.71580034,0.00068461895
+faire gaffe,35,faites gaffe 5 secondes plus que 4,five seconds four three,watch out for 5 seconds more than 4,Good Translation,0.732218,0.8211241,-0.08890605
+faire gaffe,36,faites gaffe,watch it,Watch out,Good Translation,0.64043385,0.6617677,-0.021333873
+faire gaffe,37,- tous chez faucelli - aux baraques faites gaffe,back to the sheds and keep your eyes open,-all at Faucelli's - be careful of the shacks,Good Translation,0.42764813,0.70223534,-0.2745872
+faire gaffe,38,- fait gaffe,watch yourself,"be on your guard, beware",Good Translation,0.5748756,0.61747146,-0.042595863
+faire gaffe,39,- à ta place je ferais gaffe à mon cul,- lf i was you i'd watch my ass,- I would watch my step in your position,Unnatural,0.67021817,0.6672268,0.0029913783
+faire gaffe,40,si vous descendez faites gaffe il y a foule rue de la bocchetta,if you're going down watch out for the road to bocchetta,"be careful when going down, it's very crowded on Rue de la Bocchetta.",Good Translation,0.7737701,0.8490117,-0.075241625
+faire gaffe,41,c'est comme l'entraînement seal quand ils sortent l'artillerie lourde faites gaffe,but it's just like your seal training when they start using live ammo keep your butt down,"It's like a naval training session when they bring out the big guns, look sharp",Partial Translation,0.74400055,0.7626307,-0.018630147
+faire gaffe,42,fais gaffe de ne pas te faire pincer,just be careful you don't get caught,Be careful not to get caught,Good Translation,0.7053355,0.71702015,-0.011684656
+faire gaffe,43,il fallait surtout faire gaffe aux flics,the only thing that you have to really look out for was the police you know 'cause the police can just get ya frame ya,we had to be careful above all of the cops,Good Translation,0.6806949,0.7299825,-0.049287617
+faire gaffe,44,un conseil fais gaffe,you listen to me you watch yourself,Be careful what you wish for.,Mistranslation,0.48830694,0.51182246,-0.023515522
+faire gaffe,45,faites gaffe elles font le tour,they're coming around,be careful they're coming around,Good Translation,0.7654313,0.706178,0.059253275
+faire gaffe,46,faites gaffe,heads up heads up,"watch out for something, beware",Good Translation,0.6468543,0.64893395,-0.0020796657
+faire gaffe,47,je fais gaffe à mes genoux,oh okay got to look out for my knees,I'm keeping an eye on my knees.,Good Translation,0.6562718,0.7224445,-0.06617266
+faire gaffe,48,je dois faire gaffe personne ici ne sait,i mean i encouraged you,I have to be careful nobody here knows.,Literal Translation,0.56057054,0.68668866,-0.12611812
+faire gaffe,49,un seul essai faites gaffe,we got one shot so pay attention,only one try is being made to avoid a foul,Literal Translation,0.5772249,0.71506035,-0.13783544
+faire gaffe,50,fais gaffe,eddie look out,Watch out or be careful,Good Translation,0.48917428,0.54903173,-0.059857458
+faire gaffe,51,fais gaffe à cette putain d'oreille,watch the fuckin' ear will you pal watch the fuckin' ear,Watch out for that bloody ear.,Unnatural,0.6450767,0.6558432,-0.010766506
+faire gaffe,52,1ch00ffffje fais gaffe à ma ligne,i gotta watch my figure,I've got to be careful with my line.,Literal Translation,0.5724463,0.6606121,-0.08816582
+faire gaffe,53,fais gaffe tin,look out tin,Watch it,Good Translation,0.68368506,0.5772886,0.10639644
+faire gaffe,54,fais gaffe fais gaffe,hey hey look out look out look out,Watch out watch out,Good Translation,0.5954037,0.65912855,-0.063724875
+faire gaffe,55,fais gaffe où tu vas minus,look out where you're going punk,watch where you're going,Good Translation,0.6313556,0.6495739,-0.018218338
+faire gaffe,56,la pute après elle a fait gaffe,fuck her man i got her attention,The prostitute after her took care of it.,Literal Translation,0.6396093,0.65718293,-0.017573655
+faire gaffe,57,fais gaffe à ta gueule vieux,better watch your mouth mate,Watch your mouth old man,Good Translation,0.5927522,0.70291436,-0.11016214
+faire gaffe,58,hé ezmo fais gaffe à tes chaussures,hey ezmo look out for your shoes,"Hey, be careful with your shoes.",Good Translation,0.82407254,0.65503645,0.16903609
+faire gaffe,59,fais gaffe où tu fous les pieds,mind where you stomp your fucking feet,Watch where you're putting your feet.,Good Translation,0.8025642,0.75842226,0.04414195
+faire gaffe,60,fais gaffe à la fille du boss,watch out for the boss' daughter,Watch out for the boss's daughter,Good Translation,0.79863393,0.79236317,0.0062707663
+faire gaffe,61,faites gaffe sinon on arrive,watch it or we'll come over,watch out or we will get there,Good Translation,0.67330503,0.7354588,-0.062153757
+faire gaffe,62,fais gaffe,what,Be careful.,Good Translation,0.53048986,0.5983593,-0.067869425
+faire gaffe,63,il faut qu'on fasse gaffe régis,we have to be careful régis,we have to be careful about regulations,Partial Translation,0.72371143,0.6304051,0.0933063
+faire gaffe,64,fais gaffe,is the coast clear here for you,Watch out!,Good Translation,0.44103044,0.5637162,-0.12268573
+faire gaffe,65,fais gaffe et attends-moi à reno,be careful and wait in reno for me goodbye,be careful and wait for me to return,Unnatural,0.7853819,0.66172683,0.12365508
+faire gaffe,66,fais gaffe à toi,watch yourself okay,watch out for yourself,Unnatural,0.6374929,0.6470282,-0.009535313
+faire gaffe,67,eh fais gaffe avec ça,yo be careful with that,be careful with that,Good Translation,0.73914325,0.72815,0.010993242
+faire gaffe,68,fais gaffe l'avorton,watch yourself midget,Watch out little guy!,Good Translation,0.5158148,0.49439475,0.021420032
+faire gaffe,69,fais gaffe petit,watch it kid,be careful little one,Good Translation,0.62074316,0.71355903,-0.092815876
+faire gaffe,70,stone fais gaffe,stone watch where you are going,Pay attention to this,Unnatural,0.60636574,0.5164802,0.08988553
+faire gaffe,71,fais gaffe où tu t'assois le pachyderme,watch where you park that thing pachyderm,Watch out where you sit down on that elephant.,Good Translation,0.7375071,0.6245146,0.112992525
+faire gaffe,72,fais gaffe à pas la tuer,be careful not to kill it,Watch out don't kill her,Unnatural,0.7439505,0.7589503,-0.014999807
+faire gaffe,73,fais gaffe,don't push it,"be careful, watch out",Good Translation,0.5593401,0.5946258,-0.03528565
+faire gaffe,74,- fais gaffe à ton sphincter,- watch your sphincter,- watch out for your sphincter,Good Translation,0.8034122,0.7913244,0.012087822
+faire gaffe,75,faut faire gaffe,but we better be careful,be careful,Good Translation,0.67515135,0.6918043,-0.016652942
+faire gaffe,76,judeau fais gaffe bordel,damn it judeau,I didn't quite get it.,Mistranslation,0.67092055,0.41049632,0.26042423
+faire gaffe,77,faites gaffe où vous tirer,try not to shoot yourselves,watch out where you step,Good Translation,0.6948856,0.7229787,-0.0280931
+faire gaffe,78,mike fais gaffe,mike look out,Mike makes a mistake.,Mistranslation,0.6645653,0.7114991,-0.04693377
+faire gaffe,79,mais fais gaffe,but remember this boss,but watch out,Good Translation,0.6034652,0.6738771,-0.07041192
+faire gaffe,80,je ferais bien de faire gaffe alors,i better watch my ass then huh,I'd better be careful then,Good Translation,0.659597,0.7112649,-0.05166793
+faire gaffe,81,fais gaffe à ce que tu dis mec,hey you watch your mouth boy,Watch what you're saying mate.,Good Translation,0.65334,0.72450316,-0.07116318
+faire gaffe,82,houla cette photo que vous avez e-mailée à votre petit ami faut faire gaffe à ce que vous envoyez dans le monde,wow that photo you e-mailed your boyfriend in college got to be careful what you send out there in the world,Houla this picture you emailed your boyfriend is something that needs to be careful about what you're sending out into the world.,Unnatural,0.7908298,0.82717395,-0.03634417
+faire gaffe,83,fais gaffe pervers,- whoa watch it pervert,Be careful or be perverse,Unnatural,0.58796924,0.6689849,-0.08101565
+faire gaffe,84,fais gaffe gene,gene watch yourself,be careful,Good Translation,0.68564904,0.5656397,0.12000936
+faire gaffe,85,oh fait gaffe gaffe gaffe,oh look out look out look out,oh be careful,Good Translation,0.6978905,0.72575474,-0.027864218
+faire gaffe,86,fais gaffe à tes fesses là-bas,you'd better watch your ass out there,watch out for your backside over there,Good Translation,0.7079369,0.65453124,0.053405643
+faire gaffe,87,hé fais gaffe,hey watch it,Watch out for him.,Mistranslation,0.62732947,0.542416,0.08491349
+faire gaffe,88,hé attention fais gaffe,hey watch out pay attention,"Be careful, watch out, mind you.",Good Translation,0.79197484,0.6785475,0.11342734
+faire gaffe,89,fais gaffe mitchell,just watch my back mitchell,Watch it Mitchell,Good Translation,0.59780204,0.5987327,-0.0009306669
+faire gaffe,90,fais gaffe il est chargé,it's loaded,be careful he's loaded,Good Translation,0.75268495,0.77988887,-0.027203918
+faire gaffe,91,bien ils ont intérêt à faire gaffe,well they wanna watch themselves,"Well, they have an interest in being careful",Good Translation,0.7159199,0.8132931,-0.09737319
+faire gaffe,92,- écoute maintenant fais gaffe,the walk will do me good - now listen take care i will,- listen now pay attention,Literal Translation,0.61996555,0.7684657,-0.14850014
+faire gaffe,93,faites gaffe jason et freddy ed pourrait vous voler la vedette,look out jason and freddy ed may never mooch off of either one of you ever again,be careful Jason and Freddy Ed could steal the spotlight from you,Good Translation,0.71215636,0.8080262,-0.09586984
+faire gaffe,94,faites gaffe à vos miches,so watch your butts,Watch out for your breasts!,Mistranslation,0.60413873,0.54777706,0.056361675
+faire gaffe,95,laurent fais gaffe,laurent watch out,Be careful what you wish for.,Mistranslation,0.6049018,0.41264892,0.19225287
+faire gaffe,96,j'imagine que vous devez faire gaffe ici avec un surnom pareil,figure you got to watch your back in here with a nickname like that,I imagine you must be careful here with a nickname like that.,Good Translation,0.76939183,0.80560505,-0.03621322
+faire gaffe,97,- hé fais gaffe,ow watch it,Watch out!,Good Translation,0.58363414,0.5498684,0.033765733
+faire gaffe,98,fais gaffe - certains diraient ça de toi,okay see this is why having history people can have its drawbacks,be careful - some people might say that about you,Literal Translation,0.5572359,0.8247136,-0.2674777
+faire gaffe,99,fais gaffe clark,i'd be careful clark,Look out Clark,Good Translation,0.7167221,0.6253729,0.091349185
+faire gaffe,100,fais gaffe je suis en train de suturer,hello i'm suturing here,be careful I'm in the process of stitching,Good Translation,0.8004514,0.8048043,-0.004352927
+faire gaffe,101,ça marchera pas - faut faire gaffe,what do you think honey,it won't work - we have to be careful,Good Translation,0.34626505,0.7681347,-0.42186967

@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"être crever,être en train de",0,tu es crevé tu es en train de guérir,uh likeyou're tired,you are exhausted you are in the process of healing,Good Translation,0.5929425,0.7662381,-0.17329562

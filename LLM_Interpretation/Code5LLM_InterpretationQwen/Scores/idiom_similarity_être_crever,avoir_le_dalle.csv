@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"être crever,avoir le dalle",0,je suis crevé j'ai la dalle et la migraine,i don't know where the fuck we are and we don't have any water i'm tired i'm hungry and i've got a headache,I am exhausted I have hunger and a headache,Partial Translation,0.53256756,0.5917058,-0.05913824

@@ -1,0 +1,101 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+faire le tête,0,combien de temps vas-tu encore me faire la tête,all right how long are you gonna stay mad at me,how much longer are you going to keep giving me the cold shoulder,Good Translation,0.80437505,0.7496284,0.054746628
+faire le tête,1,est-ce que tu me fais la tête,is this supposed to be the silent treatment,Are you being stubborn with me?,Mistranslation,0.41080192,0.665048,-0.2542461
+faire le tête,2,vous faites la tête,i must watch the expressions on your faces,You're making a face.,Good Translation,0.6635752,0.7925749,-0.12899971
+faire le tête,3,c'est une occasion unique pour quelqu'un comme moi d'aller de l'avant et toi tu fais la tête,for once a poor guy like me gets the chance to get ahead and all she can do is whine,It's a one-off chance for someone like me to get on with it and you're sulking.,Good Translation,0.67938435,0.78125036,-0.10186601
+faire le tête,4,il me fait la tête depuis que j'ai abandonné,he's been giving me the stink eye since i pulled my name out of contention,It's been sulking with me since I left.,Good Translation,0.77212846,0.7628561,0.009272337
+faire le tête,5,- décidément tu fais la tête,- you are really sulking,You're definitely making a face.,Unnatural,0.718099,0.80597365,-0.08787465
+faire le tête,6,je suis supposé faire la tête d'affiche maintenant,i'm supposed to be some sort of poster boy now,I'm supposed to be the headliner now.,Good Translation,0.7832587,0.8459893,-0.06273061
+faire le tête,7,tu me fais le tête toi,i got news from my brother,You're giving me the silent treatment.,Mistranslation,0.5292763,0.6521055,-0.1228292
+faire le tête,8,tu fais la tête constipation,t-that's impossible,You're having a bad hair day.,Mistranslation,0.4462428,0.60815525,-0.16191244
+faire le tête,9,et continue à me faire la tête d'accord,just be the way that you were,"and continues to act up, okay?",Partial Translation,0.4743833,0.7168494,-0.24246609
+faire le tête,10,tu fais la tête à ton frère et tu nous fais la tête,you didn't give your brother face and you didn't give us face,You're making a face at your brother and you're giving us the silent treatment too.,Partial Translation,0.73852515,0.8130919,-0.07456672
+faire le tête,11,vous faites la tête tous les deux,are you two not speaking to one another,You're both making faces at me.,Literal Translation,0.7083167,0.81557226,-0.10725558
+faire le tête,12,je faisais la tête car t'étais distant,well i was only moody because you were so distant,I was sulking because you were being distant.,Good Translation,0.81483567,0.85486114,-0.040025473
+faire le tête,13,- moi non plus depuis quand tu fais la tête,hey since when did you get morals,- me too ever since you've been in a bad mood,Mistranslation,0.6125198,0.7072621,-0.0947423
+faire le tête,14,ma fille cessera-t-elle de faire la tête,will my daughter ever stop sulking,Will my daughter stop making a face?,Unnatural,0.74504113,0.83077276,-0.085731626
+faire le tête,15,- alors pourquoi tu fais la tête,- then why am i sensing attitude,- so why are you pouting?,Good Translation,0.6928848,0.7430585,-0.0501737
+faire le tête,16,tu fais la tête,why the long face,You're sulking.,Good Translation,0.54974926,0.66751426,-0.11776501
+faire le tête,17,tu es ici car je ne supportais plus de te voir faire la tête,you're here because i couldn't bear to watch you pout any longer,You're here because I couldn't bear to see you make a face at me any longer.,Unnatural,0.85530186,0.88244176,-0.027139902
+faire le tête,18,jewel pourquoi tu fais la tête,jewel why are you thinking,What's wrong with you?,Unnatural,0.8185077,0.5961414,0.22236627
+faire le tête,19,le vieux ed peut faire la tête,old ed can be pretty stubborn,The old Ed can make a face.,Good Translation,0.8012471,0.90878665,-0.107539535
+faire le tête,20,mais pourquoi tu fais la tête,why are you sulking,but why are you making a face,Good Translation,0.6619456,0.86437595,-0.20243037
+faire le tête,21,laisse-moi voir si tu fais la tête,let's see if you're still pouting,Let me see if you're in a bad mood.,Unnatural,0.7149042,0.7550558,-0.040151596
+faire le tête,22,tu me fais la tête je vais acheter des chocolats,you're upset with me,You're pouting? I'll go buy some chocolates.,Good Translation,0.628523,0.821061,-0.19253802
+faire le tête,23,tu fais la tête d'une ado qui vient de rencontrer l'homme de sa vie,geez you look like some teenager who's just met the man of her dreams,You're looking like a teenager who's just met the love of her life,Good Translation,0.821398,0.8235675,-0.0021694899
+faire le tête,24,c'est pour ça que tu fais la tête,that's why you wouldn't say anything the whole way home,That's why you're sulking.,Unnatural,0.50474834,0.69743335,-0.19268501
+faire le tête,25,michael arrête de faire la tête,michael stop pouting,Michael stops making a face,Good Translation,0.86830527,0.83618677,0.0321185
+faire le tête,26,alors pourquoi tu fais la tête,so what are you so grumpy about,so why are you making a face,Good Translation,0.6609077,0.8555833,-0.19467562
+faire le tête,27,inutile de faire la tête,don't say that to him ricardo bauma on tv,a waste of time to be silly,Mistranslation,0.45820707,0.67885476,-0.2206477
+faire le tête,28,et tu me fais la tête,have we still fight,And you're giving me the stink-eye.,Literal Translation,0.47156197,0.72427464,-0.25271267
+faire le tête,29,puisque tu es là arrête de faire la tête,since you're here now stop pouting,Since you're here stop making a face,Good Translation,0.8361054,0.88563854,-0.04953313
+faire le tête,30,tu m'fais la tête parce que j'suis allée travailler,- you're just pouting because i went to work,You're giving me attitude because I went to work.,Good Translation,0.8340614,0.84602046,-0.011959076
+faire le tête,31,je n'ai pas réussi à faire la tête mais c'est tout à fait ça,couldn't draw the face but it's self-explanatory,I didn't manage to make a face but that's exactly what it is,Good Translation,0.6563505,0.8501226,-0.19377208
+faire le tête,32,tu m'as fait la tête hier soir et ce matin,come on you froze me out last night you froze me out this morning,You gave me the cold shoulder last night and this morning.,Good Translation,0.75694656,0.81228995,-0.05534339
+faire le tête,33,pos192220ma chérie fais la tête que tu veux,sweetie just make whatever face you want,"Posh 1922 girl, dear, do your hair as you like",Mistranslation,0.66744274,0.7533182,-0.08587545
+faire le tête,34,elle a fait la tête toute la journée,she's been moody all day,She had her head all day long.,Literal Translation,0.82722145,0.93865335,-0.1114319
+faire le tête,35,où étais-tu tu faisais la tête c'est ça,so where were you,"Where were you? You had a face on, that's what.",Literal Translation,0.7376484,0.7850267,-0.0473783
+faire le tête,36,il est dans sa chambre il fait la tête,he's in his room he's been sulking all weekend,"He is in his room, making a face.",Literal Translation,0.74898565,0.9067054,-0.15771973
+faire le tête,37,vous faisiez la tête qu'on fait quand on ne reconnaît pas quelqu'un,i had the impression that you didn't really recognize me,you were making that face people make when they don't recognize someone,Good Translation,0.7378459,0.9000902,-0.16224432
+faire le tête,38,tu fais la tête,you mad,You are sulking or You're pouting.,Good Translation,0.7183957,0.6417977,0.07659799
+faire le tête,39,vous n'allez pas vous faire la tête pendant 107 ans non,you two aren't going to sulk forever are you,"You're not going to hold it against me for 107 years, no!",Partial Translation,0.67099166,0.87477756,-0.2037859
+faire le tête,40,bon c'est lui qui fait la tête,so he's rebelling,Good it's him who makes a face.,Literal Translation,0.70458364,0.86793166,-0.16334802
+faire le tête,41,parce que tu faisais la tête,you were angry and refused to talk to me,because you were making a face,Literal Translation,0.5865122,0.8835347,-0.29702252
+faire le tête,42,nadine me fait la tête,nadine is mad at me she won't answer the phone,Nadine is being stubborn with me.,Partial Translation,0.7148224,0.7880273,-0.073204875
+faire le tête,43,- pourquoi tu fais la tête,- why are you so grumpy,- why are you looking so gloomy?,Good Translation,0.7070316,0.6588239,0.0482077
+faire le tête,44,tu as décidé de me faire la tête c'est ça,you are giving to me the silent treatment,"You've decided to sulk on me, is that it?",Good Translation,0.5451494,0.676921,-0.13177162
+faire le tête,45,allez arrête de faire la tête,come on stop mucking about,"Come on, stop making a face.",Good Translation,0.8235028,0.86816794,-0.044665158
+faire le tête,46,leia par exemple elle fait la tête à han mais en vérité elle craque pour lui,i mean leia right she acted like she was mad at han but i could tell she liked him,For example Leia makes a face at Han but in truth she is head over heels for him.,Good Translation,0.7875011,0.85692066,-0.06941956
+faire le tête,47,je fais la tête comme dans un film où ma maman meurt,- it's good - you can not do better,I put on a face like in a movie where my mom dies.,Good Translation,0.45715216,0.8674859,-0.41033372
+faire le tête,48,je t'ai tout donné c'est bête et toi tu me fais la tête,i've given you my all but what have you given me,I gave you everything and it's stupid and now you're being stubborn with me,Unnatural,0.7494354,0.7832232,-0.033787787
+faire le tête,49,je n'es jamais fais la tête,i never made a face,I've never been one to make a scene.,Partial Translation,0.8071556,0.679573,0.12758261
+faire le tête,50,tu manges toujours de la glace quand tu fais la tête,you always eat ice cream when you're mad,you always eat ice cream when you're sulking,Good Translation,0.72200286,0.7608229,-0.03882003
+faire le tête,51,je te prie de ne pas faire la tête,don't act like that,I implore you not to be sulky.,Good Translation,0.7026424,0.7763963,-0.07375389
+faire le tête,52,papa matt me fait la tête,dad matt is mad at me,Dad Matt is giving me the head (a colloquial way of saying he's acting silly or childish),Mistranslation,0.8568802,0.72483605,0.13204414
+faire le tête,53,oui c'est vrai je pense que tu as fait la tête non stop de 1992 à 1994 peut-être,yes right i think you sulked nonstop from about 1992 to '94 maybe,Yes that's true I think you had your head down from 1992 to 1994 maybe,Unnatural,0.7947078,0.8105429,-0.015835106
+faire le tête,54,quelqu'un fait la tête,- someone is in a bad mood,Someone is making a face.,Good Translation,0.7741478,0.89855516,-0.12440735
+faire le tête,55,oh mon dieu tu as fait la tête du quelque chose de nouveau,oh my god you made the something new face,Oh my god you've done something new again,Partial Translation,0.8943968,0.90514004,-0.01074326
+faire le tête,56,je te fais la tête mais remarque bien c'est toujours à cause de l'argent,i brood but if you notice it's not always about money,I'm making a face at you but notice well it's always because of money.,Mistranslation,0.68353015,0.8975443,-0.21401417
+faire le tête,57,peter arrête de faire la tête,oh peter stop pouting,Peter stops making a face.,Good Translation,0.8379705,0.8892951,-0.051324606
+faire le tête,58,tu n'arrêtes pas de geindre et de faire la tête,you've been pouting and sulking and sighing,You never stop whining and making a face.,Good Translation,0.71151674,0.8327542,-0.12123746
+faire le tête,59,et je suis celle qui fait la tête à côté d'elle,and i am the moody one next to her,and I am the one who sits next to her,Literal Translation,0.84845734,0.8836061,-0.03514874
+faire le tête,60,tu lui fais la tête comme ça à la petite fanny,are you behaving like that towards sweet fanny,You're acting like that at poor little Fanny.,Unnatural,0.8106117,0.8601678,-0.049556077
+faire le tête,61,tout le monde me fait la tête,what everyone's mad at me now,Everyone is giving me a hard time.,Good Translation,0.7825802,0.81602955,-0.03344935
+faire le tête,62,tiens tu fais la tête,why the long face,Oh you're looking sulky,Good Translation,0.5346605,0.6478638,-0.11320329
+faire le tête,63,elle fait la tête,i think she's angry,She's making a face.,Good Translation,0.77455026,0.89256966,-0.1180194
+faire le tête,64,vous faites la tête vous ne vouliez pas de nous c'est ça,you're so gloomy you didn't want to have us here did you,"You're giving us the cold shoulder, you didn't want to be with us that's what it is.",Good Translation,0.70356154,0.75838655,-0.054825008
+faire le tête,65,tu sais faire la tête de l'escargot,do you know how to make the snail face,You know how to make a snail's face.,Good Translation,0.5657796,0.67380995,-0.10803032
+faire le tête,66,au moins je pourrai sortir sans qu'on me fasse la tête,i'll be able to go out without them all looking at me with that face,At least I'll be able to go out without being given a hard time.,Unnatural,0.8512814,0.92469144,-0.073410034
+faire le tête,67,tu me fais la tête depuis le diner,you've been acting mean to me since dinner,You've been giving me the silent treatment since dinner.,Partial Translation,0.85333836,0.75883394,0.094504416
+faire le tête,68,donne une bise à tonton tu me fais la tête,give uncle a kiss,gives a kiss to uncle you give me a face,Literal Translation,0.6057871,0.6823951,-0.076608
+faire le tête,69,j'ai remarqué qu'elle m'épie et qu'elle me fait la tête,i noticed her watching me i get the feeling she's spying on me,I've noticed that she's keeping an eye on me and giving me a dirty look.,Good Translation,0.80482817,0.83379203,-0.028963864
+faire le tête,70,pourquoi tu fais la tête,what you so grumpy about,Why are you making a face?,Good Translation,0.62368494,0.78332746,-0.15964252
+faire le tête,71,tu me fais la tête,are you angry with me,You're looking at me like that.,Partial Translation,0.6979264,0.6895423,0.008384109
+faire le tête,72,je sais que tu fais la tête,i know you are still angry at me,I know you're mad at me.,Good Translation,0.6673473,0.70694673,-0.03959942
+faire le tête,73,- pourquoi tu me fais la tête,- why are you so mad at me,- why are you looking at me like that,Partial Translation,0.78044426,0.78334,-0.0028957129
+faire le tête,74,tu as fait la tête durant tout le voyage tu ne dis que des choses lugubres,you're sulky and depressed as if we were going to a funeral,You've been sulking for the whole trip you're only saying gloomy things.,Good Translation,0.5969869,0.839405,-0.24241811
+faire le tête,75,- tu fais la tête,- you're giving me attitude,- you're making a face,Good Translation,0.7460133,0.87295437,-0.12694108
+faire le tête,76,ce que je veux dire lister c'est que c'est inutile pour nous de se faire la tête,what i'm saying is there's no need for us to be at loggerheads,what I want to say is that it's pointless for us to make a fuss about it,Good Translation,0.7425364,0.7945257,-0.051989257
+faire le tête,77,allez carlton tu vas pas continuer à faire la tête comme ça,come on carlton you can't keep moping around like this forever,go to Carlton you're not going to keep on being like that,Unnatural,0.83450735,0.82832927,0.006178081
+faire le tête,78,tout marche bien pour ton mari et toi tu fais la tête,everything is going well for your husband and you don't care,Everything is fine for your husband but you're being stubborn.,Mistranslation,0.8081731,0.7488802,0.059292912
+faire le tête,79,on va faire ceci a partir de maintenant on ne va pas se faire la tête plus d'une journée ca te va,how about this from now on we won't be angry with each other more than a day ok,We're going to do this from now on we won't waste one day more it's up to you,Mistranslation,0.79113424,0.8030704,-0.011936188
+faire le tête,80,pourquoi tu fais la tête,why the long face,Why are you sulking?,Good Translation,0.66162825,0.6717539,-0.010125637
+faire le tête,81,francis écoute tu ne vas tout de même pas faire la tête toute la soirée,francis you're not going to sulk all night are you,"Francis, are you listening? You're not going to make a face all evening, are you?",Unnatural,0.8106359,0.79411995,0.01651597
+faire le tête,82,pourquoi tu me fais la tête,what are you mad at me for,Why are you giving me the cold shoulder?,Unnatural,0.7564137,0.7028812,0.05353248
+faire le tête,83,je peux le faire la tête en bas,i can literally do it standing on my head,I can do it head down.,Literal Translation,0.8037915,0.9138777,-0.1100862
+faire le tête,84,si je fais la tête aujourd'hui c'est parce que suis contrariée,if i've been acting mean today it's because i was upset,If I'm making a face today it's because I am annoyed.,Good Translation,0.74397314,0.8119271,-0.067953944
+faire le tête,85,- pourquoi tu me fais la tête,- how come you look so grumpy,- why are you looking at me like that,Partial Translation,0.6983778,0.78334,-0.08496219
+faire le tête,86,t'es fou de me faire la tête,don't be miffed at me,You're crazy to be sulking at me.,Good Translation,0.60037696,0.7610029,-0.16062593
+faire le tête,87,ecoute la lune devient toute grande comme elle fait la tête,see how big the moon is tonight once a year people work at night,Listen to the moon becomes so big as it makes her head,Literal Translation,0.63558066,0.8779912,-0.24241054
+faire le tête,88,tu vas bien mon enfant tu as l'air de faire la tête,are you alright my son,"You're okay, my child, you have a face like thunder.",Partial Translation,0.7364609,0.78805935,-0.05159843
+faire le tête,89,tu me fais la tête,are you mad at me,You're giving me the silent treatment or You're sulking at me.,Good Translation,0.73166007,0.6558819,0.07577819
+faire le tête,90,alors pourquoi tu fais la tête,if it's nothing then why are you so upset,so why are you making a face,Good Translation,0.6154791,0.8555833,-0.2401042
+faire le tête,91,victor fait la tête en général il prépare tout,usually when i have guests he cooks,Victor makes faces in general he prepares everything,Literal Translation,0.6289979,0.868395,-0.23939705
+faire le tête,92,inutile de faire la tête mais non,- you don't have to sulk about it,a waste of time to be difficult but no,Partial Translation,0.6692801,0.7530678,-0.08378768
+faire le tête,93,chaque fois jque je te regardais tu faisais la tête,every time i looked at you there you sat with your long face,each time I looked at you you made a face,Partial Translation,0.796122,0.8817204,-0.08559841
+faire le tête,94,ils me font la tête de cher,he's the one guy in history who had kids into his seventies,They're giving me a hard time about it.,Mistranslation,0.35521972,0.76052344,-0.40530372
+faire le tête,95,tu fais la tête,now you're sulking,You are sulking.,Partial Translation,0.6511059,0.6655091,-0.014403224
+faire le tête,96,pourquoi faire la tête un jour pareil,why the long face on a day like this,Why make a scene on a day like this?,Literal Translation,0.70026386,0.6802595,0.020004332
+faire le tête,97,je ne peux pas te faire la tête,i could never be mad at you,I'm not in a mood to be angry with you.,Unnatural,0.6934545,0.64242256,0.051031947
+faire le tête,98,tu fais la tête kryoptus,are you pouting kryoptus,you're being a crybaby,Literal Translation,0.8163297,0.68449044,0.13183928
+faire le tête,99,allez-vous faire la tête toute la nuit,are you gonna stay mad at me all night,Are you going to make a scene all night?,Unnatural,0.7737054,0.777014,-0.0033085942

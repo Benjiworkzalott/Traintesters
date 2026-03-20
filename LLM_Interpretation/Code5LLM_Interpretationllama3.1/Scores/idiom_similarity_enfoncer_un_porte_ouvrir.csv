@@ -1,0 +1,7 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+enfoncer un porte ouvrir,0,c'est enfoncer une porte ouverte mais d'accord,that's sort of a given but yes,it's like hitting an open door but alright,Literal Translation,0.6520632,0.77256775,-0.12050456
+enfoncer un porte ouvrir,1,à part en enfonçant une porte ouverte,right,Apart from forcing an open door,Literal Translation,0.49971986,0.8833375,-0.38361764
+enfoncer un porte ouvrir,2,tu enfonces une porte ouverte,now you're preaching to the choir,You are pushing an open door.,Good Translation,0.556113,0.8131604,-0.2570474
+enfoncer un porte ouvrir,3,c'est comme essayer d'enfoncer une porte ouverte,blow the door open,It's like trying to push open a door that is already open.,Good Translation,0.6949425,0.8800089,-0.1850664
+enfoncer un porte ouvrir,4,eh bien au risque d'enfoncer une porte ouverte c'est fini,well at the risk of stating the obvious it's over,Well at the risk of pushing an open door that's it.,Good Translation,0.76983917,0.86804,-0.09820086
+enfoncer un porte ouvrir,5,c'est comme si j'enfonçais une porte ouverte encore et encore,but that's just stating the obvious over and over,It's like I'm pushing open a door that's already open over and over again.,Good Translation,0.66904944,0.8883609,-0.21931148

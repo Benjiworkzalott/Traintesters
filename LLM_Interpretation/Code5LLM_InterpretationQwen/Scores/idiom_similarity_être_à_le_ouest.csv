@@ -1,0 +1,101 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+être à le ouest,0,- c'est à l'ouest ça,that's way out west,- it's to the west there,Literal Translation,0.7485126,0.8070768,-0.058564186
+être à le ouest,1,t'es à l'ouest,you're way off track,you're west,Literal Translation,0.65719676,0.80682385,-0.14962709
+être à le ouest,2,tu es à l'ouest,you're shoeless,you are west,Mistranslation,0.61611843,0.8105502,-0.19443178
+être à le ouest,3,tu es à l'ouest aujourd'hui,you're a million miles away right now,you are west today,Literal Translation,0.6595216,0.8506164,-0.19109482
+être à le ouest,4,on est à l'ouest du mississippi,we are west of the mississippi,we are west of the Mississippi,Good Translation,0.91941756,0.8722666,0.04715097
+être à le ouest,5,j'ai l'impression d'être à l'ouest,i feel like such a stupid mess,I feel like I am west.,Literal Translation,0.67167145,0.8931509,-0.22147948
+être à le ouest,6,l'île est à l'ouest de nous hugh,the island's to the west of us hugh,the island is to the west of us hugh,Good Translation,0.90542215,0.9216392,-0.016217053
+être à le ouest,7,t'étais à l'ouest,you were gone,you were to the west,Literal Translation,0.6702155,0.8655853,-0.19536984
+être à le ouest,8,non je veux pas baiser avec elle je dis que beaucoup aimeraient baiser le premier ministre si nyborg était premier ministre - mais t'es à l'ouest - pourquoi,i bet lots of people would want to fuck the prime minister if it were nyborg i've never heard anyone talk about fucking a prime minister,"no, I don't want to have sex with her, I'm saying that many would want to sleep with the prime minister if Nyborg was the prime minister - but you're behind the times - why",Good Translation,0.6879143,0.79922104,-0.11130673
+être à le ouest,9,kesan est à l'ouest d'istanbul près de la frontière grecque,kesan is west near the greek borders,Kesan is west of Istanbul near the Greek border,Good Translation,0.8664162,0.8268586,0.039557636
+être à le ouest,10,ouais j'ai bien entendu mais je préfère oublier ce que tu as dit par ce que t'es à l'ouest,yeah i did hear you but i'm going to forget what you said because you're not thinking straight,yes I heard but I prefer to forget what you said because you're in the wrong,Literal Translation,0.7781211,0.8734335,-0.09531236
+être à le ouest,11,nous sommes à l'ouest de votre position,we're directly west of you,We are west of your position.,Good Translation,0.8307593,0.928334,-0.09757471
+être à le ouest,12,- c'est à l'ouest de la 57e rue,it's over on west 57th,It is to the west of 57th Street,Good Translation,0.7304764,0.8898922,-0.15941584
+être à le ouest,13,le site est à l'ouest du lac rudolph dans la région de turkana,the site is right west of lake rudolf in the turkana district,the site is west of lake rudolph in the turkana region,Partial Translation,0.92983156,0.9507005,-0.020868957
+être à le ouest,14,- non on est à l'ouest la belle banlieue ouest,the nice part of the western suburbs,"- no, we're in the west, the beautiful western suburb",Good Translation,0.66141546,0.83018774,-0.16877228
+être à le ouest,15,j'étais à l'ouest à peu prés tout le temps,i was pretty much wasted the whole time,I was mostly out west all the time.,Literal Translation,0.69600093,0.8916848,-0.19568384
+être à le ouest,16,je peux sentir son sang mais l'odeur la plus forte est à l'ouest,i can smell her blood but the stronger scent is due west,I can smell her blood but the strongest odor is to the west.,Good Translation,0.8799393,0.9329712,-0.05303186
+être à le ouest,17,le colorado est par là parce qu'il est à l'ouest,the colorado has to be that way because that way is west,Colorado is over there because it is to the west,Good Translation,0.8289627,0.833208,-0.004245341
+être à le ouest,18,je n'avais jamais été à l'ouest de st louis avant de venir avec ces recrues,i never even been west of st louis till i brought out this bunch of recruits,I had never been west of St. Louis before coming with these recruits.,Good Translation,0.9077648,0.9093689,-0.0016040802
+être à le ouest,19,on est à l'ouest le corps est au sud,we're west of the stables the body's supposed to be south,we are west the body is south,Good Translation,0.7904396,0.90410745,-0.113667846
+être à le ouest,20,moi je serai à l'ouest de la virginie,mine shall be in west virginia,I will be in western Virginia,Good Translation,0.8007459,0.8427157,-0.041969776
+être à le ouest,21,nous sommes à l'ouest de la maison,graham and i are in the trees west of the house,We are west of the house.,Good Translation,0.7442249,0.9242737,-0.18004882
+être à le ouest,22,ils sont à l'ouest non,they got out didn't they,they are to the west not,Literal Translation,0.7198304,0.93328094,-0.21345055
+être à le ouest,23,- on doit être à l'ouest de baltimore,- i think we're west of baltimore - sounds about right,- we must be west of Baltimore,Good Translation,0.8023144,0.8516396,-0.049325228
+être à le ouest,24,je suis à l'ouest,i feel really buzzed,I am west.,Literal Translation,0.60261786,0.82814777,-0.22552991
+être à le ouest,25,le seul accès est par la vallée et la route pour entrer et sortir est à l'ouest,the only way in is the valley floor and the main road in and out is to the west,The only access is via the valley and the entrance and exit are to the west.,Good Translation,0.9054069,0.9247641,-0.019357204
+être à le ouest,26,c'est à l'ouest de pittsburgh ma jolie,just west of pittsburgh babe,"it is to the west of Pittsburgh, my dear",Good Translation,0.7190434,0.77213824,-0.053094864
+être à le ouest,27,ne dis pas que je suis à l'ouest,don't call me shoeless,don't say I'm west,Literal Translation,0.64517045,0.8853489,-0.24017847
+être à le ouest,28,ses victimes étaient nord sud et est il doit être à l'ouest,well his first three vics were north south and east so he's definitely headed west,his victims were north south and east he must be to the west,Literal Translation,0.61950463,0.9291337,-0.30962908
+être à le ouest,29,je n'écoute pas par ce que tu es à l'ouest,i'm not listening cos you're not thinking straight,I don't listen because you are west.,Literal Translation,0.7045338,0.8408723,-0.13633847
+être à le ouest,30,il est à l'ouest,aw he's tripping,it is to the west,Literal Translation,0.7452954,0.8510418,-0.10574639
+être à le ouest,31,la seule autre colonie est à l'ouest berkeley town,only settlement out west berkeley town,the only other colony is to the west of Berkeley Town,Good Translation,0.8615089,0.89723706,-0.035728157
+être à le ouest,32,oh fais pas chier je suis à l'ouest maintenant,oh kiss my ass i'm in the west now,oh don't bullshit me I'm in the west now,Partial Translation,0.8062489,0.8447641,-0.03851521
+être à le ouest,33,tu n'as jamais été à l'ouest de doheny,you've never been west of doheny,you have never been west of Doheny,Good Translation,0.9486644,0.94308496,0.0055794716
+être à le ouest,34,l'ennemi est à l'ouest,they are in a western direction,the enemy is westward,Good Translation,0.7222707,0.9177848,-0.19551408
+être à le ouest,35,le vietnam c'est à l'ouest ou à l'est des philippines,is vietnam east or west of the philippines,Vietnam is to the west or east of the Philippines,Good Translation,0.9007143,0.90278494,-0.0020706654
+être à le ouest,36,je t'ai dit qu'elle était à l'ouest,i told angela that she is mad,I told you it was to the west,Literal Translation,0.6340395,0.8730428,-0.2390033
+être à le ouest,37,c'est à l'ouest que la tempête se calme,the storm is clearing from the west,it is to the west that the storm subsides,Good Translation,0.8056432,0.8618224,-0.056179225
+être à le ouest,38,l'allée en question était à l'ouest de ma position,the alley in question was just to the west of my location,The alley in question was to the west of my position.,Good Translation,0.86297023,0.9231267,-0.060156465
+être à le ouest,39,- ils sont à l'ouest,- they're off the hook,They are to the west.,Literal Translation,0.7790376,0.8712509,-0.09221333
+être à le ouest,40,le soleil est à l'ouest,the sun in the west,the sun is in the west,Good Translation,0.860757,0.9070662,-0.046309233
+être à le ouest,41,- ils sont à l'ouest,-they're west of town,They are to the west.,Good Translation,0.8830212,0.8712509,0.011770248
+être à le ouest,42,j'étais à l'ouest je n'en garde aucun souvenir,i was gone i don't remember anything,I was west and I don't recall any memory of it,Literal Translation,0.7918602,0.90547097,-0.113610744
+être à le ouest,43,c'est à l'ouest,it's out west,it is to the west,Literal Translation,0.77672744,0.84694713,-0.070219696
+être à le ouest,44,- c'est à l'ouest de rome à environ 300 km,- it's a straight shot west of rome about 150miles,-it is to the west of Rome about 300 km away,Good Translation,0.80444634,0.92759943,-0.12315309
+être à le ouest,45,mais sa maison est à l'ouest du snack,- her route home is west of the diner,but his house is west of the snack bar,Good Translation,0.7403867,0.90997463,-0.16958791
+être à le ouest,46,tous les manifestants sont à l'ouest,all the protestors are at the west,all the protesters are westward,Unnatural,0.9343728,0.9342381,0.0001347065
+être à le ouest,47,je suis à l'ouest comme toujours,i couldn't get my shit together as usual,I am west as usual,Literal Translation,0.5221787,0.8601982,-0.3380195
+être à le ouest,48,- kadir est à l'ouest derrière la montagne,la kadir is in the west over that mountain,Kadir is west behind the mountain,Good Translation,0.8234519,0.839782,-0.016330123
+être à le ouest,49,- il est à l'ouest,- look he's not right dude,- it is to the west,Literal Translation,0.7206637,0.85483927,-0.13417554
+être à le ouest,50,alors vous dites que ce ranch est à l'ouest,you said the courtney ranch is due west,then you say that this ranch is west,Good Translation,0.77562916,0.9179524,-0.14232326
+être à le ouest,51,on sait juste que la ze est à l'ouest de sierra madres,we only know the lz is in the western sierra madres,We just know that ze is to the west of Sierra Madres.,Good Translation,0.82945836,0.83110625,-0.0016478896
+être à le ouest,52,la piste est à l'ouest et nous allons vers l'ouest,we'll hit the trail as long as we keep heading west and we're heading west,The track is to the west and we are going west.,Good Translation,0.74241513,0.87342566,-0.13101053
+être à le ouest,53,- sans café je suis à l'ouest - peu importe,i'm lost without my morning coffee,- without coffee I am west - it doesn't matter,Literal Translation,0.6567814,0.90515816,-0.24837679
+être à le ouest,54,non vierville est à l'ouest,no vierville is west of us,Non Vierville is to the west,Unnatural,0.8580421,0.875934,-0.017891884
+être à le ouest,55,l'extraction est à l'ouest,extraction side is west,the extraction is west,Literal Translation,0.81649125,0.86834085,-0.051849604
+être à le ouest,56,non je suis à l'ouest,i'm hitting the west side,I am west.,Literal Translation,0.7067909,0.8032708,-0.09647989
+être à le ouest,57,si tu es attaquée de l'est attaque quiconque est à l'ouest et tu étais à l'ouest je n'ai jamais lu le livre,if you're being attacked from the east attack whoever's to your west and you were the west,if you are attacked from the east attack whoever is to the west and if you were to the west I have never read the book,Good Translation,0.6765845,0.85291225,-0.17632776
+être à le ouest,58,sa dernière adresse connue est à l'ouest de la 23e et de pilsen,last known address is on west 23rd and pilsen,Her last known address is west of 23rd and Pilsen.,Good Translation,0.88840234,0.87106466,0.01733768
+être à le ouest,59,quand julie était bébé j'étais à l'ouest quasiment 24 heures sur 24,when -- when julie was a baby i-i was out of my mind almost every day,when Julie was a baby I was out West nearly 24 hours a day,Literal Translation,0.78744626,0.8803032,-0.09285694
+être à le ouest,60,- c'est à l'ouest de la grotte,that's west of the grotto,- it is to the west of the cave,Good Translation,0.7752484,0.8321599,-0.05691147
+être à le ouest,61,maintenant t'es à l'ouest,- mm-hmm - and now you're just a fucking out-to-lunch,now you're west,Literal Translation,0.655112,0.86455476,-0.20944273
+être à le ouest,62,tu es à l'ouest du terrain ouest du terrain,you're west of the field,you are to the west of the west field,Literal Translation,0.83384,0.8252517,0.008588314
+être à le ouest,63,il est à l'ouest de la 14 sur la route 11,he's west of the 14 on route 11,It is west of Highway 14 on Route 11.,Good Translation,0.8816438,0.8798023,0.0018414855
+être à le ouest,64,camelot est à l'ouest,no,camelot is west,Literal Translation,0.4157204,0.8918462,-0.47612578
+être à le ouest,65,je crois que je suis à l'ouest,i don't think i know what i'm doing,I think I am west.,Literal Translation,0.6702383,0.88671523,-0.21647692
+être à le ouest,66,quand le vent vient de l'est le soleil est à l'ouest,when the wind's from the east and the sun's from the west,when the wind comes from the east the sun is in the west,Partial Translation,0.9043181,0.91307247,-0.008754373
+être à le ouest,67,mon village est à l'ouest,my village is only a ways further west,my village is to the west,Good Translation,0.7991228,0.9013925,-0.10226971
+être à le ouest,68,elles vont vers l'est le soleil était à l'ouest,so the sun must have been in the west,她们向东方走，太阳在西方。,Literal Translation,0.7794223,0.8876174,-0.108195126
+être à le ouest,69,rebecca et carter sont à l'ouest sur l'autoroute king,rebecca and carter are traveling west on king's highway,Rebecca and Carter are westbound on King Highway,Good Translation,0.8979219,0.8380461,0.059875846
+être à le ouest,70,il n'a jamais été à l'ouest il est complètement étranger c'est un grand film sur l'éternelle incompréhension entre la russie et l'occident,it's a great movie about how russia and the west will never understand each other,He has never been to the west; he is completely foreign; it's a great film about the eternal misunderstanding between Russia and the West.,Good Translation,0.77684605,0.85325825,-0.0764122
+être à le ouest,71,il est à l'ouest,completely gone,it is to the west,Literal Translation,0.4914536,0.85104185,-0.35958827
+être à le ouest,72,- parce que nous sommes à l'ouest de la 405,- because we're west of the 405,because we are west of the 405,Good Translation,0.9655281,0.94381547,0.021712601
+être à le ouest,73,il est à l'ouest aujourd'hui,he's really off the rails today,it is west today,Literal Translation,0.7218113,0.82592356,-0.10411227
+être à le ouest,74,angelo a éliminé tout ce qui est à l'ouest,angelo has eliminated everything west of that,angelo has eliminated everything to the west,Good Translation,0.9119892,0.9392505,-0.027261317
+être à le ouest,75,l'entrepôt est à l'ouest,keep them pinned warehouse door west side,the warehouse is west,Literal Translation,0.61981994,0.80472827,-0.18490833
+être à le ouest,76,et le quartier musulman est à l'ouest,and the muslim quarter is just to the west,and the Muslim quarter is to the west,Good Translation,0.8699011,0.8983744,-0.028473258
+être à le ouest,77,je t'ai bien dit qu'il était à l'ouest,told you he was going over the hill,I told you he was west,Unnatural,0.73103225,0.9148166,-0.18378437
+être à le ouest,78,cest à louest nest-ce pas,it's west of here isn't it,it is at your best isn't it,Mistranslation,0.50968146,0.4665438,0.04313767
+être à le ouest,79,martin est à l'ouest on n'a pas à s'inquiéter pour lui,martin doesn't have a clue so we're not going to worry about that,martin is west we don't have to worry about him,Mistranslation,0.759624,0.9033742,-0.14375019
+être à le ouest,80,la dernière fois j'ai été à l'ouest pendant deux jours,the last time i was out for two days,The last time I was in the west for two days.,Literal Translation,0.88021755,0.92085946,-0.040641904
+être à le ouest,81,il était à l'ouest,he was gakked out of his mind,it was to the west,Literal Translation,0.6584344,0.84683096,-0.18839657
+être à le ouest,82,ce mec est à l'ouest,it's like he has no sense of what's going on excuse me,this guy is west,Literal Translation,0.6458926,0.90355635,-0.25766373
+être à le ouest,83,c'est à l'ouest de fiumicino il y a une croix qui indique l'endroit exact,east of fiumicino there's an arrow that points to the exact place,It is to the west of Fiumicino where there is a cross indicating the exact location.,Literal Translation,0.875442,0.88812757,-0.012685537
+être à le ouest,84,quel état est à l'ouest de l'alabama,okay what state is west of alabama,which state is west of alabama,Good Translation,0.84686494,0.8858912,-0.03902626
+être à le ouest,85,les anciennes cultures pensaient que la terre des morts était à l'ouest,and ancient cultures believed the land of the dead lay to the west,The old cultures believed that the land of the dead was in the west.,Good Translation,0.92547727,0.92747366,-0.001996398
+être à le ouest,86,j'en sais rien c'est un vieux il est à l'ouest,i don't know 'cause he's old and clueless,"I don't know, it's an old one, it is in the west.",Literal Translation,0.7995152,0.828323,-0.028807819
+être à le ouest,87,a quelques kilomêtres à l'ouest de la ville,a few miles west of town,a few kilometers west of the city,Good Translation,0.9078773,0.9217002,-0.013822854
+être à le ouest,88,c'est juste je pense que je suis à l'ouest,i just i guess i'm off the hook,it's just I think I am west,Literal Translation,0.70745444,0.87524337,-0.16778892
+être à le ouest,89,c'est juste que nous avons été à l'ouest depuis que je suis revenu,it's just we've been off our feet since i got back,it's just that we have been in the west since I came back,Literal Translation,0.7875146,0.91756487,-0.13005024
+être à le ouest,90,- il est à l'ouest de la ville,it's on the west side of the city,It is to the west of the city,Good Translation,0.8327364,0.86211765,-0.029381275
+être à le ouest,91,maître xue a pris feu à 2h de l'après-midi le soleil était à l'ouest,master xue caught fire at 3-5pm when the sun descended towards the west,master Xue caught fire at 2pm with the sun in the west,Good Translation,0.85040885,0.89712155,-0.046712697
+être à le ouest,92,elle était à l'ouest de la ville près de l'entrepôt,she was just west of town out by the warehouse,It was west of the city near the warehouse.,Good Translation,0.82430696,0.8087506,0.015556335
+être à le ouest,93,il est à l'ouest et je ne peux rien y faire,he's a mess and i can't do anything about it,it is to the west and I cannot do anything about it,Literal Translation,0.7734202,0.9312335,-0.15781331
+être à le ouest,94,putain je suis à l'ouest,i can't even remember a fucking order,"fuck, I am west",Literal Translation,0.53914607,0.81494355,-0.2757975
+être à le ouest,95,ouais elle était à l'ouest ce matin,no she was out of it this morning like someone else was in her body,yeah she was in the west this morning,Literal Translation,0.73649895,0.9152237,-0.17872477
+être à le ouest,96,- ta prestation est à l'ouest,tighten up will you your performance is all over the place,- your performance is west,Literal Translation,0.6709605,0.86417615,-0.19321567
+être à le ouest,97,vous êtes à l'ouest colonel,you're out of line colonel,you are west colonel,Literal Translation,0.7804992,0.85517526,-0.07467604
+être à le ouest,98,on est à l'ouest des collines,we're just west of the string of hills,We are west of the hills.,Good Translation,0.7604678,0.8366636,-0.07619578
+être à le ouest,99,hiroki te fait dire que mimura et seto sont à l'ouest et veulent te voir,and a message from sugimura mimura and the guys are in the west waiting to see you,hiroki tells you that mimura and seto are to the west and want to see you,Good Translation,0.7521702,0.97079444,-0.21862423

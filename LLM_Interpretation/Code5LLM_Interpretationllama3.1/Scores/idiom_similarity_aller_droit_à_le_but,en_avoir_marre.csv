@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"aller droit à le but,en avoir marre",0,j'en ai marre de jouer au chat et à la souris j'ai faith pour ça allons droit au but,'cause you know i'm here to take that call,I'm fed up with playing cat and mouse I have faith in this let's get to the point,Partial Translation,0.53377855,0.875764,-0.34198546

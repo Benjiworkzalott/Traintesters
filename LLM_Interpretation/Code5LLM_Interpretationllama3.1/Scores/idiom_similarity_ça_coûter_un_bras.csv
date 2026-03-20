@@ -1,0 +1,6 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+ça coûter un bras,0,merci de ne pas le manger ça coûte un bras,i didn't have time to make it into anything and please don't eat it 'cause it cost 55 an ounce,thank you not to eat that will cost an arm,Mistranslation,0.7061168,0.8380884,-0.1319716
+ça coûter un bras,1,- ça coûte un bras et une jambe,- it costs an arm and leg,It costs an arm and a leg.,Good Translation,0.9217821,0.87054205,0.051240027
+ça coûter un bras,2,ça coûte un bras,seems a little steep,It costs an arm and a leg.,Good Translation,0.565722,0.82999,-0.26426804
+ça coûter un bras,3,ça coûtera un bras de les refaire,it would cost thousands to redo them,it will cost an arm and a leg to redo them,Good Translation,0.8611925,0.91517276,-0.05398023
+ça coûter un bras,4,oh oui pour sûr on peut la guérir sauf que ça coûte un bras de lui sauver un oeil,you know what they charge for an eye,Oh yes for sure we can cure it except that it costs an arm to save his eye,Good Translation,0.59733933,0.87060416,-0.27326483

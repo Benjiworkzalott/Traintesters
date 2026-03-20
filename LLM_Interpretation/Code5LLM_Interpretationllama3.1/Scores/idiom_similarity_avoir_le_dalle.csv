@@ -1,0 +1,90 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+avoir le dalle,0,super j'ai la dalle,- oh good 'cause i'm starving,I'm starving,Good Translation,0.52059436,0.51781654,0.0027778149
+avoir le dalle,1,je fume pour ça j'ai la dalle,that's why i wanna smoke i'm starving,I smoke for that I've got the pangs of hunger,Good Translation,0.6987017,0.7522388,-0.05353713
+avoir le dalle,2,par contre j'ai la dalle,i am starving though,By contrast I'm starving,Good Translation,0.6487038,0.6858491,-0.037145257
+avoir le dalle,3,enfin j'ai la dalle,- finally i'm starving,I'm starving finally.,Unnatural,0.67568684,0.6745688,0.0011180639
+avoir le dalle,4,je commence à avoir la dalle,i'm really hungry,I'm starting to feel peckish.,Good Translation,0.6577799,0.7292573,-0.07147741
+avoir le dalle,5,réchauffe la pizza pétasse j'ai la dalle,well go put that pizza in the oven bitch i'm hungry,reheats the lousy pizza I'm starving,Good Translation,0.7094546,0.71569675,-0.006242156
+avoir le dalle,6,- j'ai la dalle,- i am starving,- I'm starving.,Good Translation,0.67465746,0.6391992,0.035458267
+avoir le dalle,7,t'as la dalle ou quoi,what are you hungry,Are you hungry or what?,Good Translation,0.530429,0.57840884,-0.04797983
+avoir le dalle,8,je sais pas ce qu'il fout mais lucille a la dalle,i don't know where the hell he is but lucille is hungry,I don't know what he's up to but Lucille is starving,Good Translation,0.7910367,0.76734185,0.023694873
+avoir le dalle,9,- j'imagine que vous avez la dalle,- i guess you're hungry - wow,- I imagine you're knackered,Mistranslation,0.6790167,0.74222064,-0.06320393
+avoir le dalle,10,j'ai la dalle tout le monde s'en fout,wow i'm starving to death and no one cares,I'm starving everyone doesn't care,Unnatural,0.61570835,0.73535943,-0.11965108
+avoir le dalle,11,t'as la dalle bill c'est la maxi portion,how's your appetite bill,"You're getting a big plate of fries, that's the maximum portion.",Literal Translation,0.53231215,0.6600983,-0.12778616
+avoir le dalle,12,mais j'ai la dalle,i'm sorry,but I'm starving,Mistranslation,0.6173592,0.6859622,-0.06860298
+avoir le dalle,13,oui ça va j'ai la dalle c'est tout,yes fine i'm just hungry,yes it's fine I'm starving that's all,Good Translation,0.65445995,0.72857636,-0.07411641
+avoir le dalle,14,- tout le monde a la dalle,- all y'all hungry,- everyone's starving,Unnatural,0.74544936,0.7636473,-0.018197954
+avoir le dalle,15,t'as la dalle,you hungry,You're starving/hungry.,Good Translation,0.5678233,0.5136511,0.054172218
+avoir le dalle,16,- quelqu'un a la dalle,- anyone hungry,- someone has the trots,Mistranslation,0.72489333,0.79495025,-0.070056915
+avoir le dalle,17,j'ai la dalle depuis une heure,my stomach's been eating itself for the last hour,I'm starving for an hour now.,Partial Translation,0.6793908,0.7622695,-0.08287871
+avoir le dalle,18,j'ai la dalle allons bouffer,let's get something to eat,"I'm starving, let's go eat.",Good Translation,0.76680076,0.75224245,0.014558315
+avoir le dalle,19,- oui - j'ai la dalle,- i'm very starving,- yes - I'm starving,Good Translation,0.62270355,0.7036536,-0.08095002
+avoir le dalle,20,- j'ai la dalle maintenant,- i'm really hungry now,I'm starving now.,Good Translation,0.7540152,0.69623554,0.05777967
+avoir le dalle,21,j'ai la dalleje crois que je pourrais avaler un porc tout entier,so hungry my tummy is rumbling,I'm starving I think I could swallow a whole pig whole.,Good Translation,0.58221245,0.7834619,-0.20124948
+avoir le dalle,22,j'ai la dalle - je t'ai apporté de la bouffe,-i brought you some food,I'm starving - I brought you some food,Good Translation,0.84736,0.858472,-0.011111975
+avoir le dalle,23,j'ai la dalle,i'm starving,I'm starving!,Good Translation,0.6281067,0.56123996,0.066866755
+avoir le dalle,24,je sais pas toi mais j'ai la dalle,hey i don't know about you but i'm starvin',I don't know you but I'm starving,Good Translation,0.70812684,0.70865154,-0.0005246997
+avoir le dalle,25,non j'ai la dalle,no i'm starving,I'm starving.,Good Translation,0.5920786,0.5098102,0.08226842
+avoir le dalle,26,bon j'ai la dalle,i'm starving,I'm starving,Good Translation,0.5720945,0.55202585,0.020068645
+avoir le dalle,27,j'ai la dalle,man i'm starving,I'm starving,Good Translation,0.5596242,0.60333955,-0.043715358
+avoir le dalle,28,j'ai la dalle on va manger,that's what i thought,I'm starving let's eat,Good Translation,0.54873633,0.7659539,-0.21721756
+avoir le dalle,29,putain j'ai la dalle,damn i'm hungry,Bloody hell I'm starving,Good Translation,0.6439488,0.58666754,0.057281256
+avoir le dalle,30,y a une bonne bouffe là-bas j'ai la dalle,i hope he's got something good to eat there,there's good food there I'm starving,Good Translation,0.7349553,0.77427226,-0.039316952
+avoir le dalle,31,j'ai la dalle à manger,gimme something to eat,I'm starving to eat.,Unnatural,0.736279,0.74832904,-0.012050033
+avoir le dalle,32,je sais que t'as la dalle alors sers-toi,i know you hungry go ahead and eat something,I know you're hungry so help yourself.,Good Translation,0.69686806,0.7001085,-0.0032404661
+avoir le dalle,33,- j'ai la dalle,- i'm fucking hungry,- I'm starving.,Good Translation,0.65368664,0.6391992,0.014487445
+avoir le dalle,34,j'ai la dalle allons manger quelque chose,i'm starving let's go grab something,I'm starving let's go eat something,Good Translation,0.82217014,0.84368396,-0.02151382
+avoir le dalle,35,- ou alors il a la dalle,- either that or he's just hungry,- or he's hungry,Partial Translation,0.7306229,0.7842041,-0.053581238
+avoir le dalle,36,-moi j'ai la dalle,i'm hungry as hell,- I'm starving,Good Translation,0.59387505,0.6580969,-0.06422186
+avoir le dalle,37,-j'ai la dalle,- i'm hungry,I'm starving,Unnatural,0.6470572,0.5760969,0.07096028
+avoir le dalle,38,meg j'ai la dalle,meg i'm hungry,I'm starving,Good Translation,0.6926327,0.56115866,0.13147402
+avoir le dalle,39,j'ai la dalle moi,i'm fucking hungry now you know,I'm starving now.,Good Translation,0.54715574,0.55785745,-0.010701716
+avoir le dalle,40,j'attaque j'ai la dalle,i'm starving,I'm starving I've got a huge appetite,Unnatural,0.61603534,0.5926732,0.02336216
+avoir le dalle,41,on a la dalle,we hungry,We have it on a slate.,Literal Translation,0.43946105,0.4644543,-0.02499324
+avoir le dalle,42,et j'ai la dalle donc si je pouvais vous emprunter un billet ce serait super,and i'm starving so if i could borrow a buck that would be great,and I'm starving so if you could lend me a ticket that would be great,Partial Translation,0.7440165,0.7976023,-0.053585768
+avoir le dalle,43,on a la dalle,we're starving,We've got the floor.,Mistranslation,0.42906967,0.4602589,-0.031189233
+avoir le dalle,44,- vous avez la dalle,- you guys hungry,- you're totally exhausted,Mistranslation,0.68801963,0.62026805,0.06775159
+avoir le dalle,45,j'ai la dalle,- i'm hungry,I'm starving.,Good Translation,0.62592435,0.58071494,0.045209408
+avoir le dalle,46,yo mec j'ai la dalle,yo man i'm hungry,I'm starving.,Unnatural,0.6087638,0.5392407,0.069523096
+avoir le dalle,47,mais là j'ai la dalle,right now i'm fucking hungry though,but I'm starving over there,Unnatural,0.6186195,0.69303,-0.0744105
+avoir le dalle,48,mec j'ai la dalle,man i am starving,I'm starving!,Good Translation,0.56395304,0.53264505,0.031307995
+avoir le dalle,49,ton père ferait bien de trouver du boulot parce que j'ai la dalle moi,you know what forman your dad better get a job and soon 'cause i'm starving here,Your dad should find a job because I am starving.,Partial Translation,0.7407349,0.7867749,-0.04604
+avoir le dalle,50,c'est comme quand t'as la dalle et qu'on te parle de famine en afrique,if you're hungry and your friend says you know people are starving in africa,It's like when you're starving and someone talks about famine in Africa.,Good Translation,0.7594352,0.86132014,-0.10188496
+avoir le dalle,51,comme je t'ai dit on a la dalle,like i said we hungry,As I told you we are starving,Good Translation,0.6809906,0.65291226,0.028078318
+avoir le dalle,52,j'ai la dalle vous voyez,i am dying of hunger,I'm starving you see.,Good Translation,0.5620915,0.6572292,-0.095137656
+avoir le dalle,53,- je commence à avoir la dalle,- boy i'm getting kind of hungry,- I'm getting hungry.,Good Translation,0.7116025,0.73323786,-0.021635354
+avoir le dalle,54,c'est mon estomac j'ai la dalle,i'm starving,That's my stomach I'm starving,Unnatural,0.63707113,0.69959337,-0.06252223
+avoir le dalle,55,maman j'ai la dalle,- mom i'm starving,"I'm hungry, Mum.",Good Translation,0.6507268,0.6261664,0.024560392
+avoir le dalle,56,oui j'ai la dalle,oh yeah i'm starving,I'm starving,Good Translation,0.6486534,0.5803117,0.06834167
+avoir le dalle,57,16 h elle a la dalle,it's 400 and she's starving,She's got the drops at 4 pm.,Literal Translation,0.6225503,0.720657,-0.09810668
+avoir le dalle,58,j'ai la dalle aussi,i'm starved too,I'm starving too,Good Translation,0.693339,0.6777748,0.015564203
+avoir le dalle,59,j'ai la dalle pas vous,i'm starving aren't you,"I'm starving, aren't you?",Good Translation,0.5908506,0.53491837,0.055932224
+avoir le dalle,60,super j'ai la dalle montez,that's good timing i'm famished,Super I'm starving let's go,Good Translation,0.5012343,0.539729,-0.038494706
+avoir le dalle,61,j'ai la dalle quand j'ai la haine,these white people got me all hangry,I've got an appetite when I'm in a bad mood,Good Translation,0.54485375,0.65563303,-0.110779285
+avoir le dalle,62,c'est juste que j'ai la dalle,i'm just really peckish,I'm just starving,Good Translation,0.61868393,0.627266,-0.008582056
+avoir le dalle,63,j'ai pas encore bouffé ce soir j'ai la dalle,i'm starving too,I haven't eaten yet this evening I'm starving,Good Translation,0.6163536,0.7194395,-0.103085935
+avoir le dalle,64,il était temps j'ai la dalle,about time i'm starving,I'm starving it's time for lunch,Partial Translation,0.6190429,0.6169087,0.0021341443
+avoir le dalle,65,j'ai la dalle,i sure am hungry,I'm starving.,Good Translation,0.63212407,0.58071494,0.051409125
+avoir le dalle,66,parce qu'on a la dalle et qu'elle porte du prada,because we're hungry and she's wearing prada,because we are broke and she wears Prada,Partial Translation,0.7722297,0.7636873,0.008542359
+avoir le dalle,67,j'ai la dalle moi je boufferais bien une sucrerie,i guess i could sure use some cupcakes or some peanut butter cups about now,I've got a hunger for sweets I'd happily eat some candy.,Good Translation,0.6978657,0.7463019,-0.048436165
+avoir le dalle,68,magnez vous le cul j'ai la dalle,let's fucking go,"F*** you, I'm starving.",Unnatural,0.49529284,0.55515534,-0.059862494
+avoir le dalle,69,elle a la dalle,it's 400,She's starving.,Good Translation,0.5405368,0.67632043,-0.13578361
+avoir le dalle,70,bien mais j'ai la dalle donc je veux pas entendre je peux pas y aller,oh fine but i am starving and i don't want to hear any of this ooh i can't go there stuff,I'm fine but I'm starving so don't ask me to go.,Good Translation,0.7035711,0.60632694,0.09724414
+avoir le dalle,71,allez j'ai la dalle,come on i'm starving,I'm starving.,Good Translation,0.62433314,0.5657462,0.058586955
+avoir le dalle,72,on a la dalle hein,-we're hungry aren't we,"We've got the floor, haven't we?",Mistranslation,0.44684944,0.45629787,-0.009448439
+avoir le dalle,73,j'ai la dalle magne-toi,you look the same in everything,I'm starving eat something,Mistranslation,0.48918492,0.5272504,-0.038065493
+avoir le dalle,74,continue j'ai la dalle,go ahead will you,I'm starving,Good Translation,0.55266833,0.54660606,0.006062269
+avoir le dalle,75,je t'appelle quand j'ai la dalle,yeah i'll give you a call when i need some fucking mozzarella sticks,I'll call you when I'm hungry.,Good Translation,0.6312875,0.7059971,-0.074709594
+avoir le dalle,76,et comme j'ai la dalle fais-moi des lasagnes,and i'm kind of hungry so make some lasagna,and as I'm starving make me some lasagna,Good Translation,0.770098,0.7871692,-0.017071247
+avoir le dalle,77,bien je vais à la cantine parce que j'ai la dalle,well i am going to the canteen because i have got the munchies,"Well, I'm going to the cafeteria because I'm starving",Good Translation,0.78372854,0.73719525,0.046533287
+avoir le dalle,78,je sais pas mais j'ai la dalle,i don't know man but i'm hungry as all hell,I don't know but I'm starving,Good Translation,0.6819048,0.71777105,-0.03586626
+avoir le dalle,79,c'est pas trop tôt j'ai la dalle,- about time eric i'm starving,It's about time I'm starving.,Partial Translation,0.52931595,0.568862,-0.039546072
+avoir le dalle,80,jai la dalle,i'm hungry,I'm starving.,Unnatural,0.52387726,0.47824472,0.04563254
+avoir le dalle,81,y a à manger j'ai la dalle,hey there's food i'm starving,I'm hungry there's something to eat,Good Translation,0.7136712,0.7518622,-0.03819102
+avoir le dalle,82,j'ai la dalle,i'm starvin',I'm starving / I'm famished / I've got a rumble in my tummy,Good Translation,0.62133837,0.53517604,0.08616233
+avoir le dalle,83,mais j'ai la dalle alors je vais d'abord passer au palais des délices,okay but also i'm hungry so i might just stop by the food court first,but I'm starving so I'll go first to the palace of delights,Good Translation,0.705676,0.84442466,-0.13874865
+avoir le dalle,84,putain j'ai la dalle,i'm fucking starving,Bloody hell I'm starving.,Good Translation,0.61355317,0.5725005,0.04105264
+avoir le dalle,85,eh d'abord j'avais la dalle,well first of all i was starving,Oh first I had an appetite,Good Translation,0.68433,0.77474904,-0.090419054
+avoir le dalle,86,pos192230j'ai la dalle,i'm hungered,I'm starving.,Unnatural,0.49788257,0.49388576,0.0039968193
+avoir le dalle,87,j'ai la dalle moi,i'm starving,I'm starving.,Good Translation,0.60995346,0.5649824,0.04497105
+avoir le dalle,88,je suis crevé j'ai la dalle et la migraine,i don't know where the fuck we are and we don't have any water i'm tired i'm hungry and i've got a headache,I am exhausted I'm starving and getting a headache,Unnatural,0.5325675,0.5970826,-0.064515114

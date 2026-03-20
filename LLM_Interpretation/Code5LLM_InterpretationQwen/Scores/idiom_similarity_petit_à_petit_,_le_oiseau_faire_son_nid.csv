@@ -1,0 +1,4 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"petit à petit , le oiseau faire son nid",0,petit à petit l'oiseau fait son nid,you know the phrase 'softly softly catchee monkey',little by little the bird makes its nest,Unnatural,0.49689406,0.95044196,-0.4535479
+"petit à petit , le oiseau faire son nid",1,a l'aise petit à petit l'oiseau fait son nid,the early bird catches the worm a stitch in time saves nine,"little by little, the bird makes its nest",Good Translation,0.6015277,0.9203835,-0.31885582
+"petit à petit , le oiseau faire son nid",2,petit à petit l'oiseau fait son nid,i call it my onwards and upwards theory,step by step the bird makes its nest,Good Translation,0.46392,0.8421781,-0.3782581

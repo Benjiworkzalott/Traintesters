@@ -1,0 +1,11 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+ah la vache,0,ils avaient des brosses impeccables - ah la vache,- and your grandfathers,they had immaculate brushes - oh cow,Literal Translation,0.46272504,0.8765142,-0.41378915
+ah la vache,1,ah la vache il l'a pas volé,he sure had it coming,oh my god he hasn't stolen it,Literal Translation,0.5388988,0.7438606,-0.20496178
+ah la vache,2,ah la vache,bloody hell,"Oh no! (idiomatic expression roughly equivalent to ""good grief"")",Unnatural,0.4752481,0.35943538,0.11581272
+ah la vache,3,salut ah la vache ils sont costauds ceux-là,oh my god who's winning so far,Hello look at those big guys over there,Literal Translation,0.5194142,0.65819013,-0.13877594
+ah la vache,4,ah la vache,- holy moly,Good grief! or Good gosh!,Good Translation,0.49057603,0.43748975,0.05308628
+ah la vache,5,ah la vache,holy cow,"Oh no, not now!",Mistranslation,0.49402595,0.44726855,0.0467574
+ah la vache,6,ah la vache c'est le saumon,it's the salmon guy,"Oh my god, it's salmon!",Partial Translation,0.66538036,0.6917344,-0.026354015
+ah la vache,7,ah la vache on a un fax de l'ij,it's a fax from forensics,Oh my god we have a fax from IJ,Good Translation,0.75026435,0.8445625,-0.094298124
+ah la vache,8,ah la vache,- attention - oh boy,Good grief or Good Lord,Mistranslation,0.4668907,0.34552258,0.12136811
+ah la vache,9,- d'accord d'accord ah la vache,all right all right all right,- okay okay oh my goodness,Good Translation,0.58100814,0.56462765,0.016380489

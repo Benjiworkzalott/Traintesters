@@ -1,0 +1,23 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+être à le taquet,0,mes parents sont au taquet,i've got a scholarship interview in a day carter,My parents are in a mess/ My parents are at their wit's end,Mistranslation,0.5757257,0.7837383,-0.20801264
+être à le taquet,1,mon dieu tout le monde est au taquet aujourd'hui,my goodness everyone's on their game today,"My God, everyone is off their rocker today.",Mistranslation,0.8334949,0.7853385,0.04815638
+être à le taquet,2,hier soir j'ai rencontré une artiste de selfie sexy et je suis au taquet parce que je vais peut-être la baiser,last night i met this sexy young selfie artist and i'm psyched because maybe i'm gonna fuck her brains out laughs,last night I met a sexy self-taken photo model and I'm in for it because I might go fuck her.,Good Translation,0.84546375,0.829378,0.016085744
+être à le taquet,3,mes gars sont au taquet,my guys prevailed,My boys are in trouble,Mistranslation,0.7676755,0.7494092,0.01826632
+être à le taquet,4,je suis au taquet,i'm on fire,I'm in a tight spot,Partial Translation,0.69705844,0.7131242,-0.016065776
+être à le taquet,5,hale est au taquet,hale's on red alert,The game's afoot.,Mistranslation,0.76005864,0.64935,0.110708654
+être à le taquet,6,- je suis au taquet,i get excited,- I'm completely done or fed up (informal),Mistranslation,0.71464944,0.5222535,0.19239593
+être à le taquet,7,ils sont au taquet,- they lovin' that shit,They're in trouble,Partial Translation,0.6514964,0.7478978,-0.09640139
+être à le taquet,8,- il est au taquet boulon,- boulon's giving it his all,"- he's out of commission, out of action",Mistranslation,0.79095316,0.611895,0.17905813
+être à le taquet,9,mec tu es au taquet pour l'équipe,bro you are ready for football,You're out of line for the team.,Mistranslation,0.6859455,0.71443474,-0.028489232
+être à le taquet,10,d'accord je suis au taquet crois-moi dès demain matin,all righti'm all over ittrust mefirst thing tomorrow morning,Okay I'm on it believe me from tomorrow morning,Good Translation,0.7594068,0.829324,-0.0699172
+être à le taquet,11,demain on va être au taquet je veux une équipe au parlement et des éditions spéciales,try to find out who's busy in the morning we must have the castle fully staffed from now on and we need an extra broadcast,Tomorrow we're going to be on air I want a team in parliament and special editions,Partial Translation,0.5815748,0.86320484,-0.28163004
+être à le taquet,12,les autres compagnies sont au taquet,the other companies have bumped into high gear,the other companies are having trouble keeping up with costs.,Mistranslation,0.8495389,0.76932275,0.08021617
+être à le taquet,13,tu es au taquet templeton,way to keep your eyes on the prize templeton,You're on a Templeton trip.,Mistranslation,0.68344086,0.74636376,-0.062922895
+être à le taquet,14,je suis au taquet mec,ah man i'm so pumped,I'm completely done with it man,Mistranslation,0.639578,0.53985864,0.099719346
+être à le taquet,15,- il est au taquet hein,yeah busy guy right,"- he's in a bad state, isn't he?",Mistranslation,0.71253145,0.70102835,0.0115031
+être à le taquet,16,- en attendant les bagnoles brûlent les flics sont au taquet,yeah meanwhile cars are burning the cops are on edge my reporters are all duds,- meanwhile cars are burning and cops are on their knees,Partial Translation,0.75610054,0.8276544,-0.071553886
+être à le taquet,17,on est au taquet,we're all over it,We're in a tight spot.,Partial Translation,0.673375,0.7641246,-0.09074956
+être à le taquet,18,il est au taquet,he's ready to go,he's gone crazy,Mistranslation,0.77113146,0.7265687,0.044562757
+être à le taquet,19,je suis au taquet,- i'm ready,I'm totally knackered.,Mistranslation,0.68539023,0.61116505,0.07422519
+être à le taquet,20,les norvégiens sont au taquet sur le recyclage,i didn't know you norskies were so good at waste management,The Norwegians are on top of recycling,Good Translation,0.6754326,0.88844573,-0.21301311
+être à le taquet,21,vous êtes au taquet,you're wound too tight,You're completely off the beaten path or you've gone completely crazy.,Mistranslation,0.62999654,0.58880347,0.041193068

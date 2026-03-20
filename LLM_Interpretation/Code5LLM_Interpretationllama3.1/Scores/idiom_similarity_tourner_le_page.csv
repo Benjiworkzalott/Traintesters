@@ -1,0 +1,109 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+tourner le page,0,c'est la faute à personne terminé tourne la page j'en ai marre,move on because frankly i'm sick of hearing about it,"No one is at fault, turn the page I'm fed up.",Good Translation,0.64912176,0.81885576,-0.169734
+tourner le page,1,ma cliente est prête à tourner la page,my client is ready to put this behind her,my client is ready to turn the page,Good Translation,0.8545133,0.94081545,-0.08630216
+tourner le page,2,non tournons la page,now it's just time to let go,Let's not turn the page on this yet.,Good Translation,0.49855435,0.7570291,-0.25847477
+tourner le page,3,ils se féliciteront et tourneront la page,they'll pat themselves on the back and they'll forget about it,They will congratulate each other and turn the page.,Good Translation,0.7075001,0.9170532,-0.20955312
+tourner le page,4,tu dois tourner la page comment ça,you have to let it go,You have to turn the page how,Unnatural,0.5545051,0.882575,-0.32806987
+tourner le page,5,- tourne la page,- get over it,turn the page,Unnatural,0.60334694,0.8468439,-0.24349695
+tourner le page,6,laisse une chance à terri de tourner la page,you have to let terri move on with her life,Give Terry a break and let him move on,Literal Translation,0.70115817,0.73471594,-0.033557773
+tourner le page,7,- si on tournait la page,- let's turn the page,- if we turned the page,Good Translation,0.78918624,0.84986746,-0.060681224
+tourner le page,8,mais si tu es vraiment désolée lui dire en face ça lui fera tourner la page,but if you really are sorry then telling her face-to-face it'll give her closure,but if you are really sorry then telling her directly will get it over with,Good Translation,0.87555295,0.8324299,0.043123066
+tourner le page,9,tu as l'air d'avoir tourné la page,you seemed to have moved on okay,You look like you've moved on,Good Translation,0.74323773,0.798211,-0.054973245
+tourner le page,10,le fait est que ça m'a fait du mal mais j'ai tourné la page,point is i grieved and i moved on,The fact is that it hurt me but I turned the page.,Good Translation,0.6738018,0.9459933,-0.27219152
+tourner le page,11,tourner la page je suppose,closure i guess,turn over a new leaf I suppose,Good Translation,0.5846572,0.66803163,-0.08337444
+tourner le page,12,il tourne la page et il ne noie pas son chagrin dans les jeux vidéo,this means he's moving on with his life and he's not wallowing in self-pity and playing video games,he turns the page and doesn't drown his sorrow in video games,Good Translation,0.7532345,0.9248633,-0.17162877
+tourner le page,13,impossible de tourner la page,there is no moving on,Impossible to turn the page,Good Translation,0.6282184,0.92125523,-0.29303682
+tourner le page,14,veuillez l'excuser sa femme l'a quitté on dirait qu'il a tourné la page,you'll have to forgive him his wife's just dumped him just like another one,Please excuse him his wife left him one would say he has turned the page.,Good Translation,0.71479,0.9338444,-0.2190544
+tourner le page,15,quand mer a appelé elle a dit que tu tournais la page,when mer called she said you were moving on,when the sea called she said you were turning the page,Good Translation,0.78894717,0.86925703,-0.08030987
+tourner le page,16,tournons la page et dansons,oh it's been an awfully long time,Let's turn the page and dance,Good Translation,0.47004277,0.9569603,-0.48691756
+tourner le page,17,bon ok continuer de tourner les pages,all right keep flipping pages,good okay let's keep turning the pages,Good Translation,0.83263224,0.88398135,-0.051349103
+tourner le page,18,j'ai pas tourné la page je t'en ai voulu,and i didn't move on dad i blamed you,I didn't turn the page I was mad at you,Good Translation,0.5675865,0.7997759,-0.23218942
+tourner le page,19,pour tourner la page en douceur,so we can move on gracefully,to turn the page softly,Literal Translation,0.64519095,0.91768265,-0.2724917
+tourner le page,20,- il tourne les pages à l'envers,it keeps turning the pages back,- he turns the pages upside down,Good Translation,0.803293,0.9386323,-0.13533932
+tourner le page,21,ecoute je trouve qu'il faut que tu tournes la page,listen i think you need to move out,"Listen, I think you have to turn the page",Good Translation,0.7292513,0.90742505,-0.17817372
+tourner le page,22,tu m'as dit de tourner la page,you told me to move on,You told me to turn the page,Good Translation,0.7410346,0.9275719,-0.18653727
+tourner le page,23,tu refuses juste de tourner la page,you can't let go because you're not willing to,You just refuse to turn the page,Good Translation,0.6314696,0.9455856,-0.314116
+tourner le page,24,retourne la page,oy turn it over,turn back the page,Good Translation,0.6548057,0.9032407,-0.24843496
+tourner le page,25,jack tourne la page,- jack get over it you've been re-tasked,turn the page,Literal Translation,0.56899744,0.7431773,-0.17417985
+tourner le page,26,il faut savoir tourner la page,you have to move on,You have to know how to turn the page,Good Translation,0.6509752,0.93590164,-0.2849264
+tourner le page,27,faut tourner la page gamin,you need to let this go kid,we must move on from this childishness,Good Translation,0.59761703,0.5721245,0.025492549
+tourner le page,28,vous savez peut-être que ça va leur permettre de tourner la page,you know maybe maybe it'll give them closure,You may know that it will allow them to turn the page.,Good Translation,0.81866395,0.950451,-0.13178706
+tourner le page,29,- vous êtes prêts à tourner la page,- you guys ready for closure,- are you ready to turn over a new leaf,Good Translation,0.7484135,0.80419505,-0.055781543
+tourner le page,30,on ne peut pas tourner la page avant d'être prêt,people can't move on before they're ready,You can't turn the page before being ready.,Good Translation,0.7569179,0.9308992,-0.17398131
+tourner le page,31,jordan n'avait pas tourné la page,jordan wasn't over him,Jordan hadn't turned the page.,Good Translation,0.83683246,0.8926025,-0.05577004
+tourner le page,32,après un décès vous devez vraiment tourner la page,once a person's dead you should really put it aside,after a death you really have to move on,Good Translation,0.7343461,0.7691784,-0.0348323
+tourner le page,33,et je te comprends mack mais j'ai besoin de toi il faut que tu tournes la page,- and i feel for you mack but i need you to think this through,and I understand you Mack but I need you it has to be that you turn the page,Literal Translation,0.7861029,0.9259853,-0.13988239
+tourner le page,34,pour tourner la page,so you can move on,to turn over a new leaf,Good Translation,0.60574126,0.6717305,-0.065989256
+tourner le page,35,c'est déplacé de te suggérer qu'il a peut-être envie de tourner la page,am i being really evil if i suggest that maybe he's trying to move on,That's a bit out of place to suggest he might be eager to turn the page,Unnatural,0.7121839,0.847322,-0.1351381
+tourner le page,36,tu tournes la page,you've moved on,You're turning the page.,Good Translation,0.6407827,0.8410927,-0.20030999
+tourner le page,37,je ne sais pas comment tourner la page,i don't know how to get closure,I don't know how to turn the page.,Good Translation,0.66542363,0.8753799,-0.20995629
+tourner le page,38,mais maintenant il faut tourner la page,but now it's time to let go,but now we have to turn the page,Good Translation,0.73873997,0.9460965,-0.20735651
+tourner le page,39,il m'a bien fallu tourner la page,i needed something,I had to turn the page on him.,Literal Translation,0.6754555,0.7994805,-0.12402499
+tourner le page,40,tournez la page,get over it,Turn the page,Unnatural,0.5879205,0.87932396,-0.29140347
+tourner le page,41,tu n'as pas tourné la page,but there hasn't been any closure,You haven't turned the page yet.,Good Translation,0.5832528,0.8516604,-0.26840758
+tourner le page,42,une partie de moi espère que sam tourne la page,ugh a part of me hopes that sam moves on you know,a part of me hopes that Sam will turn the page,Good Translation,0.8796114,0.9648807,-0.08526933
+tourner le page,43,ça fait six ans j'ai besoin de tourner la page,it's been 6 years i need to move on,It's been six years I need to turn the page,Good Translation,0.7996043,0.9282362,-0.12863189
+tourner le page,44,ça s'appelle tourner la page,it's called moving on,to turn over a new leaf,Good Translation,0.65283084,0.6963978,-0.043566942
+tourner le page,45,on tourne la page,you move on,We're turning over a new leaf.,Good Translation,0.58265674,0.62175107,-0.03909433
+tourner le page,46,et la suivante tu es censé être son ami et prétendre de n'avoir jamais été amoureux et tourner la page pour tout recommencer,and the next you're supposed to be friends and pretend you're never in love and then get closure so you can do it all over again,and then you're supposed to be her friend and pretend you've never been in love and move on for it all to start again,Good Translation,0.83807707,0.8630785,-0.025001407
+tourner le page,47,vous avez tourné la page,closure,You've turned the page.,Good Translation,0.5344839,0.87410647,-0.33962256
+tourner le page,48,aide-le à tourner la page,help him to move on,Help him turn the page.,Good Translation,0.78166485,0.94054854,-0.15888369
+tourner le page,49,je sais tourner la page,i get things out of my system,I know how to turn over a new leaf.,Good Translation,0.5906645,0.7055142,-0.11484969
+tourner le page,50,écoute chéri si la musique te plaît viens me tourner les pages,darling if you like the music sit beside me and turn the pages,Listen dear if you like the music come turn my pages for me.,Good Translation,0.8792528,0.9142978,-0.035045028
+tourner le page,51,je les aide à tourner la page les dirigent vers des livres ou des groupes de soutien,i helped her let go of her past steered her towards books and support groups,I help them turn the page direct them to books or support groups.,Good Translation,0.74108493,0.95540196,-0.21431702
+tourner le page,52,- peut-être que je pourrais tourner la page,- y'know maybe i can get some closure,Maybe I could turn over a new leaf.,Good Translation,0.75507826,0.7819433,-0.026865065
+tourner le page,53,ça vous permet de tourner la page,does that give you closure,It allows you to turn the page,Good Translation,0.56005603,0.9393451,-0.3792891
+tourner le page,54,faut tourner la page,get a life,It's time to turn the page.,Good Translation,0.59046423,0.82701755,-0.23655331
+tourner le page,55,ta famille a tourné la page,your family moved on,Your family has turned the page.,Good Translation,0.7519926,0.86418754,-0.112194955
+tourner le page,56,pleure matt et tourne la page,mourn matt's passing,Cries and turns the page,Unnatural,0.68765014,0.8063784,-0.11872828
+tourner le page,57,chuchotant - tu es prêt à tourner la page,- are you ready to turn the page,whispering - are you ready to turn the page?,Unnatural,0.8171629,0.8597756,-0.04261273
+tourner le page,58,- alors tourne la page,- so move on,- then turn the page,Good Translation,0.6614902,0.93352085,-0.27203065
+tourner le page,59,je ne suis pas un expert en amour mais je pense que pour tourner la page sur ronnie il faut réellement avancer,look i'm not an expert on love but i think in order to move on from ronnie you actually have to move on,I'm not an expert on love but I really think we need to move forward in order to turn the page with Ronnie.,Good Translation,0.8596583,0.91614664,-0.056488335
+tourner le page,60,garvin veut tourner la page,garvin wants this off his screen,Garvin wants to turn the page.,Good Translation,0.7903421,0.9216291,-0.13128698
+tourner le page,61,il avait du mal à tourner la page et j'essayais de le convaincre de me renvoyer mes affaires,well he was having a hard time letting go and i was trying to get him to send my things,He had trouble turning the page and I was trying to convince him to send my things back.,Good Translation,0.80010647,0.92758703,-0.12748057
+tourner le page,62,dans une famille il faut savoir tourner la page,well still families need to find closure and move on,In a family you have to know how to turn the page.,Good Translation,0.68046236,0.945963,-0.26550066
+tourner le page,63,j'espère que t'as tourné la page,i hope you've put it behind you,I hope you're over it.,Good Translation,0.77809954,0.7529988,0.025100708
+tourner le page,64,elle doit tourner la page,madison yeah she needs to move on,She must turn the page.,Good Translation,0.68507445,0.9629573,-0.27788287
+tourner le page,65,- tourne la page,let him go annie,Turn the page,Literal Translation,0.47695127,0.83294123,-0.35598996
+tourner le page,66,- comment tourner la page,- now how do you just turn that off,how to move on,Good Translation,0.55976415,0.60428464,-0.044520497
+tourner le page,67,je croyais que tu avais tourné la page,i thought you were over pete,I thought you had turned the page,Good Translation,0.6859999,0.8783523,-0.19235241
+tourner le page,68,je ne sais pas pourquoi j'ai l'impression que c'est plus de la malveillance qu'une envie de tourner la page,i don't know why i feel like this is more about spite than closure though aw,I don't know why I have the feeling that it's more malevolence than a desire to turn the page.,Good Translation,0.705483,0.92033505,-0.21485204
+tourner le page,69,au moins on lui a permis de tourner la page,at least we brought her some closure,At least they let her turn over the page.,Literal Translation,0.7492596,0.9106012,-0.16134161
+tourner le page,70,alors meredith m'a appelée pour me dire que tu voulais tourner la page,so meredith called me and told me you might be moving on,so Meredith called me to say you wanted to move on,Good Translation,0.83190334,0.82677484,0.005128503
+tourner le page,71,si on peut trouver qui a fait ça à drew ça lui permettra de pouvoir tourner la page,if we can find out who did this to drew it's gonna give her closure allow her to move on,if we can find out who did that to Drew it will help him move on,Mistranslation,0.7796743,0.77520144,0.0044728518
+tourner le page,72,je pensais que j'avais tournée la page pour la perte de mes bébés,i thought i'd dealt with the loss of my babies,I thought I had turned the page on the loss of my babies.,Good Translation,0.82873553,0.85701096,-0.02827543
+tourner le page,73,je pense qu'on doit se rappeler du meilleur de lui et on doit tourner la page,i think we have to remember the best parts of him and we have to move on,I think we must remember the best of him and turn the page.,Good Translation,0.87774694,0.9629134,-0.085166454
+tourner le page,74,aidez-moi à tourner la page 46,help me turn to page 46,Help me turn the page to 46.,Good Translation,0.9371424,0.8909015,0.046240866
+tourner le page,75,chuck tourne la page et sois heureux,chuck just move on and be happy,Turn the page and be happy,Good Translation,0.7972607,0.81164324,-0.014382541
+tourner le page,76,elle est morte tourne la page,she's dead and gone so get over it,she's dead turn the page,Partial Translation,0.7403809,0.9284794,-0.18809849
+tourner le page,77,vous n'avez jamais tourné la page avec christina,- you've never gotten over christina,You never turned the page on Christina,Good Translation,0.8258948,0.86877847,-0.042883694
+tourner le page,78,rafe t'a envoyé son ami pour qu'il veille sur toi tu peux tourner la page,rafe sent his best friend to tell you so you would be ok so you can move on,Rafael sent his friend to keep an eye on you; you can close this page now.,Good Translation,0.7598604,0.7933042,-0.03344381
+tourner le page,79,j'ai tourné la page,well i'm over you,I've turned the page,Good Translation,0.6119797,0.8374574,-0.2254777
+tourner le page,80,pourquoi 10 heures après avoir tué vous avez l'air d'avoir tourné la page,why is it 10 hours after killing someone you seem past it,why did you look like you had moved on 10 hours after killing him?,Good Translation,0.8369654,0.8119377,0.025027692
+tourner le page,81,apparemment elle tournez la page d'une relation,and apparently she was on the rebound,Apparently she's turning the page on a relationship.,Good Translation,0.70015574,0.9378637,-0.23770797
+tourner le page,82,vas-y tourne la page,- turn the page already,Go ahead and turn the page.,Good Translation,0.72372437,0.73930573,-0.015581369
+tourner le page,83,tourne la page,turn the page,turn the page,Good Translation,0.88246053,0.88246053,0.0
+tourner le page,84,tellement pour tourner la page et avancer,so much for closure and moving on,so much to turn the page and move on,Unnatural,0.67650557,0.8915248,-0.21501923
+tourner le page,85,quand on est chanceux on tourne la page,if you're lucky you get past it,when you're lucky you turn the page,Good Translation,0.5646452,0.7985203,-0.23387516
+tourner le page,86,bon je suis désolé tu es désolé on tourne la page d'accord,look i'm sorry you're sorry next chapter okay,Alright I'm sorry you're sorry let's move on okay,Good Translation,0.7288245,0.7397056,-0.010881126
+tourner le page,87,je t'ai donné la lettre pour que tu tournes la page pas pour ouvrir une enquête,you know i gave you that note so you could finally get closure not to open an investigation,I gave you the letter so that you could turn over a new leaf and not to open an investigation.,Good Translation,0.77025473,0.80652076,-0.03626603
+tourner le page,88,j'ai mon bilan de 12 semaines demain avec le dr moss je cherche à tourner la page,anyway i have my 12-week checkup tomorrow with dr moss so i ' m looking to put this whole thing behind me,I have my 12-week scan with Dr Moss tomorrow and I'm trying to move on from it all.,Good Translation,0.8028023,0.801927,0.0008753538
+tourner le page,89,dans ce métier quand les gens convoitent plus votre mort que votre vie l'on comprend qu'il est temps de tourner la page,in this trade when people covet your death more than your life it's understood that it's time to move on,In this line of work when people covet your death more than your life one understands it's time to turn the page.,Good Translation,0.8253221,0.9054134,-0.0800913
+tourner le page,90,je n'ai jamais tourné la page,i never got closure you know,I never turned the page.,Unnatural,0.70320773,0.87278545,-0.16957772
+tourner le page,91,la confronter tout à fait puis tourner la page,confront it by all means but then move on,to confront her fully then turn the page on it,Good Translation,0.76727533,0.9313091,-0.16403377
+tourner le page,92,il n'a jamais vraiment tourné la page,and he never really has gotten over me,He never really turned the page,Good Translation,0.74408907,0.9384997,-0.19441062
+tourner le page,93,je n'ai pas tourné la page car silver me plaît,no i didn't just get over it 'cause i like silver,I haven't turned over yet because I like Silver,Literal Translation,0.71076524,0.6759355,0.034829736
+tourner le page,94,tu n'as jamais aimã personne plus d'une nuit et c'est toi qui va me dire qu'il est temps de tourner la page,you never loved anyone more than one night and it is you who will tell me it is time to turn the page,You've never loved anyone more than one night and it's you who'll tell me that it's time to turn the page.,Good Translation,0.8962804,0.90900916,-0.012728751
+tourner le page,95,aide-moi à tourner les pages,all right help me flip these pages,turn the page for me,Literal Translation,0.87214243,0.84038234,0.031760097
+tourner le page,96,ai évité de faire du bruit en tournant les pages,i tried to turn the pages quietly,I avoided making a noise by turning the pages.,Good Translation,0.8466116,0.96081626,-0.114204645
+tourner le page,97,paie tes impôts tes pénalités et tourne la page,pay your back taxes pay the penalties and move on from this just put it behind you,Pay your taxes and penalties and turn the page.,Good Translation,0.7944261,0.8900857,-0.09565961
+tourner le page,98,faut savoir tourner la page,ought to be a point where you move on,One has to turn the page.,Good Translation,0.6610979,0.88561404,-0.22451615
+tourner le page,99,et comment je saurais qu'elle a tourné la page et que tu ne peux pas,and how would i know that she moved on and you can't,and how would I know that she has turned the page and you can't.,Good Translation,0.85250723,0.956705,-0.10419774
+tourner le page,100,je cherche à tourner la page,maybe i'm looking for closure,I'm trying to turn over a new leaf.,Good Translation,0.7037852,0.7599049,-0.05611974
+tourner le page,101,tu es en train de tourner la page,you really are turning over a new leaf,You're turning the page.,Good Translation,0.6784711,0.8682697,-0.1897986
+tourner le page,102,je crois qu'il est en train de tourner la page,you know i think he's turning over a new leaf,I think he's turning over a new leaf.,Good Translation,0.7867522,0.8050794,-0.018327177
+tourner le page,103,vous croyez qu'il est en train de tourner la page,think he's up there turning' over a new leaf,You think he's turning a new leaf.,Good Translation,0.7309359,0.79846466,-0.067528784
+tourner le page,104,je sais que tu as besoin d'espace mais tu ne peux pas en avoir car alex est en train de tourner la page,i know you want space but you can't have space because alex might be moving on,I know you need space but you can't have it because Alex is flipping through the pages.,Literal Translation,0.8710824,0.8959699,-0.024887502
+tourner le page,105,je suis en train de tourner la page,i'm turning over a new leaf,I'm turning the page,Good Translation,0.7470676,0.88436246,-0.13729489
+tourner le page,106,je suis en train de tourner la page vraiment je travaille dur pour tourner la page,i'm getting over this i am i'm working really hard to get over this,I'm turning the page literally I work hard to turn the page,Literal Translation,0.7710388,0.9348898,-0.16385102
+tourner le page,107,si ça marche pas tournez la page,if it doesn't work out you move on chuckles mm-hmm,"If it doesn't work, turn the page.",Good Translation,0.67163205,0.9004146,-0.22878253

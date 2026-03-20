@@ -1,0 +1,13 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+changer un crèmerie,0,m blumenthal qui menace de changer de crèmerie m hardigan il t'a dit ça,mr blumenthal's threatening to take his business elsewhere,Blumenthal who threatened to change his dairy if Hardigan didn't tell him that.,Literal Translation,0.7496727,0.72087324,0.028799474
+changer un crèmerie,1,elles ont changé de crèmerie pour se cacher,the two ninnies just moved to a more private venue,"她们为了隐藏而更换了奶油店。 
+
+Note: This literal translation might not make much sense in English as ""crèmerie"" can mean both a cream shop and a nursery in French, depending on the context. A more natural English translation would be:
+
+""They changed hiding places from a cream shop."" or
+
+""They switched to another cream shop for掩护。""
+
+Given the context is about hiding, it's best translated as:
+
+""They changed hideouts from a cream shop.""",Literal Translation,0.6487627,0.7479726,-0.099209905

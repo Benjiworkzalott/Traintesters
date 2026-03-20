@@ -1,0 +1,6 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+prendre son clique et son claque,0,alors j'ai pris mes cliques et mes claques et je me suis enfui comme un perdu,then i packed my things and ran away like a madman,Then I took my things and ran away like a lost child.,Unnatural,0.8153751,0.8446832,-0.02930808
+prendre son clique et son claque,1,prenez vos cliques et vos claques partez,i want you out of the house,Take your likes and your dislikes and leave.,Literal Translation,0.55241936,0.69551104,-0.14309168
+prendre son clique et son claque,2,prends tes cliques et tes claques et va-t'en,pack up your shit and go home,Take your clicks and your slaps and get out.,Unnatural,0.65942305,0.85559845,-0.1961754
+prendre son clique et son claque,3,prends tes cliques et tes claques et va à paris,do as i say and head to paris first thing,Take your clips and your crack and go to Paris,Literal Translation,0.7128561,0.7893369,-0.076480806
+prendre son clique et son claque,4,voulez-vous prendre vos cliques et vos claques,how much time do you need to pack and leave,Do you want to take your mice and your fists?,Mistranslation,0.48407215,0.6811192,-0.19704705

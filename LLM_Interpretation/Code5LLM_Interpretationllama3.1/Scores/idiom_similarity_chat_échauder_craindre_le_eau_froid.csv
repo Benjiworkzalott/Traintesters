@@ -1,0 +1,4 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+chat échauder craindre le eau froid,0,inutile chat échaudé craint l'eau froide,they're scared enough as it is,A scorched cat fears cold water.,Literal Translation,0.5629571,0.80089164,-0.23793453
+chat échauder craindre le eau froid,1,chat échaudé craint l'eau froide hein,the burned child dreads the fire eh,"A burnt cat is wary of a cold water, isn't it?",Mistranslation,0.6402962,0.7956321,-0.1553359
+chat échauder craindre le eau froid,2,chat échaudé craint l'eau froide,i got burned once and i learned my lesson,A burnt cat fears cold water.,Good Translation,0.411812,0.8402356,-0.42842358

@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"tenir à le courant,ça marcher",0,j'envisage de changer de camp je vous tiens au courant je vous dirai si ça marche,it's a question you haven't askedmikaylaand i'm so surprised,I'm considering changing teams I'll keep you posted I'll let you know if it works out.,Unnatural,0.4905846,0.8689848,-0.3784002

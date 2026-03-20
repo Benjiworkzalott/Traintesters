@@ -1,0 +1,44 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+avoir le flemme,0,ses parents avaient la flemme de l'appeler bob,what his parents were too lazy to come up with like bob,His parents had the laziness to call him Bob.,Mistranslation,0.7640213,0.88937426,-0.12535298
+avoir le flemme,1,je ne sais pas si sortir ou pas j'ai la flemme,i don't know if i want to go or if i'm too tired but,I don't know if I should go out or not; I'm lazy.,Good Translation,0.7597298,0.7646352,-0.0049054027
+avoir le flemme,2,maintenant j'ai la flemme,now i'm feeling lazy,now I'm lazy,Unnatural,0.74529827,0.7447454,0.0005528927
+avoir le flemme,3,il n'y a plus rien j'ai eu la flemme de faire des courses,we're all out and i was just too bored to go to the store,there is nothing left I've been too lazy to go grocery shopping,Good Translation,0.63945997,0.71710694,-0.07764697
+avoir le flemme,4,non j'ai la flemme,- no i am lazy,I don't feel like it.,Unnatural,0.64872265,0.62788004,0.020842612
+avoir le flemme,5,ou bien tu as eu la flemme,someone who'd wronged you,or you were lazy,Literal Translation,0.5997324,0.74937546,-0.14964306
+avoir le flemme,6,- j'ai la flemme,- i don't feel like it,-I'm lazy,Partial Translation,0.66247,0.68709797,-0.024627984
+avoir le flemme,7,- j'ai eu la flemme,- i don't know i'm lazy,-I was lazy,Unnatural,0.58472264,0.61297905,-0.028256416
+avoir le flemme,8,je veux dire je ferai ce que je peux mais pour être honnête j'aurai la flemme,i mean i'll do what i can but in all honesty it's going to be half-arsed,"I want to say I'll do what I can but to be honest, I'll be lazy",Good Translation,0.81452185,0.8146578,-0.0001359582
+avoir le flemme,9,moi non j'ai la flemme,not me laziness,I don't have the energy/motivation.,Unnatural,0.6302298,0.5649761,0.065253675
+avoir le flemme,10,j'ai la flemme de lire des sous-titres,actually no i'm not down for subtitles tonight,I feel lazy to read subtitles,Good Translation,0.65112454,0.79921114,-0.14808661
+avoir le flemme,11,il faudrait être sur le coup j'ai la flemme,it's a full-time job just monitoring it,it would require being there in person I'm too lazy,Good Translation,0.52248865,0.6887963,-0.16630763
+avoir le flemme,12,mais il avait la flemme,he was just too lazy to go for a walk,but he was lazy,Unnatural,0.6967834,0.79404396,-0.097260535
+avoir le flemme,13,j'ai la flemme,i'm so lazy today,I'm lazy,Unnatural,0.5637696,0.6161506,-0.05238104
+avoir le flemme,14,parce qu'elle a la flemme de les laver,'cause she's too lazy to wash 'em,because she feels lazy to wash them,Good Translation,0.871665,0.8827754,-0.011110425
+avoir le flemme,15,- non j'ai la flemme,no i don't feel like it,"- no, I'm lazy",Partial Translation,0.6868786,0.67965496,0.0072236657
+avoir le flemme,16,ouais j'avais la flemme de me changer là-bas,i didn't bother changing,"yes, I was too lazy to change there",Good Translation,0.6148066,0.73454535,-0.11973876
+avoir le flemme,17,ils ont la flemme de sortir de chez eux,they can't even be bothered to get out of the house you know,They have the laziness to go out of their homes.,Mistranslation,0.76740336,0.8667254,-0.09932202
+avoir le flemme,18,mes parents ont eu la flemme de verser du ciment dans le sol,my parents were too lazy to actually pour the concrete in the ground,my parents were too lazy to pour cement into the ground,Unnatural,0.80193245,0.8324008,-0.030468345
+avoir le flemme,19,j'ai toujours voulu en faire des fraîches mais j'ai la flemme merci,i've always wanted to learn how to make fresh pasta but i've been too lazy thank you,I always wanted to make fresh ones but I'm lazy thanks,Good Translation,0.65115803,0.79447967,-0.14332163
+avoir le flemme,20,je le fais souvent quand il pleut mais là j'ai eu la flemme je crois,i often do when it's raining or whatever but last night i was just lazy i guess,"I do it often when it rains but this time I was too lazy, I think.",Good Translation,0.8197303,0.8518092,-0.03207892
+avoir le flemme,21,j'ai la flemme de venir avec toi,i don't want to go with you,I'm lazy to come with you,Unnatural,0.65890837,0.7338532,-0.074944854
+avoir le flemme,22,pour être franc j'ai la flemme,to be honest i'm too lazy,"to be honest, I'm lazy",Unnatural,0.5963436,0.5957474,0.00059616566
+avoir le flemme,23,si vous avez la flemme d'y aller dites-le,look if you want to skip the arraignments and sleep in just say so,"if you're too lazy to go, say so",Good Translation,0.53834414,0.76868474,-0.2303406
+avoir le flemme,24,il avait la flemme de nous déposer oui,just too damn lazy to stop at the ranch gate,"He had no enthusiasm to drop us off, yes.",Unnatural,0.52900577,0.75121397,-0.2222082
+avoir le flemme,25,j'ai une cargaison d'oiseaux qui avaient la flemme de rentrer,oh i got a flock of birds that were too tired to fly back north,I have a shipment of birds that were too lazy to return/home.,Good Translation,0.8169818,0.8534321,-0.036450326
+avoir le flemme,26,rose était juste dans mon lit parce qu'elle avait la flemme de rentrer,jake the only reason rose was in my bed isbecauseshewas too tired to go home,Rose was just in my bed because she had the laziness to go inside.,Mistranslation,0.7907491,0.8405879,-0.04983884
+avoir le flemme,27,il a la flemme d'inventer des personnages,apparently he's too lazy to come up with new characters,He has the laziness to invent characters,Literal Translation,0.7450228,0.8951832,-0.15016043
+avoir le flemme,28,la famille a eu la flemme hein,my family could not be disturbed right,"the family had the laziness, huh?",Literal Translation,0.5581938,0.6837746,-0.12558079
+avoir le flemme,29,- j'ai la flemme de recommencer,-maybe i just don't wanna start over,-I don't feel like starting again,Good Translation,0.70221883,0.7421719,-0.039953053
+avoir le flemme,30,vous avez eu la flemme de retourner deanna,you were too lazy to check on deanna's wound,you had the laziness to return deanna,Mistranslation,0.66754293,0.8829595,-0.21541655
+avoir le flemme,31,j'ignore où dans le salon et j'ai la flemme de chercher,i don't know where in the living room and i don't feel like looking for it,I don't know where in the living room and I'm lazy to look for it,Good Translation,0.8203341,0.8158978,0.0044362545
+avoir le flemme,32,une fois j'ai eu la flemme de traverser le couloir donc j'ai utilisé ta brosse à dent,yeah well once i was too lazy to walk across the hall so i used your toothbrush,once I had the laziness to cross the hallway so I used your toothbrush,Literal Translation,0.7946416,0.8441999,-0.049558282
+avoir le flemme,33,j'ai la flemme de rentrer maintenant a la maison,besides it's too early to go home,I don't feel like going home now.,Good Translation,0.68747944,0.8195436,-0.13206416
+avoir le flemme,34,- j'avais la flemme,i was lazy,- I was lazy,Good Translation,0.71886694,0.74524546,-0.026378512
+avoir le flemme,35,j'ai la flemme d'aller chercher les bons formulaires,because i don't feel like going back to the office for those other forms,I don't feel like going to get the right forms.,Good Translation,0.69679695,0.7905259,-0.09372896
+avoir le flemme,36,j'ai eu la flemme,i got lazy man you know,I was lazy,Good Translation,0.5553586,0.5633386,-0.007979989
+avoir le flemme,37,nan j'avais la flemme,nah i couldn't be arsed,I didn't feel like it.,Good Translation,0.54077685,0.5413745,-0.0005976558
+avoir le flemme,38,parce que j'avais la flemme,because i was lazy,because I was lazy,Good Translation,0.7841034,0.78178024,0.0023231506
+avoir le flemme,39,ouvre ton cahier tu as la flemme,too tired to do it,open your notebook you feel lazy,Good Translation,0.51430935,0.6758904,-0.16158104
+avoir le flemme,40,j'ai rien prepare j'ai eu la flemme,i didn't feel like cooking dinner,I didn't prepare anything; I was lazy.,Good Translation,0.57956076,0.60678726,-0.027226508
+avoir le flemme,41,tu as la flemme,you don't feel like it,you are lazy,Literal Translation,0.55237436,0.557821,-0.005446613
+avoir le flemme,42,- oh j'avais la flemme de changer ça,oh i was too lazy to change it,- oh I was too lazy to change that,Good Translation,0.7676035,0.7811275,-0.013523996

@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"ça marcher,tourner le page",0,si ça marche pas tournez la page,if it doesn't work out you move on chuckles mm-hmm,if it doesn't work turn the page,Partial Translation,0.67163205,0.9289694,-0.25733733

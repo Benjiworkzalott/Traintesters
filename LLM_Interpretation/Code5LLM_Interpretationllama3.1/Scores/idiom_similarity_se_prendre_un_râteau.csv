@@ -1,0 +1,6 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+se prendre un râteau,0,parce qu'à chaque fois que j'envisage le futur avec quelqu'un je me prends un râteau,because whenever i think of a future with someone i always get kicked in the teeth,because every time I think about the future with someone I get my heart kicked in,Unnatural,0.7853508,0.80217636,-0.016825557
+se prendre un râteau,1,laisse-la se prendre un râteau,let her learn the hard way,Let her get a tongue-lashing.,Good Translation,0.73249984,0.7701612,-0.037661374
+se prendre un râteau,2,je l'ai vu se prendre un râteau il y a cinq minutes,saw him losing one five minutes ago too,I saw him take a rake five minutes ago.,Literal Translation,0.7798155,0.84575367,-0.065938175
+se prendre un râteau,3,mais j'ai pas l'habitude de me prendre un râteau,i'm not used to being blown off that's all,but I'm not used to taking it up the backside,Mistranslation,0.63085324,0.7713711,-0.14051789
+se prendre un râteau,4,alors je me prends un râteau je suppose,wow so you're turning me down,"so I get a telling-off, I suppose",Literal Translation,0.538494,0.72370064,-0.18520665

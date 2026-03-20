@@ -1,0 +1,23 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+être sage comme un image,0,il a été sage comme une image,didn't give me an ounce of trouble,He was wise like an image,Literal Translation,0.44489008,0.9575899,-0.51269984
+être sage comme un image,1,je serai sage comme une image,- like an angel of light,I will be wise like an image.,Literal Translation,0.6419997,0.92321473,-0.281215
+être sage comme un image,2,il était sage comme une image pour soudain devenir violent,then it suddenly became wild,He was wise as an image to suddenly become violent.,Literal Translation,0.6557679,0.92519236,-0.26942444
+être sage comme un image,3,certaines expressions éculées sont vraies comme les enfants doivent être sages comme des images,some overused sayings are true like children should be seen and not heard,some clichéd phrases are true as children should be wise like pictures,Unnatural,0.71544373,0.86162466,-0.14618093
+être sage comme un image,4,soyez sage comme une image,be still as a mouse,Be wise as serpents and harmless as doves.,Mistranslation,0.6150358,0.65763295,-0.042597175
+être sage comme un image,5,sa personnalité c'est d'être sage comme une image,i've raised her to behave and obey,His personality is to be wise like an image.,Literal Translation,0.5205146,0.90350246,-0.38298786
+être sage comme un image,6,alors que j'étais sage comme une image,and i was as good as gold,while I was as wise as a picture,Good Translation,0.67982674,0.92700803,-0.2471813
+être sage comme un image,7,insulte-le un peu et il sera sage comme une image,just abuse him now and again and he'll be as good as gold,Insult him a bit and he'll be wise as an image.,Unnatural,0.69588363,0.92705166,-0.23116803
+être sage comme un image,8,je serai sage comme une image arrête de me chatouiller,i won't move an inch stop that tickles,"I'll be good, just like a picture stops itching me.",Literal Translation,0.56599236,0.79901755,-0.2330252
+être sage comme un image,9,je serai sage comme une image pas un mot,i'm gonna be quiet like a little tiny mouse - not a peep,I will be wise like an image not a word.,Partial Translation,0.6835643,0.9175742,-0.23400992
+être sage comme un image,10,elle a été sage comme une image,i smuggled bella in she was as good as gold,She was wise as an image.,Literal Translation,0.57921845,0.944304,-0.36508554
+être sage comme un image,11,et papa dit que je suis sage comme une image,and papa says i'm good as gold,and daddy says I'm as wise as a picture,Good Translation,0.7841884,0.87461346,-0.090425074
+être sage comme un image,12,et nous avons besoin que tu sois sage comme une image,and we need you to be on your very best behavior,and we need you to be as wise as a picture,Literal Translation,0.6877424,0.9354669,-0.24772447
+être sage comme un image,13,nous serons sages comme des images,we're gonna be tight as a badger's bum,We will be wise as pictures.,Literal Translation,0.62613463,0.9163827,-0.29024804
+être sage comme un image,14,yi regarde papa est sage comme une image,yi look dad's sitting quietly like a child now,He looks like his father is wise as a picture.,Literal Translation,0.7027511,0.7970942,-0.094343126
+être sage comme un image,15,et je suis sage comme une image,i'm as good as gold,and I am wise like an image,Literal Translation,0.6640917,0.9490633,-0.2849716
+être sage comme un image,16,maintenant elle est sage comme une image,now she's good as gold,Now she is wise like an image.,Literal Translation,0.78208536,0.9627483,-0.18066293
+être sage comme un image,17,j'ai été sage comme une image,no of course i did i behaved like an angel,I've been good as an angel.,Good Translation,0.66921437,0.6977826,-0.028568208
+être sage comme un image,18,il est sage comme une image ce petit gentleman italien,good as gold he is little italian gentleman,"He is wise as an image, this little Italian gentleman.",Literal Translation,0.8430505,0.94950974,-0.10645926
+être sage comme un image,19,je serai sage comme une image,i'll be good as gold,I'll be wise like an image.,Literal Translation,0.70610374,0.9225768,-0.21647304
+être sage comme un image,20,sois sage comme une image j'ai une réunion très importante,you can't make any noise in the office i have a really important meeting,Be wise like an image I have a very important meeting,Literal Translation,0.63994586,0.93624306,-0.2962972
+être sage comme un image,21,on va être sage comme des images,we're gonna be real good now,We're going to be good as pictures.,Good Translation,0.6237886,0.80550635,-0.18171775

@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+ne pas avoir son langue dans son poche,0,je suis censé les détester ne pas avoir ma langue dans ma poche,i'm supposed to despise girls not feel nervous talking to one,I'm supposed to hate them not have my tongue in my pocket,Unnatural,0.70846355,0.90138364,-0.19292009

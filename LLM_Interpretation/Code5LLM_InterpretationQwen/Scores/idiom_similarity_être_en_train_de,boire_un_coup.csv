@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"être en train de,boire un coup",0,- on devrait être en train de boire un coup,- yeah we should be at the bar by now,- we should be having a drink,Good Translation,0.7759265,0.9255304,-0.1496039

@@ -1,0 +1,31 @@
+idiom_id,text,point_type,category,x,y
+0,- and your grandfathers,English Reference (Gold),Reference,8.720871,0.5623822
+1,he sure had it coming,English Reference (Gold),Reference,11.612974,-0.18931966
+2,bloody hell,English Reference (Gold),Reference,9.383168,0.10573639
+3,oh my god who's winning so far,English Reference (Gold),Reference,9.724867,0.6798171
+4,- holy moly,English Reference (Gold),Reference,9.892216,-0.22594509
+5,holy cow,English Reference (Gold),Reference,10.300651,-0.92933106
+6,it's the salmon guy,English Reference (Gold),Reference,11.569344,-0.98393184
+7,it's a fax from forensics,English Reference (Gold),Reference,12.937819,-0.9253951
+8,- attention - oh boy,English Reference (Gold),Reference,9.121546,1.3907061
+9,all right all right all right,English Reference (Gold),Reference,9.625164,1.5778708
+0,they had impeccable brushes - oh my goodness,Generated Translation,Literal Translation,11.163263,0.3091407
+1,ah the cow he didn't steal it,Generated Translation,Literal Translation,11.969957,-1.6581795
+2,ah man,Generated Translation,Unnatural,9.080908,0.8875234
+3,hello oh my god they are tough those ones,Generated Translation,Partial Translation,10.366435,0.5497328
+4,oh my goodness,Generated Translation,Good Translation,8.570658,0.8894978
+5,oh my goodness,Generated Translation,Unnatural,9.333454,0.69178534
+6,ah the heck that's salmon,Generated Translation,Literal Translation,11.133196,-0.7021285
+7,ah la vache we have anfax from ij,Generated Translation,Partial Translation,13.359008,-1.1485786
+8,oh my goodness,Generated Translation,Unnatural,8.883617,0.057559036
+9,- okay okay oh my goodness,Generated Translation,Good Translation,8.765035,1.6659244
+0,ils avaient des brosses impeccables - ah la vache,French Source,Source,12.31998,-0.592232
+1,ah la vache il l'a pas volé,French Source,Source,12.648029,-1.7784578
+2,ah la vache,French Source,Source,13.298847,-2.7088118
+3,salut ah la vache ils sont costauds ceux-là,French Source,Source,12.260238,-1.1266322
+4,ah la vache,French Source,Source,13.186915,-2.2724
+5,ah la vache,French Source,Source,13.686612,-2.4970863
+6,ah la vache c'est le saumon,French Source,Source,12.522339,-2.2798178
+7,ah la vache on a un fax de l'ij,French Source,Source,13.605056,-1.3824866
+8,ah la vache,French Source,Source,12.886615,-2.7497046
+9,- d'accord d'accord ah la vache,French Source,Source,13.539991,-2.028832

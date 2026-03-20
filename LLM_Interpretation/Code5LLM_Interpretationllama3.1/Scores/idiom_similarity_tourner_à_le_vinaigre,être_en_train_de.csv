@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"tourner à le vinaigre,être en train de",0,votre relation est en train de tourner au vinaigre,has your relationship reached its inevitable ugly end,Your relationship is turning sour.,Good Translation,0.6789866,0.7887986,-0.10981196

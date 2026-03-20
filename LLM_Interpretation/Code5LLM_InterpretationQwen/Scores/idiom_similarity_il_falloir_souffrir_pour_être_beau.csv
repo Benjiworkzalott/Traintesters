@@ -1,0 +1,18 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+il falloir souffrir pour être beau,0,il faut souffrir pour être belle chérie,beauty is pain baby,you have to suffer to be beautiful darling,Good Translation,0.691177,0.8882183,-0.19704127
+il falloir souffrir pour être beau,1,maman dit qu'il faut souffrir pour etre belle,mommy says beauty is pain,mama says that one has to suffer to be beautiful,Good Translation,0.8079057,0.9507485,-0.14284283
+il falloir souffrir pour être beau,2,il est vrai qu'il faut souffrir pour être beau,well beauty knows no pain and i should know,it is true that beauty comes at a price,Unnatural,0.62726843,0.73809224,-0.11082381
+il falloir souffrir pour être beau,3,- il faut souffrir pour être beau,no pain no gain guy,- you have to suffer to be beautiful,Good Translation,0.47231206,0.92385364,-0.45154157
+il falloir souffrir pour être beau,4,il faut souffrir pour être belle dawn,beauty is pain dawn suck it up,you have to suffer to be beautiful dawn,Unnatural,0.72954124,0.9142836,-0.18474233
+il falloir souffrir pour être beau,5,il faut souffrir pour être belle,and that's a good thing,you have to suffer to be beautiful,Unnatural,0.5154778,0.9348012,-0.41932344
+il falloir souffrir pour être beau,6,il faut souffrir pour être beau,agony fashion,suffering is necessary for beauty,Good Translation,0.4288456,0.8628,-0.4339544
+il falloir souffrir pour être beau,7,- on t'a jamais dit qu'il faut souffrir pour ëtre belle,you have to suffer to be beautiful,- you were never told that you have to suffer to be beautiful,Unnatural,0.7411792,0.9383539,-0.19717467
+il falloir souffrir pour être beau,8,tu sais ce qu'on dit il faut souffrir pour être belle,i mean you know what they say beauty is pain,"you know what they say, you have to suffer to be beautiful",Good Translation,0.8059756,0.93223584,-0.12626022
+il falloir souffrir pour être beau,9,- il faut souffrir pour être belle,- just remember pain is beauty,- you must suffer to be beautiful,Good Translation,0.7141023,0.9304415,-0.21633917
+il falloir souffrir pour être beau,10,il faut souffrir pour être belle mon coeur,beauty is painful sweetheart,"you have to suffer to be beautiful, my heart",Good Translation,0.74155474,0.9182348,-0.17668009
+il falloir souffrir pour être beau,11,cousine il faut souffrir pour être belle,cousin beauty has its price,cousin you have to suffer to be beautiful,Unnatural,0.7124533,0.9477669,-0.2353136
+il falloir souffrir pour être beau,12,il faut souffrir pour être belle,make yourself beautiful life is all sacrifices,one must suffer to be beautiful,Good Translation,0.65329427,0.9389193,-0.28562504
+il falloir souffrir pour être beau,13,il faut souffrir pour être belle,no pain no gain,you have to suffer to be beautiful,Good Translation,0.49123132,0.9348012,-0.4435699
+il falloir souffrir pour être beau,14,il faut souffrir pour être belle,no painno gain,you must suffer to be beautiful,Good Translation,0.45029747,0.9264184,-0.47612095
+il falloir souffrir pour être beau,15,il faut souffrir pour être beau,no pain no gain,you have to suffer to be beautiful,Good Translation,0.4993645,0.9156345,-0.41627002
+il falloir souffrir pour être beau,16,il faut souffrir pour être beau essayez ça marche,beauty knows no pain just try it it's gotten more ladies through my class,you have to suffer to be beautiful try that works,Unnatural,0.61965525,0.9010767,-0.28142142

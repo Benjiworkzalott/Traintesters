@@ -1,0 +1,25 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+donner son langue à le chat,0,vous avez donné votre langue au chat,cat got your tongue,you have given your tongue to the cat,Unnatural,0.83092594,0.9218908,-0.090964854
+donner son langue à le chat,1,il a donné sa langue au chat,seems the cat got watts's tongue,he gave his tongue to the cat,Unnatural,0.7506342,0.9254399,-0.1748057
+donner son langue à le chat,2,- je donne ma langue au chat,- i give up,- I give my tongue to the cat,Unnatural,0.6518451,0.9070442,-0.25519907
+donner son langue à le chat,3,je l'ignore je donne ma langue au chat,i do not know i give my tongue to the cat,I ignore it and give my tongue to the cat,Unnatural,0.7925948,0.8221239,-0.029529095
+donner son langue à le chat,4,vous donnez votre langue au chat,do you give up,you give your tongue to the cat,Unnatural,0.5836303,0.9074633,-0.323833
+donner son langue à le chat,5,- je donne ma langue au chat,i give up surprise,I give my tongue to the cat,Good Translation,0.5714111,0.8723447,-0.3009336
+donner son langue à le chat,6,je sais pas je donne ma langue au chat,i don't know i give up,"I don't know, I'll give my tongue to the cat.",Unnatural,0.673956,0.82964194,-0.15568596
+donner son langue à le chat,7,vous donnez votre langue au chat,ya give up,you give your tongue to the cat,Unnatural,0.5374603,0.9074633,-0.37000299
+donner son langue à le chat,8,je donne ma langue au chat,i give up brain you win,I give my tongue to the cat,Literal Translation,0.60811335,0.87251115,-0.2643978
+donner son langue à le chat,9,je donne ma langue au chat,what is it,I give my tongue to the cat,Unnatural,0.39841288,0.87251115,-0.47409827
+donner son langue à le chat,10,on a donné sa langue au chat,cat got your tongue,to give someone the benefit of the doubt,Mistranslation,0.81636274,0.5609641,0.25539863
+donner son langue à le chat,11,- je donne ma langue au chat james,- you've got me james,- I give my tongue to James,Unnatural,0.70157015,0.8670423,-0.16547215
+donner son langue à le chat,12,d'accord je donne ma langue au chat,all right i give up higgins,I'll give you my tongue to the cat,Unnatural,0.55122346,0.8710719,-0.31984842
+donner son langue à le chat,13,elle a donné sa langue au chat,cat's got her tongue,she handed him/her over to the cat,Mistranslation,0.82693255,0.80586225,0.021070302
+donner son langue à le chat,14,ok je donne ma langue au chat,okay i'll bite,ok I give my tongue to the cat,Good Translation,0.5638455,0.8043572,-0.24051166
+donner son langue à le chat,15,je vois que vous donnez votre langue au chat,okay i can see you're stumped,I see that you're speaking to the cat as if it were a person.,Mistranslation,0.63367975,0.80061644,-0.1669367
+donner son langue à le chat,16,si on trouve pas on donnera notre langue au chat,if we don't guess it we'll give up,"if we don't find anything, we'll give our tongue to the cat",Unnatural,0.67871904,0.9111905,-0.23247147
+donner son langue à le chat,17,je donne ma langue au chat tu me la voleras pas,don't take this wrong,"I give you my tongue, you won't steal it from me",Unnatural,0.57651824,0.8365736,-0.26005536
+donner son langue à le chat,18,vous avez donné votre langue au chat,cat got your tongue,you gave your tongue to the cat,Unnatural,0.83092594,0.92040753,-0.08948159
+donner son langue à le chat,19,- je donne ma langue aux chats,- i don't know,- I give my tongue to the cats,Good Translation,0.55272734,0.9307521,-0.37802476
+donner son langue à le chat,20,- je donne ma langue au chat - oh,- i give up,- I give my tongue to the cat - oh,Good Translation,0.6295891,0.92009073,-0.29050165
+donner son langue à le chat,21,il a donné sa langue au chat,she's with me once a month,he gave his tongue to the cat,Literal Translation,0.4284464,0.9254399,-0.49699348
+donner son langue à le chat,22,pour ma devinette vous donnez votre langue au chat,so you've no answer to my riddle fine,for my riddle you give your tongue to the cat,Unnatural,0.558949,0.87896407,-0.32001507
+donner son langue à le chat,23,moi j'ai bien une idée vous donnez votre langue au chat couper le courant,okay okay so then let me throw this out there and see if the cat licks it up we cut the power,"I have a better idea, give the cat your tongue, cut the power.",Good Translation,0.73552734,0.8442352,-0.108707845

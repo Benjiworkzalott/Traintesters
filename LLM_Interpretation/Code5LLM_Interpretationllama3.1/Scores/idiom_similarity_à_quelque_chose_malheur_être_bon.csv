@@ -1,0 +1,13 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+à quelque chose malheur être bon,0,souvenez-vous a quelque chose malheur est bon,remember every cloud has a silver lining,Remember something unlucky is good,Unnatural,0.61863893,0.86021996,-0.24158102
+à quelque chose malheur être bon,1,à quelque chose malheur est bon,dark clouds do have silver linings,To every cloud there is a silver lining.,Good Translation,0.59881306,0.55828685,0.04052621
+à quelque chose malheur être bon,2,eh bien à quelque chose malheur est bon,this turned out to be a blessing in disguise,"Well, when it rains, it pours.",Mistranslation,0.60910976,0.55347955,0.055630207
+à quelque chose malheur être bon,3,enfin à quelque chose malheur est bon,every cloud has a silver lining,Finally to something bad luck is good.,Unnatural,0.6016472,0.86614144,-0.26449424
+à quelque chose malheur être bon,4,les circonstances sont regrettables mais à quelque chose malheur est bon,the circumstances are unfortunate but each loss brings opportunity,"Circumstances are unfortunate but as they say ""when it rains it pours""",Unnatural,0.74976486,0.66968465,0.08008021
+à quelque chose malheur être bon,5,a quelque chose malheur est bon,every cloud has a silver lining,"Where there's a will, there's a way.",Mistranslation,0.57143617,0.5390566,0.032379568
+à quelque chose malheur être bon,6,à quelque chose malheur est bon,well maybe it's a blessing in disguise,"When it rains, it pours.",Mistranslation,0.6553154,0.5170041,0.13831133
+à quelque chose malheur être bon,7,a quelque chose malheur est bon,silver lining for your black cloud,"To every thing there is a season, and a time to every purpose under the heaven.",Hallucination,0.5135795,0.5176359,-0.004056394
+à quelque chose malheur être bon,8,mais à quelque chose malheur est bon,but there is a silver lining to this gray cloud of prom disasters,But to something ill fortune is good.,Unnatural,0.60215044,0.8545295,-0.25237906
+à quelque chose malheur être bon,9,parfois à quelque chose malheur est bon,sometimes things work out for the best,Sometimes bad luck is good for something.,Unnatural,0.78136706,0.86779505,-0.08642799
+à quelque chose malheur être bon,10,je sais mais à quelque chose malheur est bon,but every cloud has a silver lining,I know but to something ill luck is good.,Literal Translation,0.60884535,0.87021434,-0.261369
+à quelque chose malheur être bon,11,a quelque chose malheur est bon comme dit le proverbe,look at it this way every cloud has a silver lining,Adversity is good for something as the saying goes.,Partial Translation,0.5530315,0.7778855,-0.22485399

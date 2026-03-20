@@ -1,0 +1,102 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+être canon,0,tu es canon,you're the sexy one,You're a legend/ You're fantastic,Mistranslation,0.4844558,0.446769,0.037686795
+être canon,1,et au fait toi aussi t'es canon,by the way i think you're hot too,And by the way you're pretty cool too.,Unnatural,0.680106,0.73242784,-0.05232185
+être canon,2,soit parce qu'elle est canon soit parce que c'est la seule fille du groupe mais dans tous les cas je suis fou d'elle,i don't know whether it's 'cause she's hot or maybe it's 'cause she's the only girl around but either way i'm totally smitten,either because she is hot or it's the only girl in the group but anyway I'm crazy about her.,Good Translation,0.78003025,0.87658644,-0.09655619
+être canon,3,elle est canon marrante cool c'est quasiment moi,she's hot she's funny she's cool she's practically me,"She's a cannon, she's crazy, cool, that's almost me.",Literal Translation,0.8383086,0.8035254,0.034783185
+être canon,4,hilary swank est canon,hilary swank is hot,Hilary Swank is hot.,Good Translation,0.7473346,0.6883482,0.058986425
+être canon,5,on est canons,we look hot,We are cannons,Literal Translation,0.5654671,0.7207299,-0.15526277
+être canon,6,et elle était canon couverte d'huile,plus she looked good covered in oil,and she was a covered cannon with oil,Literal Translation,0.80704117,0.8953396,-0.08829844
+être canon,7,elle était nue elle devait être canon,i don't know she was naked and naked chicks are hot,She was naked she had to be canonized,Mistranslation,0.6820764,0.84131485,-0.15923846
+être canon,8,- elle est canon,- dude she's hot - yeah,-she is a real bombshell,Good Translation,0.61987907,0.693177,-0.07329792
+être canon,9,bref tu es canon,well you're a hot girl,"you're stunning, by the way",Good Translation,0.49867433,0.5225883,-0.02391398
+être canon,10,- elles peuvent être canons,no they can be babes,- they can be cannons,Mistranslation,0.675192,0.887485,-0.21229303
+être canon,11,t'es canon,how sexy,"You're stunning, You're great, You look fantastic",Unnatural,0.4468963,0.44136974,0.0055265725
+être canon,12,elle est canon,she's hot hermess is hot,She's a cannonball.,Literal Translation,0.61153316,0.68498147,-0.0734483
+être canon,13,elle est canon et tu n'as personne d'autre,she's hot and you got no one else,She's got class and you haven't anyone else.,Partial Translation,0.815385,0.77208984,0.043295145
+être canon,14,et tu es canon,and you're a hottie mmm,And you're a legend.,Mistranslation,0.54082257,0.56656826,-0.02574569
+être canon,15,je t'aime et en plus tu es canon,and i love you and you're so hot,I love you and what's more you're gorgeous.,Good Translation,0.6904475,0.72093225,-0.030484736
+être canon,16,christinith est canon,i mean that girl christinith was seriously hot,Christinity is dogma,Mistranslation,0.59445417,0.6206466,-0.026192427
+être canon,17,mme gleffey est canon,mrs gleffey's a hottie,Mrs Gleffey is a canon.,Literal Translation,0.7441053,0.8628945,-0.118789196
+être canon,18,t'es canon,you're too hot marc,You're a legend/ You're fantastic (informal),Mistranslation,0.47944403,0.41591713,0.0635269
+être canon,19,je pense qu'elle est canon,it turned out damn nice,I think she's hot,Good Translation,0.61696744,0.7558023,-0.13883483
+être canon,20,vous etes canon,you are unbelievably hot,You're gorgeous.,Good Translation,0.57346594,0.55794966,0.015516281
+être canon,21,elle est canon pas vrai,isn't she gorgeous,"she is a babe, isn't she?",Good Translation,0.6498438,0.56110203,0.08874178
+être canon,22,je me rappelle avoir pensé que c'est un mot étrange à utiliser mais tu l'as dit tu as dit qu'il était canon,i thought that's a weird word but you said it was pimp,I remember thinking it was a strange word to use but you said you did and you said it's cool.,Unnatural,0.73163366,0.7868508,-0.055217147
+être canon,23,considère-moi comme yoda sauf qu'au lieu d'être petit et vert j'ai des costards et je suis canon,think of me as yoda only instead of being little and green i wear suits and i'm awesome,"Treat me as Yoda, but instead of being small and green I have waistcoats and am a canon.",Unnatural,0.79589736,0.89467084,-0.09877348
+être canon,24,- parce qu'elle est canon,- because she's hot,because she is hot,Good Translation,0.78084534,0.7494167,0.031428635
+être canon,25,votre femme est canon,your wife's smoking hot,Your wife is stunning!,Good Translation,0.7182566,0.7162367,0.0020198822
+être canon,26,je pense que tu es canon,i think you're a knockout,I think you're lovely,Good Translation,0.7093564,0.68560237,0.02375406
+être canon,27,picoler c'est canon,i love to get blotto,To drink beer is okay,Mistranslation,0.4116552,0.44480652,-0.03315133
+être canon,28,elle était canon vraiment,ooh she was a skyscraper she was,She was really fit.,Mistranslation,0.68496275,0.73126245,-0.046299696
+être canon,29,même s'il sait toujours lesquelles sont canon avant de poser ses sales petites pattes sur elles,although he always seems to know which ones are hot before he puts his grubby little mitts on them,Even though he knows which ones are cannons beforehand before putting his dirty little paws on them.,Literal Translation,0.7624567,0.8271101,-0.0646534
+être canon,30,elles sont littéralement des millions à être canon,literally millions of them really really smoking hot,They are literally in the millions to be shot.,Mistranslation,0.7345898,0.8015517,-0.066961884
+être canon,31,il est canon mais un tantinet,no no no no no he's very cute,he is a bit of a bore but rather charming,Mistranslation,0.59566724,0.6638905,-0.06822324
+être canon,32,- mon père était canon,- my daddy was hot,- my father was a cannon,Literal Translation,0.7455773,0.86267716,-0.11709988
+être canon,33,t'es canon,i find you hot,"You're a blast, You're great.",Mistranslation,0.5345162,0.44418472,0.090331495
+être canon,34,t'es canon,you look hot,"You're great, You're amazing, You're fantastic, You're awesome. ( informal )",Mistranslation,0.5198683,0.39227515,0.12759316
+être canon,35,elle est canon,she's really hot,She's a bomb,Good Translation,0.69506454,0.70091057,-0.0058460236
+être canon,36,parce que t'es canon,because you're gorgeous,Because you're gorgeous,Good Translation,0.7428878,0.7359722,0.0069155693
+être canon,37,il est canon,whoa he is hot,It's a cannon.,Hallucination,0.53792393,0.5942532,-0.05632925
+être canon,38,mince elle est canon ta came,man this shit is awesome,You're really small but your body is amazing.,Mistranslation,0.48782933,0.53719497,-0.04936564
+être canon,39,cette image est canon craig,that picture is gorgeous craig,"This picture is from the TV series ""Cannons of Craig""",Hallucination,0.80071115,0.7103276,0.09038353
+être canon,40,j'ai pensé que t'étais canon la première fois,i did think you were pretty hot when i first saw you,I thought you were hot the first time I saw you.,Good Translation,0.74139076,0.74838907,-0.0069983006
+être canon,41,elle bosse ici et elle est canon,she's working here now and she looks great,She works here and she's a stunner/real beauty.,Good Translation,0.75801253,0.7603555,-0.0023429394
+être canon,42,oui il est canon,yeah he's cute,yes it's a cannon,Mistranslation,0.6848748,0.78746575,-0.10259098
+être canon,43,vous êtes canon dans cette tenue,you look hot in that power suit,You look great in that outfit!,Good Translation,0.746244,0.82494915,-0.07870513
+être canon,44,il est canon,isn't he hot,It's a hit.,Mistranslation,0.54254186,0.47262782,0.06991404
+être canon,45,la nana est canon aussi,and i mean the girl's hot too,The chick is nice too,Good Translation,0.61378086,0.64160115,-0.02782029
+être canon,46,- ouais il est canon,yeah he's hot,- yeah he is great,Unnatural,0.65612626,0.640154,0.015972257
+être canon,47,ouais il est canon,wow yeah he's hot,Yeah he's awesome,Unnatural,0.6348993,0.63667816,-0.001778841
+être canon,48,- il est canon,- he's so fine,It's a canon,Mistranslation,0.63794947,0.8725922,-0.23464274
+être canon,49,- il est canon - je sais,- he's gorgeous,- it's a cannon - I know,Literal Translation,0.62256765,0.82916534,-0.20659769
+être canon,50,t'as remarqué comme elle est canon,have you noticed how hot she is,you've noticed how hot she is,Good Translation,0.77088875,0.79087013,-0.019981384
+être canon,51,je dois coucher avec deux femmes différentes en un jour l'une d'elle est canon,i have to have sex with two different women in one day one of whom is smoking hot,"I have to sleep with two different women in one day, one of them is a model.",Partial Translation,0.806991,0.8164537,-0.009462714
+être canon,52,- tu es canon,- you're super pretty,- you're a bomb (informal),Good Translation,0.5663784,0.5435784,0.022800028
+être canon,53,la vache sergent elle est canon votre fiancée,damn sarge your fiancée is hot,The cow is a sergeant she's a cannonball your girlfriend,Literal Translation,0.6532078,0.7640406,-0.11083281
+être canon,54,et tu es canon et décalé et différent,and you're beautiful and quirky and different,and you are cool and offbeat and different,Good Translation,0.7372942,0.75584435,-0.018550158
+être canon,55,et en plus elle était canon,plus she was smoking hot,and on top of that she was beautiful,Unnatural,0.77052915,0.7984168,-0.027887642
+être canon,56,logique car ton cul est canon,that makes sense because your butt is quite a dish,"You're showing off your arse, I suppose it's a good one.",Partial Translation,0.7311976,0.6380265,0.09317112
+être canon,57,- car la vie est courte et vous êtes canon,because life is short and you are hot,because life is short and you're hot stuff,Unnatural,0.8164716,0.82376146,-0.0072898865
+être canon,58,on se rencontre dans trois semaines et je dois être canon,we're finally meeting in three weeks and i have got to look hot,We'll meet in three weeks and I have to be looking my best,Good Translation,0.8087279,0.81517327,-0.0064453483
+être canon,59,j'adore combien je suis canon dans les bars gay,i love how hot i am in gay bars,I love how I'm hot in the gay bars,Unnatural,0.768636,0.7445236,0.024112403
+être canon,60,je parie qu'elle est canon,something tells me she's a knockout,I bet she's a bombshell,Good Translation,0.66274285,0.6995862,-0.03684336
+être canon,61,j'ai couché avec mme lundgaard en cm2 elle était canon mais j'avais dix ans,i had sex with mrs lundgaard in the fifth grade,I slept with Mrs Lundgaard in CM 2 she was a looker but I was ten years old.,Good Translation,0.77026904,0.880456,-0.110186934
+être canon,62,- faut dire qu'elle est canon,- she was hot,-she's a bit of a legend or she's very good-looking,Partial Translation,0.6645051,0.66982746,-0.005322337
+être canon,63,elles sont canon futées elles sont pas juives et elles savent pas danser,i don't think it's that complicated they're hot they're smart they're not jewish and they can't dance,"They're cannon fodder, they are not Jewish and they don't know how to dance.",Mistranslation,0.66598535,0.81329346,-0.14730811
+être canon,64,catherine est canon aussi,well catherine's hot too,Catherine is also a saint.,Mistranslation,0.74511886,0.73374796,0.011370897
+être canon,65,je l'ai vue qu'une fois ou deux et enfin oui elle était canon mais bon à vrai dire j'ai toujours pensé qu'elle était un peu,i only met her a few times and yes she was cute all right but truth be told i always thought she was a little bit,I've only seen her once or twice and finally yeah she was hot but honestly I always thought she was a bit...,Good Translation,0.8228076,0.83634907,-0.01354146
+être canon,66,elle était canon,she was smokin',she was a bombshell,Good Translation,0.67543304,0.76049256,-0.08505952
+être canon,67,j'ai dit que brooke était canon et maintenant tu ne te sens plus en sécurité,i said brooke was hot and now you're totally insecure,I said Brooke was hot and now you don't feel safe anymore.,Unnatural,0.8406087,0.8123729,0.028235793
+être canon,68,- pour commencer tu es canon,- for starters you are very hot,- to start with you're a real catch.,Good Translation,0.7052201,0.7338174,-0.028597295
+être canon,69,même les baleines sont canons pour lui,even whales are hot for him,Even whales are cannons for him,Literal Translation,0.77832365,0.8637224,-0.08539873
+être canon,70,elle est canon,she's in the court,She's got a great figure.,Unnatural,0.67774236,0.6821323,-0.0043899417
+être canon,71,wow ok ils sont canons,ashley's on a mission to get ten 'losing it' monologues - i already did it - what,Wow okay they are great.,Literal Translation,0.4152328,0.643696,-0.2284632
+être canon,72,vous êtes canon en costume,halster you look hot in those trousers,You're looking great in your uniform.,Partial Translation,0.61174977,0.7086226,-0.09687281
+être canon,73,chuck dit que t'es canon,chuck says you're hot,He says you're a babe.,Good Translation,0.7439754,0.5467695,0.1972059
+être canon,74,il est aimant et doux et gentil et il est canon aussi,he's-- he's so loving and kind and gentle and he's hot too,He is charming and sweet and nice and he's a cannoneer too.,Literal Translation,0.8439966,0.8055561,0.038440466
+être canon,75,- t'es canon compris,you're hot okay,"You're a gun, understood.",Literal Translation,0.5027467,0.58382916,-0.08108246
+être canon,76,elle est canon et philosophe aussi,she's hot and a philosopher too,she is great and a philosopher too,Unnatural,0.7883798,0.83697695,-0.048597157
+être canon,77,elle est belle je suis canon,she's beautiful i'm gorgeous,"She is beautiful, I am a cannon (or) She's beautiful, I'm a canon",Literal Translation,0.7917511,0.7740955,0.017655611
+être canon,78,- cette fille est canon,- that girl is fine,"This girl is hot, This girl is great looking, She's really attractive, She's gorgeous, That girl is stunning.",Unnatural,0.771863,0.57679737,0.19506562
+être canon,79,c'est dangereux d'être canon,that is the danger of being super-handsome,It's dangerous to be a cannoneer.,Mistranslation,0.65417314,0.7418775,-0.08770436
+être canon,80,beth est canon,beth's super-hot,Beth is a saint,Mistranslation,0.54193294,0.5814178,-0.03948486
+être canon,81,- je sais pas mais elle était canon,- i don't know but she was booming,I don't know but she was hot,Good Translation,0.7980187,0.7923205,0.005698204
+être canon,82,ce n'est pas parce qu'elle est morte qu'elle ne peut plus être canon,just because your grandma's dead doesn't mean she can't look hot,That's not because she is dead that she can no longer be a saint.,Mistranslation,0.64827025,0.8074291,-0.15915883
+être canon,83,vous serez canon,you'll kill in it,You'll be a cannon,Literal Translation,0.5823791,0.7542353,-0.17185622
+être canon,84,- sa fille était canon,-his daughter was hot,- her daughter was a cannon,Literal Translation,0.78142715,0.8484011,-0.066973984
+être canon,85,il est canon,he looks proper lush,He's a legend,Mistranslation,0.49408138,0.5357452,-0.041663826
+être canon,86,vous êtes canon et ça m'aurait bien plu,you're wicked hot and i would have gone for it,You're hot and that would have pleased me.,Partial Translation,0.76283985,0.81758994,-0.054750085
+être canon,87,assume d'être canon,it's like just fuckin' own it you know,Assume to be cannon fodder,Mistranslation,0.551182,0.65100634,-0.09982437
+être canon,88,on t'a jamais dit que t'étais canon,they said to you that you are divine,You never told me you were hot,Literal Translation,0.56381214,0.7134499,-0.14963776
+être canon,89,elle est canon,she's hot,She is hot.,Good Translation,0.7079699,0.6737531,0.03421682
+être canon,90,- les filles étaient canon,- the girls were hot,- The girls were stunning.,Good Translation,0.81673014,0.7887798,0.027950346
+être canon,91,ta belle-mère est canon,dude your stepmom is so hot,Your mother-in-law is a bombshell.,Good Translation,0.6487094,0.60027933,0.048430085
+être canon,92,d'abord c'est une fille et elle est canon donc non,firstly it's a she and secondly she is really fit so no,first it's a girl and she is hot so no,Good Translation,0.75788,0.8018997,-0.0440197
+être canon,93,c'est bien que vous soyez canon,good thing you're so hot,That's nice that you're a cannon.,Literal Translation,0.7075423,0.8276007,-0.12005842
+être canon,94,oh non il est il est canon,and they went away a lot so i could always use their apartment,Oh no it is it is a cannonball,Hallucination,0.38437688,0.6992223,-0.31484544
+être canon,95,- elle est canon vraiment quand je l'ai rencontré elle m'a dit que tu étais canon,you know i haven't been in this country very long but marshall has gotta be the coolest guy in america,-she is really hot when I met her she told me that you are hot too,Literal Translation,0.44804466,0.78366745,-0.3356228
+être canon,96,vous êtes canon,- you are fine as shit,You're hot/ You're gorgeous,Good Translation,0.59744585,0.60106146,-0.0036156178
+être canon,97,et bien d'après elles tout dépend si le mec est canon ou pour catherine la fille,well according to them both it all depends on how hot the guy is or in catherine's case the girl,and well according to them it all depends if the guy is cute or for Catherine the girl,Unnatural,0.8495114,0.87435836,-0.024846971
+être canon,98,mon mec est canon à poil,my man looks good naked,My boyfriend is hot naked.,Good Translation,0.6441575,0.63477397,0.009383559
+être canon,99,il est canon mais quand il veut faire l'amour je me rétracte,yes he's handsome but when he wants to make love i cringe,he is a great lover but when he wants to make love I back out,Unnatural,0.7655995,0.82365125,-0.058051765
+être canon,100,tu es en train de dire que ta sœur est canon,what a freak you're going to hell man,You're saying your sister is hot.,Literal Translation,0.47688597,0.77110505,-0.29421908

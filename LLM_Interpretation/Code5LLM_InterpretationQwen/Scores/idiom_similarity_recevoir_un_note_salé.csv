@@ -1,0 +1,4 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+recevoir un note salé,0,et on a reçu une note salée pour la réquisition de photos d'un certain congrès,the accounts department received a huge bill for the requisition of photos from some congress,and we received a salty bill for requisitioning photos of a certain congress,Unnatural,0.8292601,0.87907815,-0.04981804
+recevoir un note salé,1,car si vous voulez savoir de temps en temps je reçois des notes salées,but i do want to know about that because i get endless bills to pay,because if you want to know from time to time I receive salty notes,Literal Translation,0.6774695,0.9334547,-0.2559852
+recevoir un note salé,2,il va recevoir une note salée hein,he'll have some huge bill when he's done right,"he is going to get a salty note, huh",Good Translation,0.763608,0.8950807,-0.1314727

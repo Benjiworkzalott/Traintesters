@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"faire le gras matinée,être en train de",0,elle doit être en train de faire la grasse matinée dans la chambre de jake,uh gee i guess she's probably still asleep in jake's room,She must be sleeping in in Jake's room.,Good Translation,0.8211204,0.84459805,-0.023477674

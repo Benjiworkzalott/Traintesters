@@ -1,0 +1,101 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+faire un tabac,0,tu feras un tabac,that's a definite,you will make a hit,Good Translation,0.49153167,0.7289648,-0.23743314
+faire un tabac,1,ça ferait un tabac,i'm sure it'd be really popular,it would make a big splash,Good Translation,0.64124954,0.649508,-0.008258462
+faire un tabac,2,ça ferait un tabac,people would love it,it would make a huge difference,Mistranslation,0.64032555,0.6601409,-0.019815326
+faire un tabac,3,- ce film va faire un tabac,- we've got a blockbuster,- this film is going to be a hit,Good Translation,0.6677115,0.8129549,-0.1452434
+faire un tabac,4,deux de mes parfums ont fait un tabac cette année alors j'ai décidé de me faire remodeler pour la saison des amours,two of my scents became best sellers this year so i decided to do a little remodeling for the dating season,Two of my perfumes have been a hit this year so I decided to get remodeled for the love season,Good Translation,0.86975265,0.918975,-0.04922235
+faire un tabac,5,il va faire un tabac,i'm telling you he's going to bowl people over,it's going to be a hit,Good Translation,0.59483457,0.5885818,0.0062527657
+faire un tabac,6,on aurait fait un tabac avec un nom pareil,hey that would've sent albums flying out of the store,We would have made a fortune with a name like that,Unnatural,0.56186914,0.69140786,-0.12953871
+faire un tabac,7,il avait fait un tabac avec von,he'd really made a big score with von,He made a huge success with von.,Good Translation,0.6872591,0.66154313,0.025715947
+faire un tabac,8,comme commercial if ferait un tabac,he'd be a hit as a salesman,like a commercial would make it very popular,Literal Translation,0.5992806,0.6006423,-0.0013617277
+faire un tabac,9,ça peut faire un tabac,sounds pretty good,it can create a stir,Good Translation,0.54190683,0.6029571,-0.061050296
+faire un tabac,10,ta vidéo fait un tabac,your video got more hits than 2 girls 1 cup it's fucking viral,Your video is really popular,Good Translation,0.6544826,0.76662374,-0.11214113
+faire un tabac,11,ça fait un tabac,that's what they call it it's a bestseller,it's a mess,Mistranslation,0.5669766,0.6710388,-0.1040622
+faire un tabac,12,chef johnson n'hésitez pas à regarder la télé ce soir je suis certain que cette histoire va faire un tabac,well chief johnson you might wanna tune in tonight because i assure you every network is gonna run with this story,"chef johnson don't hesitate to watch TV tonight, I'm sure this story is going to be a hit",Good Translation,0.79197574,0.911038,-0.119062245
+faire un tabac,13,c'est triste il allait faire un tabac,it's sad too 'cause i mean he was going to be huge,it's sad he was going to make a huge success,Good Translation,0.6898519,0.70750195,-0.017650068
+faire un tabac,14,vous avez fait un tabac,you brought the house down,you made a big splash,Good Translation,0.61832285,0.6130747,0.0052481294
+faire un tabac,15,le nom de cette magnifique femme est connie chance et elle est là aujourd'hui pour faire un tabac dans le monde de la musique,this beautiful woman's name is connie chance and she is here today to make it big in the music business,The name of this wonderful woman is Known Chance and she is here today to make a splash in the world of music.,Good Translation,0.91362625,0.8264102,0.08721608
+faire un tabac,16,- ca ferait un tabac ici,- that could go over big here,- it would make a splash here,Good Translation,0.6615861,0.64932686,0.012259245
+faire un tabac,17,mon gâteau fait un tabac,my hazelnut buttercream is a hit,my cake is doing great,Good Translation,0.5574697,0.6920124,-0.1345427
+faire un tabac,18,je peux faire un tabac,i can clean up,I can make a tobacco.,Literal Translation,0.6757662,0.81050074,-0.13473451
+faire un tabac,19,en 1988 j'ai passé tout l'été à préparer mon album de noël qui a fait un tabac,1998 well i spent most of the summer in the studio doing my christmas album which was huge,"In 1988, I spent the whole summer preparing my Christmas album which was a huge success",Good Translation,0.7559391,0.90423477,-0.14829564
+faire un tabac,20,ça va faire un tabac,customers will love it,it's going to be a sensation,Good Translation,0.6155609,0.7059363,-0.09037542
+faire un tabac,21,- sam ferait un tabac à las vegas,with an act like that sam will be headlining in vegas,- Sam would make a fortune in Las Vegas,Literal Translation,0.6666846,0.7659458,-0.099261165
+faire un tabac,22,mon site porno va faire un tabac,boy my porn site's gonna be big,my porn site is going to be a hit,Good Translation,0.74544126,0.7544518,-0.009010553
+faire un tabac,23,et je fais un tabac,i'm a hit,and I smoke like a chimney,Literal Translation,0.6444534,0.717991,-0.07353759
+faire un tabac,24,- ça fait un tabac en europe,- they're quite big in europe,- it's causing quite a stir in Europe,Good Translation,0.7269436,0.7525134,-0.025569797
+faire un tabac,25,j'en pense qu'au music-hall il ferait un tabac,i think there's nothing like vaudeville,I think he would make a sensation at the music hall,Good Translation,0.5257507,0.7563182,-0.23056751
+faire un tabac,26,ça fait un tabac en suède,it's very big in sweden,it's causing a stir in Sweden,Good Translation,0.68959415,0.6877544,0.001839757
+faire un tabac,27,il a bossé un an et à son retour il a fait un tabac,he just worked his ass off for a year he come back and he hit it big,"He worked for a year and upon his return, he made a huge success.",Good Translation,0.7140758,0.6856902,0.02838558
+faire un tabac,28,ça a fait un tabac à sundance,sundance loved it,it caused a sensation at Sundance,Good Translation,0.67692435,0.4841555,0.19276884
+faire un tabac,29,dès que j'entre en scène sans elle regarde je fais un tabac,the minute i come on stage without her look what happens,as soon as I come on stage without her she looks and I make a scene,Literal Translation,0.76871014,0.82212543,-0.0534153
+faire un tabac,30,allons faire un tabac,- okay - let's go hit it,Let's make a fuss/noise,Literal Translation,0.6634335,0.701216,-0.03778249
+faire un tabac,31,ce bar fait un tabac,the club is kicking ass,this bar is doing very well,Good Translation,0.67201406,0.7641341,-0.09212005
+faire un tabac,32,ça ferait un tabac au nigeria,excellent precaution,it would make a sensation in Nigeria,Good Translation,0.39411458,0.6976032,-0.30348864
+faire un tabac,33,il a fait un tabac,it was 90 percent sold out it was a big hit,he made a huge success,Good Translation,0.43298665,0.6411017,-0.20811507
+faire un tabac,34,avec tabatha notre campagne va faire un tabac,with a face like tabatha we've got a winning campaign,with Tabatha our campaign is going to be a hit,Good Translation,0.79064405,0.8102102,-0.019566178
+faire un tabac,35,- ton album fait un tabac,- they're selling like crazy,- your album is topping the charts,Good Translation,0.5738408,0.79985714,-0.22601634
+faire un tabac,36,vous allez faire un tabac,they're gonna love you,you are going to make a huge success,Partial Translation,0.6094587,0.6717111,-0.062252402
+faire un tabac,37,ça fera un tabac,i wrote it all out,it will create a sensation,Good Translation,0.52359,0.6912763,-0.16768628
+faire un tabac,38,ce soir je ferai un tabac,tonight they'll be lining up for me,this evening I will smoke heavily,Literal Translation,0.6918199,0.84800136,-0.15618145
+faire un tabac,39,on dirait que herb fait un tabac,looks like herb's killing,It seems that Herb is making a name for himself,Good Translation,0.78235793,0.8260832,-0.043725252
+faire un tabac,40,monsieur brousseau veut faire un tabac dans le monde de la danse,monsieur brousseau wants to make a splash in the ballet world,Monsieur Brousseau wants to make a name for himself in the world of dance,Good Translation,0.87334454,0.88535374,-0.012009203
+faire un tabac,41,ils font un tabac chez les filles,they're a big hit with the girls,They are causing a sensation with the girls.,Good Translation,0.6974919,0.76050603,-0.06301415
+faire un tabac,42,miss dare jouera dans la dame à la rose qui fit un tabac à la saison londonienne,miss dare will appear in the lady of the rose which was a hit musical of the london season,Miss Dare will play in the rose lady who made a splash at the London season,Good Translation,0.7988783,0.82488346,-0.026005149
+faire un tabac,43,les actions ont fait un tabac,stock just went through the roof,the actions have been a hit,Unnatural,0.70320374,0.71903205,-0.015828311
+faire un tabac,44,kelsey peters a fait un tabac,kelsey peters has made a big splash,Kelsey Peters made a sensation,Good Translation,0.7176606,0.6657061,0.051954508
+faire un tabac,45,on ne s'est pas dit on a fait un tabac à amsterdam,we didn't think of it as we made an incredible success in amsterdam,We didn't say anything; we made a big fuss in Amsterdam.,Good Translation,0.65829194,0.64969766,0.0085942745
+faire un tabac,46,repensons à ces shows qui ont fait un tabac,we should look back at those seventies shows which were groundbreaking,let's think about those shows that were a huge success,Good Translation,0.69665563,0.8408046,-0.14414895
+faire un tabac,47,y aura d'autres filles tout ce qui compte là c'est que la boutique fasse un tabac,right now we have to concentrate on making this the most killer store the world has ever seen right,There will be other girls; all that matters is that the shop does well.,Partial Translation,0.5496533,0.85322285,-0.30356956
+faire un tabac,48,mais aussi car les bébés qui parlent font un tabac au cinéma en ce moment,i was also created because talking babies have proven to be quite profitable for movies recently,but also because babies talking are making a fuss at the cinema right now,Good Translation,0.708295,0.8792011,-0.17090613
+faire un tabac,49,en attendant mes articles font un tabac et ça tu ne le supportes pas,meanwhile i'm the star reporter and you can't stand that,"while waiting for my articles to be wildly successful, that you cannot stand",Good Translation,0.66793853,0.7537775,-0.08583897
+faire un tabac,50,elle a fait un tabac,oh boy that was a big seller,she made a splash,Good Translation,0.48885792,0.68836224,-0.19950432
+faire un tabac,51,en europe la chanson a servi dans une pub et a fait un tabac,a year and a half later a cell phone commercial put bohemian like you into households all across europe,"In Europe, the song was used in an ad and became very popular",Good Translation,0.5420898,0.7762313,-0.23414147
+faire un tabac,52,j'ai fait un tabac dans l'iowa,i won the iowa caucus,I made a tobacco sale in Iowa,Literal Translation,0.67984486,0.83410037,-0.15425551
+faire un tabac,53,il fait un tabac,it is a hit,he is making a sensation,Good Translation,0.6190499,0.7317636,-0.112713695
+faire un tabac,54,en plus vu les liens avec u2 ça devrait faire un tabac,and what with the u2 connection yeah this story should make a great splash,"in addition, given the connection to U2, this should be a huge success",Good Translation,0.80027604,0.8869209,-0.08664489
+faire un tabac,55,avec vous on fait un tabac,martin hello say man where can i get ahold of you,with you we make a mess,Mistranslation,0.552042,0.7181876,-0.16614556
+faire un tabac,56,j'ai fait un tabac,it was quite a show,I made a huge sale,Good Translation,0.561748,0.632946,-0.07119799
+faire un tabac,57,ça fera un tabac partout,they'll love it every place,It will cause a sensation everywhere,Good Translation,0.6392604,0.7210378,-0.081777394
+faire un tabac,58,tu vas porter une jolie robe tu es ravissante tu feras un tabac,you've got a pretty dress to wear you look great you'll be a knockout,you will wear a pretty dress you are beautiful you will make a sensation,Good Translation,0.7388432,0.7770933,-0.03825009
+faire un tabac,59,avec l'acteur adéquat ça peut faire un tabac,i think if we attach the right talent this could be a hit,with the right actor it can make a huge success,Good Translation,0.7137747,0.8045388,-0.090764105
+faire un tabac,60,darnell a fait un tabac,darnell sure as hell did,Darnell made a sensation,Good Translation,0.7418989,0.65998846,0.08191043
+faire un tabac,61,ça va faire un tabac,this is a hit,it's going to be a hit,Good Translation,0.627321,0.73918295,-0.111861944
+faire un tabac,62,comme j'ai su que la fibre optique remplacerait le câble que la puce intel révolutionnerait tout que le house of style de cindy crawford ferait un tabac,the same way i knew fibre optics would replace coaxial cable that intel's chip would change the industry that cindy crawford's house of style would be a big hit,"as I knew that fiber optics would replace cable, that Intel chip would revolutionize everything, and that Cindy Crawford's House of Style would be a hit",Good Translation,0.9035988,0.88958853,0.014010251
+faire un tabac,63,je suis sûre que ma vie ferait un tabac oui,i think my life story would make a sure-fire bestseller,I am sure that my life would make a sensation yes,Good Translation,0.7061479,0.79772437,-0.09157646
+faire un tabac,64,la robe a fait un tabac,the dress was a star tonight,the dress caused a sensation,Good Translation,0.6352917,0.66885364,-0.033561945
+faire un tabac,65,je suis sûre qu'elles vont faire un tabac aux enchères,i'm sure they're gonna be a big hit at the auction,I am sure they will sell for a fortune at the auction,Unnatural,0.79484713,0.83978814,-0.044941008
+faire un tabac,66,- préparez-vous à faire un tabac,hurry - get ready to be fabulous,- prepare yourself to make a fuss,Literal Translation,0.68051016,0.774884,-0.09437382
+faire un tabac,67,et il fait un tabac,and he's getting hits,and he is making a huge splash,Good Translation,0.7292752,0.67224157,0.057033658
+faire un tabac,68,et ensuite il sera vendu dans le camion-restaurant du cousin edouardo et ca fera un tabac,and then i can sell them from cousin eduardo's food truck and make a fortune,and then it will be sold in Cousin Edouardo's mobile restaurant and it will make a sensation,Good Translation,0.75873566,0.7736463,-0.014910638
+faire un tabac,69,ça fera un tabac à la campagne,they'll love it in pomona,It will make a sensation in the countryside,Good Translation,0.46949273,0.6874931,-0.21800035
+faire un tabac,70,la diffusion accidentelle de ta chanson a fait un tabac,our accidental release of your track went viral on the net,The accidental broadcasting of your song was a huge hit.,Good Translation,0.7360522,0.79336184,-0.057309628
+faire un tabac,71,faisons un tabac,hit record,let's make a fuss,Unnatural,0.43323904,0.7526378,-0.31939876
+faire un tabac,72,ils font un tabac,well me too,they are making a fuss,Literal Translation,0.48949742,0.77832913,-0.2888317
+faire un tabac,73,ça fera un tabac,is that a killer,it will create a sensation,Good Translation,0.55198103,0.6912763,-0.13929528
+faire un tabac,74,- c'était super t'as fait un tabac,- you were a hit,- it was great you really pulled it off,Unnatural,0.7103646,0.7298062,-0.019441605
+faire un tabac,75,ce livre va faire un tabac,this book is gonna go through the roof,this book is going to be a hit,Good Translation,0.78355336,0.8248927,-0.041339338
+faire un tabac,76,si tu veux que ta bd fasse un tabac tu devrais mettre tes sentiments personnels de côté,you know if you want your comic book to be a success you should put your personal feelings aside,if you want your comic to be a success you should put your personal feelings aside,Good Translation,0.7513751,0.74163294,0.009742141
+faire un tabac,77,idi amin et hitler ont fait un tabac avec ebony and ivory,and last night at karaoke idi amin and hitler did a great version of ebony and ivory,Idi Amin and Hitler made a hit with ebony and ivory,Good Translation,0.77668536,0.78689826,-0.010212898
+faire un tabac,78,mais celle-ci fera un tabac,but this is a solid bit,but this one will be a hit,Partial Translation,0.62551343,0.69174486,-0.06623143
+faire un tabac,79,cette émission fait un tabac,springer is one of our station's highest-rated shows,this show is really popular,Good Translation,0.59691703,0.8170821,-0.22016507
+faire un tabac,80,il fait un tabac sur lnternet,he's huge on the internet,he is making a轰动 on the internet,Literal Translation,0.7289618,0.7257066,0.003255248
+faire un tabac,81,vous faites un tabac tous les deux,you two are a riot,You two are making a fuss,Literal Translation,0.7085558,0.78206396,-0.07350814
+faire un tabac,82,j'aurais pu faire un tabac,it could have been huge,I could have made a fortune,Good Translation,0.669084,0.77384996,-0.10476595
+faire un tabac,83,je ferais un tabac avec un car vidéo-mobile,- i can get the jump on everybody if i get a remote,I would make a splash with a video-mobile,Good Translation,0.52881294,0.67222357,-0.14341062
+faire un tabac,84,billy wilder 25 ans plus tard il a fait un tabac en allemagne tout le monde est allé le voir parce que le mur,it became uh it became a kind of a historic vignette of the silliness of the russians and the stupidity of the americans,"Billy Wilder, 25 years later, he made a hit in Germany; everyone went to see it because the wall",Literal Translation,0.39380345,0.8163447,-0.42254123
+faire un tabac,85,améliorer la lisibilité des manuels aurait fait un tabac,making government manuals easier to read would have been a winner,Improving the readability of manuals would have made a splash,Good Translation,0.8008616,0.8458628,-0.04500121
+faire un tabac,86,- heureusement on a fait un tabac chez drucker,ifitwerenot for presentationintheshow,- fortunately we made a huge success at Drucker,Good Translation,0.35207325,0.76846665,-0.4163934
+faire un tabac,87,le match de samedi soir a l'air de faire un tabac,boy oh boy from what i hear saturday night's game is really generating some action,The Saturday night match is really going gangbusters.,Good Translation,0.75167334,0.8065479,-0.05487454
+faire un tabac,88,-lunchbox magazine fera un tabac,i can see lunchbo x magazine flying off the stands,-lunchbox magazine will be a hit,Good Translation,0.67430925,0.79898983,-0.12468058
+faire un tabac,89,je vais faire un tabac,this is gonna kill,I'm going to smoke (a lot),Literal Translation,0.6081661,0.786932,-0.1787659
+faire un tabac,90,mais ça peut faire un tabac et c'est pour ça que je suis payé,but this could be huge and that's why i get paid for,but it can make a stir and that's why I'm paid,Good Translation,0.81775403,0.82245445,-0.0047004223
+faire un tabac,91,- on va faire un tabac,- let's have a good show,- we're going to make a big success of it,Good Translation,0.69219303,0.6706733,0.02151972
+faire un tabac,92,on fait un tabac,we're a royal hit,we're making a fuss,Partial Translation,0.4924073,0.7342714,-0.24186411
+faire un tabac,93,il pense qu'on va faire un tabac,he thinks we're gonna be huge,He thinks we're going to make a big success of it.,Unnatural,0.7494813,0.72372174,0.025759578
+faire un tabac,94,on va faire un tabac,says we got a real winner in this one,we're going to make a big success of it,Good Translation,0.50976616,0.6201426,-0.11037642
+faire un tabac,95,comme acteur vous auriez fait un tabac,you really should've been an actor you would've done quite well,as an actor you would have been a hit,Good Translation,0.6783196,0.7262094,-0.04788983
+faire un tabac,96,je te le dis ce film fera un tabac tu pourras faire ce que tu veux,i'm telling you vince this movie is gonna be a big hit and then you can do whatever you want,"I'm telling you, this movie will be a hit, you can do what you want",Good Translation,0.7693005,0.79356134,-0.024260819
+faire un tabac,97,on va faire un tabac,this one's going to work,we're going to make a big success of it,Good Translation,0.63561714,0.6201426,0.015474558
+faire un tabac,98,leur concert fait un tabac,this seems like a pretty cush gig,their concert is causing a stir,Good Translation,0.68190926,0.8174841,-0.13557482
+faire un tabac,99,vous pourriez faire un tabac,you could be really big,you could make a fortune,Partial Translation,0.66355574,0.700116,-0.036560237

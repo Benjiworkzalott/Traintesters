@@ -1,0 +1,3 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+être à le four et à le moulin,0,impossible d'être au four et au moulin et je ne peux pas faire de miracle,you cannot pick up two melons with one hand and i cannot work miracles,"Impossible to be at both the oven and the mill, and I cannot do miracles.",Good Translation,0.6982568,0.92690444,-0.22864765
+être à le four et à le moulin,1,on peut pas être au four et au moulin,i can't cut myself in two,You can't be at both oven and mill.,Good Translation,0.58456814,0.86691195,-0.2823438

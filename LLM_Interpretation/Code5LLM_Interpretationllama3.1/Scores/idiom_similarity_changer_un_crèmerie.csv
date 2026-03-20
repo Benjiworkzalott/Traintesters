@@ -1,0 +1,3 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+changer un crèmerie,0,m blumenthal qui menace de changer de crèmerie m hardigan il t'a dit ça,mr blumenthal's threatening to take his business elsewhere,I Blumenthal who threatens to change from the dairy M Hardigan he told you that,Literal Translation,0.7496727,0.8152052,-0.065532506
+changer un crèmerie,1,elles ont changé de crèmerie pour se cacher,the two ninnies just moved to a more private venue,They changed from a dairy to hide themselves.,Literal Translation,0.6487627,0.8037029,-0.15494019

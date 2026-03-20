@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"se envoyer en le air,être en train de",0,imagine combien de gens sont en train de s'envoyer en l'air mec,imagine how many people out there right now are fucking man,Imagine how many people are getting it on right now dude.,Good Translation,0.788075,0.76801187,0.020063102

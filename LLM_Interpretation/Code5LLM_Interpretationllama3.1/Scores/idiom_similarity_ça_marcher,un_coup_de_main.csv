@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"ça marcher,un coup de main",0,ça marcherait peut-être mieux si tu donnais un coup de main,it would be easier if you helped me,that might work better if you gave me a hand,Good Translation,0.8286529,0.90781677,-0.07916385

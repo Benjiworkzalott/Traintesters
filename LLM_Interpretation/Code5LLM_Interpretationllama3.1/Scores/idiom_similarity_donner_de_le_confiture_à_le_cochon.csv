@@ -1,0 +1,4 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+donner de le confiture à le cochon,0,c'est comme donner de la confiture aux cochons hein,like throwing pearls to the pigs eh,"It's like giving jam to pigs, you know?",Good Translation,0.74916184,0.7683931,-0.01923126
+donner de le confiture à le cochon,1,lutter contre ce type c'est donner de la confiture aux cochons,a fight with that guy is like feeding sows to the pigs,to fight against this kind is to give jam to pigs,Good Translation,0.718971,0.8315288,-0.11255777
+donner de le confiture à le cochon,2,et il a passé sa vie à donner de la confiture aux cochons,and then he spent his whole career casting pearls before swine he talked like that,and he spent his life giving jam to pigs,Good Translation,0.63239074,0.81135976,-0.17896903

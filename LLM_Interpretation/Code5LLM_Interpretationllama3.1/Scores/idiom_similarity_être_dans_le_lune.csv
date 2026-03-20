@@ -1,0 +1,54 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+être dans le lune,0,les missiles disparus on ne dira plus que je suis dans la lune,once you've destroyed all the nuclear missiles they'll see i'm right,"The lost missiles, I will no longer say that I am in the moon.",Literal Translation,0.53862953,0.8922919,-0.35366237
+être dans le lune,1,je suis dans la lune aujourd'hui,wow i'm a space cadet today,I am on cloud nine today.,Literal Translation,0.7256602,0.69965565,0.026004553
+être dans le lune,2,viens t'es dans la lune,come on you're zoning,Come on in to the moon,Literal Translation,0.6102241,0.8226602,-0.21243608
+être dans le lune,3,tu es dans la lune frank,you weren't there frank,You're on Mars Frank,Unnatural,0.7011095,0.79568636,-0.094576836
+être dans le lune,4,tu dois vraiment être dans la lune,you just had a near-death experience,You must really be out of this world.,Good Translation,0.5949913,0.7116959,-0.11670458
+être dans le lune,5,tu as été dans la lune toute la matinée,you've been off in space all morning,You've been moonstruck all morning.,Good Translation,0.8582579,0.8190297,0.0392282
+être dans le lune,6,j'étais dans la lune désolée,yes i know i was miles away sorry,I was over the moon with sadness.,Good Translation,0.6836369,0.7913612,-0.10772431
+être dans le lune,7,je vais au cinéma et je suis dans la lune,going to the movies and staring off into space,I'm going to the cinema and I am on the moon,Literal Translation,0.7177166,0.9219988,-0.20428222
+être dans le lune,8,- stan stan t'es dans la lune hein,-you're a bit out of it huh,- Stan are you out of your mind?,Unnatural,0.55886966,0.6590059,-0.10013622
+être dans le lune,9,t'es dans la lune,are you on the moon,You're on cloud nine.,Mistranslation,0.8100658,0.57621396,0.23385185
+être dans le lune,10,je suis dans la lune,i'm moonlighting,I'm over the moon.,Unnatural,0.79589367,0.78611374,0.00977993
+être dans le lune,11,pos192220pardon j'étais dans la lune,zane sorry i spaced out there,I was in a daze.,Good Translation,0.587047,0.60619354,-0.019146562
+être dans le lune,12,il est dans la lune regarde,tony he's in a world of his own look,He is on the moon looking,Literal Translation,0.6397722,0.8935914,-0.25381923
+être dans le lune,13,nous offrons le sacrifice du sang vous êtes dans la lune ou quoi,we're offering blood sacrifice what are you daydreaming for,We offer the blood sacrifice you are on the moon or what?,Good Translation,0.72727513,0.90965986,-0.18238473
+être dans le lune,14,mon amie megan dit que je suis dans la lune,my friend megan says i'm out to lunch,My friend Megan says I'm out of this world.,Good Translation,0.7222055,0.6589115,0.06329399
+être dans le lune,15,je suis dans la lune là,- i'm in a really weird place right now,I'm in a different world right now.,Good Translation,0.64832175,0.6580311,-0.009709358
+être dans le lune,16,- je regarde pas je suis dans la lune,- l'm dreaming,"- I don't look at it, I'm in love with the moon.",Mistranslation,0.64315945,0.8182251,-0.17506564
+être dans le lune,17,elle est dans la lune elle chante,daydreaming singing to herself,"She is on the moon, she sings.",Literal Translation,0.6971977,0.93118644,-0.23398876
+être dans le lune,18,désolée je suis dans la lune je suis absorbée par une certaine jalousie vous êtes ensemble tous les deux maintenant,i'm sorry i'm just distracted right now by these feelings of jealousy that you two are apparently together now,"Sorry I'm out of this world, I'm consumed by a certain jealousy you two are together now.",Good Translation,0.7712277,0.82590735,-0.054679632
+être dans le lune,19,arthur disait être dans la lune,arthur said he was over the moon,Arthur would say he's on the moon,Literal Translation,0.8661225,0.8471361,0.018986404
+être dans le lune,20,il est dans la lune,- bye,He is in the moon.,Literal Translation,0.47509706,0.92010593,-0.44500887
+être dans le lune,21,morgan pense que la caméra est dans les lunettes,morgan thinks the unsub's glass are the camera,Morgan thinks the camera is in the glasses.,Literal Translation,0.85592484,0.8490122,0.0069126487
+être dans le lune,22,elle est dans la lune les ambulanciers sont là,she's over the moon,"She is on the moon, the ambulance men are there.",Literal Translation,0.6737517,0.9243324,-0.25058067
+être dans le lune,23,vous êtes dans la lune,what's the matter with you,You're out of this world.,Good Translation,0.5903698,0.6295937,-0.03922385
+être dans le lune,24,j'étais dans la lune - mais je viens juste de me souvenir il y a une auberge de jeunesse pas chère près d'ici,i was a little far-off - but i just remembered that it is a cheap youth shelter nearby,I was in the moon - but I just remembered there is a cheap youth hostel near here.,Literal Translation,0.84158134,0.9014729,-0.05989158
+être dans le lune,25,désolé j'étais dans la lune,i'm sorry i blacked out for a second,Sorry I was on the moon,Literal Translation,0.6601386,0.91316605,-0.25302744
+être dans le lune,26,tu es dans la lune ce soir,you're a million miles away tonight,You're in a different world tonight.,Good Translation,0.61303973,0.6648344,-0.05179465
+être dans le lune,27,- moi au moins je suis dans la lune par mes propres moyens,- at least i get high naturally,- At least I am in orbit by my own means,Literal Translation,0.7008928,0.86873305,-0.16784024
+être dans le lune,28,attention une des photos là-dedans est choquante vous êtes dans la lune,fair warning there's a picture in there you can't unsee,be careful one of the pictures in there is shocking you are on the moon,Literal Translation,0.62030685,0.9017659,-0.28145903
+être dans le lune,29,j'étais dans la lune,i spaced out,I was on the moon,Literal Translation,0.65229297,0.9019563,-0.24966335
+être dans le lune,30,tu es dans la lune mon amour tu es dans la lune,your head's in the clouds dear,You are in the moon my love you are in the moon,Literal Translation,0.6106456,0.8711392,-0.26049364
+être dans le lune,31,je devais être dans la lune désolé,i was probably lost in thoughts i'm sorry,I should have been on the moon by now,Literal Translation,0.7260704,0.82709587,-0.10102546
+être dans le lune,32,seulement comme il est dans la lune il a oublie son sac,only since he's got his head in the clouds he forgot his bag,Only like he is on the moon he forgot his bag.,Literal Translation,0.7922009,0.926643,-0.13444209
+être dans le lune,33,mais le conseiller d'orientation était dans la lune,but it figures my guidance counselor was a total ditz,but the careers counselor was in the moon,Literal Translation,0.64351374,0.8852944,-0.24178064
+être dans le lune,34,tu es dans la lune là,you've gone off somewhere oh,You are out of your mind there.,Good Translation,0.60028696,0.6354678,-0.035180867
+être dans le lune,35,oups désolé vous inquiétez pas j'écoutais pas j'étais dans la lune là-dessous,whoops sorry don't worry i wasn't listening in a world of my own down there,"Oh no, sorry you didn't worry I wasn't listening I was out of my mind there below.",Mistranslation,0.79674673,0.79153997,0.0052067637
+être dans le lune,36,c'est un jeu d'attention et toi tu es dans la lune,when playing chess you must pay attention you can't daydream and expect to play,It's a game of attention and you're out in left field.,Unnatural,0.52105534,0.70189023,-0.18083489
+être dans le lune,37,papa t'es dans la lune,dad earth to dad,"Dad, you're crazy",Good Translation,0.5874902,0.6578975,-0.07040727
+être dans le lune,38,- j'étais dans la lune,good night good night,I was in the moon.,Literal Translation,0.5039942,0.88865733,-0.3846631
+être dans le lune,39,tu es dans la lune depuis 15 minutes,it's like you've been on another planet for the last 15 minutes,You've been out of it for 15 minutes,Good Translation,0.7538669,0.7793871,-0.025520205
+être dans le lune,40,dame enceinte j'étais dans la lune quand tu as parlé je suis pas sûr d'avoir compris ton problème,pregnant ladyi kind of space out when you start talking so i'm not entirely sure what your problem is,"I was over the moon when you spoke, I'm not sure if I understood your problem.",Mistranslation,0.78016186,0.83215934,-0.051997483
+être dans le lune,41,vous êtes dans la lune,are you with us,You are in a dream (or) You're out of your mind.,Good Translation,0.6158292,0.65472627,-0.038897038
+être dans le lune,42,ii est dans la lune c'est ce qui les rend touchants,yeah well isn't that what we like about them,It is in the moon that's what makes them touching.,Literal Translation,0.59329313,0.8044834,-0.21119028
+être dans le lune,43,j'avais j'étais dans la lune,i was staring wasn't i,I had I was on the moon,Literal Translation,0.6132027,0.8675573,-0.2543546
+être dans le lune,44,il est dans la lune la moitié du temps,i gather that his mind is in outer space for most of the time,He is in the moon half of the time.,Literal Translation,0.6958779,0.9181202,-0.2222423
+être dans le lune,45,s'il a remarqué qu'elle est dans la lune je ne sais pas,whether he spotted she's away with the fairies i couldn't say,if he noticed that she is on the moon I don't know,Literal Translation,0.679791,0.9315125,-0.2517215
+être dans le lune,46,tu peux être dans la lune sans oublier que j'existe,one may be lost in thoughts but not completely forget there's another person living in the same apartment,You can be in the moon without forgetting that I exist.,Literal Translation,0.58889145,0.9372011,-0.34830964
+être dans le lune,47,enfin arthur tu es dans la lune depuis deux mois,god arthur you've been gazing at the moon for the past two months,"Arthur, you've been in the moon for two months now.",Literal Translation,0.82624584,0.87036395,-0.044118106
+être dans le lune,48,tu la connais elle est dans la lune,you know she's distracted,"You know her, she's on the moon.",Good Translation,0.6978444,0.8649969,-0.16715252
+être dans le lune,49,paquita voyons t'es dans la lune,paquita your mind's in the clouds girl,Come on Paquita you're out of your mind.,Unnatural,0.70672464,0.668522,0.038202643
+être dans le lune,50,toi t'es dans la lune et moi je suis le soleil,worshiper of moons i am the sun,You're in a dream and I'm the reality.,Good Translation,0.6669378,0.6687619,-0.001824081
+être dans le lune,51,et j'ai compris que tout est dans la lunette,and i finally figured out the trick is right there in the collar,and I understood that everything is within the telescope,Literal Translation,0.7010666,0.8129788,-0.11191219
+être dans le lune,52,vous êtes dans la lune,your mind's on the moon,You are out of this world.,Good Translation,0.7931458,0.63805866,0.15508711

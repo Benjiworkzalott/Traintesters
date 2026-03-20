@@ -1,0 +1,7 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+sentir le sapin,0,tu sens le sapin,you smell like a pine cone,you smell the pine,Unnatural,0.59611607,0.6838765,-0.08776045
+sentir le sapin,1,ça sent le sapin mec,that sucks dude,it smells like pine man,Good Translation,0.55177355,0.7122252,-0.16045165
+sentir le sapin,2,quand ils sortent ça sent le sapin,once they're up that's it,when they come out it smells like pine,Good Translation,0.5591004,0.8252343,-0.2661339
+sentir le sapin,3,pour notre ami le bandit ça sentait le sapin,and everybody that seen it thought the bandit was gone,for our friend the robber it smelled like pine,Good Translation,0.59906614,0.7920965,-0.19303036
+sentir le sapin,4,ça sentait le sapin,i smelled that pine box,it smelled like pine,Good Translation,0.78146976,0.81936157,-0.037891805
+sentir le sapin,5,- ii sent le sapin,- he knows it's coming,- he/she smells the pine,Literal Translation,0.53078425,0.6300684,-0.09928417

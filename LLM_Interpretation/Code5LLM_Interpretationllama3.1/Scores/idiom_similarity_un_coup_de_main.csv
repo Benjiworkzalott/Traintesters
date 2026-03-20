@@ -1,0 +1,103 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+un coup de main,0,- besoin d'un coup de main,need a hand nah,could use a hand,Good Translation,0.8342529,0.7425565,0.09169638
+un coup de main,1,- bonjour un coup de main,- hey ya may i help you on here,- hi can I help you,Good Translation,0.7239797,0.74738,-0.023400307
+un coup de main,2,il donne un coup de main avec les fournisseurs et,he's uh helping out keeping things together with the vendors and,he lends a hand with suppliers and,Good Translation,0.84350705,0.94465333,-0.10114628
+un coup de main,3,un coup de main,little help,A helping hand or A good deed,Good Translation,0.6814011,0.737017,-0.055615902
+un coup de main,4,un coup de main,give us a hand,a helping hand,Good Translation,0.84537756,0.8921646,-0.046787024
+un coup de main,5,- tuck un coup de main,why - tuck please help me out here,give a hand to take revenge on him,Mistranslation,0.7186473,0.6407627,0.077884614
+un coup de main,6,vous êtes tellement doués pour trouver des trucs peut-être que vous pourriez donner un coup de main à mon équipier,you guys are so good at finding things maybe you could give my partner a hand,You are so talented at finding things maybe you could lend a hand to my partner,Good Translation,0.87238264,0.8739881,-0.0016054511
+un coup de main,7,donne un coup de main du courage,hey give us a hand,gives a helping hand of courage,Unnatural,0.780651,0.9238193,-0.14316833
+un coup de main,8,hé camarades laissez moi vous donner un coup de main,hey fellas let me give you a hand,Hey guys let me give you a hand,Good Translation,0.87849236,0.9061302,-0.02763784
+un coup de main,9,hé dim donnons-lui un coup de main,hey dim let's give her a hand,let's give him a hand,Mistranslation,0.9064189,0.9051479,0.0012710094
+un coup de main,10,tu peux me donner un coup de main pour pousser ça,yeah while you're here can you help me move this thing real quick,can you give me a hand to push this,Good Translation,0.7799947,0.85990596,-0.07991123
+un coup de main,11,peut-être pas ça mais un coup de main,maybe not that but cat meows,Maybe not that but a helping hand,Good Translation,0.73697424,0.9500304,-0.21305615
+un coup de main,12,donne-moi un coup de main avec la vaisselle allez vas-y fais vite,come here and give me a hand,Give me a hand with the dishes go on do it quickly,Good Translation,0.7487582,0.8620631,-0.11330491
+un coup de main,13,sort d'ici et vient donner un coup de main a ton grand frère,come out here and give your big bro a hand,Get out of here and come help your big brother.,Good Translation,0.8709825,0.92960477,-0.05862224
+un coup de main,14,- il vous faut un coup de main,- looks like you need a hand - thank you,- you need a hand with something.,Good Translation,0.8326439,0.8749993,-0.04235536
+un coup de main,15,mccoy prends ta hache et donne un coup de main par ici,look out mccoy get your axe and come on up here and pitch in,McCoy takes your axe and gives a hand over here.,Good Translation,0.797029,0.7787421,0.018286943
+un coup de main,16,laisse-moi te donner un coup de main,let me give you a hand with these fish huh,Let me lend a hand.,Good Translation,0.75503564,0.9069166,-0.15188098
+un coup de main,17,micki donne-moi un coup de main avec ça,micki give me a hand with this,Can you help me out with that?,Good Translation,0.96329415,0.722993,0.24030113
+un coup de main,18,donne un coup de main on déménage,here we go again come on down give us a hand,Give a hand we are moving.,Good Translation,0.73248774,0.8128669,-0.08037919
+un coup de main,19,j'en dis donne moi un coup de main l'acolyte,i say give me a hand sidekick,"Give me a hand with that, acolyte.",Good Translation,0.8207123,0.85993445,-0.03922212
+un coup de main,20,petit viens me donner un coup de main,kid come and lend me a hand,Little one comes to give me a hand,Good Translation,0.88079995,0.7980638,0.082736135
+un coup de main,21,- super viens me filer un coup de main,- i got everything almost finished,- come on and lend a hand,Good Translation,0.6113639,0.84340113,-0.23203725
+un coup de main,22,c'est moi qui t'ai filé un coup de main,i was the one tried to help you,It's me who gave you a helping hand.,Good Translation,0.78552735,0.8684368,-0.082909465
+un coup de main,23,eh bien oui oui d'accord vous nous avez donné un coup de main mais finalement c'est exactement comme la seconde guerre mondiale et qui a gagné là,well yeah yeah alright you help out here and there but ultimately it's just like world war ii and who won that,Well yes yes okay you gave us a helping hand but ultimately it's exactly like the Second World War and who won there.,Good Translation,0.89386404,0.9617821,-0.06791806
+un coup de main,24,si tu veux être un flic alors donne moi un coup de main,if you want to be a cop then lend me a hand,If you want to be a cop then give me a hand,Good Translation,0.9029386,0.91035485,-0.0074162483
+un coup de main,25,donne-moi un coup de main,give me a hand here hey,Give me a hand.,Good Translation,0.8509766,0.8897744,-0.038797796
+un coup de main,26,tu donnes un coup de main aux affaires internes,you lending ia a hand,You're giving a hand with internal affairs.,Good Translation,0.7028995,0.901489,-0.1985895
+un coup de main,27,un coup de main les gars,give us a hand boys,"a hand up, guys",Good Translation,0.8802549,0.90038306,-0.02012813
+un coup de main,28,ok ne t'embêtes pas à me filer un coup de main,okay don't bother yourself helping me,don't bother helping me,Good Translation,0.8261607,0.78320295,0.042957783
+un coup de main,29,allez donner un coup de main à baz,go find baz give him a hand,go give a hand to baz,Good Translation,0.8819283,0.91483045,-0.03290212
+un coup de main,30,je me suis dit que je pourrais peut être vous proposer un coup de main pour la biographie que vous me consacré,well i thought i might be able to help you out with that little biography you've been writing about me,I thought to myself that maybe I could offer you a helping hand with your biography dedicated to me.,Good Translation,0.8708922,0.9210856,-0.05019337
+un coup de main,31,elle donnait un coup de main à la maison et à son père au travail,she lends you a helping hand at home and her father at work,she helped out at home and with her father at work,Good Translation,0.88382924,0.94457895,-0.06074971
+un coup de main,32,ils me remplacent ou me donnent un coup de main quand j'ai du retard,they're happy to cover my shifts or pitch in on an assignment if i'm behind,they replace me or give me a helping hand when I'm late.,Unnatural,0.81186604,0.93066347,-0.11879742
+un coup de main,33,- donne un coup de main,- give us a hand here,- lend a helping hand,Good Translation,0.8475392,0.9147415,-0.06720233
+un coup de main,34,adams donne un coup de main,adams you idiot help me out,Adams lends a hand.,Good Translation,0.76089156,0.90028054,-0.13938898
+un coup de main,35,allez les gars un coup de main,all right lads come on lend a hand,Come on guys a hand up,Good Translation,0.881415,0.8945664,-0.013151407
+un coup de main,36,un coup de main,need help or what,a hand in the door or a helping hand,Literal Translation,0.6651364,0.81835544,-0.15321904
+un coup de main,37,non donne leur un coup de main,no you won't give 'em a hand,don't give them a hand,Good Translation,0.85870624,0.9141103,-0.055404067
+un coup de main,38,- un coup de main,- can i help you',a helping hand,Good Translation,0.6515709,0.8354785,-0.18390757
+un coup de main,39,tant que c'est juste un coup de main,as long as it's on the cuff and not on my back,As long as it's just a helping hand,Good Translation,0.69635594,0.9301152,-0.23375928
+un coup de main,40,il donne juste un coup de main pour la fête parce qu'il aime miguel,he's just helping out with the party because he loves miguel,he just lends a hand for the party because he likes Miguel,Good Translation,0.93143576,0.8701741,0.061261654
+un coup de main,41,j'ai vraiment besoin d'un coup de main,i need a solid here bro,I really need a hand.,Good Translation,0.75486654,0.89898276,-0.14411622
+un coup de main,42,vosu devriez êter sur l'île à donner un coup de main au cajun,you're supposed to be on the island helping the cajun,You should be on the island to give a hand to the Cajuns.,Good Translation,0.8739035,0.90463483,-0.03073132
+un coup de main,43,s'il revient texte 911 à ce numéro et je viendrai tout de suite - bump un coup de main,if the guy comes here again text 911 to this number and i'll be here,"If he comes back, just text me at 911 and I'll be there right away - give him a nudge.",Partial Translation,0.8415433,0.84302825,-0.0014849305
+un coup de main,44,un coup de main,hurry this line forward,a helping hand,Good Translation,0.6230259,0.8921646,-0.2691387
+un coup de main,45,file-moi un coup de main,give me a hand with this,Lend me a hand.,Good Translation,0.8484738,0.88770497,-0.03923118
+un coup de main,46,je suis mal parti qu'est-ce que je ne donnerais pas pour un coup de main,what i wouldn't give for a kick-starter,I'm in a tight spot - what I wouldn't give for some help.,Good Translation,0.6884484,0.7998767,-0.11142826
+un coup de main,47,satchkov donne-moi un coup de main,hey sachkov take this will you,"Help me out, Satchkov.",Good Translation,0.7699475,0.88808584,-0.11813831
+un coup de main,48,file-moi un coup de main,come help me,Give me a hand.,Good Translation,0.78629345,0.8828182,-0.096524775
+un coup de main,49,fainéant viens me donner un coup de main,you big horse come on up here and give me a hand,Slacker come give me a hand,Good Translation,0.74435866,0.8040633,-0.05970466
+un coup de main,50,je te donnerai un coup de main financièrement,is that still a reach for you huh not financially set for that yet,I'll give you a financial hand.,Good Translation,0.60436934,0.9161974,-0.31182808
+un coup de main,51,hé evans tu peux me donner un coup de main avec ça,hello there evans can you give me a hand with this,Hey Evans can you give me a hand with this?,Good Translation,0.9246351,0.88008857,0.044546545
+un coup de main,52,de m'avoir donner un coup de main,for lending me a hand,of having given me a hand,Unnatural,0.8807436,0.89890295,-0.01815933
+un coup de main,53,grand nettoyage un coup de main,spring cleaning,A big clean-up operation by hand.,Unnatural,0.6871584,0.85083634,-0.16367793
+un coup de main,54,tu veux un coup de main,let me give you a hand up bob,Do you want a hand?,Partial Translation,0.72211576,0.81428456,-0.09216881
+un coup de main,55,je pourrais peut-être donner un coup de main,maybe i could you know help or something,I could probably lend a hand,Good Translation,0.8471899,0.9213728,-0.07418287
+un coup de main,56,regarde chérie angelo est venu donner un coup de main pour le déménagement,look honey angelo came to help move,Look darling Angelo came to lend a hand with the move,Good Translation,0.8822489,0.8570763,0.025172591
+un coup de main,57,je devrais peut-être lui donner un coup de main,sir i think i'll stay and help,I should probably give him a hand.,Good Translation,0.7326491,0.9117583,-0.17910922
+un coup de main,58,je suis très heureux de vous donner un coup de main,i'm perfectly happy to give you a boost,I'm very happy to give you a hand,Good Translation,0.85932285,0.9325347,-0.07321185
+un coup de main,59,c'est complètement pathétique et tu nous déprimes vraiment alors on va te filer un coup de main,mm-hmm okay dee this is truly pathetic and you are really bringing us down so we're gonna help you out,It's completely pathetic and you really depress us then we'll give you a hand.,Good Translation,0.8603771,0.9233959,-0.0630188
+un coup de main,60,- vous voulez un coup de main,- hey want a hand - yeah,- would you like a hand,Good Translation,0.7908646,0.8940507,-0.10318613
+un coup de main,61,je lui donne un coup de main avec les enfants et la maison je cuisine je covoiture,i help take care of the kids i do a little light housekeeping part-time cooking drive carpools,I help her out with the children and the house I cook I carpool,Good Translation,0.75103307,0.834939,-0.083905935
+un coup de main,62,le dr pratt a besoin d'un coup de main,dr pratt is asking for another set of hands,Dr Pratt needs a hand with something,Good Translation,0.8547897,0.8821954,-0.027405739
+un coup de main,63,donne moi un coup de main,all right give mea hand,Give me a hand.,Good Translation,0.82775706,0.8910056,-0.063248515
+un coup de main,64,- un coup de main les filles,- you ladies need a hand,a hand in helping them girls,Unnatural,0.8240855,0.86536527,-0.041279793
+un coup de main,65,ton coach va me donner un coup de main pis on va rencontrer la directrice de la commission scolaire pour que tu puisses terminer ton année à la maison,your coach and i are meeting the school board so you can finish the year at home,Your coach is going to give me a hand and we're going to meet the director of the school board so you can finish your year at home.,Good Translation,0.82519114,0.9048159,-0.07962477
+un coup de main,66,edouard viens donner un coup de main,eduard come and help,Edward come and lend a hand,Good Translation,0.87016284,0.8318199,0.038342953
+un coup de main,67,allons les gars donnez-moi un coup de main,come on guys give me a hint,Come on guys give me a hand,Good Translation,0.8342625,0.93251395,-0.09825146
+un coup de main,68,donne-moi un coup de main,here pitch in,Give me a hand.,Good Translation,0.5740528,0.8897744,-0.31572157
+un coup de main,69,demande à ben de te donner un coup de main,get ben to give you a hand,Asks Ben to lend you a hand,Good Translation,0.9262309,0.9112619,0.014968991
+un coup de main,70,donnez-moi une liste pour que je lui donne un coup de main,get me a call list so i can tag-team with him,Give me a list so I can lend him a hand.,Good Translation,0.7995982,0.93740976,-0.13781154
+un coup de main,71,m chan si vous organisez quelques cérémonies charitables nous viendrons pour vous donner un coup de main,mr chen if you'll organize some charitable function we'll come to lend you our hands,If you organize some charitable ceremonies we'll come to help you out.,Good Translation,0.8797605,0.8981588,-0.018398285
+un coup de main,72,je viens d'être libéré j'ai besoin d'un coup de main et tu me laisses tomber,look i'm home from the service and i just need a little support and you let me down bro,I've just been released I need a hand and you leave me hanging.,Good Translation,0.7954286,0.8929155,-0.09748691
+un coup de main,73,ecoute il me donne un coup de main,look he's helping me,Listen he gives me a hand,Good Translation,0.8467479,0.91336375,-0.06661588
+un coup de main,74,capitaine dylan hunt toujours ravi de donner un coup de main,captain dylan hunt always happy to lend a hand,Captain Dylan Hunt is always delighted to lend a helping hand.,Good Translation,0.9569734,0.8819722,0.07500118
+un coup de main,75,tu vois j'ai été donné un coup de main pour le baby shower,you see i went over there to help out with the baby shower,I was given a helping hand for the baby shower,Good Translation,0.8824678,0.92570764,-0.043239832
+un coup de main,76,si t'es pas fatigué tu me donneras un coup de main,don't worry here you'll soon get back your color,if you're not tired you'll give me a hand,Literal Translation,0.575584,0.91588765,-0.34030366
+un coup de main,77,tu veux un coup de main,do you need help or,Do you need a hand?,Good Translation,0.80946803,0.78469765,0.024770379
+un coup de main,78,de donner un coup de main,trying to help out,to lend a helping hand,Good Translation,0.8317894,0.9257281,-0.09393871
+un coup de main,79,sérieusement si jamais t'as besoin d'un coup de main je suis ton homme,no seriously you know if you ever uh if you ever need a hand tsk i am your guy,Seriously though if you ever need a hand I'm your man,Good Translation,0.8760209,0.9157456,-0.039724708
+un coup de main,80,un coup de main leigh,little help leigh,a helping hand from Leigh,Good Translation,0.77098894,0.7355391,0.035449862
+un coup de main,81,ils sont sympas de filer un coup de main,nice of them to lend a hand though,They're nice people to lend a hand to,Partial Translation,0.92269236,0.93671346,-0.014021099
+un coup de main,82,donnez-moi un coup de main les gars,give me a hand with this boys,"Give me a hand, guys.",Good Translation,0.8810847,0.9255179,-0.044433236
+un coup de main,83,tu as besoin d'un coup de main,do you need some spot,You need a hand.,Good Translation,0.69003046,0.8511677,-0.16113722
+un coup de main,84,je peux te filer un coup de main,i'm just can i offer you a hand,I can give you a hand.,Good Translation,0.85755277,0.890735,-0.033182204
+un coup de main,85,habille-toi j'ai besoin d'un coup de main,put your clothes on i need a hand,Get dressed I need a hand,Good Translation,0.8970407,0.9072618,-0.010221064
+un coup de main,86,chekov donnez-moi un coup de main,chekov give me a hand,"Chekov, give me a hand!",Good Translation,0.95263296,0.8898249,0.06280804
+un coup de main,87,- un coup de main,- want a hand,a helping hand,Good Translation,0.875128,0.8354785,0.039649487
+un coup de main,88,donne-moi un coup de main mau,help me with this mau,Give me a hand please.,Good Translation,0.7446993,0.83823,-0.093530715
+un coup de main,89,lucy donne un coup de main pour le mariage de milford,lucy's helping out with the milford wedding,Lucy is giving a hand at Milford's wedding.,Good Translation,0.92980766,0.86360925,0.06619841
+un coup de main,90,tout le monde donnez un coup de main à kenny et l'armée de soutien en réserve,hey everybody let's give a big hand to kenny and the army reserve combat support team,everyone lend a hand to Kenny and the reserve support army,Good Translation,0.88037574,0.896583,-0.016207278
+un coup de main,91,- il ne mentionne pas la douleur donnez-moi un coup de main,thomas hardy,- he doesn't even mention pain give me a hand,Good Translation,0.31728727,0.9310379,-0.61375064
+un coup de main,92,toi donne-moi un coup de main,no way you give me a boost,You give me a hand,Good Translation,0.6638555,0.8799517,-0.21609622
+un coup de main,93,tu me files un coup de main,could you help me a minute,You can lend a hand to me.,Good Translation,0.64975977,0.7156321,-0.06587231
+un coup de main,94,donne-moi un coup de main pat,come on pat get out and help,Give me a hand,Good Translation,0.8666718,0.8393151,0.027356684
+un coup de main,95,- donne-moi un coup de main,- give me your hand pick me up,-give me a hand,Good Translation,0.850322,0.9327616,-0.0824396
+un coup de main,96,donne-moi un coup de main veux-tu amour,give me a boost would you love,Give me a hand would you love?,Good Translation,0.7691851,0.81883025,-0.049645126
+un coup de main,97,vous avez peut-être besoin d'un coup de main,commander commander i thought you might need some assistance on the holodeck,you may need a hand with something,Good Translation,0.7298335,0.8530859,-0.12325239
+un coup de main,98,on lui file un coup de main hein,let's give him a hand shall we,"We're giving him a helping hand, right?",Good Translation,0.8269161,0.7653903,0.06152582
+un coup de main,99,donne un coup de main pour les barrières,help with the fortifications,gives a helping hand for the barriers,Good Translation,0.7301716,0.91158307,-0.18141145
+un coup de main,100,tu devrais être en train de t'occuper de ben i'invalide ii va très bien tout ie monde peut avoir besoin d'un coup de main,that's how it sounded,You should be taking care of Ben he's not doing too well everybody needs a helping hand.,Mistranslation,0.4440267,0.81857765,-0.37455094
+un coup de main,101,ça marcherait peut-être mieux si tu donnais un coup de main,it would be easier if you helped me,That might work better if you gave a hand.,Good Translation,0.828653,0.9273795,-0.09872651

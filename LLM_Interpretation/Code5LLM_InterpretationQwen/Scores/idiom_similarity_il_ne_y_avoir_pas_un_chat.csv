@@ -1,0 +1,55 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+il ne y avoir pas un chat,0,il n'y aura pas un chat à moins que les joueurs ne viennent avec des souris,the game won't draw flies unless the players bring their horses,there will be no cats unless the players come with mice,Literal Translation,0.7183622,0.8758011,-0.15743887
+il ne y avoir pas un chat,1,il n'y a pas de chats,there are no cats,there are no cats,Good Translation,0.9310802,0.9310801,1.1920929e-07
+il ne y avoir pas un chat,2,il n'y a pas un chat,- how's the party,there isn't a cat,Literal Translation,0.5109662,0.9200012,-0.40903503
+il ne y avoir pas un chat,3,il n'y avait pas un chat dans le coin,not a single person was in sight,there wasn't a cat in sight,Literal Translation,0.77307385,0.9110475,-0.13797367
+il ne y avoir pas un chat,4,il n'y a pas un chat ici,there's no one in here,there isn't a cat here,Literal Translation,0.805188,0.93179476,-0.12660676
+il ne y avoir pas un chat,5,il n'y a pas un chat dans les rues encore moins de palanquins,there's not a cat in the streets much less a palanquin,there is not a cat in the streets let alone palanquins,Unnatural,0.94861835,0.93739563,0.01122272
+il ne y avoir pas un chat,6,il n'y a pas un chat en fait il n'y a que moi et un ami,bleachers empty except me and a friend,there isn't a cat in fact there's just me and a friend,Good Translation,0.6758844,0.9281951,-0.2523107
+il ne y avoir pas un chat,7,il n'y a pas un chaton quelque part qui a besoin d'une manucure,isn't there a kitten somewhere that needs a manicure,there isn't a kitten anywhere that needs a manicure,Good Translation,0.80127627,0.89911515,-0.09783888
+il ne y avoir pas un chat,8,caroline est au pensionnat il n'y a pas un chat dans la maison,and caroline's off at boarding school so the coast is clear,Caroline is at the boarding school there isn't a cat in the house,Literal Translation,0.59891963,0.7909585,-0.1920389
+il ne y avoir pas un chat,9,mais il n'y a pas de chat,only there is no cat,but there is no cat,Partial Translation,0.825876,0.9280241,-0.102148116
+il ne y avoir pas un chat,10,il n'y avait pas un chat alors j'ai commandé un cocktail,there wasn't a soul to talk to so i ordered a sidecar,there wasn't a cat around so I ordered a cocktail,Literal Translation,0.6847935,0.9545343,-0.26974082
+il ne y avoir pas un chat,11,- il n'y a pas de chaton,- there is no kitten,- there is no kitten,Good Translation,0.86378014,0.86378026,-1.1920929e-07
+il ne y avoir pas un chat,12,il n'y aura pas un chat,no one's gonna be around,there will be not a cat,Literal Translation,0.7161566,0.93375146,-0.21759486
+il ne y avoir pas un chat,13,il n'y a pas un chat - partons d'ici - on la cambriole,- we'll go rob the place,there isn't a cat - let's leave - she was robbed,Mistranslation,0.61409426,0.8627605,-0.24866623
+il ne y avoir pas un chat,14,le film n'est pas mauvais mais il n'y a pas un chat,you know i've had gregory peck and doris day all week down at the theater but nobody's coming down to see 'em,the movie is not bad but there isn't a soul,Good Translation,0.4748894,0.7940558,-0.31916642
+il ne y avoir pas un chat,15,et elle fut surprise qu'il n'y ait pas un chat,- that her family didn't show up,and she was surprised that there wasn't a cat,Literal Translation,0.6803298,0.9667009,-0.2863711
+il ne y avoir pas un chat,16,- il n'y a pas de chatte,there is no cat,- there is no cat,Good Translation,0.87152225,0.9072417,-0.035719454
+il ne y avoir pas un chat,17,maintenant il n'y a pas de chats en amérique,now there are no cats in america fillie,now there are no cats in america,Good Translation,0.9036478,0.9579807,-0.054332912
+il ne y avoir pas un chat,18,mais le plus important et ça j'en suis sûr en amérique il n'y a pas de chats,but most important and this i know for fact in america there are no cats,but most importantly and I'm sure of this in America there are no cats,Good Translation,0.9467852,0.9466029,0.00018233061
+il ne y avoir pas un chat,19,il n'y a pas un chat ici,there's not a soul here,there isn't a cat here,Literal Translation,0.7866286,0.93179476,-0.14516616
+il ne y avoir pas un chat,20,- lève-toi il n'y a pas de chat,- get up there's no cat,- get up there's no cat,Good Translation,0.92849046,0.9284906,-1.1920929e-07
+il ne y avoir pas un chat,21,il n'y a pas un chat,not another human being in sight,there isn't a cat,Literal Translation,0.7164669,0.9200012,-0.2035343
+il ne y avoir pas un chat,22,il n'y a pas de chat c'est une voiture de police,there is no cat it's a police car,there is no cat it is a police car,Unnatural,0.9565154,0.95433474,0.002180636
+il ne y avoir pas un chat,23,il n'y a pas un chat ici,something's wrong i'm not kidding,there isn't a cat here,Literal Translation,0.55826557,0.93179476,-0.3735292
+il ne y avoir pas un chat,24,même s'il n'y a pas de chats dans le bâtiment,not that there are cats in this building,Even though there are no cats in the building,Literal Translation,0.829068,0.92913026,-0.10006225
+il ne y avoir pas un chat,25,donc comme tu le vois lauren il n'y a pas de chats ici et je vais parfaitement bien,so as you can see lauren there are no cats here and i'm totally fine,"so as you can see Lauren, there are no cats here and I am doing perfectly well",Good Translation,0.9629688,0.92383295,0.039135873
+il ne y avoir pas un chat,26,il n'y a pas de chat mais le miaulement venait d'ici,there's no cat but the meowing came from here,there is no cat but the meowing came from here,Unnatural,0.89871824,0.89704657,0.0016716719
+il ne y avoir pas un chat,27,il n'y a pas de chat ici,there's no cat there,there is no cat here,Partial Translation,0.8953286,0.9175936,-0.022265017
+il ne y avoir pas un chat,28,avec un temps pareil il n'y a pas un chat dans les rues,such a bad weather there was no one else around,"With weather like that, there's not a soul on the streets.",Good Translation,0.7254467,0.84195614,-0.11650944
+il ne y avoir pas un chat,29,mais il n'y a pas de chats en amérique,but there are no cats in america that does it,but there are no cats in America,Unnatural,0.8930162,0.93647754,-0.043461323
+il ne y avoir pas un chat,30,depuis 3 heures il n'y a pas un chat,anyway no one's come in for hours,since 3 hours not a cat has been around,Good Translation,0.78878164,0.94717515,-0.1583935
+il ne y avoir pas un chat,31,il n'y avait pas un chat,dead over there,there wasn't a cat,Good Translation,0.55423474,0.955877,-0.40164226
+il ne y avoir pas un chat,32,ça fait plus de deux semaines qu'il n'y a pas un chat,nobody's been in there for more than two weeks now not a soul,It's been more than two weeks since there has been a cat.,Literal Translation,0.75935614,0.9112656,-0.15190947
+il ne y avoir pas un chat,33,avec cette pluie il n'y aura pas un chat,oh there's cutting all right relax in this rain you won't be getting many customers,with this rain there won't be a soul,Good Translation,0.69045377,0.83904463,-0.14859086
+il ne y avoir pas un chat,34,il n'y a pas de chats pas d'animaux rien,there's no cats around no animals no nothing,there are no cats no animals nothing,Good Translation,0.90625674,0.9246913,-0.018434584
+il ne y avoir pas un chat,35,- dans cette maison il n'y a pas de chat,cats there aren't any cats in this house,- there is no cat in this house,Literal Translation,0.9126481,0.9493885,-0.036740422
+il ne y avoir pas un chat,36,il n'y a pas un chat mort par là,a dead cat or something,there isn't a dead cat to be found there,Good Translation,0.6816678,0.89430344,-0.21263564
+il ne y avoir pas un chat,37,mais il n'y a pas de chats en amérique,but there are no cats in america,but there are no cats in America,Good Translation,0.9410683,0.93647754,0.0045907497
+il ne y avoir pas un chat,38,domestiqué ou non il n'y a pas de chatte pour toi ici,domesticated or not there's no pussy for you here,"domesticated or not, there is no cat for you here",Literal Translation,0.8028376,0.85752475,-0.054687142
+il ne y avoir pas un chat,39,il n'y a pas de chat rusty,there is no cat rusty,there is no cat named Rusty,Good Translation,0.92050964,0.8759631,0.044546545
+il ne y avoir pas un chat,40,il n'y a pas un chat au bateau,i see no one at the ferry,there isn't a cat on the boat,Literal Translation,0.73805964,0.91893154,-0.1808719
+il ne y avoir pas un chat,41,en amérique il n'y a pas de chats,in america there are no cats,"In America, there are no cats.",Good Translation,0.9399965,0.91416806,0.025828421
+il ne y avoir pas un chat,42,à 4h du matin sur les routes d'akina il n'y a pas un chat,there's not a soul there at 4 in the morning,"at 4 AM on Akina's roads, not a soul",Good Translation,0.72360957,0.8832561,-0.15964651
+il ne y avoir pas un chat,43,et il n'y avait pas un chat,there was no one around and i just kept looking,and there wasn't a cat,Literal Translation,0.6316664,0.94724756,-0.31558114
+il ne y avoir pas un chat,44,il n'y a pas de chat aussi brave qu'elisabeth,in all the us no cat was as brave as elizabeth,there is no cat as brave as elizabeth,Literal Translation,0.8613998,0.93268526,-0.07128543
+il ne y avoir pas un chat,45,il n'y a pas de chat ici,there are no cats here,there is no cat here,Partial Translation,0.9043578,0.9175936,-0.013235807
+il ne y avoir pas un chat,46,il n'y a pas de chat dans cette maison,there is no cat in this house,There is no cat in this house,Literal Translation,0.9545417,0.94942826,0.005113423
+il ne y avoir pas un chat,47,avec cette pluie il n'y a pas un chat dehors,it's raining cats and dogs,with this rain there isn't a cat outside,Literal Translation,0.78897095,0.9453387,-0.15636778
+il ne y avoir pas un chat,48,en tout cas il n'y a pas un chat,but no stray cats,at least there isn't a single cat,Good Translation,0.7724929,0.8956466,-0.12315369
+il ne y avoir pas un chat,49,il n'y a pas de chats par ici,aren't there any cats around,There are no cats around here.,Good Translation,0.84946537,0.8539989,-0.0045335293
+il ne y avoir pas un chat,50,il n'y a pas de chat,there are no cats,there is no cat,Partial Translation,0.89207566,0.9162431,-0.024167418
+il ne y avoir pas un chat,51,- il n'y a pas de chats ici,- there are no cats here,There are no cats here,Good Translation,0.94367206,0.8918282,0.05184388
+il ne y avoir pas un chat,52,désolé michael il n'y a pas de chat,sorry michael there is no cat is there at least a trampoline,sorry Michael there's no cat,Partial Translation,0.80512494,0.91002095,-0.10489601
+il ne y avoir pas un chat,53,il n'y a pas de chat à moins de 160 km,there isn't a cat within 1 00 miles of here,there is no cat under 160 km,Literal Translation,0.8091915,0.939818,-0.1306265

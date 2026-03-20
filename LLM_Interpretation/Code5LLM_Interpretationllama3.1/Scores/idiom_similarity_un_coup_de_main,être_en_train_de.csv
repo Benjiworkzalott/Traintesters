@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"un coup de main,être en train de",0,tu devrais être en train de t'occuper de ben i'invalide ii va très bien tout ie monde peut avoir besoin d'un coup de main,that's how it sounded,"You should be helping Ben instead of standing there watching him struggle, he's going to be okay though. Everyone gets a little help sometimes after all.",Mistranslation,0.44402677,0.7697852,-0.32575846

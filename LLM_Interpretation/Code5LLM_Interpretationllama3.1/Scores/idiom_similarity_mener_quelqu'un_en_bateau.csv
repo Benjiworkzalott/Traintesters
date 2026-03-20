@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+mener quelqu'un en bateau,0,- une déposition d'après lui je crois plutôt qu'il essaie de mener quelqu'un en bateau,- he says it's a statement but i think he's putting somebody on,- a deposition as far as he is concerned I think rather that he's trying to lead someone on,Partial Translation,0.75113386,0.86662287,-0.115489006

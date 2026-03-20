@@ -1,0 +1,45 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+être sur son 31,0,elle était sur son 31 c'est un peu tôt pour aller en boîte,she was certainly dressed to impress but it's a little early for clubbing isn't it,she was on her best behavior it's a bit early to go out clubbing,Unnatural,0.78662956,0.80393773,-0.017308176
+être sur son 31,1,vous êtes sur votre 31,you're looking great,you are on your 31,Unnatural,0.6311792,0.95155376,-0.32037455
+être sur son 31,2,vous devez être sur votre 31,you must look your best,you must be pulling my leg,Mistranslation,0.6433328,0.57960844,0.06372434
+être sur son 31,3,je m'en rappelle elle était sur son 31,i remember she was all dressed up,she was on her best behavior,Partial Translation,0.7303724,0.65085953,0.079512894
+être sur son 31,4,je sors une fois par semaine et aime être sur mon 31,i go out once per week and i like to prepare well,I go out once a week and like to be on my toes.,Unnatural,0.796983,0.7689075,0.028075516
+être sur son 31,5,maman tu es sur ton 31,wow ma you're all dressed up oh yeah,"mom, you're on your 31",Unnatural,0.52013993,0.85654366,-0.33640373
+être sur son 31,6,- pourquoi t'es sur ton 31,how come you're all dressed up,- why are you on your 31,Literal Translation,0.5856823,0.9511115,-0.36542922
+être sur son 31,7,mais tu es sur ton 31 ce matin,my aren't we all dressed up this morning,but you are on your 31 this morning,Literal Translation,0.6053401,0.9568457,-0.35150558
+être sur son 31,8,pourquoi tu es sur ton 31,why are you all dressed up,why are you on your 31,Literal Translation,0.58594275,0.94740844,-0.3614657
+être sur son 31,9,elle est si mignonne avec ça je veux qu'elle soit sur son 31 pour jasper,she just looks so cute in this outfit i want her looking her best for jasper,"She is so cute with that, I want her to be on her best behavior for Jasper",Partial Translation,0.80599403,0.824047,-0.018052995
+être sur son 31,10,t'es sur ton 31,you're all gussied up,you're on your 31,Unnatural,0.5400543,0.86334676,-0.32329243
+être sur son 31,11,vous êtes sur votre 31,you guys are dressed up,you are on your 31,Literal Translation,0.64297235,0.95155376,-0.3085814
+être sur son 31,12,tu es sur ton 31,you look nice,you are on your 31,Literal Translation,0.5902462,0.87065184,-0.28040564
+être sur son 31,13,christopher aussi est sur son 31,did you see christopher look how sharp he is,Christopher is also on his 31st,Literal Translation,0.59070385,0.85686636,-0.2661625
+être sur son 31,14,- t'es sur ton 31,- you look all dressed up,-you're on your 31,Unnatural,0.57790637,0.9029646,-0.32505822
+être sur son 31,15,- je suis sur mon 31,- this is a nice coat and tie,I'm on my 31,Literal Translation,0.5433295,0.86491,-0.32158053
+être sur son 31,16,pourquoi tu es sur ton 31,oh why are you all dressed up,why are you on your 31,Literal Translation,0.5887648,0.94740844,-0.35864365
+être sur son 31,17,- on est sur son 31,believe me - have a nice time,- it's his 31,Mistranslation,0.52204907,0.8769394,-0.35489035
+être sur son 31,18,regardez tout le monde est sur son 31 aujourd'hui,look everybody's dressing up today,look everyone is on their 31 today,Unnatural,0.74193823,0.949335,-0.20739675
+être sur son 31,19,on est sur son 31 aujourd'hui,say aren't we the little gentleman tonight,we are on his 31 today,Mistranslation,0.5800028,0.9353645,-0.3553617
+être sur son 31,20,tu es sur ton 31 tu as l'air intelligent,dress up look smart,you are on your 31 you seem smart,Good Translation,0.6470953,0.90030146,-0.25320613
+être sur son 31,21,pourquoi est-ce que tu es sur ton 31,what are you all dressed up for,why are you on your 31,Literal Translation,0.5088661,0.9478608,-0.4389947
+être sur son 31,22,- vous êtes sur votre 31,- you guys look hot,- you are on your 31,Literal Translation,0.639396,0.97284454,-0.33344853
+être sur son 31,23,le public était sur son 31,and the audience dressed to the nines,the public was on their best behavior,Good Translation,0.72153264,0.7370602,-0.015527546
+être sur son 31,24,elle est sur son 31 pour la fête enfin sauf sa robe,she's all dressed for the party except for her gown,She is putting on her best for the party except for her dress,Unnatural,0.80260706,0.80838823,-0.0057811737
+être sur son 31,25,c'est pour ça que tu es sur ton 31,is that why you dressed up,it's why you're on your 31,Unnatural,0.62420136,0.9644122,-0.34021086
+être sur son 31,26,tous les gens seront sur leur 31 et ce n'est pas approprié,and i say that it's the type of occasion where people dress up so it's not appropriate,all people will be uncomfortable and that's not appropriate,Good Translation,0.68293345,0.7825363,-0.09960288
+être sur son 31,27,wow tu es sur ton 31,wow you're all dressed up,wow you're on your 31,Literal Translation,0.5681181,0.8449937,-0.27687562
+être sur son 31,28,elle est sur son 31,she's all dressed up,she is looking her best,Unnatural,0.7100181,0.7375359,-0.027517796
+être sur son 31,29,tu es sur ton 31,- well you sure look spiffy tonight,you're on your 31,Unnatural,0.5404428,0.8768029,-0.3363601
+être sur son 31,30,pourquoi vous êtes sur votre 31,what's with the dress up,why you are on your 31,Literal Translation,0.48691195,0.9792048,-0.49229282
+être sur son 31,31,- tu es sur ton 31,- whoa don't you look sharp,- you're on your 31,Unnatural,0.5421737,0.9327734,-0.39059973
+être sur son 31,32,- t'es sur ton 31,why are you dressed up,-you're on your 31,Literal Translation,0.4793955,0.9029646,-0.42356908
+être sur son 31,33,il est sur son 31,he's looking sharp,he is on his 31,Unnatural,0.7024102,0.97422147,-0.27181125
+être sur son 31,34,il est sur son 31 il ressemble au marié,he's all dressed up he looks like the groom,he's on his best behavior; he looks like the groom,Good Translation,0.78277636,0.78192824,0.0008481145
+être sur son 31,35,on a du bon vin on est sur notre 31,we have a good bottle of wine we all look nice,"when we have good wine, we are at our thirtieth.",Mistranslation,0.76032245,0.81409734,-0.053774893
+être sur son 31,36,les gens étaient sur leur 31 pour venir ici,people used to dress up to come in here,people were on their 31 to come here,Good Translation,0.7468467,0.9796051,-0.2327584
+être sur son 31,37,papa tu es sur ton 31,wow dad don't you look dapper,dad you're on 31,Unnatural,0.54727674,0.8256855,-0.27840877
+être sur son 31,38,je voulais être sur mon 31 pour les caméras quand nous arrêterons cet enculé,i want to look my best for the cameras when we catch that asshole,I wanted to be on my game for the cameras when we stop this bastard.,Good Translation,0.73333794,0.80828154,-0.0749436
+être sur son 31,39,salut et bien quelqu'un est sur son 31 aujourd'hui,well someone got dressed up today,hello and well someone is on their 31st today,Unnatural,0.700266,0.9501904,-0.24992442
+être sur son 31,40,waouh vous êtes sur votre 31,you guys really dressed up for tonight,wow you're on your 31,Literal Translation,0.60036296,0.91897607,-0.3186131
+être sur son 31,41,un peu après 22 h j'étais sur mon 31 à la brasserie 8-12,a little past 1000pm i was dressed to the nines at brasserie 8-12,a little after 10 PM I was counting my 31s at the 8-12 brewery,Mistranslation,0.81995016,0.88011575,-0.060165584
+être sur son 31,42,le père noël est sur son 31,santa claus is looking real hot,Santa Claus is on his 31,Unnatural,0.5852718,0.8825993,-0.29732752
+être sur son 31,43,- t'es sur ton 31,-what's the get-up,- you're on your 31,Unnatural,0.5048792,0.9057888,-0.4009096

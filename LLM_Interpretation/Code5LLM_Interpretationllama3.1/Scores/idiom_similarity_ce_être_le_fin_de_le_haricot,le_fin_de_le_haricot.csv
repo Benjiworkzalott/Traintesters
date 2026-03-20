@@ -1,0 +1,12 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"ce être le fin de le haricot,le fin de le haricot",0,comment dit-on c'est la fin des haricots dans votre langue,how do you say 'we're screwed' in your native tongue,"How do you say ""it's all over"" in your language.",Good Translation,0.4738499,0.6940458,-0.22019589
+"ce être le fin de le haricot,le fin de le haricot",1,jimmy si on se met à parier c'est la fin des haricots,always make 'em repeat the bet before you turn off the recorder,"Jimmy, if we start betting it's the end of the beans.",Partial Translation,0.50064063,0.7846518,-0.2840112
+"ce être le fin de le haricot,le fin de le haricot",2,je crois que c'est la fin des haricots pour le mollusque à moteur,looks like the party is over for the motoring mollusk,I think that's the end of beans for the engine slug.,Literal Translation,0.75751966,0.6854968,0.072022855
+"ce être le fin de le haricot,le fin de le haricot",3,c'est la fin des haricots,absolutelynothing,that's the end of the beans,Literal Translation,0.37622717,0.69753456,-0.3213074
+"ce être le fin de le haricot,le fin de le haricot",4,si on le fait gratis c'est la fin des haricots,bad for business to give it away,"If we do it for free, that's the end of the beans.",Good Translation,0.46142828,0.7748922,-0.31346393
+"ce être le fin de le haricot,le fin de le haricot",5,c'est la fin des haricots,is this the end,It's all over for the beans.,Good Translation,0.6797925,0.6526127,0.027179837
+"ce être le fin de le haricot,le fin de le haricot",6,c'était la fin des haricots,i thought we'd had our chips,It was bean time,Mistranslation,0.5278265,0.5359014,-0.008074939
+"ce être le fin de le haricot,le fin de le haricot",7,- non c'est la fin des haricots,he wouldn't spill the beans,- no it's the end of beans,Literal Translation,0.47179824,0.7862909,-0.31449264
+"ce être le fin de le haricot,le fin de le haricot",8,c'est la fin des haricots,this is the end of the beans,It's the end of the beans.,Good Translation,0.7094362,0.709039,0.00039720535
+"ce être le fin de le haricot,le fin de le haricot",9,- ce sera la fin des haricots,- that's the end of the line,- that will be the end of the beans,Literal Translation,0.6135282,0.7637912,-0.15026301
+"ce être le fin de le haricot,le fin de le haricot",10,c'est la fin des haricots,it's a nail in my coffin,It's the end of the beans.,Literal Translation,0.4309715,0.709039,-0.27806747

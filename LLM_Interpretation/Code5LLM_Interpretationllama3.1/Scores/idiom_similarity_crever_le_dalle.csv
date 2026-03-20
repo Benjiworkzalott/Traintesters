@@ -1,0 +1,47 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+crever le dalle,0,- j'arrive pas à dormir je crève la dalle regarde sur quoi je tombe,i can't sleep because i'm starving and look what's on tv,I'm having trouble sleeping I'm starving Look at what's in front of me,Good Translation,0.7120733,0.7076206,0.0044527054
+crever le dalle,1,ouais je crève la dalle,yeah i'm freaking starving,Yeah I'm starving to death,Good Translation,0.58391786,0.5332664,0.05065143
+crever le dalle,2,je crève la dalle,i'm starving,I'm starving to death.,Unnatural,0.6267922,0.5406414,0.086150765
+crever le dalle,3,- ouais je crève la dalle,- yeah i'm starving,- Oh yeah I'm dying of hunger,Good Translation,0.6301816,0.58969307,0.04048854
+crever le dalle,4,en ce moment on crève la dalle,at this moment we are starving,At this moment we're bursting at the seams.,Unnatural,0.5990541,0.6612155,-0.062161386
+crever le dalle,5,moi je crève la dalle,because i'm starving,I'm starving to death.,Good Translation,0.54100263,0.49959865,0.04140398
+crever le dalle,6,mais on crève la dalle dans la rue,yes but if you're not careful you'll end up by the side of the road,but we're starving in the street,Mistranslation,0.5953573,0.6550133,-0.059656024
+crever le dalle,7,- non on crève la dalle,- no no we're starving,"- no, we starve to death",Unnatural,0.5521816,0.53361785,0.018563747
+crever le dalle,8,je crève la dalle,i'm starving,I'm starving,Good Translation,0.6267922,0.6118045,0.014987707
+crever le dalle,9,j'ai une de ces faims je crève la dalle,my stomach is growling,I'm absolutely starving I'm dying of hunger,Good Translation,0.6037109,0.60576344,-0.0020525455
+crever le dalle,10,hé l'homo on crève la dalle,hey homo we're hungry out here,"Hello, human, you're driving me crazy!",Mistranslation,0.5880561,0.5462057,0.041850388
+crever le dalle,11,allez je crève la dalle,come on stewie i'm starving,Go ahead and burst my gut.,Literal Translation,0.59183675,0.63769764,-0.045860887
+crever le dalle,12,les gens crèvent la dalle et lui nous ramène le rebut de la société,people here have nothing to eat and he brings us scum of the earth,people kill themselves to make ends meet and he brings back the trash of society,Partial Translation,0.6912767,0.65289235,0.038384378
+crever le dalle,13,je crève la dalle je connais une pizzeria végétarienne sur la 97e,i know a really good vegan pizza parlor on 97th street,I'm about to explode I know of a vegetarian pizzeria on 97th.,Good Translation,0.7849974,0.8306155,-0.045618117
+crever le dalle,14,je suis horrible dans tout je perds pas de poids je crève la dalle,everything looks terrible i'm not losing weight i'm starving,I am awful at everything I'm not losing weight I'm starving,Good Translation,0.76309466,0.77898616,-0.015891492
+crever le dalle,15,parce que je crève la dalle,because i'm hungry as hell,because I'm starving,Good Translation,0.65923417,0.688579,-0.029344857
+crever le dalle,16,et je crève la dalle,and i'm fucking starving,And I'm starving to death,Unnatural,0.6101139,0.5797196,0.030394316
+crever le dalle,17,- je crève la dalle,i'm starving,- I'm starving to death.,Good Translation,0.6295592,0.5745318,0.055027425
+crever le dalle,18,si quelqu'un doit crever la dalle ça devrait être eux,if anybody starves it should be them,If someone is going to break the rules it should be them,Mistranslation,0.7362542,0.7138555,0.02239871
+crever le dalle,19,enfin moi aussi je crève la dalle,huh i'm starving,Finally I'm bursting at the seams too.,Literal Translation,0.59011906,0.7728294,-0.18271035
+crever le dalle,20,merde j'crève la dalle,damn i'm fucking hungry,"Crap I'm going to collapse 
+
+Note: This is a very informal and colloquial expression that roughly translates to ""I'm so hungry I could pass out"".",Good Translation,0.6287731,0.4370656,0.19170749
+crever le dalle,21,on crève la dalle,-we were starving,We are bursting with hunger.,Good Translation,0.47993842,0.48398656,-0.004048139
+crever le dalle,22,je crève la dalle moi,i'm kinda hungry,I'm starving myself.,Good Translation,0.56957173,0.55783576,0.011735976
+crever le dalle,23,ça veut dire que je vais crever la dalle boire de i'eau comme un chameau et dormir comme un vieux bouc,does this means i'll have to starve drink water like a camel and sleep like an old goat,It means that I'll die from drinking water like a camel and sleeping like an old goat.,Mistranslation,0.8271833,0.8550931,-0.027909815
+crever le dalle,24,c'étaient nous ou eux qui crevaient la dalle,either they would have starved or we would so shut up about it,It was us or them who were breaking down the wall.,Mistranslation,0.63251495,0.74593896,-0.113424
+crever le dalle,25,vous je sais pas mais je crève la dalle,i don't know about you but i'm famished,I don't know you but I'm starving,Good Translation,0.6724237,0.6855454,-0.0131216645
+crever le dalle,26,des familles américaines crèvent la dalle,american families cant buy a meal,American families are being crushed by debt.,Mistranslation,0.6161847,0.6227367,-0.006551981
+crever le dalle,27,ouais et je crève la dalle,yeah and i'm starving,Yeah and I'm starving.,Good Translation,0.6203376,0.5947116,0.025626004
+crever le dalle,28,ils crevaient la dalle les cons,definitely,They were bursting with joy and happiness,Mistranslation,0.43000704,0.5302172,-0.10021013
+crever le dalle,29,génial je crève la dalle,thank god i'm starving,"Brilliant, I'm starving",Good Translation,0.52109456,0.61100984,-0.089915276
+crever le dalle,30,je crève la dalle bobby,i'm just starving bobby,"I'm starving to death 
+
+Note: This is a common idiomatic expression in Quebec and France. It literally translates as ""I am bursting the plate Bobby"", but its intended meaning is ""I'm so hungry I could eat anything"".",Good Translation,0.67487395,0.48481214,0.19006181
+crever le dalle,31,- je crève la dalle ok,- i'm starving ok,- I'm starving okay,Good Translation,0.70137143,0.66924644,0.032124996
+crever le dalle,32,une heure après vous crevez la dalle,you go in there and spend 50 and eat for an hour and a half and a half hour later youre starving to death,an hour after you burst your gut,Good Translation,0.6046337,0.7226337,-0.11800003
+crever le dalle,33,je crevais la dalle,i was fucking starving man,I was bursting the floor.,Unnatural,0.52698207,0.56606513,-0.039083064
+crever le dalle,34,a-t-on jamais vu des croque-morts crever la dalle ton business la terre entière en a besoin,what are the odds of a funeral home going broke when you have a business that everybody on earth needs,Have we ever seen undertakers break up the pavement all earth needs it,Mistranslation,0.5501409,0.60033315,-0.050192237
+crever le dalle,35,c'est bientôt l'heure de manger super je crève la dalle,they'll be serving food up soon,It's almost time to eat I'm starving,Good Translation,0.7063377,0.7706711,-0.06433344
+crever le dalle,36,la bouffe va refroidir et je crève la dalle,if this food gets cold i'm gonna be mad,I'm starving and I'll freeze to death,Mistranslation,0.70185363,0.6287502,0.07310343
+crever le dalle,37,je crève la dalle,look i gotta eat okay,I'm starving to death.,Good Translation,0.54793763,0.5406414,0.0072962046
+crever le dalle,38,les écoles c'est le bordel les profs et les médecins crèvent la dalle,the schools are a mess teachers and doctors can't afford to buy food,School is chaos the teachers and doctors are all crooked.,Mistranslation,0.77945215,0.7928175,-0.013365328
+crever le dalle,39,je crève la dalle tu dois suivre les règles,all professions have their own rules,I'm bursting with frustration you have to follow the rules,Mistranslation,0.5804165,0.75044066,-0.17002416
+crever le dalle,40,je crève la dalle depuis que tu m'as arraché ma viande des mains,i'm starving to death ever since you ripped the beef jerky out of my hands,I'm dying of hunger ever since you took my meat away from me,Good Translation,0.77203655,0.7637098,0.008326769
+crever le dalle,41,tout ce que j'ai à faire c'est crever la dalle une semaine et je retrouverai la vie infernale que j'avais avant,so all i gotta do is starve and be miserable for a week then my life will go back to the normal hell it always was,all I have to do is blow off some steam for a week and I'll find my hellish life back as it was before.,Unnatural,0.80141914,0.78204894,0.019370198

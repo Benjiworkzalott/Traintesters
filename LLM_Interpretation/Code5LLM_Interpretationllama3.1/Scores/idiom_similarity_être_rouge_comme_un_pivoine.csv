@@ -1,0 +1,4 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+être rouge comme un pivoine,0,il est rouge comme une pivoine,look at him he's red,He is red as a poppy,Literal Translation,0.73422706,0.79859126,-0.064364195
+être rouge comme un pivoine,1,tu es rouge comme une pivoine,your face is beet red,You are red as a poppy.,Literal Translation,0.6608882,0.7939982,-0.13310999
+être rouge comme un pivoine,2,- t'es rouge comme une pivoine,- totally blushing,You're as red as a poppy,Literal Translation,0.5264381,0.79208195,-0.26564384

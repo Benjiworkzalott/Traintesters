@@ -1,0 +1,17 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+le carotte être cuire,0,- dites les carottes sont cuites,- say parcheesi,- carrots are cooked,Literal Translation,0.47813416,0.86090803,-0.38277388
+le carotte être cuire,1,oh mon gars les carottes sont cuites,oh boy my goose is cooked now,Oh my boy the carrots are cooked,Literal Translation,0.76444983,0.8772468,-0.11279696
+le carotte être cuire,2,les carottes sont cuites et servies joli,your goose is cooked and served,The carrots are cooked and served nicely.,Literal Translation,0.7160646,0.87076527,-0.1547007
+le carotte être cuire,3,vous vous dites les carottes sont cuites,you're saying to yourself the jig is up,You tell yourselves the carrots are cooked.,Literal Translation,0.62696195,0.8365687,-0.20960677
+le carotte être cuire,4,si eaton les convainc d'être des martyres et d'accepter les 30 jours les carottes sont cuites,he doesn't have a right to be deaf so he'll have to listen to what we have to say first thing there's nothing in your file about children,If Eaton convinces them to be martyrs and accept the 30 days carrots are cooked.,Mistranslation,0.28319466,0.90999246,-0.6267978
+le carotte être cuire,5,a votre avis les carottes sont cuites ou brûlées,what do you think is this the frying pan or the fire,to your mind are the carrots cooked or burnt,Good Translation,0.61396325,0.85192466,-0.23796141
+le carotte être cuire,6,- les carottes sont cuites,the carrots are cooked,- the carrots are cooked,Good Translation,0.86502534,0.90382814,-0.038802803
+le carotte être cuire,7,oui les carottes sont cuites,yes the carrots are cooked,"Yes, the carrots are cooked.",Good Translation,0.89304066,0.88540006,0.0076406
+le carotte être cuire,8,les carottes sont cuites,that soup's gonna boil,The carrots are cooked.,Literal Translation,0.6054552,0.8776951,-0.27223986
+le carotte être cuire,9,les carottes sont cuites oui bloggeurs,the eagle has landedthat's right bloggers,The carrots are cooked yes bloggers,Literal Translation,0.65904593,0.912408,-0.25336206
+le carotte être cuire,10,cette fois les carottes sont cuites,this time the carrots are cooked,This time the carrots are cooked.,Good Translation,0.9062748,0.8995062,0.0067685843
+le carotte être cuire,11,j'ai cru que les carottes étaient cuites,i thought for sure our goose was cooked,I thought the carrots were cooked.,Literal Translation,0.76809007,0.89367044,-0.12558037
+le carotte être cuire,12,allez baptiste pas d'histoires les carottes sont cuites,the game's up time to go home,"Come on, Baptiste, no more stories, the carrots are cooked.",Unnatural,0.46512565,0.80727595,-0.3421503
+le carotte être cuire,13,les carottes sont cuites,the carrots are cooked,The carrots are cooked.,Good Translation,0.88848776,0.8776951,0.010792673
+le carotte être cuire,14,les carottes étaient cuites plus rien à faire,the carrots were cooked there was nothing left to do,The carrots were cooked so there was nothing left to do.,Good Translation,0.89319944,0.8803983,0.01280117
+le carotte être cuire,15,les carottes sont cuites,my career is toast,The carrots are cooked.,Literal Translation,0.53371465,0.8776951,-0.34398043

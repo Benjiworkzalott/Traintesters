@@ -1,0 +1,3 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+finir en queue de poisson,0,l'enquête pourrait finir en queue de poisson,the investigation could end up going the other way,the investigation could end up as a dead-end street or go nowhere,Good Translation,0.735804,0.6999798,0.03582424
+finir en queue de poisson,1,et ça finit en queue de poisson,then it all fizzles out,and it ends up as a fish tail,Literal Translation,0.58891,0.80618185,-0.21727186

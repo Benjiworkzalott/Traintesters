@@ -1,0 +1,3 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+être rouge comme un écrevisse,0,viens pas pleurer quand tu seras rouge comme une écrevisse,don't come crying to me when you're as red as a tomato,don't come crying when you turn as red as a crab,Literal Translation,0.7749758,0.8234794,-0.048503637
+être rouge comme un écrevisse,1,tu parles j'étais rouge comme une écrevisse,oh sure i was as red as a beetroot,you speak I was red as a shrimp,Literal Translation,0.75706124,0.82534015,-0.06827891

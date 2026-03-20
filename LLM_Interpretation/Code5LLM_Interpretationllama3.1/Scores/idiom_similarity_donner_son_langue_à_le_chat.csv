@@ -1,0 +1,25 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+donner son langue à le chat,0,vous avez donné votre langue au chat,cat got your tongue,You've let your cat eat your tongue.,Mistranslation,0.83092594,0.81725425,0.013671696
+donner son langue à le chat,1,il a donné sa langue au chat,seems the cat got watts's tongue,He's given up on it / He's thrown in the towel / It's all over.,Mistranslation,0.7506342,0.5157566,0.23487759
+donner son langue à le chat,2,- je donne ma langue au chat,- i give up,"- I'm letting it go, giving up on it.",Good Translation,0.6518451,0.65027833,0.0015667677
+donner son langue à le chat,3,je l'ignore je donne ma langue au chat,i do not know i give my tongue to the cat,I ignore it I let my tongue go to the cat,Partial Translation,0.7925948,0.82020587,-0.027611077
+donner son langue à le chat,4,vous donnez votre langue au chat,do you give up,You give your tongue to the cat.,Literal Translation,0.5836303,0.8866635,-0.30303317
+donner son langue à le chat,5,- je donne ma langue au chat,i give up surprise,- I am letting the cat eat my tongue.,Literal Translation,0.5714111,0.78851044,-0.21709937
+donner son langue à le chat,6,je sais pas je donne ma langue au chat,i don't know i give up,"I don't know, I give my tongue to the cat.",Unnatural,0.673956,0.83479446,-0.16083848
+donner son langue à le chat,7,vous donnez votre langue au chat,ya give up,You're giving your tongue to the cat.,Unnatural,0.5374603,0.8833933,-0.34593296
+donner son langue à le chat,8,je donne ma langue au chat,i give up brain you win,I'm giving my tongue to the cat.,Literal Translation,0.60811335,0.84320724,-0.23509389
+donner son langue à le chat,9,je donne ma langue au chat,what is it,I'm letting the cat out of the bag (but literally I am speaking nonsense),Mistranslation,0.39841288,0.65045154,-0.25203866
+donner son langue à le chat,10,on a donné sa langue au chat,cat got your tongue,We have given up.,Mistranslation,0.81636274,0.5473752,0.26898754
+donner son langue à le chat,11,- je donne ma langue au chat james,- you've got me james,- I'm giving James a free pass (idiomatic expression meaning to give someone a break or forgive their mistakes),Mistranslation,0.70157015,0.6248571,0.076713026
+donner son langue à le chat,12,d'accord je donne ma langue au chat,all right i give up higgins,Fine I'll talk nonsense.,Mistranslation,0.55122346,0.59600425,-0.04478079
+donner son langue à le chat,13,elle a donné sa langue au chat,cat's got her tongue,She has given her tongue to the cat.,Unnatural,0.82693255,0.9044381,-0.07750553
+donner son langue à le chat,14,ok je donne ma langue au chat,okay i'll bite,"I give up, I'm talking nonsense.",Mistranslation,0.5638455,0.60378003,-0.039934516
+donner son langue à le chat,15,je vois que vous donnez votre langue au chat,okay i can see you're stumped,I see you're giving your tongue to the cat,Literal Translation,0.63367975,0.927992,-0.29431224
+donner son langue à le chat,16,si on trouve pas on donnera notre langue au chat,if we don't guess it we'll give up,"If we can't find it, we'll give up",Partial Translation,0.67871904,0.731161,-0.052441955
+donner son langue à le chat,17,je donne ma langue au chat tu me la voleras pas,don't take this wrong,I'll give my tongue to the cat you won't steal it from me,Literal Translation,0.57651824,0.87626225,-0.299744
+donner son langue à le chat,18,vous avez donné votre langue au chat,cat got your tongue,You've let your tongue slip.,Partial Translation,0.83092594,0.7620063,0.06891966
+donner son langue à le chat,19,- je donne ma langue aux chats,- i don't know,"- I speak to cats and they understand me perfectly; or, a dog is for life, but a cat is just a friend until it wants something else.",Mistranslation,0.55272734,0.56380427,-0.011076927
+donner son langue à le chat,20,- je donne ma langue au chat - oh,- i give up,- I let my tongue hang out - oh,Literal Translation,0.6295891,0.7986038,-0.16901469
+donner son langue à le chat,21,il a donné sa langue au chat,she's with me once a month,"He gave his tongue to the cat, or He gave up the ghost, is also translated as He threw in the towel.",Mistranslation,0.4284464,0.6801595,-0.2517131
+donner son langue à le chat,22,pour ma devinette vous donnez votre langue au chat,so you've no answer to my riddle fine,You've given your tongue to the cat for my riddle.,Good Translation,0.558949,0.84934276,-0.29039377
+donner son langue à le chat,23,moi j'ai bien une idée vous donnez votre langue au chat couper le courant,okay okay so then let me throw this out there and see if the cat licks it up we cut the power,"I have an idea, you let your guard down and cut the power.",Mistranslation,0.73552734,0.724627,0.010900319

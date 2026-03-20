@@ -1,0 +1,99 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+être un poule mouiller,0,je suis une poule mouillée et un lâche,you see i'm a sissy and a coward,I'm a wet hen and a coward.,Good Translation,0.705799,0.7881862,-0.08238721
+être un poule mouiller,1,il pense que je suis une poule mouillée depuis que je suis un professeur,he thinks i'm a sissy since i'm a teacher now,he thinks I'm a wet hen ever since I became a professor,Good Translation,0.80502665,0.8613435,-0.056316853
+être un poule mouiller,2,c'est une poule mouillée,he's a yellow coward,it's a wet hen,Unnatural,0.57651895,0.6726722,-0.09615326
+être un poule mouiller,3,- j'ai toujours été une poule mouillée,- always been a chicken man myself,- I've always been a scaredy-cat.,Good Translation,0.77006704,0.74396,0.026107013
+être un poule mouiller,4,t'es une poule mouillée,chicken,You're a scaredy-cat.,Good Translation,0.46992803,0.60161996,-0.13169193
+être un poule mouiller,5,je sais que je suis une poule mouillée mais,i know i'm being a coward but,I know I'm a wet hen but,Good Translation,0.7789986,0.82081383,-0.04181522
+être un poule mouiller,6,- c'est une poule mouillée,- see her run she's a scaredy-cat,It's a wet hen.,Good Translation,0.55895257,0.68075526,-0.12180269
+être un poule mouiller,7,je suis désolé je suis une poule mouillée,sorry i'm such a chicken,I'm sorry I'm a wet hen.,Good Translation,0.7442978,0.7704196,-0.026121795
+être un poule mouiller,8,la dernière arrivée est une poule mouillée,the latest entrant is a rotten egg,The last arrival is a wet hen.,Good Translation,0.68990934,0.7947881,-0.10487878
+être un poule mouiller,9,mais tu es une poule mouillée alors,but you're a pussy so,but you're a wet hen then,Good Translation,0.7756685,0.7847527,-0.009084225
+être un poule mouiller,10,- tu es une poule mouillée,- you're a chicken,"- you're a wet hen (informal way to say ""you're being ridiculous"" or ""stop being so silly"")",Good Translation,0.7675712,0.5821023,0.18546891
+être un poule mouiller,11,si je suis une poule mouillée qui se tient droit debout ici maître chang,if i am a chicken who's staying here safely,if I'm a wet hen standing up straight here master change,Good Translation,0.70682526,0.7224204,-0.015595138
+être un poule mouiller,12,t'es effrayé t'es une poule mouillée,dumbass fuck,You're scared you're a wet hen.,Literal Translation,0.4923914,0.663348,-0.17095661
+être un poule mouiller,13,pourquoi est-ce que je suis une poule mouillée face à lui,why is it whenever he's around i'm all wet,Why am I so wet and emotional in front of him?,Unnatural,0.70284414,0.7671334,-0.06428927
+être un poule mouiller,14,comme je l'ai dit je suis une poule mouillée,like i said i'm a wimp,As I said I'm a wet hen,Good Translation,0.78715885,0.81561065,-0.0284518
+être un poule mouiller,15,- c'est des poules mouillées,- those bums are all wet,It's just a bunch of wet hens.,Good Translation,0.7221217,0.6590829,0.063038826
+être un poule mouiller,16,et vous vous êtes une poule mouillée,and you're being a chickenshit asshole,and you're a wet hen,Good Translation,0.7191615,0.75640285,-0.03724134
+être un poule mouiller,17,tu étais une poule mouillée,you were a pussy before,you were a scaredy-cat,Good Translation,0.7658261,0.6997411,0.06608498
+être un poule mouiller,18,- rory est une poule mouillée,- so is jackson,Rory is a wet hen.,Good Translation,0.4581915,0.7743823,-0.31619078
+être un poule mouiller,19,son père disait que c'était une poule mouillée,to think that his father called him a yellow-belly,His father would say that he was a wet hen.,Good Translation,0.7126552,0.80770606,-0.09505087
+être un poule mouiller,20,je suis une poule mouillée,after all i'm a coward,I'm a wet hen.,Good Translation,0.61073256,0.69013876,-0.0794062
+être un poule mouiller,21,parce que je suis une poule mouillée,- because i'm a chicken,because I'm a wet hen,Good Translation,0.7885002,0.8057771,-0.017276883
+être un poule mouiller,22,tu n'es pas mort mon gars t'es une poule mouillée,why because you say,You're not dead my guy you're a scaredy-cat,Good Translation,0.43475568,0.7077496,-0.27299392
+être un poule mouiller,23,ils pensent qu'on est des poules mouillées,they think we're scaredy-cats,They think we're just a bunch of wet hens.,Good Translation,0.74128664,0.8104705,-0.069183886
+être un poule mouiller,24,- t'es une poule mouillée,hawk you're a peace-loving wimp,You're a scaredy-cat.,Good Translation,0.5560426,0.61775064,-0.061708033
+être un poule mouiller,25,c'est une poule mouillée,he's chicken shit,it's a wet hen,Good Translation,0.6057533,0.67267215,-0.06691885
+être un poule mouiller,26,vous êtes des poules mouillées,god you guys are wusses,You're wet hens.,Good Translation,0.66346776,0.74125075,-0.07778299
+être un poule mouiller,27,c'est des poules mouillées,them guys chicken out,It's raining ducks.,Hallucination,0.5691235,0.6522134,-0.08308989
+être un poule mouiller,28,-c'est idiot -rentre si t'es une poule mouillée -c'est toi qui devrait rentrer chez toi,i have a hobby now haunting people,-it's stupid -go back if you're a scaredy-cat -it's up to you to go back home,Literal Translation,0.40326363,0.7437694,-0.34050578
+être un poule mouiller,29,tu ne peux pas être une poule mouillée,you can't be such a coward,You can't be a wet hen.,Good Translation,0.68664575,0.7746602,-0.08801448
+être un poule mouiller,30,hey mec je suis peut être un chaton mais t'es une poule mouillée mec,hey man i might be a cat but you're a pussy dude,"hey dude I may be a kitten but you're a wimp, dude",Good Translation,0.81499743,0.7685313,0.046466112
+être un poule mouiller,31,kevin tu es une poule mouillée,kevin you are such a softy,Kevin you are a wet hen,Good Translation,0.6947348,0.73763776,-0.042902946
+être un poule mouiller,32,on est des poules mouillées,thank god we're chickenshits,we're wet chickens,Partial Translation,0.6530788,0.76692104,-0.11384225
+être un poule mouiller,33,tu es une poule mouillée,you are a chicken,You're a wet hen.,Good Translation,0.72043145,0.6850227,0.035408735
+être un poule mouiller,34,nos élèves sont des poules mouillées,our students are highly-entitled wusses,Our pupils are wet hens.,Good Translation,0.7330061,0.8161289,-0.08312279
+être un poule mouiller,35,je ne veux pas être une poule mouillée,i don't want to be a chicken,I don't want to be a wet hen.,Good Translation,0.7966758,0.82109916,-0.02442336
+être un poule mouiller,36,- je sais que t'es une poule mouillée - il ment,- you got a chicken liver,- I know you're a scaredy-cat - he's lying,Good Translation,0.61830986,0.7834209,-0.16511106
+être un poule mouiller,37,les français sont des poules mouillées,aren't the french a load of wimps,The French are wet chickens.,Good Translation,0.6709784,0.7400859,-0.06910747
+être un poule mouiller,38,blair ne dirait rien c'est une poule mouillée,blair's too much of a chicken-shit to say anything,"Blair wouldn't say a word, he's a scaredy-cat.",Good Translation,0.71360505,0.6411155,0.07248956
+être un poule mouiller,39,c'est parce que tous ceux que vous avez vu sont des poules mouillées,it's because all the lawyers you talked to are gutless mama's boys,It's because all those you have seen are wet hens.,Good Translation,0.62430716,0.8313024,-0.20699525
+être un poule mouiller,40,tu as dit à tout le monde dans le restaurant que yoshi était une poule mouillée,you told everyone in the restaurant that yoshi was a chicken,you said to everyone in the restaurant that Yoshi was a wimp,Good Translation,0.9093753,0.87457085,0.034804463
+être un poule mouiller,41,t'es une poule mouillée apprends à te défendre seul,no please don't leave,You're a scaredy-cat learn to defend yourself,Mistranslation,0.41922534,0.7305329,-0.31130755
+être un poule mouiller,42,le dernier est une poule mouillée,last one there sucks,The last one is a wet hen.,Good Translation,0.7120346,0.7095189,0.0025156736
+être un poule mouiller,43,j'étais une poule mouillée,i was a total mess,I was a wet hen.,Good Translation,0.7260519,0.79990786,-0.07385594
+être un poule mouiller,44,pas le moment d'être une poule mouillée,ain't no time to turn squeamish,not the time to be a wet hen,Good Translation,0.69307876,0.81492114,-0.121842384
+être un poule mouiller,45,là d'où je viens on appelle ça être une poule mouillée,where i come from we call that chicken shit,where I come from they call it being a wet hen,Good Translation,0.67501336,0.6710752,0.0039381385
+être un poule mouiller,46,- vous êtes une poule mouillée,- because you're a fraidy-cat,- you're a wet hen,Good Translation,0.6657977,0.80209947,-0.13630176
+être un poule mouiller,47,j'étais une poule mouillée,i was chicken,I was a wet hen.,Good Translation,0.80397344,0.79990786,0.004065573
+être un poule mouiller,48,appelle-moi poulette parce que je suis une poule mouillée,ugh call me a rooster because i'm a big chicken,Call me chicken because I'm a wet hen.,Good Translation,0.6468128,0.70670503,-0.059892237
+être un poule mouiller,49,tant qu'il sera une poule mouillée,you need to stop being a damn girl,As long as it's going to be a wet hen,Literal Translation,0.38839132,0.7199753,-0.33158398
+être un poule mouiller,50,tu es magnifique quand tu es une poule mouillée,you are gorgeous when you're being a chicken,You are magnificent when you're a wet hen.,Good Translation,0.7647606,0.7629837,0.0017769337
+être un poule mouiller,51,tu crois que les soldats liang sont des poules mouillées,you think we liang soldiers are sissies,do you think Liang soldiers are wet chickens,Good Translation,0.78891253,0.8384557,-0.049543142
+être un poule mouiller,52,à moins que tu ne sois une poule mouillée,that is of course unless you're a frightened yellow chicken,unless you're a wet hen,Good Translation,0.7355373,0.79164004,-0.056102753
+être un poule mouiller,53,le dernier à l'eau est une poule mouillée,last one in is a rotten egg,the last one in the water is a wet hen,Good Translation,0.68958914,0.7775918,-0.08800268
+être un poule mouiller,54,m kamikaze est une poule mouillée aujourd'hui,mr kamikaze is a chicken today,I'm a kamikaze chicken today.,Good Translation,0.80395555,0.78327626,0.020679295
+être un poule mouiller,55,tu la vénères et tu n'as jamais osé lui dire parce que tu es une poule mouillée,you worship her yet you've never had the balls to tell her because you're a weak cowardly child,You worship her and you've never had the guts to tell her because you're a wimp.,Good Translation,0.7718358,0.7873825,-0.0155466795
+être un poule mouiller,56,parce que t'es une poule mouillée,because you're a wuss,because you're a scaredy-cat,Good Translation,0.71052504,0.67887133,0.031653702
+être un poule mouiller,57,tu sais ton père il s'est couché devant moi c'est une poule mouillée,he's a real wimp,You know your father he's fallen asleep in front of me it's a wet hen,Literal Translation,0.49421412,0.79444826,-0.30023414
+être un poule mouiller,58,tommy le dernier arrivé est une poule mouillée,a three-legged dog,Tommy the last one to arrive is a wet hen.,Literal Translation,0.46654654,0.7576525,-0.291106
+être un poule mouiller,59,jonas tu es une poule mouillée,- jonas you are such a chickenshit,Jonas you're a scaredy-cat,Good Translation,0.7173934,0.6166769,0.10071647
+être un poule mouiller,60,vous êtes une poule mouillée ou alors je m'appelle suzanne,i say you're a weedy pigeon and you can call me susan if it isn't so,You're just being chicken or is your name really Suzanne?,Partial Translation,0.7208203,0.69456315,0.026257157
+être un poule mouiller,61,qu'est-ce que tu es une poule mouillée,what are you some kinda sway boy,What's wrong with you?,Mistranslation,0.48685843,0.5122679,-0.02540946
+être un poule mouiller,62,le dernier est une poule mouillée,last one in is a skinny old maid,He's a wet hen.,Good Translation,0.6491225,0.5822693,0.066853166
+être un poule mouiller,63,- vous êtes une poule mouillée arthur,- get a backbone arthur,"- you are a wet hen, Arthur",Good Translation,0.6490599,0.782956,-0.13389611
+être un poule mouiller,64,le dernier est une poule mouillée,last one in is a chicken,The last one is a wet hen.,Good Translation,0.72490275,0.7095189,0.01538384
+être un poule mouiller,65,c'est des poules mouillées,they're just wusses,It's a bunch of wet chickens.,Good Translation,0.59613776,0.73512363,-0.13898587
+être un poule mouiller,66,on est une poule mouillée,chicken,we are wet hens,Unnatural,0.5087998,0.69017893,-0.18137914
+être un poule mouiller,67,eric est une poule mouillée,and eric chickens out again,Eric is a wet hen.,Good Translation,0.6419846,0.7135769,-0.07159233
+être un poule mouiller,68,c'est une poule mouillée,get that big one,It's a wet hen.,Good Translation,0.5215393,0.65041715,-0.12887788
+être un poule mouiller,69,t'es une poule mouillée balboa,you weakling balboa,"You're a wet hen, Balboa.",Good Translation,0.71754813,0.7211398,-0.0035916567
+être un poule mouiller,70,t'es une poule mouillée,you're such a chicken,You're a wet hen (informal way of saying someone is being overly emotional or sensitive),Good Translation,0.6900663,0.5408688,0.14919746
+être un poule mouiller,71,oublie-le c'est une poule mouillée,forget him he's a scaredy-cat,"Forget about it, it's a wet hen",Good Translation,0.6585119,0.6838142,-0.02530235
+être un poule mouiller,72,je savais que tu serais une poule mouillée,i knew you'd chicken out,I knew you would be a wet blanket.,Mistranslation,0.76604664,0.8029147,-0.036868036
+être un poule mouiller,73,ce sont des poules mouillées,they're sissies,They are wet chickens,Literal Translation,0.58876944,0.71157813,-0.122808695
+être un poule mouiller,74,- oui je suis une poule mouillée,okay i'm a little chicken,- yes I'm a wet hen,Good Translation,0.6722054,0.77094024,-0.098734856
+être un poule mouiller,75,- oui tu es une poule mouillée,- that's what you are you're chicken,- yes you're a wet hen,Good Translation,0.6977,0.76518315,-0.06748313
+être un poule mouiller,76,ou alors t'es une poule mouillée,can't wake up or were you scared,Or you're just a chicken with cold feet.,Good Translation,0.567515,0.7347491,-0.16723406
+être un poule mouiller,77,t'es une poule mouillée si tu ne poursuis pas en justice ok,you're a dead meat if you don't sue me ok,"You're a wet hen if you don't take this to court, okay?",Good Translation,0.7372154,0.7237739,0.013441503
+être un poule mouiller,78,je suis un flic je suis un homme je suis une poule mouillée,i'm a cop i'm a man i'm a chicken,I'm a copper I'm a man I'm a scaredy-cat,Good Translation,0.800532,0.62499523,0.17553675
+être un poule mouiller,79,sois une poule mouillée toute ta vie,be a chickenshit all your life,be a wet hen for your entire life,Good Translation,0.7392639,0.7596111,-0.020347238
+être un poule mouiller,80,car c'est une poule mouillée,a bricklayer,Because it's a wet hen.,Mistranslation,0.50511795,0.74492246,-0.2398045
+être un poule mouiller,81,et c'est une poule mouillée,and he's a chicken,and that's a wet hen,Good Translation,0.64894944,0.7050016,-0.05605215
+être un poule mouiller,82,tu n'es pas un homme t'es une poule mouillée,you're not a man you're a weasel,"You're not a man, you're a wet hen.",Unnatural,0.7621542,0.7629229,-0.0007686615
+être un poule mouiller,83,tu es faible t'es une poule mouillée,you're weak you're a scaredy-cat,You're weak you're a scaredy-cat,Good Translation,0.7506623,0.7485512,0.002111137
+être un poule mouiller,84,arrête d'être une poule mouillée,enough be a man don't be a coward,stop being a scaredy-cat,Good Translation,0.6250771,0.6478782,-0.022801101
+être un poule mouiller,85,sauf si vous êtes une poule mouillée,unless you're chicken,Unless you're a wet hen,Good Translation,0.7922718,0.80947995,-0.017208159
+être un poule mouiller,86,t'as l'impression d'être une poule mouillée,gary do you feel like a chicken,You have a chicken who's been wetted or you feel like one.,Literal Translation,0.68322873,0.7531166,-0.06988788
+être un poule mouiller,87,nous élevons nos enfants à être des poules mouillées,we're raising our kids to be chickens,We're raising our children to be wet chickens,Unnatural,0.8160556,0.86869466,-0.052639067
+être un poule mouiller,88,le dernier arrivé est une poule mouillée,last one on is a rotten egg,The last one to arrive is a wet hen.,Good Translation,0.7181541,0.7717183,-0.05356425
+être un poule mouiller,89,donne-lui putain t'es une poule mouillée,give him a bottle you're such a sissy,Give it to him you're a scaredy-cat.,Good Translation,0.70927924,0.6676713,0.041607916
+être un poule mouiller,90,vous êtes une poule mouillée,you're such a chicken,You're a wet hen.,Good Translation,0.7291051,0.7486902,-0.019585073
+être un poule mouiller,91,- votre pote c'est une poule mouillée,your buddy's a chicken he's gonna be a no show,Your friend is a wimp or Your friend is a wet hen,Good Translation,0.6504808,0.6895982,-0.039117396
+être un poule mouiller,92,- je suis une poule mouillée,- i'm a chicken,I'm a wet hen,Good Translation,0.7618461,0.7299566,0.0318895
+être un poule mouiller,93,t'es une poule mouillée,what are you chicken,You're a crybaby,Good Translation,0.60305357,0.5971613,0.0058922768
+être un poule mouiller,94,parce que tu es une poule mouillée,because you're a chicken,because you are a wet hen,Good Translation,0.7922767,0.7916304,0.00064629316
+être un poule mouiller,95,tom peut être une poule mouillée,tom can be a wuss,Tom can be a wet hen.,Good Translation,0.7201607,0.79095095,-0.07079023
+être un poule mouiller,96,edward snowden est une poule mouillée,edward snowden is a coward,Edward Snowden is a chicken or Edward Snowden is a wimp.,Good Translation,0.8110393,0.67560816,0.13543117
+être un poule mouiller,97,arrête d'être une poule mouillée et jette-toi à l'eau,quit being such a chicken and just go for it,Stop being a wimp and take the plunge,Good Translation,0.72948265,0.79802465,-0.068542

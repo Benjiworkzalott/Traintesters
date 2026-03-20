@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"ça marcher,en avoir rien à foutrer",0,mais je me suis investie pour faire en sorte que ça marche mais il en avait rien à foutre,but i put everything i had into it to make it work and he could care less,but I invested myself to make it work but he couldn't give a damn about it,Good Translation,0.7632304,0.8209224,-0.05769199

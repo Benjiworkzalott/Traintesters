@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+traîner quelqu'un dans le boue,0,c'est pas parce qu'elle a épousé un shérif qu'elle a le droit de traîner quelqu'un dans la boue comme ça,just 'cause you're married to law enforcement doesn't give you the right to to take somebody's name down like that,It's not because she married a sheriff that she has the right to drag someone through the mud like that.,Good Translation,0.6703092,0.8980414,-0.22773224

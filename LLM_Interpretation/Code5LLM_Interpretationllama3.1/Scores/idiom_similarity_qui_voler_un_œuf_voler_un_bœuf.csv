@@ -1,0 +1,4 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+qui voler un œuf voler un bœuf,0,hier vous ignoriez son existence qui vole un œuf vole un bœuf,let a man steal an egg tomorrow he'll steal an ox,Yesterday you were unaware of his existence which steals an egg steals a cow.,Literal Translation,0.5688674,0.8419906,-0.2731232
+qui voler un œuf voler un bœuf,1,qui vole un œuf vole un bœuf après la pluie le beau temps,half a loaf of bread is better than none,Whoever steals an egg will steal a bull after fair weather comes.,Mistranslation,0.41202754,0.76823854,-0.356211
+qui voler un œuf voler un bœuf,2,qui vole un oeuf vole un boeuf,a bird in the hand's worth two in the bush,He who steals a chicken will steal an ox.,Good Translation,0.47659898,0.6819796,-0.20538062

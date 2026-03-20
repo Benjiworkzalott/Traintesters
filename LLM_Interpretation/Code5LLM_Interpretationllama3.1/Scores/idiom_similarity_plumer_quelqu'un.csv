@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+plumer quelqu'un,0,plumer quelqu'un c'est facile,beating a man out of his money that's easy,To pick on someone is easy.,Mistranslation,0.67416674,0.82229877,-0.14813203

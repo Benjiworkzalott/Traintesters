@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"en avoir marre,tourner le page",0,c'est la faute à personne terminé tourne la page j'en ai marre,move on because frankly i'm sick of hearing about it,it's nobody's fault finished turn the page I'm sick of it,Good Translation,0.6491214,0.85822845,-0.20910704

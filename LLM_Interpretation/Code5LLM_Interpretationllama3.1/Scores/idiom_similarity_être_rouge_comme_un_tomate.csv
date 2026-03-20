@@ -1,0 +1,5 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+être rouge comme un tomate,0,pudding était rouge comme une tomate,heh pudding's face is red as a raspberry,The pudding was as red as a tomato,Literal Translation,0.756693,0.9385208,-0.18182778
+être rouge comme un tomate,1,t'es rouge comme une tomate,ooh your face is red like a strawbrerry,You're as red as a tomato.,Good Translation,0.72360754,0.8843019,-0.16069436
+être rouge comme un tomate,2,oui t'es rouge comme une tomate,yeah you're all flushed,yes you're red like a tomato,Good Translation,0.5378375,0.9278345,-0.389997
+être rouge comme un tomate,3,elle ne connaissait pas de maxime mais elle était rouge comme une tomate,ik don't know any maxime her face red like a tomato,She didn't know a maxim but she was red like a tomato.,Good Translation,0.8225323,0.90541637,-0.08288407

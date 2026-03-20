@@ -1,0 +1,2 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+"avoir le cafard,en avoir marre",0,c'est une fille qui a le cafard elle en a marre de la guerre marre d'être seule à attendre que son homme revienne,it's about a very lonely girl who's sick and tired of war and being left alone,it's a girl who has the blues she's sick of the war tired of being alone waiting for her man to come back,Good Translation,0.7309231,0.8081345,-0.07721138

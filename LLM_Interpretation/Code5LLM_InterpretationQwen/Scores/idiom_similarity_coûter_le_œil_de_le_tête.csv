@@ -1,0 +1,21 @@
+idiom,idiom_id,french_text,english_reference,generated_translation,eval_category,similarity_french_to_english,similarity_french_to_generated,similarity_gap
+coûter le œil de le tête,0,mais carthagène ça coûte les yeux de la tête,but i'll tell you cartagena is really expensive,but Carthage is expensive,Partial Translation,0.65549034,0.6811087,-0.025618374
+coûter le œil de le tête,1,tu sais les deux enfants sont à st margaret maintenant et ça nous coûte les yeux de la tête,you know both kids are at st margaret's now and that costs an arm and a leg,You know the two kids are at St Margaret's now and that's costing us an arm and a leg.,Good Translation,0.86973643,0.83889985,0.030836582
+coûter le œil de le tête,2,oui ça m'a coûté les yeux de la tête,yeah it cost me my last buck,"Yes, it cost me an arm and a leg.",Good Translation,0.73835987,0.74261916,-0.0042592883
+coûter le œil de le tête,3,elles m'ont coûté les yeux de la tête,they cost me an arm and a leg,They cost me an arm and a leg,Good Translation,0.75065786,0.75288385,-0.002225995
+coûter le œil de le tête,4,ça va leur coûter les yeux de la tête,i'm going to make them pay through the nose,It will cost them an arm and a leg,Good Translation,0.684651,0.81223035,-0.12757933
+coûter le œil de le tête,5,ils m'ont coûté les yeux de la tête,they cost me an arm and a leg,They cost me an arm and a leg,Good Translation,0.762447,0.7591335,0.0033134818
+coûter le œil de le tête,6,les réparations coûtent les yeux de la tête,these repairs were expensive,the repairs cost an arm and a leg,Good Translation,0.80183804,0.8208057,-0.018967688
+coûter le œil de le tête,7,l'inscription a dû te coûter les yeux de la tête,how much money did you give them this time,The inscription must have cost you an arm and a leg.,Good Translation,0.5182224,0.8201755,-0.30195314
+coûter le œil de le tête,8,manger et boire coûtent les yeux de la tête par les temps qui courent,she eats she drinks that's expensive as hell nowadays,eating and drinking cost an arm and a leg these days,Good Translation,0.6512951,0.75171524,-0.10042012
+coûter le œil de le tête,9,tout ça a dû te coûter les yeux de la tête,who knows how much it is going to cost you,all of this must have cost you an arm and a leg,Good Translation,0.540191,0.7845448,-0.24435383
+coûter le œil de le tête,10,ça va me coûter les yeux de la tête,is it going to cost me an arm and a leg,It will cost me an arm and a leg,Good Translation,0.7155744,0.7793733,-0.063798904
+coûter le œil de le tête,11,ça me coûte les yeux de la tête,that costs me an arm and a leg,it costs me an arm and a leg,Unnatural,0.75161934,0.7472458,0.0043735504
+coûter le œil de le tête,12,- ça m'a coûté les yeux de la tête ce truc,- i spent my money on that,It cost me an arm and a leg.,Good Translation,0.70850474,0.694554,0.013950765
+coûter le œil de le tête,13,elles coûtent les yeux de la tête mais,i mean they're really-really expensive but,they cost an arm and a leg but,Good Translation,0.7319272,0.7954196,-0.06349236
+coûter le œil de le tête,14,hou cet endroit a dû coûter les yeux de la tête,this place must have cost a pretty penny,oh this place must have cost an arm and a leg,Good Translation,0.7778722,0.7968284,-0.018956184
+coûter le œil de le tête,15,ça coûte les yeux de la tête c'est vrai,-yeah it is really pricey,"It costs an arm and a leg, it's true",Good Translation,0.7154157,0.8002187,-0.084802985
+coûter le œil de le tête,16,elle m'a coûté les yeux de la tête,it cost me an arm and a leg,She cost me an arm and a leg,Literal Translation,0.68019915,0.7734407,-0.09324157
+coûter le œil de le tête,17,c'est dépassé et ça coûte les yeux de la tête,it's outdated and expensive as shit,it's outdated and it costs an arm and a leg,Good Translation,0.74700785,0.7826564,-0.035648525
+coûter le œil de le tête,18,ça m'a coûté les yeux de la tête,you have no idea how much money i've spent on dolls,It cost me an arm and a leg,Good Translation,0.5263685,0.74170566,-0.21533716
+coûter le œil de le tête,19,même si ça me coûte les yeux de la tête pour payer ses études je remercie dieu de pouvoir encore boire un coup,considering it costs me an arm and a leg to pay for his education i'm thankful i can afford to drink,"Even if it costs me an arm and a leg to pay for his studies, I thank God I can still have a drink.",Good Translation,0.8437997,0.900362,-0.056562304
